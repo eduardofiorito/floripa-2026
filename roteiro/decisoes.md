@@ -138,3 +138,8 @@ Outros programas cobertos de reserva: Cinemark no Floripa Shopping (4,5), Museu 
 | Qua 25 | 6h–7h | Alternativa à trilha da Galheta |
 | Qui 26 | 6h–7h | Vira o treino leve antes da prova, no lugar da corrida |
 | Sex 27 | 12h–13h | Expediente 9h–18h |
+
+**Academia para o grupo todo (4 pessoas):** nenhuma fonte pública traz preço de diária. Forma Fitness e Aktion Paz aparecem como parceiras do Wellhub (planos mensais de R$ 99,99 a R$ 199,99), mas isso não é acesso avulso. Resolver por contato direto antes da viagem:
+- Forma Fitness (@formafitnessfloripa) e Aktion Paz (aktionpaz.com.br): pedir diária ou pacote de 5 dias para 4 pessoas, com horário de 6h e de 12h.
+- Mensagem: "Oi! Somos 4 turistas em Floripa de 20 a 28/11. Vocês têm diária ou pacote semanal? Qual o valor para 4 pessoas e qual o horário em dia útil?"
+- Plano B sem custo: treino ao ar livre na orla da Lagoa e corrida leve (já está no roteiro de quinta 26).
