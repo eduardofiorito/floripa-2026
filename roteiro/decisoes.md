@@ -81,3 +81,22 @@ Variante mais "massa" se os corredores toparem: **Naufragados** (2,8 km e ~50 mi
 - Kart: confirmar bateria às 19h de terça.
 - Festa Campeira: ingresso quando abrir.
 - Decidir a manhã do sábado 28 (sul leve, Naufragados ou leste) pela previsão.
+
+## Sol e chuva, dia a dia (carta na manga)
+
+Decidir na véspera à noite pela previsão (Epagri/Ciram, MetSul, Windy). Notas do Google em 16/11/2026.
+
+| Dia | Com sol | Com chuva |
+|---|---|---|
+| **Sex 20** | Chegada → Mirante da Lagoa no pôr do sol → Rufus e Quintal a pé; Espartano opcional | Estrada mais lenta (Régis e BR-101): manter saída às 4h, chegada pode ir a 17h–18h. Noite a pé no Centrinho: Rufus, The Black Swan, Books & Beers; sinuca no Snooker Bar Lagoa Azul (4,5) |
+| **Sáb 21** | Lagoinha (travessia ou Pântano) → Arante → Pátio P12 Sunset → Espartano | Sem trilha. Se domingo estiver melhor, a Lagoinha passa para domingo. Manhã no Mercado Público e Centro (almoço de boteco no Box 32) ou Escape Master na Trindade (5,0; 15 min) → P12 mesmo assim (confirmar áreas cobertas) → Espartano |
+| **Dom 22** | Praia Mole → sequência de camarão na Barra → Piscinas (maré) → Joaquina e Dunas no pôr do sol → Festa Campeira do Boni até ~23h | Café longo no Centrinho → sequência na Barra (Rancho de Canoa 4,9) → Festa Campeira do Boni desde 15h30 (bar coberto) |
+| **Seg 23** (9–18) | Gravatá no nascer do sol → trabalho → Av. das Rendeiras no pôr do sol, jantar | Sem Gravatá (pedra lisa no escuro): dormir → trabalho → sinuca no Maria Bonita (Rendeiras, 4,3) e jantar no Centrinho |
+| **Ter 24** (8–17) | Praia Mole no nascer do sol → kart às 19h nos Ingleses → Guacamole ou Koniko | Perguntar ao kartódromo se corre com chuva. Se não: **Boliche do Tchê**, nos próprios Ingleses (4,4), e jantar no norte; ou **Arena Parque – Boliche e Kart** em São José (4,0; ~35–40 min; confirmar se o kart é coberto) |
+| **Qua 25** (8–17) | Piscinas cedo (se maré baixa) → Santo Antônio no pôr do sol + Festival de Ostras no Freguesia | Ostras no Freguesia do mesmo jeito (só perde o pôr do sol). Alternativa no caminho: **Floripa Comedy Club** no Saco Grande (4,8; SC-401), confirmar sessão de quarta |
+| **Qui 26** (8–17) | Corrida leve cedo → Bar do Boni no pôr do sol → Espartano a pé | Igual, sem a corrida: Boni é coberto e o Espartano é casa fechada. Plano B a pé: Rufus |
+| **Sex 27** (9–18) | Joaquina e Dunas no pôr do sol (18h15) → Rufus 20h → DeRaiz (Bailafunk) ou samba no Centro | **Escape Master** (Trindade) às 18h30 → Centro: ARMADA Cervejeira (4,7) e roda de samba no Bar do Noel; ou DeRaiz/Espartano, que são fechados |
+| **Sáb 28** | Manhã no sul (Matadeiro ou Naufragados) ou no leste → check-in 14h → kit → ponte a pé → Pedras de Itaguaçu no pôr do sol → massa | Manhã no Mercado e Centro (lojas até 14h) → check-in → kit (arena tem tenda) → cinema no **Cinépolis Continente Park** (4,4) ou descanso → massa na Cantina Petrus |
+| **Dom 29** | Largada 5h31/6h → banho → check-out 12h → estrada | A prova acontece com chuva: capa descartável ou saco de lixo até a largada, roupa seca e toalha no carro. Estrada mais lenta: sair logo depois do almoço |
+
+Outros programas cobertos de reserva: Cinemark no Floripa Shopping (4,5), Museu Histórico de SC (4,7) e Sesc Museu (4,8) na Praça XV, MASC (4,7), Castrum Brew Pub no Abraão (4,9, perto da hospedagem do continente).
