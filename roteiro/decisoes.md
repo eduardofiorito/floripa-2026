@@ -101,21 +101,19 @@ Decidir na véspera à noite pela previsão (Epagri/Ciram, MetSul, Windy). Notas
 
 Outros programas cobertos de reserva: Cinemark no Floripa Shopping (4,5), Museu Histórico de SC (4,7) e Sesc Museu (4,8) na Praça XV, MASC (4,7), Castrum Brew Pub no Abraão (4,9, perto da hospedagem do continente).
 
-## Academia (dados do Google em 16/11/2026; confirmar diária ou day-use por telefone ou Instagram)
+## Academia (só Wellhub; plano do grupo: Silver ou acima)
 
 **Lagoa (20 a 28/11), distâncias a pé a partir da casa:**
 
 | Academia | Nota | A pé | Seg a sex | Sáb | Dom |
 |---|---|---|---|---|---|
-| Access Academia (R. Altenor Vieira, 286) | 4,3 (29) | 7 min | 8h–22h | 9h–13h | fechada |
 | Forma Fitness, Av. Afonso Delambert Neto, 26 | 4,1 (275) | 12 min | 6h–22h | 9h–13h | 10h–13h |
 | Aktion Paz, Av. Afonso Delambert Neto, 375 | 4,5 (109) | 13 min | 6h–22h | 9h–13h | fechada |
 | Lagoa da Conceição Crossfit | 4,9 (88) | 15 min | 6h–20h30 | 8h–9h30 | fechada |
 | Academia Natação Marcelo Amin | 4,6 (106) | 20 min | 6h30–22h | 8h–12h | fechada |
 
-- **Mais perto:** Access, a 7 min a pé, mas só abre às 8h e é pequena (29 avaliações).
 - **Para treinar antes do expediente (6h):** Forma Fitness ou Aktion Paz, a 12–13 min a pé ou 3 min de carro.
-- **Para o horário de almoço:** qualquer uma das três acima, de seg a sex. Saindo às 12h, dá para treinar 45 min e voltar às 13h.
+- **Para o horário de almoço:** AktionPaz (Silver) ou Forma Fitness (se for Silver+), de seg a sex. Saindo às 12h, dá para treinar 45 min e voltar às 13h.
 - **Domingo 22:** só a Forma Fitness abre (10h–13h).
 - **Crossfit:** aula única, não é academia livre. Pergunte por aula experimental em @lagoabox.
 
@@ -153,3 +151,5 @@ Outros programas cobertos de reserva: Cinemark no Floripa Shopping (4,5), Museu 
 - **A Access Academia, a mais perto da casa, não consta no Wellhub.** Fica fora.
 - **Continente:** a Engenharia do Corpo cobre todos os planos e abre no sábado 28 e no domingo.
 - **Falta saber:** qual plano cada um dos 4 tem. Limite de visitas por dia ou por mês aparece só no app.
+
+**Decisão (16/11):** o grupo tem Wellhub Silver ou acima. A **AktionPaz** (Silver) é a academia principal na Lagoa, a 13 min a pé; a **Forma Fitness** só entra se o plano for Silver+ (abre no dom 22, 10h–13h). No continente (sáb 28), Engenharia do Corpo. Confirmar no app as regras de check-in e o limite de visitas.
