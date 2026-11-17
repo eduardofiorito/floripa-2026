@@ -139,7 +139,17 @@ Outros programas cobertos de reserva: Cinemark no Floripa Shopping (4,5), Museu 
 | Qui 26 | 6h–7h | Vira o treino leve antes da prova, no lugar da corrida |
 | Sex 27 | 12h–13h | Expediente 9h–18h |
 
-**Academia para o grupo todo (4 pessoas):** nenhuma fonte pública traz preço de diária. Forma Fitness e Aktion Paz aparecem como parceiras do Wellhub (planos mensais de R$ 99,99 a R$ 199,99), mas isso não é acesso avulso. Resolver por contato direto antes da viagem:
-- Forma Fitness (@formafitnessfloripa) e Aktion Paz (aktionpaz.com.br): pedir diária ou pacote de 5 dias para 4 pessoas, com horário de 6h e de 12h.
-- Mensagem: "Oi! Somos 4 turistas em Floripa de 20 a 28/11. Vocês têm diária ou pacote semanal? Qual o valor para 4 pessoas e qual o horário em dia útil?"
-- Plano B sem custo: treino ao ar livre na orla da Lagoa e corrida leve (já está no roteiro de quinta 26).
+**Academia só pelo Wellhub (exigência do grupo).** Planos e preços vistos nas páginas de parceiros em 16/11/2026; confirmar no app antes de ir (o "a partir do plano" muda).
+
+| Academia | Região | A pé da casa | Plano mínimo | Observação |
+|---|---|---|---|---|
+| **AktionPaz** (Av. Afonso Delambert Neto, 375) | Lagoa | 13 min | Silver (R$ 149,99/mês) | Musculação e treino híbrido. 6h–22h em dia útil, sáb 9h–13h, dom fechada |
+| **Forma Fitness** (Av. Afonso Delambert Neto, 26) | Lagoa | 12 min | Silver+ (R$ 199,99/mês) | Sem agendamento. 6h–22h, abre no dom 22 (10h–13h) |
+| **Engenharia do Corpo Coqueiros** (R. Des. Pedro Silva, 3026) | Continente | 10 min | **Basic** (R$ 69,99/mês) | Sem agendamento. 5h–24h, sáb 8h–17h, dom 10h–16h |
+| Coq Academia (Av. Eng. Max de Souza, 1615) | Continente | 11 min | Silver | Dentro do Clube Doze de Agosto |
+| A Fitness Continente | Continente | n/d | Silver+ | Funciona 24 h |
+
+- **Na Lagoa não apareceu academia no plano Basic.** Quem tem Basic fica sem opção lá. Quem tem Silver usa a AktionPaz; Silver+ ou acima também pode usar a Forma Fitness.
+- **A Access Academia, a mais perto da casa, não consta no Wellhub.** Fica fora.
+- **Continente:** a Engenharia do Corpo cobre todos os planos e abre no sábado 28 e no domingo.
+- **Falta saber:** qual plano cada um dos 4 tem. Limite de visitas por dia ou por mês aparece só no app.
