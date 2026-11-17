@@ -11,6 +11,12 @@ Fonte para a próxima versão da página. Endereços das hospedagens ficam em `p
 - **Dom 29:** SC21K. 21K e 15K às 5h31; 5K às 6h. Estrada depois do almoço.
 - **Fora:** Ilha do Campeche (preço), Guarda do Embaú (distância), parapente (orçamento vai para o kart), Beto Carrero.
 
+## Regra de transporte (grupo, 16/11)
+
+Trilha, praia, kart e passeio: **no carro do grupo** (1 carro, 4 pessoas). **Uber só em evento com bebida:** P12 (sáb 21), Festa Campeira (dom 22), noites de balbúrdia (sex 20, qui 26, sex 27). Em cada saída de carro há um motorista da vez que não bebe. O carro dorme na casa nas noites de bebida.
+
+A conferir com o grupo: jantares com cerveja em dia de carro (ostras no Freguesia na qua 25, jantar após o kart na ter 24). Se for beber, Uber de 18 km a ida e 18 km a volta (estimativa R$ 45–60 por trecho, dividido por 4) ou motorista sóbrio.
+
 ## Sáb 21 — Lagoinha do Leste: duas opções, decidir na quinta 19 pela previsão
 
 | | Pântano do Sul (ida e volta) | Travessia Armação → Matadeiro → Lagoinha → Morro da Coroa → Pântano |
@@ -18,11 +24,11 @@ Fonte para a próxima versão da página. Endereços das hospedagens ficam em `p
 | Caminhada | 2,2 km cada lado, ~2h no total | ~4h no total (2–2,5h só até a Lagoinha) |
 | Terreno | Mata fechada, íngreme em trechos | Costões de pedra expostos, sobe e desce |
 | Com chuva | Lama, mas curta e protegida | Muito pior: pedra lisa, vento sul de frente, poucas saídas, descida da Coroa escorrega |
-| Transporte | Carro no Pântano | Sem carro: Uber Lagoa → Armação de manhã e Arante → Lagoa no fim (estimativa R$ 50–70 por trecho, dividido por 4). No Pântano o Uber pode demorar; plano B é pedir táxi pelo Arante |
+| Transporte | Carro no Pântano do Sul: sai e volta no mesmo lugar, sem Uber | Carro na Armação (estacionamento particular perto da Rua Fernando Beck, preço não confirmado) e um Uber curto do Pântano até lá (4,4 km, ~7–10 min, dividido por 4). Plano B no Pântano: táxi pelo Arante |
 
 **Recomendação:** tempo firme → travessia (dia sem carro, todo mundo pode beber no Arante). Previsão duvidosa → Pântano. Chuva forte → Lagoinha passa para domingo e a manhã de sábado vira praia antes do P12.
 
-Horário da travessia: Uber às 6h30 → trilha 7h15 → Lagoinha ~9h30 → Coroa ~12h → Arante ~14h → Uber para a Lagoa → banho → Uber para o P12 às ~16h30.
+Horário da travessia: carro às 6h30 → Armação 7h10, estaciona e começa a trilha 7h15 → Lagoinha ~9h30 → Coroa ~12h → Arante ~14h. **Motorista da vez**: um Uber leva o motorista até a Armação para buscar o carro e trazê-lo ao Arante (4,6 km, ~10 min); ele não bebe. Depois, Lagoa, banho e Uber para o P12 às ~16h30.
 
 ## Dom 22 — dia premium no leste (tudo a 5–15 min da casa)
 
