@@ -100,3 +100,41 @@ Decidir na véspera à noite pela previsão (Epagri/Ciram, MetSul, Windy). Notas
 | **Dom 29** | Largada 5h31/6h → banho → check-out 12h → estrada | A prova acontece com chuva: capa descartável ou saco de lixo até a largada, roupa seca e toalha no carro. Estrada mais lenta: sair logo depois do almoço |
 
 Outros programas cobertos de reserva: Cinemark no Floripa Shopping (4,5), Museu Histórico de SC (4,7) e Sesc Museu (4,8) na Praça XV, MASC (4,7), Castrum Brew Pub no Abraão (4,9, perto da hospedagem do continente).
+
+## Academia (dados do Google em 16/11/2026; confirmar diária ou day-use por telefone ou Instagram)
+
+**Lagoa (20 a 28/11), distâncias a pé a partir da casa:**
+
+| Academia | Nota | A pé | Seg a sex | Sáb | Dom |
+|---|---|---|---|---|---|
+| Access Academia (R. Altenor Vieira, 286) | 4,3 (29) | 7 min | 8h–22h | 9h–13h | fechada |
+| Forma Fitness, Av. Afonso Delambert Neto, 26 | 4,1 (275) | 12 min | 6h–22h | 9h–13h | 10h–13h |
+| Aktion Paz, Av. Afonso Delambert Neto, 375 | 4,5 (109) | 13 min | 6h–22h | 9h–13h | fechada |
+| Lagoa da Conceição Crossfit | 4,9 (88) | 15 min | 6h–20h30 | 8h–9h30 | fechada |
+| Academia Natação Marcelo Amin | 4,6 (106) | 20 min | 6h30–22h | 8h–12h | fechada |
+
+- **Mais perto:** Access, a 7 min a pé, mas só abre às 8h e é pequena (29 avaliações).
+- **Para treinar antes do expediente (6h):** Forma Fitness ou Aktion Paz, a 12–13 min a pé ou 3 min de carro.
+- **Para o horário de almoço:** qualquer uma das três acima, de seg a sex. Saindo às 12h, dá para treinar 45 min e voltar às 13h.
+- **Domingo 22:** só a Forma Fitness abre (10h–13h).
+- **Crossfit:** aula única, não é academia livre. Pergunte por aula experimental em @lagoabox.
+
+**Continente (sáb 28 para dom 29):** só serve se alguém quiser soltar as pernas no sábado.
+
+| Academia | Nota | A pé | Seg a sex | Sáb | Dom |
+|---|---|---|---|---|---|
+| AN Treinamento Personalizado | 5,0 (69) | 8 min | 5h30–22h | 8h–11h | fechada |
+| Clube Doze de Agosto (COQ Academia) | 4,5 a 5,0 | 9–11 min | 6h–22h | 10h–14h | 17h–20h |
+| Smart Fit Coqueiros | 4,5 (507) | 15 min | 5h30–23h | 8h–17h | 8h–14h |
+
+- Na véspera da prova, treino só leve. Corredores não fazem perna pesada no sábado.
+
+**Onde cabe no roteiro (dias úteis 23 a 27):**
+
+| Dia | Horário | Observação |
+|---|---|---|
+| Seg 23 | 12h–13h | Expediente 9h–18h: a manhã é do Gravatá, então o almoço é a janela |
+| Ter 24 | 12h–13h | Sai às 17h40 para o kart: não dá para treinar depois do expediente |
+| Qua 25 | 6h–7h | Alternativa à trilha da Galheta |
+| Qui 26 | 6h–7h | Vira o treino leve antes da prova, no lugar da corrida |
+| Sex 27 | 12h–13h | Expediente 9h–18h |
