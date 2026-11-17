@@ -101,55 +101,28 @@ Decidir na véspera à noite pela previsão (Epagri/Ciram, MetSul, Windy). Notas
 
 Outros programas cobertos de reserva: Cinemark no Floripa Shopping (4,5), Museu Histórico de SC (4,7) e Sesc Museu (4,8) na Praça XV, MASC (4,7), Castrum Brew Pub no Abraão (4,9, perto da hospedagem do continente).
 
-## Academia (só Wellhub; plano do grupo: Silver ou acima)
+## Academia (opcional; só Wellhub, plano do grupo Silver ou acima)
 
-**Lagoa (20 a 28/11), distâncias a pé a partir da casa:**
+Sem academia no sábado 28 e no domingo 29 (véspera e dia da prova). Planos e preços vistos nas páginas de parceiros do Wellhub em 16/11/2026; confirmar no app (regras de check-in e limite de visitas).
 
-| Academia | Nota | A pé | Seg a sex | Sáb | Dom |
+| Academia | A pé da casa | Plano mínimo | Seg a sex | Sáb | Dom |
 |---|---|---|---|---|---|
-| Forma Fitness, Av. Afonso Delambert Neto, 26 | 4,1 (275) | 12 min | 6h–22h | 9h–13h | 10h–13h |
-| Aktion Paz, Av. Afonso Delambert Neto, 375 | 4,5 (109) | 13 min | 6h–22h | 9h–13h | fechada |
-| Lagoa da Conceição Crossfit | 4,9 (88) | 15 min | 6h–20h30 | 8h–9h30 | fechada |
-| Academia Natação Marcelo Amin | 4,6 (106) | 20 min | 6h30–22h | 8h–12h | fechada |
+| **AktionPaz**, Av. Afonso Delambert Neto, 375 | 13 min | Silver (R$ 149,99/mês) | 6h–22h | 9h–13h | fechada |
+| **Forma Fitness**, Av. Afonso Delambert Neto, 26 | 12 min | Silver+ (R$ 199,99/mês) | 6h–22h | 9h–13h | 10h–13h |
 
-- **Para treinar antes do expediente (6h):** Forma Fitness ou Aktion Paz, a 12–13 min a pé ou 3 min de carro.
-- **Para o horário de almoço:** AktionPaz (Silver) ou Forma Fitness (se for Silver+), de seg a sex. Saindo às 12h, dá para treinar 45 min e voltar às 13h.
-- **Domingo 22:** só a Forma Fitness abre (10h–13h).
-- **Crossfit:** aula única, não é academia livre. Pergunte por aula experimental em @lagoabox.
-
-**Continente (sáb 28 para dom 29):** só serve se alguém quiser soltar as pernas no sábado.
-
-| Academia | Nota | A pé | Seg a sex | Sáb | Dom |
-|---|---|---|---|---|---|
-| AN Treinamento Personalizado | 5,0 (69) | 8 min | 5h30–22h | 8h–11h | fechada |
-| Clube Doze de Agosto (COQ Academia) | 4,5 a 5,0 | 9–11 min | 6h–22h | 10h–14h | 17h–20h |
-| Smart Fit Coqueiros | 4,5 (507) | 15 min | 5h30–23h | 8h–17h | 8h–14h |
-
-- Na véspera da prova, treino só leve. Corredores não fazem perna pesada no sábado.
-
-**Onde cabe no roteiro (dias úteis 23 a 27):**
-
-| Dia | Horário | Observação |
-|---|---|---|
-| Seg 23 | 12h–13h | Expediente 9h–18h: a manhã é do Gravatá, então o almoço é a janela |
-| Ter 24 | 12h–13h | Sai às 17h40 para o kart: não dá para treinar depois do expediente |
-| Qua 25 | 6h–7h | Alternativa à trilha da Galheta |
-| Qui 26 | 6h–7h | Vira o treino leve antes da prova, no lugar da corrida |
-| Sex 27 | 12h–13h | Expediente 9h–18h |
-
-**Academia só pelo Wellhub (exigência do grupo).** Planos e preços vistos nas páginas de parceiros em 16/11/2026; confirmar no app antes de ir (o "a partir do plano" muda).
-
-| Academia | Região | A pé da casa | Plano mínimo | Observação |
-|---|---|---|---|---|
-| **AktionPaz** (Av. Afonso Delambert Neto, 375) | Lagoa | 13 min | Silver (R$ 149,99/mês) | Musculação e treino híbrido. 6h–22h em dia útil, sáb 9h–13h, dom fechada |
-| **Forma Fitness** (Av. Afonso Delambert Neto, 26) | Lagoa | 12 min | Silver+ (R$ 199,99/mês) | Sem agendamento. 6h–22h, abre no dom 22 (10h–13h) |
-| **Engenharia do Corpo Coqueiros** (R. Des. Pedro Silva, 3026) | Continente | 10 min | **Basic** (R$ 69,99/mês) | Sem agendamento. 5h–24h, sáb 8h–17h, dom 10h–16h |
-| Coq Academia (Av. Eng. Max de Souza, 1615) | Continente | 11 min | Silver | Dentro do Clube Doze de Agosto |
-| A Fitness Continente | Continente | n/d | Silver+ | Funciona 24 h |
-
-- **Na Lagoa não apareceu academia no plano Basic.** Quem tem Basic fica sem opção lá. Quem tem Silver usa a AktionPaz; Silver+ ou acima também pode usar a Forma Fitness.
+- **Principal: AktionPaz.** Se o plano de todos for Silver+, a Forma Fitness também vale.
 - **A Access Academia, a mais perto da casa, não consta no Wellhub.** Fica fora.
-- **Continente:** a Engenharia do Corpo cobre todos os planos e abre no sábado 28 e no domingo.
-- **Falta saber:** qual plano cada um dos 4 tem. Limite de visitas por dia ou por mês aparece só no app.
+- **Melhor horário: almoço.** Saindo às 12h, dá 45 min de treino e volta às 13h.
 
-**Decisão (16/11):** o grupo tem Wellhub Silver ou acima. A **AktionPaz** (Silver) é a academia principal na Lagoa, a 13 min a pé; a **Forma Fitness** só entra se o plano for Silver+ (abre no dom 22, 10h–13h). No continente (sáb 28), Engenharia do Corpo. Confirmar no app as regras de check-in e o limite de visitas.
+**Onde cabe (tudo opcional):**
+
+| Dia | Janela | Observação |
+|---|---|---|
+| Seg 23 | Almoço, 12h–13h | Expediente 9h–18h; a manhã é do Gravatá |
+| Ter 24 | Almoço, 12h–13h | Sai às 17h40 para o kart, então não dá à noite |
+| Qua 25 | Almoço, 12h–13h | Expediente 8h–17h |
+| Qui 26 | Almoço, 12h–13h | Expediente 8h–17h |
+| Sex 27 | Almoço, 12h–13h | Expediente 9h–18h |
+| Dom 22 | **Pré-praia**, 10h–11h | Só a Forma Fitness abre (Silver+). Empurra a Praia Mole para as 11h30, no dia sem trilha |
+
+Alternativa de manhã em dia útil (6h–7h): AktionPaz ou Forma Fitness, a 3 min de carro. Só se não tiver outro programa cedo.
