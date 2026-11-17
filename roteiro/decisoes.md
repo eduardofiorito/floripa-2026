@@ -15,7 +15,11 @@ Fonte para a próxima versão da página. Endereços das hospedagens ficam em `p
 
 Trilha, praia, kart e passeio: **no carro do grupo** (1 carro, 4 pessoas). **Uber só em evento com bebida:** P12 (sáb 21), Festa Campeira (dom 22), noites de balbúrdia (sex 20, qui 26, sex 27). Em cada saída de carro há um motorista da vez que não bebe. O carro dorme na casa nas noites de bebida.
 
-A conferir com o grupo: jantares com cerveja em dia de carro (ostras no Freguesia na qua 25, jantar após o kart na ter 24). Se for beber, Uber de 18 km a ida e 18 km a volta (estimativa R$ 45–60 por trecho, dividido por 4) ou motorista sóbrio.
+**Terça 24 e quarta 25 (decisão do grupo): Uber nos dois jantares, porque vão beber.** O carro fica em casa nesses dias.
+- **Ter 24:** Uber Lagoa → Ingleses saindo às 17h50 (27 km, ~45 min no trânsito; estimativa R$ 60–90 por trecho, dividido por 4). Kart 19h, jantar em Ingleses, Uber de volta.
+- **Qua 25:** Uber Lagoa → Santo Antônio saindo às 17h10 (18 km; estimativa R$ 45–60 por trecho, dividido por 4). Pôr do sol e ostras, Uber de volta.
+- **Volta à noite:** Ingleses e Santo Antônio têm menos carros que a Lagoa depois das 21h. Pedir o Uber com uns 15 min de antecedência e ter o 99 como segundo app. Na terça, deixar o carro em casa evita ter que voltar para buscá-lo.
+- **Preços** são estimativas, sem consulta ao app.
 
 ## Sáb 21 — Lagoinha do Leste: duas opções, decidir na quinta 19 pela previsão
 
