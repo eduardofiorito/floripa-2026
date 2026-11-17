@@ -1,0 +1,704 @@
+<title>Floripa 20–29 nov</title>
+<meta name="claude:viewport-fit-sides" content="cover">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:opsz,wght@12..96,500;12..96,700;12..96,800&family=Figtree:wght@400;500;600;700&family=JetBrains+Mono:wght@500;600&display=swap">
+<style>
+/* Layout: régua do dia (04h → 02h) com luz do sol e expediente em escala; cada dia é uma faixa; lugares em grade votável. */
+:root {
+  --bg: #EEF4F3;
+  --surface: #FFFFFF;
+  --surface-2: #E3ECEA;
+  --ink: #0F272B;
+  --muted: #52706F;
+  --line: #CFDEDB;
+  --lagoa: #0B7A72;
+  --lagoa-ink: #FFFFFF;
+  --sol: #DD7A16;
+  --aurora: #D9A21F;
+  --noite: #3A3F96;
+  --estrada: #8A7C6B;
+  --prova: #C2384B;
+  --rd: #FFF4D9;
+  --rn: #D3DCE3;
+  --trab: rgba(15, 39, 43, .16);
+  --warn-bg: #FFF1DE;
+  --warn-ink: #874A05;
+  --ok: #157A4A;
+  --f-display: "Bricolage Grotesque", "Figtree", system-ui, sans-serif;
+  --f-body: "Figtree", system-ui, -apple-system, "Segoe UI", sans-serif;
+  --f-mono: "JetBrains Mono", ui-monospace, "SFMono-Regular", Menlo, monospace;
+  color-scheme: light;
+}
+@media (prefers-color-scheme: dark) {
+  :root:not([data-theme="light"]) {
+    --bg: #0A1819; --surface: #102326; --surface-2: #163033; --ink: #E2EEEC; --muted: #8DA9A8; --line: #24403F;
+    --lagoa: #3DBBAE; --lagoa-ink: #062221; --sol: #F29E45; --aurora: #EDC55A; --noite: #9297F0; --estrada: #B3A593; --prova: #F0707F;
+    --rd: #3A3524; --rn: #16262E; --trab: rgba(226, 238, 236, .14); --warn-bg: #3A2A12; --warn-ink: #F6C27C; --ok: #4FCB8C;
+    color-scheme: dark;
+  }
+}
+:root[data-theme="dark"] {
+  --bg: #0A1819; --surface: #102326; --surface-2: #163033; --ink: #E2EEEC; --muted: #8DA9A8; --line: #24403F;
+  --lagoa: #3DBBAE; --lagoa-ink: #062221; --sol: #F29E45; --aurora: #EDC55A; --noite: #9297F0; --estrada: #B3A593; --prova: #F0707F;
+  --rd: #3A3524; --rn: #16262E; --trab: rgba(226, 238, 236, .14); --warn-bg: #3A2A12; --warn-ink: #F6C27C; --ok: #4FCB8C;
+  color-scheme: dark;
+}
+* { box-sizing: border-box; }
+body { background: var(--bg); color: var(--ink); font-family: var(--f-body); font-size: 15px; line-height: 1.5; }
+body::before { content: ""; position: fixed; inset: 0 0 auto; height: env(safe-area-inset-top, 0px); z-index: 10; background: var(--bg); }
+.wrap { max-width: 1100px; margin: 0 auto; padding-left: max(16px, env(safe-area-inset-left, 0px)); padding-right: max(16px, env(safe-area-inset-right, 0px)); }
+h1, h2, h3 { font-family: var(--f-display); text-wrap: balance; margin: 0; letter-spacing: -0.01em; }
+a { color: var(--lagoa); }
+button { font: inherit; color: inherit; }
+:focus-visible { outline: 2px solid var(--lagoa); outline-offset: 2px; border-radius: 4px; }
+.mono { font-family: var(--f-mono); font-variant-numeric: tabular-nums; }
+.eyebrow { font-size: 12px; text-transform: uppercase; letter-spacing: .09em; color: var(--muted); font-weight: 600; }
+
+/* hero */
+.hero { padding-block: 28px 18px; display: grid; gap: 18px; }
+.hero h1 { font-size: clamp(40px, 8vw, 76px); font-weight: 800; line-height: .95; }
+.hero h1 .dash { color: var(--lagoa); }
+.hero p.lede { margin: 0; max-width: 62ch; color: var(--muted); font-size: 16px; }
+.facts { display: flex; flex-wrap: wrap; gap: 8px 22px; }
+.fact { display: grid; gap: 2px; min-width: 0; }
+.fact b { font-family: var(--f-display); font-size: 22px; font-weight: 700; }
+.fact span { font-size: 13px; color: var(--muted); }
+.sun-line { display: flex; flex-wrap: wrap; align-items: center; gap: 10px; font-size: 14px; background: var(--surface); border: 1px solid var(--line); border-radius: 10px; padding: 10px 14px; }
+.sun-line .k { display: inline-flex; align-items: center; gap: 6px; font-weight: 600; }
+.dot { width: 10px; height: 10px; border-radius: 50%; display: inline-block; flex: none; }
+
+/* nav */
+.nav { position: sticky; top: env(safe-area-inset-top, 0px); z-index: 5; background: var(--bg); border-bottom: 1px solid var(--line); }
+.nav .wrap { display: flex; align-items: center; gap: 6px; padding-block: 8px; overflow-x: auto; }
+.tab { border: 0; background: transparent; padding: 8px 14px; border-radius: 999px; font-weight: 600; cursor: pointer; white-space: nowrap; color: var(--muted); }
+.tab[aria-selected="true"] { background: var(--ink); color: var(--bg); }
+.tab .n { font-family: var(--f-mono); font-size: 12px; opacity: .7; margin-left: 4px; }
+.sync { margin-left: auto; font-size: 12px; color: var(--muted); white-space: nowrap; display: inline-flex; gap: 6px; align-items: center; }
+.sync .dot { width: 8px; height: 8px; background: var(--muted); }
+.sync[data-s="ok"] .dot { background: var(--ok); }
+.sync[data-s="err"] .dot, .sync[data-s="slow"] .dot { background: var(--sol); }
+
+main { padding-block: 22px 60px; }
+.view[hidden] { display: none; }
+
+/* legend */
+.legend { display: flex; flex-wrap: wrap; gap: 6px 16px; font-size: 13px; color: var(--muted); margin-bottom: 14px; }
+.legend span { display: inline-flex; align-items: center; gap: 6px; }
+.sw { width: 14px; height: 10px; border-radius: 2px; display: inline-block; }
+.sw.trab { background: repeating-linear-gradient(135deg, var(--trab) 0 3px, transparent 3px 6px); border: 1px solid var(--line); }
+
+.daynav { display: flex; gap: 6px; overflow-x: auto; padding-bottom: 6px; margin-bottom: 18px; }
+.daychip { flex: none; border: 1px solid var(--line); background: var(--surface); border-radius: 10px; padding: 6px 10px; text-align: center; cursor: pointer; text-decoration: none; color: var(--ink); min-width: 56px; }
+.daychip small { display: block; font-size: 11px; color: var(--muted); text-transform: uppercase; letter-spacing: .06em; }
+.daychip b { font-family: var(--f-display); font-size: 20px; }
+.daychip[data-t="fds"], .daychip[data-t="feriado"] { border-color: var(--lagoa); }
+.daychip[data-t="fds"] b, .daychip[data-t="feriado"] b { color: var(--lagoa); }
+
+/* day */
+.days { display: grid; gap: 14px; }
+.day { display: grid; grid-template-columns: 92px minmax(0, 1fr); gap: 18px; background: var(--surface); border: 1px solid var(--line); border-radius: 14px; padding: 18px; scroll-margin-top: 70px; }
+.date { display: grid; align-content: start; gap: 2px; }
+.date .dow { font-size: 12px; text-transform: uppercase; letter-spacing: .09em; color: var(--muted); font-weight: 700; }
+.date .num { font-family: var(--f-display); font-size: 44px; font-weight: 800; line-height: 1; }
+.tag { display: inline-block; font-size: 11px; font-weight: 700; padding: 2px 8px; border-radius: 999px; text-transform: uppercase; letter-spacing: .05em; width: fit-content; margin-top: 6px; }
+.tag.util { background: var(--surface-2); color: var(--muted); }
+.tag.fds { background: var(--lagoa); color: var(--lagoa-ink); }
+.tag.feriado { background: var(--sol); color: #fff; }
+.exp { font-family: var(--f-mono); font-size: 12px; color: var(--muted); margin-top: 6px; }
+.daybody { display: grid; gap: 12px; min-width: 0; }
+.daybody h2 { font-size: 22px; font-weight: 700; }
+.daybody .sum { margin: 0; color: var(--muted); max-width: 70ch; }
+
+.ribbon-wrap { display: grid; gap: 3px; }
+.ribbon { position: relative; height: 30px; border-radius: 6px; overflow: hidden; }
+.ribbon .work { position: absolute; top: 0; bottom: 0; background: repeating-linear-gradient(135deg, var(--trab) 0 3px, transparent 3px 7px); }
+.ribbon .blk { position: absolute; top: 5px; bottom: 5px; border-radius: 3px; min-width: 3px; cursor: pointer; border: 0; padding: 0; }
+.ribbon .now { position: absolute; top: 0; bottom: 0; width: 2px; background: var(--prova); }
+.ticks { position: relative; height: 14px; font-size: 10px; color: var(--muted); font-family: var(--f-mono); }
+.ticks span { position: absolute; transform: translateX(-50%); }
+.j-cedo { background: var(--aurora); }
+.j-dia { background: var(--lagoa); }
+.j-sunset { background: var(--sol); }
+.j-noite { background: var(--noite); }
+.j-estrada { background: var(--estrada); }
+.j-prova { background: var(--prova); }
+
+.slots { list-style: none; margin: 0; padding: 0; display: grid; gap: 0; }
+.slot { display: grid; grid-template-columns: 104px 12px minmax(0, 1fr); gap: 10px; padding: 8px 0; border-top: 1px dashed var(--line); align-items: start; }
+.slot:first-child { border-top: 0; }
+.slot .t { font-family: var(--f-mono); font-size: 13px; color: var(--muted); padding-top: 1px; }
+.slot .bar { width: 4px; height: 100%; min-height: 20px; border-radius: 2px; justify-self: center; }
+.slot .what { font-weight: 600; }
+.slot .what button.place { border: 0; background: none; padding: 0; color: var(--lagoa); font-weight: 600; cursor: pointer; text-decoration: underline; text-underline-offset: 3px; text-decoration-thickness: 1px; }
+.slot .note { font-size: 14px; color: var(--muted); margin-top: 2px; }
+.slot.trabalho .what { color: var(--muted); font-weight: 500; }
+.slot.flash { animation: flash 1.4s ease; }
+@keyframes flash { 0%, 40% { background: var(--surface-2); } 100% { background: transparent; } }
+.alt { font-size: 14px; background: var(--surface-2); border-radius: 8px; padding: 8px 12px; color: var(--ink); }
+.alt b { font-weight: 700; }
+
+/* lugares */
+.toolbar { display: flex; flex-wrap: wrap; gap: 8px 14px; align-items: center; margin-bottom: 16px; }
+.chips { display: flex; flex-wrap: wrap; gap: 6px; }
+.chip { border: 1px solid var(--line); background: var(--surface); padding: 5px 12px; border-radius: 999px; font-size: 13px; font-weight: 600; cursor: pointer; color: var(--muted); }
+.chip[aria-pressed="true"] { background: var(--ink); border-color: var(--ink); color: var(--bg); }
+select { font: inherit; font-size: 13px; padding: 6px 10px; border-radius: 8px; border: 1px solid var(--line); background: var(--surface); color: var(--ink); }
+.vote-note { font-size: 13px; color: var(--muted); margin: 0 0 16px; max-width: 75ch; }
+.grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(300px, 1fr)); gap: 12px; }
+.card { background: var(--surface); border: 1px solid var(--line); border-radius: 14px; padding: 16px; display: grid; gap: 10px; align-content: start; min-width: 0; scroll-margin-top: 70px; }
+.card.flash { animation: flash 1.4s ease; }
+.card-head { display: flex; justify-content: space-between; gap: 10px; align-items: start; }
+.card h3 { font-size: 19px; font-weight: 700; line-height: 1.2; }
+.prio { font-family: var(--f-mono); font-size: 12px; font-weight: 600; padding: 2px 7px; border-radius: 6px; flex: none; }
+.prio.p1 { background: var(--ink); color: var(--bg); }
+.prio.p2 { border: 1px solid var(--ink); color: var(--ink); }
+.prio.p3 { border: 1px dashed var(--muted); color: var(--muted); }
+.kv { display: grid; grid-template-columns: auto minmax(0, 1fr); gap: 2px 10px; font-size: 13px; margin: 0; }
+.kv dt { color: var(--muted); }
+.kv dd { margin: 0; }
+.card p { margin: 0; font-size: 14px; }
+.warn { font-size: 13px; background: var(--warn-bg); color: var(--warn-ink); padding: 6px 10px; border-radius: 8px; }
+.when { display: flex; flex-wrap: wrap; gap: 6px; }
+.when button { border: 1px solid var(--line); background: var(--surface-2); border-radius: 6px; padding: 2px 8px; font-size: 12px; font-family: var(--f-mono); cursor: pointer; }
+.when .none { font-size: 12px; color: var(--muted); }
+.votes { border-top: 1px solid var(--line); padding-top: 10px; display: grid; gap: 8px; }
+.seg { display: grid; grid-template-columns: repeat(3, 1fr); border: 1px solid var(--line); border-radius: 9px; overflow: hidden; }
+.seg button { border: 0; background: var(--surface); padding: 7px 4px; font-size: 13px; font-weight: 600; cursor: pointer; color: var(--muted); border-left: 1px solid var(--line); }
+.seg button:first-child { border-left: 0; }
+.seg button[aria-pressed="true"][data-v="2"] { background: var(--lagoa); color: var(--lagoa-ink); }
+.seg button[aria-pressed="true"][data-v="1"] { background: var(--surface-2); color: var(--ink); }
+.seg button[aria-pressed="true"][data-v="0"] { background: var(--surface-2); color: var(--muted); text-decoration: line-through; }
+.seg button:disabled { cursor: not-allowed; opacity: .55; }
+.tally { display: flex; align-items: center; gap: 8px; font-size: 12px; color: var(--muted); flex-wrap: wrap; }
+.faces { display: flex; }
+.faces img { width: 22px; height: 22px; border-radius: 50%; border: 2px solid var(--surface); margin-left: -6px; }
+.faces img:first-child { margin-left: 0; }
+
+/* pendências */
+.todo { list-style: none; margin: 0; padding: 0; display: grid; gap: 8px; max-width: 760px; }
+.todo li { background: var(--surface); border: 1px solid var(--line); border-radius: 12px; padding: 12px 14px; display: grid; grid-template-columns: 24px minmax(0, 1fr); gap: 10px; align-items: start; }
+.todo input { width: 20px; height: 20px; accent-color: var(--lagoa); margin: 2px 0 0; }
+.todo label { font-weight: 600; cursor: pointer; }
+.todo .d { font-size: 14px; color: var(--muted); margin-top: 2px; }
+.todo .by { font-size: 12px; color: var(--ok); margin-top: 4px; }
+.todo li.done label { text-decoration: line-through; color: var(--muted); }
+.todo .urg { font-family: var(--f-mono); font-size: 11px; font-weight: 600; color: var(--prova); margin-left: 6px; }
+
+.sources { font-size: 12px; color: var(--muted); margin-top: 40px; border-top: 1px solid var(--line); padding-top: 14px; max-width: 80ch; }
+
+@media (max-width: 640px) {
+  .day { grid-template-columns: minmax(0, 1fr); gap: 10px; padding: 14px; }
+  .date { grid-auto-flow: column; justify-content: start; align-items: baseline; gap: 10px; }
+  .date .num { font-size: 34px; }
+  .tag, .exp { margin-top: 0; }
+  .slot { grid-template-columns: 86px 8px minmax(0, 1fr); gap: 8px; }
+  .slot .t { font-size: 12px; }
+  .ticks span:nth-child(even) { display: none; }
+  .sync .lbl { display: none; }
+}
+@media (prefers-reduced-motion: reduce) { .slot.flash, .card.flash { animation: none; } }
+</style>
+
+<header class="wrap hero">
+  <div class="eyebrow">Roteiro do grupo · base na Lagoa da Conceição</div>
+  <h1>Floripa <span class="dash">20–29</span> nov</h1>
+  <p class="lede">Saída de Poços de Caldas na sexta 20, às 4h. Volta no domingo 29 depois do almoço, com a SC21K de manhã. Nos dias úteis o expediente é 8h–17h ou 9h–18h, escolhido conforme o programa de cada dia. A semana vive de madrugada, almoço e fim de tarde.</p>
+  <div class="facts">
+    <div class="fact"><b class="mono" id="f-dias">10</b><span>dias</span></div>
+    <div class="fact"><b class="mono">5</b><span>dias livres (feriado + 2 fins de semana)</span></div>
+    <div class="fact"><b class="mono">5</b><span>dias úteis</span></div>
+    <div class="fact"><b class="mono" id="f-lugares">19</b><span>lugares na lista</span></div>
+    <div class="fact"><b class="mono" id="f-falta">sex 20, 4h</b><span id="f-falta-l">saída</span></div>
+  </div>
+  <div class="sun-line">
+    <span class="k"><i class="dot" style="background:var(--aurora)"></i>Sol nasce <span class="mono">~5h05</span></span>
+    <span class="k"><i class="dot" style="background:var(--sol)"></i>Sol se põe <span class="mono">~18h50</span></span>
+    <span style="color:var(--muted)">Sem horário de verão em 2026. Saindo às 17h sobram quase 2h de luz; às 18h, uns 50 minutos. Por isso os dias com programa longe ou pôr do sol fora da Lagoa usam o turno 8h–17h.</span>
+  </div>
+</header>
+
+<nav class="nav" aria-label="Seções">
+  <div class="wrap" role="tablist">
+    <button class="tab" role="tab" id="tab-roteiro" data-view="roteiro" aria-selected="true">Roteiro</button>
+    <button class="tab" role="tab" id="tab-lugares" data-view="lugares" aria-selected="false">Lugares<span class="n" id="n-lugares"></span></button>
+    <button class="tab" role="tab" id="tab-pendencias" data-view="pendencias" aria-selected="false">Pendências<span class="n" id="n-pend"></span></button>
+    <span class="sync" id="sync" data-s="wait"><i class="dot"></i><span class="lbl" id="sync-l">Conectando votos…</span></span>
+  </div>
+</nav>
+
+<main class="wrap">
+  <section class="view" id="view-roteiro" aria-labelledby="tab-roteiro">
+    <div class="legend">
+      <span><i class="sw j-cedo"></i>Cedo (antes do expediente)</span>
+      <span><i class="sw j-dia"></i>Dia</span>
+      <span><i class="sw j-sunset"></i>Pôr do sol</span>
+      <span><i class="sw j-noite"></i>Noite</span>
+      <span><i class="sw j-estrada"></i>Estrada</span>
+      <span><i class="sw j-prova"></i>SC21K</span>
+      <span><i class="sw trab"></i>Expediente (8h–17h ou 9h–18h)</span>
+    </div>
+    <div class="daynav" id="daynav"></div>
+    <div class="days" id="days"></div>
+  </section>
+
+  <section class="view" id="view-lugares" aria-labelledby="tab-lugares" hidden>
+    <div class="toolbar">
+      <div class="chips" id="f-prio"></div>
+      <div class="chips" id="f-tipo"></div>
+      <label class="eyebrow" for="ordem" style="display:inline-flex;gap:8px;align-items:center">Ordem
+        <select id="ordem">
+          <option value="prio">Prioridade</option>
+          <option value="votos">Votos do grupo</option>
+          <option value="dist">Mais perto da Lagoa</option>
+        </select>
+      </label>
+    </div>
+    <p class="vote-note" id="vote-note">Cada pessoa marca <b>Quero muito</b>, <b>Topo</b> ou <b>Passo</b>. P1 é o que o grupo já pediu, P2 é sugestão forte, P3 entra se sobrar tempo.</p>
+    <div class="grid" id="cards"></div>
+  </section>
+
+  <section class="view" id="view-pendencias" aria-labelledby="tab-pendencias" hidden>
+    <p class="vote-note">Coisas a reservar ou confirmar antes de sair. Quem resolver, marca aqui; todo mundo vê.</p>
+    <ul class="todo" id="todo"></ul>
+  </section>
+
+  <div class="sources">
+    Horários e regras levantados em 16/11/2026 em sites de notícia, guias e páginas de ingresso (NSC Total, Deolhonailha, Sprinta, Parador 12, Ingresse, Komoot, Viagens e Caminhos). Onde as fontes divergem, o card mostra o aviso em laranja. Horários de sol calculados para a latitude de Florianópolis.
+  </div>
+</main>
+
+<script>
+const TIPOS = { trilha: "Trilha", praia: "Praia", evento: "Evento", noite: "Noite", comida: "Comida", passeio: "Passeio", aventura: "Aventura" };
+
+const LUGARES = [
+  { id: "sc21k", nome: "SC21K, meia maratona", tipo: "evento", p: 1, onde: "Beira-Mar Continental (Coqueiros / Estreito)", lagoa: "~20 min de madrugada", min: 20, dur: "21 km · largada 5h30",
+    nota: "Kit só no sábado 28, das 9h às 19h, na arena da prova: voucher no celular e 1 kg de alimento não perecível. Não tem entrega de kit no dia.",
+    conf: "Um site diz largada 5h30, outro 5h00." },
+  { id: "kart", nome: "Kart nos Ingleses", tipo: "aventura", p: 1, onde: "Kartódromo dos Ingleses, Vargem do Bom Jesus (norte)", lagoa: "40–50 min no fim da tarde", min: 45, dur: "~1h30 com briefing",
+    nota: "Terça 24 às 18h30. Expediente 8h–17h nesse dia pra sair da Lagoa às 17h40. Depois, jantar no norte e volta.",
+    conf: "Reserva do grupo para as 18h30." },
+  { id: "lagoinha", nome: "Lagoinha do Leste", tipo: "trilha", p: 1, onde: "Pântano do Sul ou Matadeiro (sul)", lagoa: "~40 min", min: 40, dur: "meio dia",
+    nota: "Pelo Pântano: 2,2 km, ~1h de ida, moderada com trechos íngremes. Pelo Matadeiro: ~4 km, 2–3h, pesada e mais bonita. Suba o Morro da Coroa pela vista. Praia sem estrutura: água, lanche e levar o lixo de volta." },
+  { id: "dunas", nome: "Dunas da Joaquina", tipo: "aventura", p: 1, onde: "Joaquina", lagoa: "~10 min", min: 10, dur: "1–2h",
+    nota: "Sandboard com prancha alugada no local, R$ 30–50 a hora. Fica a 10 minutos da Lagoa, então cabe depois do expediente com o pôr do sol de fundo." },
+  { id: "ponte", nome: "Ponte Hercílio Luz", tipo: "passeio", p: 1, onde: "Centro ↔ continente", lagoa: "~25 min (35+ no rush)", min: 25, dur: "1–2h",
+    nota: "Fim de semana e feriado: só pedestres e ciclistas. Iluminada à noite. Mirante na Praça Hercílio Luz. A arena da SC21K fica logo do lado continental, então casa com a retirada do kit.",
+    conf: "Horário atual da travessia a pé." },
+  { id: "p12", nome: "P12 Jurerê", tipo: "noite", p: 1, onde: "Jurerê Internacional (norte)", lagoa: "~40 min", min: 40, dur: "tarde + noite",
+    nota: "Sábado 21 tem Pátio P12 Sunset, com abertura por volta das 15h e entrada a partir de 18 anos. Na sexta 20 tem Meduza Radio Celebrate às 14h, mas o grupo ainda estará na estrada.",
+    conf: "Ingresso no Ingresse e horário exato do dia 21." },
+  { id: "gravata", nome: "Trilha do Gravatá", tipo: "trilha", p: 1, onde: "Subida Lagoa → Praia Mole (SC-406)", lagoa: "~5 min", min: 5, dur: "1h30 ida e volta",
+    nota: "1,4 km, uns 30 minutos até a praia. O Gravatá é virado pro leste: dá pra ver o sol nascer às 5h05 e voltar antes do expediente. A entrada não tem acostamento." },
+  { id: "piscinas", nome: "Piscinas naturais da Barra", tipo: "trilha", p: 1, onde: "Barra da Lagoa", lagoa: "~15 min", min: 15, dur: "600 m, ~15 min",
+    nota: "Trilha curta pelas pedras do canal. Não tem areia, entra pelas rochas. Cedo tem menos gente." },
+  { id: "costa", nome: "Costa da Lagoa", tipo: "trilha", p: 1, onde: "Canto dos Araçás → Costa da Lagoa", lagoa: "~10 min", min: 10, dur: "trilha 2–4h, ~7 km",
+    nota: "Trilha à beira da lagoa ou barco a partir do Centrinho. Dá pra ir a pé e voltar de barco, ou ir de barco jantar num restaurante da Costa.",
+    conf: "Horário do último barco de volta à noite." },
+  { id: "galheta", nome: "Praia Mole → Galheta", tipo: "trilha", p: 2, onde: "Canto norte da Praia Mole", lagoa: "~10 min", min: 10, dur: "~20 min até a Galheta",
+    nota: "Trilha curta por cima das pedras. Galheta é praia de naturismo. Quem quiser esticar segue até a Barra da Lagoa (~4 km, 2h, puxada)." },
+  { id: "mirante", nome: "Mirante da Lagoa", tipo: "passeio", p: 2, onde: "Morro da Lagoa (SC-404)", lagoa: "~10 min", min: 10, dur: "30 min",
+    nota: "Vista da lagoa inteira com o sol se pondo atrás dos morros. Encaixa em qualquer fim de tarde." },
+  { id: "balada", nome: "Baladinha", tipo: "noite", p: 1, onde: "Lagoa (Centrinho e Rendeiras), Jurerê, Centro", lagoa: "0–40 min", min: 0, dur: "noite",
+    nota: "A Lagoa é o polo jovem, com bares abertos até perto das 2h de quinta a sábado. Melhores noites pro grupo: sábado 21, quinta 26 e sexta 27. Sábado 28 não, por causa da largada às 5h30." },
+  { id: "santoantonio", nome: "Santo Antônio de Lisboa", tipo: "comida", p: 2, onde: "Lado da baía, norte (virado pro oeste)", lagoa: "35–45 min no rush", min: 40, dur: "noite",
+    nota: "O pôr do sol clássico da ilha, sobre a baía, com ostra e casario açoriano. Com expediente 8h–17h, sai da Lagoa às 17h10 e chega com folga." },
+  { id: "ribeirao", nome: "Ribeirão da Ilha", tipo: "comida", p: 2, onde: "Sul, lado da baía", lagoa: "~45 min", min: 45, dur: "almoço longo",
+    nota: "Fazendas de ostra e restaurantes na beira d'água. Reserve no fim de semana." },
+  { id: "arante", nome: "Bar do Arante", tipo: "comida", p: 2, onde: "Pântano do Sul", lagoa: "~40 min", min: 40, dur: "almoço",
+    nota: "Fica onde a trilha da Lagoinha termina. Peixe e paredes cobertas de bilhetes." },
+  { id: "mercado", nome: "Mercado Público e Centro histórico", tipo: "passeio", p: 2, onde: "Centro", lagoa: "~25 min", min: 25, dur: "2–3h",
+    nota: "Praça XV, figueira, catedral e almoço num box do mercado. No sábado as lojas fecham mais cedo e os bares seguem até o fim da tarde.",
+    conf: "Horário de sábado (fontes antigas falam em lojas até ~14h)." },
+  { id: "campeche", nome: "Ilha do Campeche", tipo: "praia", p: 2, onde: "Barco saindo da Armação (sul)", lagoa: "~35 min", min: 35, dur: "manhã inteira",
+    nota: "Água de piscina e gravuras rupestres. Precisa de autorização antecipada, limite de cerca de 800 pessoas por dia, barcos entre 9h e 12h, R$ 80–180 por pessoa. Se chover, não sai.",
+    conf: "Vagas e autorização para domingo 22." },
+  { id: "aranhas", nome: "Morro das Aranhas", tipo: "trilha", p: 3, onde: "Santinho (norte)", lagoa: "~45 min", min: 45, dur: "4,3 km, fácil",
+    nota: "Trilha fácil com vista do norte da ilha no fim de tarde. Fica perto do kart, mas não cabe antes dele num dia útil." },
+  { id: "comedy", nome: "Floripa Comedy Club", tipo: "noite", p: 3, onde: "Centro", lagoa: "~25 min", min: 25, dur: "1h30",
+    nota: "Stand-up quase todo dia em novembro. Plano B pra uma noite de chuva." }
+];
+
+/* j: cedo | dia | sunset | noite | estrada | prova | trabalho */
+const W = (a, b) => ({ a, b, j: "trabalho", txt: "Expediente" });
+const DIAS = [
+  { id: "d20", dow: "Sex", num: 20, t: "feriado", tag: "Feriado", titulo: "Estrada e primeira noite na Lagoa",
+    sum: "Feriado da Consciência Negra. Estrada cheia, por isso a saída às 4h.",
+    b: [
+      { a: "04:00", b: "16:30", j: "estrada", txt: "Poços de Caldas → Florianópolis", nota: "~900 km, 11 a 12h com paradas. Trocar de motorista a cada 3h. Checar o Waze antes de sair: feriadão na Régis e na BR-101." },
+      { a: "16:30", b: "18:00", j: "dia", txt: "Check-in na Lagoa e mercado" },
+      { a: "18:20", b: "19:10", j: "sunset", txt: "Pôr do sol no", place: "mirante" },
+      { a: "19:30", b: "22:00", j: "noite", txt: "Jantar no Centrinho da Lagoa", nota: "Dormir cedo: sábado sai às 6h15." }
+    ],
+    alt: "<b>Fica de fora:</b> o evento do P12 na sexta abre às 14h, quando o grupo ainda está na estrada." },
+  { id: "d21", dow: "Sáb", num: 21, t: "fds", tag: "Livre", titulo: "Lagoinha do Leste e P12",
+    sum: "O dia mais cheio da viagem: trilha cedo, almoço no sul, sunset em Jurerê e noite.",
+    b: [
+      { a: "06:15", b: "07:00", j: "dia", txt: "Lagoa → Pântano do Sul (~40 min)" },
+      { a: "07:00", b: "11:30", j: "cedo", txt: "Trilha e praia na", place: "lagoinha", nota: "Ida pelo Pântano (~1h). Quem quiser pesado vai pelo Matadeiro (2–3h) e todo mundo volta pelo Pântano." },
+      { a: "12:00", b: "13:30", j: "dia", txt: "Almoço no", place: "arante" },
+      { a: "13:30", b: "16:00", j: "dia", txt: "Volta, banho e descanso" },
+      { a: "16:30", b: "21:00", j: "sunset", txt: "Pátio P12 Sunset no", place: "p12" },
+      { a: "21:30", b: "26:00", j: "noite", txt: "", place: "balada", nota: "Esticar em Jurerê ou voltar pra Lagoa." }
+    ] },
+  { id: "d22", dow: "Dom", num: 22, t: "fds", tag: "Livre", titulo: "Sul da ilha e dunas",
+    sum: "Manhã de barco, almoço de ostra e sandboard no fim da tarde. Noite tranquila porque segunda tem expediente.",
+    b: [
+      { a: "08:15", b: "09:00", j: "dia", txt: "Lagoa → Armação (~35 min)" },
+      { a: "09:00", b: "13:30", j: "dia", txt: "Barco e praia na", place: "campeche", nota: "Só com autorização. Plano B: Praia Mole e trilha até a Galheta." },
+      { a: "14:00", b: "15:45", j: "dia", txt: "Almoço de ostras no", place: "ribeirao" },
+      { a: "17:15", b: "19:00", j: "sunset", txt: "Sandboard até o pôr do sol nas", place: "dunas" },
+      { a: "19:30", b: "22:00", j: "noite", txt: "Jantar leve e cama" }
+    ] },
+  { id: "d23", dow: "Seg", num: 23, t: "util", tag: "Útil", exp: "9h–18h", titulo: "Nascer do sol no Gravatá",
+    sum: "Expediente 9h–18h: quem foi ver o sol nascer ganha uma hora a mais de manhã. A noite fica perto de casa.",
+    b: [
+      { a: "04:45", b: "06:45", j: "cedo", txt: "Nascer do sol na", place: "gravata", nota: "Opcional. Lanterna de cabeça na ida; o sol nasce às 5h05." },
+      W("09:00", "12:00"),
+      { a: "12:00", b: "13:00", j: "dia", txt: "Almoço no Centrinho da Lagoa" },
+      W("13:00", "18:00"),
+      { a: "18:10", b: "19:15", j: "sunset", txt: "Caminhada pela Av. das Rendeiras no pôr do sol" },
+      { a: "19:30", b: "22:30", j: "noite", txt: "Jantar nas Rendeiras" }
+    ] },
+  { id: "d24", dow: "Ter", num: 24, t: "util", tag: "Útil", exp: "8h–17h", titulo: "Kart nos Ingleses",
+    sum: "Kart às 18h30. Expediente 8h–17h pra atravessar a ilha no trânsito de fim de tarde sem correr.",
+    b: [
+      { a: "05:30", b: "07:00", j: "cedo", txt: "", place: "piscinas" },
+      W("08:00", "12:00"),
+      { a: "12:00", b: "13:00", j: "dia", txt: "Almoço na Lagoa" },
+      W("13:00", "17:00"),
+      { a: "17:40", b: "18:25", j: "dia", txt: "Lagoa → Ingleses no trânsito de fim de tarde" },
+      { a: "18:30", b: "20:00", j: "noite", txt: "", place: "kart" },
+      { a: "20:15", b: "22:45", j: "noite", txt: "Jantar no norte (Ingleses ou Santinho) e volta" }
+    ] },
+  { id: "d25", dow: "Qua", num: 25, t: "util", tag: "Útil", exp: "8h–17h", titulo: "Pôr do sol na baía",
+    sum: "O único pôr do sol longe da Lagoa na semana. Expediente 8h–17h pra chegar com luz e andar pelo casario.",
+    b: [
+      { a: "05:30", b: "07:00", j: "cedo", txt: "Trilha curta da", place: "galheta" },
+      W("08:00", "12:00"),
+      { a: "12:00", b: "13:00", j: "dia", txt: "Almoço na Barra da Lagoa" },
+      W("13:00", "17:00"),
+      { a: "17:10", b: "17:55", j: "dia", txt: "Lagoa → Santo Antônio de Lisboa" },
+      { a: "17:55", b: "19:00", j: "sunset", txt: "Casario e pôr do sol em", place: "santoantonio" },
+      { a: "19:00", b: "22:30", j: "noite", txt: "Ostras, jantar e caminhada até Sambaqui" }
+    ] },
+  { id: "d26", dow: "Qui", num: 26, t: "util", tag: "Útil", exp: "8h–17h", titulo: "Costa da Lagoa e quinta na Lagoa",
+    sum: "Expediente 8h–17h pra pegar o barco ainda com sol. Jantar na Costa e a primeira noite de bar da semana.",
+    b: [
+      { a: "05:30", b: "06:45", j: "cedo", txt: "Corrida leve de 5 km na Joaquina (quem corre a SC21K) ou", place: "gravata" },
+      W("08:00", "12:00"),
+      { a: "12:00", b: "13:00", j: "dia", txt: "Almoço na Joaquina" },
+      W("13:00", "17:00"),
+      { a: "17:15", b: "21:30", j: "sunset", txt: "Barco do Centrinho, pôr do sol na lagoa e jantar na", place: "costa", nota: "Confirmar o último barco de volta." },
+      { a: "22:00", b: "26:00", j: "noite", txt: "Quinta de", place: "balada", nota: "Quinta é noite forte na Lagoa." }
+    ] },
+  { id: "d27", dow: "Sex", num: 27, t: "util", tag: "Útil", exp: "9h–18h", titulo: "Noite grande",
+    sum: "Expediente 9h–18h pra recuperar da quinta. Última noite livre de verdade: sábado tem kit e domingo tem largada às 5h30.",
+    b: [
+      W("09:00", "12:00"),
+      { a: "12:00", b: "13:00", j: "dia", txt: "Almoço na Praia Mole" },
+      W("13:00", "18:00"),
+      { a: "18:15", b: "19:10", j: "sunset", txt: "Segunda rodada de sandboard nas", place: "dunas" },
+      { a: "21:00", b: "26:00", j: "noite", txt: "Última", place: "balada", nota: "Lagoa, Jurerê ou Centro. Quem corre domingo segura o ritmo." }
+    ] },
+  { id: "d28", dow: "Sáb", num: 28, t: "fds", tag: "Livre", titulo: "Ponte, kit e Centro",
+    sum: "Dia leve em terra firme, véspera de prova.",
+    b: [
+      { a: "08:30", b: "09:30", j: "dia", txt: "Travessia a pé da", place: "ponte", nota: "No fim de semana a ponte é só de pedestres e ciclistas." },
+      { a: "09:30", b: "10:30", j: "prova", txt: "Retirada do kit da", place: "sc21k", nota: "Voucher no celular e 1 kg de alimento por corredor." },
+      { a: "11:00", b: "14:30", j: "dia", txt: "Almoço e passeio no", place: "mercado" },
+      { a: "15:00", b: "18:30", j: "dia", txt: "Tarde leve na Praia Mole ou na Joaquina" },
+      { a: "18:30", b: "19:00", j: "sunset", txt: "Pôr do sol na Lagoa" },
+      { a: "19:30", b: "21:00", j: "noite", txt: "Jantar cedo com massa, malas prontas e cama às 21h" }
+    ] },
+  { id: "d29", dow: "Dom", num: 29, t: "fds", tag: "Volta", titulo: "SC21K e estrada",
+    sum: "Prova de madrugada, check-out e pé na estrada depois do almoço.",
+    b: [
+      { a: "03:45", b: "04:45", j: "prova", txt: "Acordar, café e Lagoa → Beira-Mar Continental" },
+      { a: "05:30", b: "08:00", j: "prova", txt: "Largada da", place: "sc21k", nota: "Confirmar se é 5h30 ou 5h00. Quem não corre fica na torcida da chegada." },
+      { a: "08:30", b: "11:00", j: "dia", txt: "Volta, banho e check-out" },
+      { a: "11:30", b: "12:45", j: "dia", txt: "Almoço antes da estrada" },
+      { a: "13:00", b: "26:00", j: "estrada", txt: "Florianópolis → Poços de Caldas", nota: "Chegada por volta de 1h a 2h de segunda." }
+    ] }
+];
+
+const PEND = [
+  { id: "largada", t: "Confirmar horário da largada e local da arena", d: "Fontes dizem 5h30 ou 5h00, Beira-Mar Continental ou Coqueiros." },
+  { id: "kart", t: "Fechar o kart dos Ingleses para terça 24 às 18h30", d: "Preço por bateria e quantos pilotos por vez." },
+  { id: "p12", t: "Comprar ingressos do Pátio P12 Sunset (sáb 21)", d: "Venda no Ingresse. Conferir horário de abertura do dia." },
+  { id: "campeche", t: "Pedir autorização para a Ilha do Campeche (dom 22)", d: "Limite diário de visitantes. Reservar barco saindo da Armação entre 9h e 12h." },
+  { id: "ribeirao", t: "Reservar almoço no Ribeirão da Ilha (dom 22, ~14h)" },
+  { id: "barco", t: "Ver o último barco da Costa da Lagoa (qui 26)" },
+  { id: "alimento", t: "Separar 1 kg de alimento por corredor", d: "Exigido na retirada do kit no sábado 28." },
+  { id: "lanterna", t: "Levar lanterna de cabeça", d: "Gravatá de madrugada e volta de trilha no escuro." },
+  { id: "estrada", t: "Revisar rota e revezamento de motoristas", d: "Sexta 20 é feriado nacional. Ver obras e trânsito na Régis Bittencourt e na BR-101." }
+];
+
+/* ---------- helpers ---------- */
+const $ = (s, el = document) => el.querySelector(s);
+const el = (tag, attrs = {}, ...kids) => {
+  const n = document.createElement(tag);
+  for (const [k, v] of Object.entries(attrs)) {
+    if (v == null || v === false) continue;
+    if (k === "class") n.className = v;
+    else if (k === "html") n.innerHTML = v;
+    else if (k.startsWith("on")) n.addEventListener(k.slice(2), v);
+    else n.setAttribute(k, v === true ? "" : v);
+  }
+  for (const k of kids.flat()) if (k != null && k !== false) n.append(k.nodeType ? k : document.createTextNode(k));
+  return n;
+};
+const H0 = 3, H1 = 26, SPAN = H1 - H0;
+const hm = s => { const [h, m] = s.split(":").map(Number); return h + m / 60; };
+const pct = h => ((Math.min(Math.max(h, H0), H1) - H0) / SPAN * 100);
+const fmt = s => { const [h, m] = s.split(":").map(Number); const hh = h % 24; return m ? `${hh}h${String(m).padStart(2, "0")}` : `${hh}h`; };
+const LUG = Object.fromEntries(LUGARES.map(l => [l.id, l]));
+const QUANDO = {};
+for (const d of DIAS) for (const b of d.b) if (b.place) (QUANDO[b.place] ||= []).push(d);
+const store = {
+  get(k, f) { try { const v = localStorage.getItem(k); return v ? JSON.parse(v) : f; } catch { return f; } },
+  set(k, v) { try { localStorage.setItem(k, JSON.stringify(v)); } catch {} }
+};
+
+/* ---------- roteiro ---------- */
+function renderRoteiro() {
+  const nav = $("#daynav"), wrap = $("#days");
+  nav.replaceChildren(); wrap.replaceChildren();
+  const sunA = pct(5 + 5 / 60), sunB = pct(18 + 50 / 60);
+  for (const d of DIAS) {
+    nav.append(el("a", { class: "daychip", href: "#" + d.id, "data-t": d.t, onclick: e => { e.preventDefault(); document.getElementById(d.id).scrollIntoView({ behavior: "smooth", block: "start" }); } },
+      el("small", {}, d.dow), el("b", {}, String(d.num))));
+
+    const ribbon = el("div", { class: "ribbon", role: "img", "aria-label": `Régua de ${d.dow} ${d.num}, das 3h às 2h` });
+    ribbon.style.background = `linear-gradient(90deg, var(--rn) 0%, var(--rn) ${sunA - 1.5}%, var(--rd) ${sunA + 1.5}%, var(--rd) ${sunB - 1.5}%, var(--rn) ${sunB + 1.5}%, var(--rn) 100%)`;
+    const list = el("ol", { class: "slots" });
+    d.b.forEach((b, i) => {
+      const L = pct(hm(b.a)), R = pct(hm(b.b));
+      const slotId = `${d.id}-s${i}`;
+      if (b.j === "trabalho") {
+        const w = el("div", { class: "work" }); w.style.left = L + "%"; w.style.width = (R - L) + "%"; ribbon.append(w);
+      } else {
+        const label = `${fmt(b.a)}–${fmt(b.b)} ${b.txt || ""} ${b.place ? LUG[b.place].nome : ""}`.trim();
+        const blk = el("button", { class: "blk j-" + b.j, title: label, "aria-label": label, onclick: () => flash(slotId) });
+        blk.style.left = `calc(${L}% + 1px)`; blk.style.width = `calc(${R - L}% - 2px)`;
+        ribbon.append(blk);
+      }
+      const what = el("div", { class: "what" });
+      if (b.txt) what.append(b.txt + (b.place ? " " : ""));
+      if (b.place) what.append(el("button", { class: "place", onclick: () => goPlace(b.place) }, LUG[b.place].nome));
+      list.append(el("li", { class: "slot" + (b.j === "trabalho" ? " trabalho" : ""), id: slotId },
+        el("span", { class: "t" }, `${fmt(b.a)}–${fmt(b.b)}`),
+        el("span", { class: "bar j-" + (b.j === "trabalho" ? "x" : b.j), style: b.j === "trabalho" ? "background:repeating-linear-gradient(180deg,var(--trab) 0 3px,transparent 3px 6px)" : null }),
+        el("div", {}, what, b.nota ? el("div", { class: "note" }, b.nota) : null)));
+    });
+    const ticks = el("div", { class: "ticks", "aria-hidden": "true" });
+    for (const h of [3, 6, 9, 12, 15, 18, 21, 24]) { const s = el("span", {}, `${h % 24}h`); s.style.left = pct(h) + "%"; if (h === 3) s.style.transform = "none"; ticks.append(s); }
+
+    wrap.append(el("article", { class: "day", id: d.id },
+      el("div", { class: "date" }, el("span", { class: "dow" }, d.dow), el("span", { class: "num" }, String(d.num)), el("span", { class: "tag " + d.t }, d.tag), d.exp ? el("span", { class: "exp" }, d.exp) : null),
+      el("div", { class: "daybody" },
+        el("div", {}, el("h2", {}, d.titulo), el("p", { class: "sum" }, d.sum)),
+        el("div", { class: "ribbon-wrap" }, ribbon, ticks),
+        list,
+        d.alt ? el("div", { class: "alt", html: d.alt }) : null)));
+  }
+}
+function flash(id) {
+  const n = document.getElementById(id); if (!n) return;
+  n.scrollIntoView({ behavior: "smooth", block: "center" });
+  n.classList.remove("flash"); void n.offsetWidth; n.classList.add("flash");
+}
+function goPlace(id) {
+  show("lugares");
+  requestAnimationFrame(() => flash("card-" + id));
+}
+
+/* ---------- votos ---------- */
+let db = null, user = null, myId = null, readOnly = false, mode = "wait";
+let votes = {};            // uid -> {placeId: 0|1|2}
+let mine = store.get("floripa-meus-votos", {});
+let names = {};            // uid -> {name, avatar}
+let checks = {};           // itemId -> {feito, por}
+
+function setSync(s, txt) {
+  mode = s; const n = $("#sync"); n.dataset.s = s; $("#sync-l").textContent = txt;
+}
+function tally(pid) {
+  const all = { ...votes }; if (mode !== "ok") all.eu = mine;
+  else if (myId) all[myId] = mine;
+  const t = { 2: [], 1: [], 0: [] };
+  for (const [uid, v] of Object.entries(all)) if (v && v[pid] != null && t[v[pid]]) t[v[pid]].push(uid);
+  return t;
+}
+const score = pid => { const t = tally(pid); return t[2].length * 2 + t[1].length - t[0].length * 0.5; };
+
+let fPrio = null, fTipo = null;
+function renderFiltros() {
+  const pr = $("#f-prio"); pr.replaceChildren();
+  for (const [v, l] of [[null, "Todas"], [1, "P1"], [2, "P2"], [3, "P3"]])
+    pr.append(el("button", { class: "chip", "aria-pressed": String(fPrio === v), onclick: () => { fPrio = v; renderFiltros(); renderCards(); } }, l));
+  const tp = $("#f-tipo"); tp.replaceChildren();
+  const usados = [...new Set(LUGARES.map(l => l.tipo))];
+  tp.append(el("button", { class: "chip", "aria-pressed": String(fTipo === null), onclick: () => { fTipo = null; renderFiltros(); renderCards(); } }, "Tudo"));
+  for (const t of usados) tp.append(el("button", { class: "chip", "aria-pressed": String(fTipo === t), onclick: () => { fTipo = t; renderFiltros(); renderCards(); } }, TIPOS[t]));
+}
+function renderCards() {
+  const ordem = $("#ordem").value;
+  let ls = LUGARES.filter(l => (fPrio == null || l.p === fPrio) && (fTipo == null || l.tipo === fTipo));
+  ls = ls.slice().sort((a, b) =>
+    ordem === "votos" ? score(b.id) - score(a.id) || a.p - b.p :
+    ordem === "dist" ? a.min - b.min || a.p - b.p :
+    a.p - b.p || score(b.id) - score(a.id));
+  const g = $("#cards"); g.replaceChildren();
+  const canVote = !readOnly && (mode !== "ok" || myId);
+  for (const l of ls) {
+    const t = tally(l.id), my = mine[l.id];
+    const seg = el("div", { class: "seg", role: "group", "aria-label": "Seu voto para " + l.nome });
+    for (const [v, lab] of [[2, "Quero muito"], [1, "Topo"], [0, "Passo"]])
+      seg.append(el("button", { "data-v": v, "aria-pressed": String(my === v), disabled: !canVote, onclick: () => vote(l.id, v) }, lab));
+    const faces = el("span", { class: "faces" });
+    for (const uid of t[2].slice(0, 6)) {
+      const p = names[uid];
+      if (p && p.avatar) faces.append(el("img", { src: p.avatar, alt: p.name || "Alguém", title: (p.name || "Alguém") + " quer muito" }));
+    }
+    const resumo = [t[2].length && `${t[2].length} quer${t[2].length > 1 ? "em" : ""} muito`, t[1].length && `${t[1].length} topa${t[1].length > 1 ? "m" : ""}`, t[0].length && `${t[0].length} passa${t[0].length > 1 ? "m" : ""}`].filter(Boolean).join(" · ") || "Sem votos ainda";
+    const qd = QUANDO[l.id] || [];
+    g.append(el("article", { class: "card", id: "card-" + l.id },
+      el("div", { class: "card-head" }, el("h3", {}, l.nome), el("span", { class: "prio p" + l.p, title: ["", "O grupo já pediu", "Sugestão forte", "Se sobrar tempo"][l.p] }, "P" + l.p)),
+      el("dl", { class: "kv" },
+        el("dt", {}, "Tipo"), el("dd", {}, TIPOS[l.tipo]),
+        el("dt", {}, "Onde"), el("dd", {}, l.onde),
+        el("dt", {}, "Da Lagoa"), el("dd", {}, l.lagoa),
+        el("dt", {}, "Duração"), el("dd", {}, l.dur)),
+      el("p", {}, l.nota),
+      l.conf ? el("div", { class: "warn" }, "Confirmar: " + l.conf) : null,
+      el("div", { class: "when" }, qd.length ? qd.map(d => el("button", { onclick: () => { show("roteiro"); requestAnimationFrame(() => document.getElementById(d.id).scrollIntoView({ behavior: "smooth" })); } }, `${d.dow} ${d.num}`)) : el("span", { class: "none" }, "Ainda fora do roteiro")),
+      el("div", { class: "votes" }, seg, el("div", { class: "tally" }, faces, el("span", {}, resumo)))));
+  }
+  $("#n-lugares").textContent = LUGARES.length;
+}
+
+let wTimer = null, writing = false, again = false;
+function vote(pid, v) {
+  if (mine[pid] === v) delete mine[pid]; else mine[pid] = v;
+  store.set("floripa-meus-votos", mine);
+  renderCards();
+  if (db && myId && !readOnly) { clearTimeout(wTimer); wTimer = setTimeout(flushVotes, 500); }
+}
+async function flushVotes() {
+  if (writing) { again = true; return; }
+  writing = true;
+  try { await db.collection("votos").doc(myId).set({ v: { ...mine }, em: Date.now() }); }
+  catch (e) {
+    if (e && (e.code === "invalid_argument")) { readOnly = true; noteReadOnly(); renderCards(); }
+    else if (e && e.code === "unavailable") { setTimeout(flushVotes, 800 + Math.random() * 800); }
+  }
+  writing = false;
+  if (again) { again = false; flushVotes(); }
+}
+function noteReadOnly() {
+  $("#vote-note").innerHTML = "Você está vendo os votos do grupo, mas este acesso não permite votar. Peça a quem compartilhou acesso de <b>Contribuidor</b>.";
+}
+
+async function resolveNames(ids) {
+  if (!user || !ids.length) return;
+  try {
+    const ps = await user.profiles(ids);
+    for (const id of ids) names[id] = { name: (ps[id] && ps[id].name) || "Alguém", avatar: ps[id] && ps[id].avatarUrl };
+  } catch {}
+}
+
+/* ---------- pendências ---------- */
+function renderTodo() {
+  const ul = $("#todo"); ul.replaceChildren();
+  let feitos = 0;
+  for (const p of PEND) {
+    const c = checks[p.id] || (mode !== "ok" ? store.get("floripa-pend", {})[p.id] : null);
+    const done = !!(c && c.feito); if (done) feitos++;
+    const id = "chk-" + p.id;
+    const by = done && c.por && names[c.por] ? "Feito por " + names[c.por].name : done ? "Feito" : null;
+    ul.append(el("li", { class: done ? "done" : "" },
+      el("input", { type: "checkbox", id, checked: done, disabled: readOnly && mode === "ok", onchange: e => toggle(p.id, e.target.checked) }),
+      el("div", {}, el("label", { for: id }, p.t, p.urg && !done ? el("span", { class: "urg" }, p.urg.toUpperCase()) : null),
+        p.d ? el("div", { class: "d" }, p.d) : null,
+        by ? el("div", { class: "by" }, by) : null)));
+  }
+  $("#n-pend").textContent = `${feitos}/${PEND.length}`;
+}
+async function toggle(id, val) {
+  if (db && mode === "ok") {
+    checks[id] = { feito: val, por: myId }; renderTodo();
+    try { await db.collection("pendencias").doc(id).set({ feito: val, por: myId || null, em: Date.now() }); }
+    catch (e) { if (e && e.code === "invalid_argument") { readOnly = true; renderTodo(); } }
+  } else {
+    const loc = store.get("floripa-pend", {}); loc[id] = { feito: val }; store.set("floripa-pend", loc); renderTodo();
+  }
+}
+
+/* ---------- capabilities ---------- */
+async function initCaps() {
+  if (!window.claude || !window.claude.use) { setSync("local", "Votos só neste aparelho"); return; }
+  try { [db, user] = await Promise.all([claude.use("db"), claude.use("user")]); } catch {}
+  if (!db) { setSync("local", "Votos só neste aparelho"); renderCards(); renderTodo(); return; }
+  try { myId = user ? await user.id() : null; } catch {}
+  try { const cw = user ? await user.can("data.write") : null; if (cw === false) readOnly = true; } catch {}
+  if (readOnly || !myId) noteReadOnly();
+  let first = true;
+  const timer = setTimeout(() => setSync("slow", "Votos ainda não carregaram"), 10000);
+  db.collection("votos").onSnapshot(async snap => {
+    if (!snap.metadata.fromCache) clearTimeout(timer);
+    const nv = {};
+    for (const d of snap.docs) { const b = d.data(); if (b && b.v) nv[d.id] = b.v; }
+    if (first && myId && nv[myId]) { mine = { ...nv[myId] }; store.set("floripa-meus-votos", mine); }
+    else if (first && myId && !nv[myId] && Object.keys(mine).length && !readOnly) { flushVotes(); }
+    first = false;
+    if (myId) delete nv[myId];
+    votes = nv;
+    const ids = Object.keys(nv).concat(myId ? [myId] : []).filter(id => !names[id]);
+    await resolveNames(ids);
+    setSync("ok", `Votos do grupo ao vivo · ${Object.keys(nv).length + (myId && Object.keys(mine).length ? 1 : 0)} votaram`);
+    renderCards();
+  }, () => { clearTimeout(timer); setSync("err", "Votos fora do ar agora"); renderCards(); });
+  db.collection("pendencias").onSnapshot(async snap => {
+    const nc = {};
+    for (const d of snap.docs) nc[d.id] = d.data();
+    checks = nc;
+    const ids = Object.values(nc).map(c => c && c.por).filter(id => id && !names[id]);
+    await resolveNames([...new Set(ids)]);
+    renderTodo();
+  }, () => {});
+}
+
+/* ---------- views ---------- */
+const VIEWS = ["roteiro", "lugares", "pendencias"];
+function show(v, push = true) {
+  if (!VIEWS.includes(v)) v = "roteiro";
+  for (const x of VIEWS) {
+    $("#view-" + x).hidden = x !== v;
+    $("#tab-" + x).setAttribute("aria-selected", String(x === v));
+  }
+  if (push && location.hash !== "#" + v) history.replaceState(null, "", "#" + v);
+  store.set("floripa-aba", v);
+}
+document.querySelectorAll(".tab").forEach(t => t.addEventListener("click", () => { show(t.dataset.view); window.scrollTo({ top: $(".nav").offsetTop, behavior: "smooth" }); }));
+window.addEventListener("hashchange", () => { const h = location.hash.slice(1); if (VIEWS.includes(h)) show(h, false); });
+$("#ordem").addEventListener("change", renderCards);
+
+function countdown() {
+  const saida = new Date("2026-11-20T04:00:00-03:00").getTime();
+  const diff = saida - Date.now();
+  if (diff > 0) {
+    const d = Math.floor(diff / 864e5), h = Math.floor(diff % 864e5 / 36e5);
+    $("#f-falta").textContent = d > 0 ? `${d}d ${h}h` : `${h}h`;
+    $("#f-falta-l").textContent = "até a saída (sex 20, 4h)";
+  } else if (Date.now() < new Date("2026-11-29T13:00:00-03:00").getTime()) {
+    $("#f-falta").textContent = "em Floripa"; $("#f-falta-l").textContent = "a viagem está rolando";
+  }
+}
+
+$("#f-lugares").textContent = LUGARES.length;
+renderRoteiro(); renderFiltros(); renderCards(); renderTodo(); countdown();
+const h = location.hash.slice(1);
+show(VIEWS.includes(h) ? h : store.get("floripa-aba", "roteiro"), false);
+initCaps();
+</script>
