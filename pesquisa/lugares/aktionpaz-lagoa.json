@@ -1,0 +1,78 @@
+{
+  "id": "aktionpaz-lagoa",
+  "nome": "AktionPaz (academia)",
+  "categoria": "atividade",
+  "regiao": "leste-lagoa",
+  "resumo": "Academia de musculação e treino híbrido a 1 km da casa da Lagoa. Aceita Wellhub a partir do plano Silver.",
+  "destaques": [
+    "Wellhub: plano mínimo Silver (confirmar no app)",
+    "Abre às 6h em dia útil",
+    "A 13 min a pé da casa, 2 min de carro"
+  ],
+  "coords": {
+    "lat": -27.603465,
+    "lng": -48.4702882,
+    "fonte": "Google Places API",
+    "ponto": "entrada da academia"
+  },
+  "endereco": "Av. Afonso Delambert Neto, 375, Lagoa da Conceição, Florianópolis, SC, 88062-000",
+  "links": {
+    "google_maps": "https://www.google.com/maps/search/?api=1&query=AktionPaz%20Lagoa&query_place_id=ChIJWyIrcrM-J5URPbUTLWSuYTk",
+    "waze": "https://waze.com/ul?ll=-27.603465,-48.4702882&navigate=yes",
+    "site": "https://aktionpaz.com.br/",
+    "instagram": null,
+    "ingressos": null,
+    "reserva": null
+  },
+  "nota_google": null,
+  "outras_notas": [],
+  "da_lagoa": {
+    "tempo_min": 2,
+    "km": 1.0,
+    "obs": "a pé 13 min pela Rua João de Barro e Rua João Antônio da Silveira; de bicicleta 4 min"
+  },
+  "estacionamento": null,
+  "horarios": "seg a sex 6h–22h; sáb 9h–13h; dom fechada",
+  "precos": "Wellhub Silver (R$ 149,99/mês) ou acima; confirmar no app",
+  "melhor_horario": "almoço, 12h–13h, ou 6h–7h",
+  "duracao": "45 min a 1h",
+  "trilha": null,
+  "o_que_levar": [
+    "Roupa de treino, toalha e garrafa",
+    "Celular com o app do Wellhub para o check-in"
+  ],
+  "cuidados": [
+    "Confirmar no app do Wellhub as regras de check-in e o limite de visitas",
+    "Fechada aos domingos"
+  ],
+  "clima": {
+    "sensivel_a": [],
+    "plano_b": "Academia é coberta: funciona com chuva"
+  },
+  "publico": null,
+  "combina_com": [
+    "centrinho-da-lagoa",
+    "avenida-das-rendeiras"
+  ],
+  "encaixe": [
+    "almoco-dia-util",
+    "cedo-dia-util"
+  ],
+  "fotos": [],
+  "dicas": [
+    "Com 13 min a pé de cada lado, o almoço de 1h rende uns 30 min de treino; de Uber ou carro rende 45 min"
+  ],
+  "fontes": [
+    "https://wellhub.com/pt-br/search/partners/aktionpaz-lagoa-da-conceicao-florianopolis/"
+  ],
+  "verificado_em": "2026-11-16",
+  "confianca": "media",
+  "pendencias": [
+    "Plano do Wellhub de cada pessoa do grupo",
+    "Regras de check-in e limite de visitas no app"
+  ],
+  "google": {
+    "place_id": "ChIJWyIrcrM-J5URPbUTLWSuYTk",
+    "consultado_em": "2026-11-16"
+  }
+}

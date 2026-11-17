@@ -112,7 +112,8 @@ Sem academia no sábado 28 e no domingo 29 (véspera e dia da prova). Planos e p
 
 - **Principal: AktionPaz.** Se o plano de todos for Silver+, a Forma Fitness também vale.
 - **A Access Academia, a mais perto da casa, não consta no Wellhub.** Fica fora.
-- **Melhor horário: almoço.** Saindo às 12h, dá 45 min de treino e volta às 13h.
+- **Da casa até a AktionPaz:** 1,0 km, **13 min a pé** (4 min de bicicleta, 2 min de carro), por ruas internas: Rua João de Barro, Rua João Antônio da Silveira e Rua Manoel Severino de Oliveira até a Av. Afonso Delambert Neto. Dá para ir andando.
+- **Melhor horário: almoço, mas a conta é curta.** Andando, são 26 min de ida e volta: de uma hora de almoço sobram uns 30 min de treino. Com Uber ou carro (2 min), sobram 45 min. Para treino completo andando, 6h–7h compensa mais.
 
 **Onde cabe (tudo opcional):**
 
