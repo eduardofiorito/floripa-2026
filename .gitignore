@@ -12,3 +12,6 @@ Thumbs.db
 # python
 __pycache__/
 *.pyc
+
+# dados do Google (termos limitam guardar nota/horários; o place_id vai para as fichas)
+pesquisa/google.json
