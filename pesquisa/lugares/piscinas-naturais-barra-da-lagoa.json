@@ -1,0 +1,123 @@
+{
+  "id": "piscinas-naturais-barra-da-lagoa",
+  "nome": "Piscinas Naturais da Barra da Lagoa",
+  "categoria": "trilha",
+  "regiao": "leste-lagoa",
+  "resumo": "Piscinas de água do mar entre as pedras, no fim de uma trilha curta que começa na ponte pênsil sobre o canal da Barra da Lagoa. Na maré baixa e com mar calmo, a água fica cristalina e funda para mergulhar. Combina com o almoço de camarão na Barra.",
+  "destaques": [
+    "Ponte pênsil Professor Valmir Martins sobre o canal da Barra",
+    "Trilha de 15–30 min, passando pela Prainha do Leste (Prainha da Barra)",
+    "Piscinas com ~2 m de profundidade (ND, 2016), boas para mergulho de superfície",
+    "Gratuito; um quiosque simples no local"
+  ],
+  "coords": {
+    "lat": -27.5752514,
+    "lng": -48.4226576,
+    "fonte": "OSM Nominatim (Ponte Pênsil Professor Valmir Martins)",
+    "ponto": "ponte pênsil sobre o canal, onde começa o caminho"
+  },
+  "endereco": "Canto direito da Praia da Barra da Lagoa: atravesse a ponte pênsil, vire à esquerda e siga até o fim da servidão da Prainha. A trilha começa ~5 min depois",
+  "links": {
+    "google_maps": "https://www.google.com/maps/search/?api=1&query=Piscinas%20Naturais%20da%20Barra%20da%20Lagoa&query_place_id=ChIJvWOMxTk-J5URYHKo0Aba0VU",
+    "waze": "https://waze.com/ul?ll=-27.5752514,-48.4226576&navigate=yes",
+    "site": null,
+    "instagram": null,
+    "ingressos": null,
+    "reserva": null
+  },
+  "nota_google": null,
+  "outras_notas": [],
+  "da_lagoa": {
+    "tempo_min": 15,
+    "km": 8.5,
+    "obs": "Pela SC-406 passando pela Praia Mole. Estimativa pelo mapa; ruas estreitas e lotadas perto do canal em dia de sol"
+  },
+  "estacionamento": "Não encontrei informação confiável. As ruas da Barra são estreitas; procure um estacionamento pago perto da praia e do canal",
+  "horarios": "Livre",
+  "precos": "Gratuito. Travessia de barco do canal: R$ 15 em quiosques antes da ponte (ND, 2016, valor antigo)",
+  "melhor_horario": "Maré baixa e mar calmo, de manhã e com sol. Consulte a tábua de marés antes",
+  "duracao": "2–3 h com a trilha, o banho e a volta",
+  "trilha": {
+    "distancia_km": null,
+    "tempo_ida_min": 25,
+    "desnivel_m": null,
+    "dificuldade": "leve; os últimos ~200 m são de pedra e pedem as mãos em alguns trechos",
+    "inicio": "Ponte pênsil do canal da Barra da Lagoa",
+    "sinalizacao": "Pouca; um visitante teve dificuldade para achar a trilha (ND)"
+  },
+  "o_que_levar": [
+    "água",
+    "protetor solar (trilha exposta ao sol)",
+    "tênis ou papete",
+    "máscara de mergulho",
+    "saco estanque para o celular"
+  ],
+  "cuidados": [
+    "Não há areia: entra-se pulando das pedras. Veja a profundidade antes de pular",
+    "Quem não sabe nadar não deve entrar",
+    "Com mar agitado, sair da água fica difícil e perigoso",
+    "Salva-vidas nem sempre estão presentes, porque o posto deles é na praia ao lado"
+  ],
+  "clima": {
+    "sensivel_a": [
+      "mar agitado",
+      "maré alta",
+      "vento sul",
+      "chuva"
+    ],
+    "plano_b": "Ficar no canal e almoçar na Barra (ver barra-da-lagoa)"
+  },
+  "publico": "Turistas e famílias; cheio em fins de semana de verão",
+  "combina_com": [
+    "barra-da-lagoa",
+    "praia-da-galheta",
+    "praia-mole"
+  ],
+  "encaixe": [
+    "fim-de-semana",
+    "cedo-dia-util"
+  ],
+  "fotos": [
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/3/36/Piscinas_Naturais_da_Barra_-_panoramio.jpg",
+      "pagina": "https://commons.wikimedia.org/wiki/File:Piscinas_Naturais_da_Barra_-_panoramio.jpg",
+      "autor": "Cleison Cipriani",
+      "licenca": "CC BY-SA 3.0"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/6/66/Pscinas.JPG",
+      "pagina": "https://commons.wikimedia.org/wiki/File:Pscinas.JPG",
+      "autor": "Luis Paulo Vinatea Barberena",
+      "licenca": "Public domain"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/6/67/Trilha_da_barra_da_lagoa_Douglas_Ricardo_Martins_%2801%29.jpg",
+      "pagina": "https://commons.wikimedia.org/wiki/File:Trilha_da_barra_da_lagoa_Douglas_Ricardo_Martins_%2801%29.jpg",
+      "autor": "Douglas Ricardo Martins",
+      "licenca": "CC BY-SA 4.0"
+    }
+  ],
+  "dicas": [
+    "Se a maré baixa cair às 6–7h num dia útil, dá para fazer antes do expediente: sair 5h45, banho às 6h30, em casa às 7h45",
+    "Para o nascer do sol, evite a parte de pedra no escuro; veja o sol da Prainha do Leste e entre nas piscinas com luz",
+    "Do outro lado do canal sobe a trilha para a Galheta, com o Mirante da Boa Vista"
+  ],
+  "fontes": [
+    "https://ndmais.com.br/turismo/piscinas-naturais-da-barra-da-lagoa-em-florianopolis-sao-opcao-de-passeio-na-temporada-de-verao/",
+    "https://destinoflorianopolis.com.br/piscinas-naturais-da-barra-da-lagoa-saiba-como-chegar-a-este-paraiso/",
+    "https://conhecasc.com.br/trilhas/trilha-piscinas-naturais-da-barra-da-lagoa/",
+    "https://viagemrota.com/piscinas-naturais-da-barra-da-lagoa-guia/",
+    "https://meumapamundi.com.br/2021/05/30/trilha-das-piscinas-naturais-da-barra-da-lagoa-em-florianopolis/"
+  ],
+  "verificado_em": "2026-11-16",
+  "confianca": "media",
+  "pendencias": [
+    "Tábua de marés de 23 a 28/11/2026",
+    "Onde estacionar e quanto custa perto da ponte",
+    "Preço atual da travessia de barco do canal"
+  ],
+  "google": {
+    "place_id": "ChIJvWOMxTk-J5URYHKo0Aba0VU",
+    "consultado_em": "2026-11-16"
+  }
+}

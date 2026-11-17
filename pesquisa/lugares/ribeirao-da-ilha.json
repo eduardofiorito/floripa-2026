@@ -1,0 +1,122 @@
+{
+  "id": "ribeirao-da-ilha",
+  "nome": "Ribeirão da Ilha (Freguesia)",
+  "categoria": "passeio",
+  "regiao": "sul",
+  "resumo": "Vila açoriana na baía sul, com casario colorido tombado, a Igreja Nossa Senhora da Lapa (1806) e as fazendas de ostra que fazem de Floripa a capital nacional da ostra. Voltada para o oeste: é o melhor pôr do sol do sul, com ostra fresca no prato.",
+  "destaques": [
+    "Igreja Nossa Senhora da Lapa (1806) e casario açoriano restaurado",
+    "Ostradamus, Umas e Ostras, Rancho Açoriano, Porto do Contrato e Nacanoa (ostras de cultivo próprio)",
+    "Pôr do sol sobre a baía no deck/pracinha ao lado do Ostradamus",
+    "Tens Tempo Café (empada, travesseiro) e brigadeiro de cachaça da Amoriko"
+  ],
+  "coords": {
+    "lat": -27.7183173,
+    "lng": -48.5631814,
+    "fonte": "OSM Nominatim (Igreja Nossa Senhora da Lapa)",
+    "ponto": "Igreja da Lapa, centro da Freguesia"
+  },
+  "endereco": "Freguesia do Ribeirão da Ilha, Rod. Baldicero Filomeno, Florianópolis",
+  "links": {
+    "google_maps": "https://www.google.com/maps/search/?api=1&query=Ribeir%C3%A3o%20da%20Ilha%20%28Freguesia%29&query_place_id=ChIJQyf2tA4wJ5URJmiuqEZMYRY",
+    "waze": "https://waze.com/ul?ll=-27.7183173,-48.5631814&navigate=yes",
+    "site": null,
+    "instagram": null,
+    "ingressos": null,
+    "reserva": null
+  },
+  "nota_google": null,
+  "outras_notas": [],
+  "da_lagoa": {
+    "tempo_min": 35,
+    "km": 20,
+    "obs": "OSRM 26 min/20 km sem trânsito (Rio Tavares → SC-405 → Rod. Baldicero Filomeno); conte 35–40 min. A rodovia é estreita e lenta no trecho da vila."
+  },
+  "estacionamento": "Rua estreita; vagas na beira da rodovia e nos restaurantes. Sábado à tarde enche.",
+  "horarios": "Vila livre. Restaurantes: ver cada um.",
+  "precos": null,
+  "melhor_horario": "Chegar 17h–17h30 para passear e pegar o pôr do sol (~18h50) com ostras.",
+  "duracao": "2–3 h",
+  "trilha": {
+    "distancia_km": null,
+    "tempo_ida_min": null,
+    "desnivel_m": null,
+    "dificuldade": null,
+    "inicio": null,
+    "sinalizacao": null
+  },
+  "o_que_levar": [
+    "casaco leve para o vento no deck"
+  ],
+  "cuidados": [
+    "Domingo muitos restaurantes fecham à tarde (Ostradamus 17h–17h30; Rancho Açoriano 16h)",
+    "Ostra crua: prefira casas movimentadas"
+  ],
+  "clima": {
+    "sensivel_a": [
+      "chuva (perde o pôr do sol)"
+    ],
+    "plano_b": "Almoço de ostras com chuva funciona igual; é o plano B do sul."
+  },
+  "publico": "Casais, famílias e grupos de amigos; turistas e locais.",
+  "combina_com": [
+    "ostradamus",
+    "rancho-acoriano",
+    "umas-e-ostras",
+    "naufragados",
+    "lagoinha-do-leste",
+    "ilha-do-campeche"
+  ],
+  "encaixe": [
+    "fim-de-semana",
+    "pos-expediente"
+  ],
+  "fotos": [
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/b/bb/Igreja_Nossa_Senhora_da_Lapa_no_Ribeir%C3%A3o_da_Ilha.jpg",
+      "pagina": "https://commons.wikimedia.org/wiki/File:Igreja_Nossa_Senhora_da_Lapa_no_Ribeir%C3%A3o_da_Ilha.jpg",
+      "autor": "Boaventuravinicius",
+      "licenca": "CC BY-SA 4.0"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/d/db/Fachada_de_casa_azul_em_Ribeir%C3%A3o_da_Ilha-2.jpg",
+      "pagina": "https://commons.wikimedia.org/wiki/File:Fachada_de_casa_azul_em_Ribeir%C3%A3o_da_Ilha-2.jpg",
+      "autor": "Rafael Abreu Rojas",
+      "licenca": "CC BY-SA 4.0"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/b/b1/Ribeir%C3%A3o_da_Ilha_%281%29.jpg",
+      "pagina": "https://commons.wikimedia.org/wiki/File:Ribeir%C3%A3o_da_Ilha_(1).jpg",
+      "autor": "Rodrigo.Argenton",
+      "licenca": "CC BY-SA 3.0"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/1/15/Ostra_gratinada.jpg",
+      "pagina": "https://commons.wikimedia.org/wiki/File:Ostra_gratinada.jpg",
+      "autor": "Rodrigo.Argenton",
+      "licenca": "CC BY-SA 3.0"
+    }
+  ],
+  "dicas": [
+    "Num dia útil dá para ir depois das 17h e jantar ostras com o pôr do sol (Ostradamus abre até 22h30–23h de terça a sábado)",
+    "Nacanoa Oyster Bar (Rod. Baldicero Filomeno, 7176, aberto em 2018): o dono cultiva as próprias ostras; prato no Comida di Buteco 2025",
+    "Caminhar pela orla da Igreja da Lapa até o Ostradamus é curto e passa pelo casario"
+  ],
+  "fontes": [
+    "https://comigoemflorianopolis.substack.com/p/3-ribeirao-da-ilha",
+    "https://jovempan.com.br/entretenimento/onde-comer-ostras-em-florianopolis-roteiro-do-ribeirao-da-ilha/",
+    "https://www.viciadaemviajar.com/praias-do-sul-de-florianopolis-melhores/",
+    "https://www.nsctotal.com.br/?p=7899496",
+    "https://www.ostradamus.com.br"
+  ],
+  "verificado_em": "2026-11-16",
+  "confianca": "media",
+  "pendencias": [
+    "Horários de domingo dos restaurantes",
+    "Coordenadas do Nacanoa (não está no OSM)"
+  ],
+  "google": {
+    "place_id": "ChIJQyf2tA4wJ5URJmiuqEZMYRY",
+    "consultado_em": "2026-11-16"
+  }
+}

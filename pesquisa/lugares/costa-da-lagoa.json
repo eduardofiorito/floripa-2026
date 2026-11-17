@@ -1,0 +1,159 @@
+{
+  "id": "costa-da-lagoa",
+  "nome": "Costa da Lagoa (barco e trilha)",
+  "categoria": "passeio",
+  "regiao": "leste-lagoa",
+  "resumo": "Comunidade açoriana na margem oeste da Lagoa onde não chega carro: vai-se de barco, saindo do Terminal Lacustre do Centrinho, ou por uma trilha de ~7 km na mata. Tem restaurantes de peixe com deck na água e uma cachoeira perto do Ponto 16.",
+  "destaques": [
+    "Barco regular da Cooperbarco saindo do Terminal Lacustre, a 2 min a pé do Centrinho: R$ 15 por trecho",
+    "Trilha de 6,8 km (só ida) desde o Canto dos Araçás, com volta de barco de qualquer trapiche",
+    "Cachoeira da Costa da Lagoa (~5–8 m), perto do Ponto 16",
+    "Restaurantes com deck: Sabor da Costa (TripAdvisor 4,7), Paraíso da Néia (4,7), Lagoa Azul (4,5), Cachoeira (4,4) e Cabral (Ponto 19)",
+    "Pôr do sol sobre a Lagoa visto do barco"
+  ],
+  "coords": {
+    "lat": -27.604699,
+    "lng": -48.4634431,
+    "fonte": "OSM Nominatim (amenity=ferry_terminal)",
+    "ponto": "embarque no Terminal Lacustre Professora Ruth Bastos de Oliveira, Centrinho da Lagoa"
+  },
+  "endereco": "Terminal Lacustre: Rua Senador Ivo d'Aquino, Centrinho da Lagoa da Conceição. Trilha: fim da Rua João Henrique Gonçalves, Canto dos Araçás (Ponto 3 da Cooperbarco)",
+  "links": {
+    "google_maps": "https://www.google.com/maps/search/?api=1&query=Costa%20da%20Lagoa%20%28barco%20e%20trilha%29&query_place_id=ChIJ5wRJlHA_J5URw4zuvdDxoXg",
+    "waze": "https://waze.com/ul?ll=-27.604699,-48.4634431&navigate=yes",
+    "site": "https://cooperbarco.wordpress.com/",
+    "instagram": "https://www.instagram.com/cooperbarcofloripa/",
+    "ingressos": null,
+    "reserva": null
+  },
+  "nota_google": null,
+  "outras_notas": [
+    {
+      "fonte": "TripAdvisor (Sabor da Costa)",
+      "nota": 4.7,
+      "avaliacoes": 293,
+      "url": "https://www.tripadvisor.com.br/ShowUserReviews-g303576-d4037868-r716422283-Costa_da_Lagoa-Florianopolis_State_of_Santa_Catarina.html"
+    },
+    {
+      "fonte": "TripAdvisor (Paraíso da Néia)",
+      "nota": 4.7,
+      "avaliacoes": 83,
+      "url": "https://www.tripadvisor.com/RestaurantsNear-g303576-d3544857-Restaurante_Cachoeira_Costa_da_Lagoa-Florianopolis_State_of_Santa_Catarina.html"
+    },
+    {
+      "fonte": "TripAdvisor (Lagoa Azul)",
+      "nota": 4.5,
+      "avaliacoes": 363,
+      "url": "https://www.tripadvisor.com/RestaurantsNear-g303576-d4037868-Costa_da_Lagoa-Florianopolis_State_of_Santa_Catarina.html"
+    },
+    {
+      "fonte": "TripAdvisor (Restaurante Cachoeira)",
+      "nota": 4.4,
+      "avaliacoes": 182,
+      "url": "https://www.tripadvisor.com/Restaurant_Review-g303576-d3544857-Reviews-Restaurante_Cachoeira_Costa_da_Lagoa-Florianopolis_State_of_Santa_Catarina.html"
+    }
+  ],
+  "da_lagoa": {
+    "tempo_min": 40,
+    "km": 7,
+    "obs": "Barco: ~30 min até o Ponto 16 e ~50 min até o Ponto 19 (Cabral). Trilha: 8 min de carro até o Canto dos Araçás e ~2 h a pé"
+  },
+  "estacionamento": "Para o barco: vá a pé do Centrinho. Para a trilha: poucas vagas de rua no Canto dos Araçás e estacionamentos privados pagos, alguns com banheiro e ducha (Trilhas em SC, 2021)",
+  "horarios": "Cooperbarco (NSC Total, ~fev/2026), saídas da Lagoa: dias úteis 7h10–23h30, de hora em hora; fins de semana e feriados 8h–22h, a cada 30 min. Saídas da Costa para a Lagoa: dias úteis ~5h00/5h50–21h30. O último barco de volta, por volta das 21h30, é o que limita a noite",
+  "precos": "Barco R$ 15 por trecho para turista (set/2025); moradores pagam R$ 2,50–3,25. Pix, débito ou dinheiro no guichê. Trilha gratuita",
+  "melhor_horario": "Almoço de sábado (barco às 11h, volta às 15h) ou barco das 17h10/18h10 em dia útil para ver o pôr do sol da água, com jantar cedo e volta no barco das ~21h30",
+  "duracao": "3–4 h de barco + almoço; 5–6 h com a trilha",
+  "trilha": {
+    "distancia_km": 6.8,
+    "tempo_ida_min": 120,
+    "desnivel_m": null,
+    "dificuldade": "leve a moderada: relevo tranquilo, pedras no caminho, trechos escorregadios após chuva",
+    "inicio": "Fim da Rua João Henrique Gonçalves, Canto dos Araçás (Ponto 3 da Cooperbarco)",
+    "sinalizacao": "Placa na entrada com distância e dificuldade, e marcos de distância ao longo do caminho (Trilhas em SC, 2021)"
+  },
+  "o_que_levar": [
+    "dinheiro ou Pix para o barco",
+    "água",
+    "repelente",
+    "roupa de banho para a cachoeira e a lagoa",
+    "lanterna se voltar à noite"
+  ],
+  "cuidados": [
+    "Confirme o horário do último barco de volta antes de jantar: se perder, não há estrada",
+    "Restaurantes da Costa costumam fechar entre 17h e 19h. O Cachoeira e o Sabor da Costa funcionam das 9h às 17h, segundo guia antigo",
+    "Não pule da cachoeira nem das pedras (Floripa.com)",
+    "A Coopercosta, que sai do Rio Vermelho, é outra cooperativa: volte pela mesma em que foi"
+  ],
+  "clima": {
+    "sensivel_a": [
+      "chuva forte (trilha escorregadia)",
+      "vento forte na Lagoa"
+    ],
+    "plano_b": "Com chuva fraca, o barco funciona e o almoço é coberto; pule a trilha"
+  },
+  "publico": "Turistas, casais e grupos; mais cheio em fins de semana, quando sai barco a cada 30 min",
+  "combina_com": [
+    "centrinho-da-lagoa",
+    "sup-lagoa",
+    "barra-da-lagoa"
+  ],
+  "encaixe": [
+    "fim-de-semana",
+    "pos-expediente"
+  ],
+  "fotos": [
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/1/19/Portal_para_a_trilha_da_Costa_da_Lagoa.jpg",
+      "pagina": "https://commons.wikimedia.org/wiki/File:Portal_para_a_trilha_da_Costa_da_Lagoa.jpg",
+      "autor": "Catarina Saito",
+      "licenca": "CC BY-SA 4.0"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/2/2a/Barcos_na_beira_da_Costa_da_Lagoa.jpg",
+      "pagina": "https://commons.wikimedia.org/wiki/File:Barcos_na_beira_da_Costa_da_Lagoa.jpg",
+      "autor": "Catarina Saito",
+      "licenca": "CC BY-SA 4.0"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/8/8e/Canoa_de_Garapuv%C3%BA_%28Schizolobium_parahyba%29_na_Costa_da_Lagoa%2C_Florian%C3%B3polis_%281%29.jpg",
+      "pagina": "https://commons.wikimedia.org/wiki/File:Canoa_de_Garapuv%C3%BA_%28Schizolobium_parahyba%29_na_Costa_da_Lagoa%2C_Florian%C3%B3polis_%281%29.jpg",
+      "autor": "André Ganzarolli Martins",
+      "licenca": "CC0"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/0/09/Costa_da_Lagoa_%286803889078%29.jpg",
+      "pagina": "https://commons.wikimedia.org/wiki/File:Costa_da_Lagoa_%286803889078%29.jpg",
+      "autor": "Otávio Nogueira",
+      "licenca": "CC BY 2.0"
+    }
+  ],
+  "dicas": [
+    "Sábado 28 (véspera da SC21K): vá e volte de barco e almoce, sem fazer os 7 km de trilha",
+    "Cabral fica no Ponto 19, a última parada; uma avaliação o chama de \"melhor restaurante da Costa\"",
+    "Paraíso da Néia abria de seg. a sex. das 10h às 19h (Visite Floripa): é a melhor aposta para o fim de tarde em dia útil, mas confirme",
+    "Ligeirinho (lancha fretada da Cooperbarco): ~15 min, preço dividido entre os passageiros (dados de 2017)",
+    "Cachoeira: desça no Ponto 16 e ande pela trilha; em época seca tem pouca água"
+  ],
+  "fontes": [
+    "https://www.nsctotal.com.br/cotidiano/como-e-e-quanto-custa-o-transporte-de-barco-para-a-costa-da-lagoa-em-florianopolis",
+    "https://cooperbarco.wordpress.com/",
+    "https://en.guiafloripa.com.br/cidade/mobilidade-urbana/transporte-hidroviario",
+    "https://atravessarfronteiras.com.br/2025/09/12/costa-da-lagoa-um-encanto-de-floripa-onde-so-se-chega-de-barco/",
+    "https://trilhasemsc.com.br/florianopolis/trilhas/leve/trilha-da-costa-da-lagoa",
+    "https://floripa.com/o-que-fazer/costa-da-lagoa-paraiso-entre-trilhas-barcos-e-sabores-da-cultura-acoriana/",
+    "https://localtour.com.br/costa-da-lagoa/",
+    "https://visitefloripa.com.br/en_us/?p=4804",
+    "https://ndmais.com.br/noticias/cooperbarco-disponibiliza-transporte-rapido-para-costa-e-barra-da-lagoa-em-florianopolis/"
+  ],
+  "verificado_em": "2026-11-16",
+  "confianca": "media",
+  "pendencias": [
+    "Quadro de horários de nov/2026 da Cooperbarco (só em imagem no blog e no Instagram), principalmente o último barco Costa → Lagoa em dia útil (21h30?)",
+    "Quais restaurantes da Costa abrem para jantar em dia útil de novembro",
+    "Telefones divergentes: (48) 3220-0696 (blog) x (48) 3232-8266 (Guia Floripa)"
+  ],
+  "google": {
+    "place_id": "ChIJ5wRJlHA_J5URw4zuvdDxoXg",
+    "consultado_em": "2026-11-16"
+  }
+}

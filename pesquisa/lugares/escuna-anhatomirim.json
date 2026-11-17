@@ -1,0 +1,106 @@
+{
+  "id": "escuna-anhatomirim",
+  "nome": "Passeio de escuna (barco pirata) saindo de Canasvieiras",
+  "categoria": "passeio",
+  "regiao": "norte",
+  "resumo": "Passeio de barco pela Baía Norte saindo do trapiche de Canasvieiras, passando por Jurerê, pela Fortaleza da Ponta Grossa, pela Ilha do Francês e pela Baía dos Golfinhos, com parada para banho. Atenção: a Fortaleza de Anhatomirim está fechada para visitação desde 2/11/2026 por obras no trapiche, e o roteiro com desembarque nela está suspenso.",
+  "destaques": [
+    "Escuna Martin (barco pirata): Pocket de cerca de 2h, Full de cerca de 4h e Full + Anhatomirim de cerca de 5h, este suspenso",
+    "Full: saídas às 10h30, de terça a domingo exceto quarta, com parada para almoço na Armação (Gov. Celso Ramos)",
+    "Chance de ver botos-cinza na APA de Anhatomirim (não garantido)",
+    "Pode levar comida e bebida, mas não garrafas de vidro"
+  ],
+  "coords": {
+    "lat": -27.4255988,
+    "lng": -48.4501769,
+    "fonte": "OSM Nominatim",
+    "ponto": "Trapiche de Canasvieiras (embarque)"
+  },
+  "endereco": "Embarque no Trapiche de Canasvieiras (Rua Antenor Borges). Agência da Escuna Martin: R. Madre Maria Vilac, 2136, Canasvieiras.",
+  "links": {
+    "google_maps": "https://www.google.com/maps/search/?api=1&query=-27.4255988,-48.4501769",
+    "waze": "https://waze.com/ul?ll=-27.4255988,-48.4501769&navigate=yes",
+    "site": "https://escunamartin.com.br/barco-pirata-canasvieiras-preco/",
+    "instagram": "https://instagram.com/escunacapitaogancho",
+    "ingressos": null,
+    "reserva": "https://wa.me/5548999757488"
+  },
+  "nota_google": null,
+  "outras_notas": [],
+  "da_lagoa": {
+    "tempo_min": 50,
+    "km": 29,
+    "obs": "OSRM: 28,9 km e 33 min sem trânsito. Num sábado de manhã, conte de 45 a 60 min pela SC-401."
+  },
+  "estacionamento": "Estacionamentos pagos perto do trapiche de Canasvieiras; valor não confirmado.",
+  "horarios": "Full: terça, quinta, sexta, sábado e domingo, às 10h30 (site da Escuna Martin). Pocket: sob consulta; um guia de out/2026 diz que sai todo dia às 14h30. Full + Anhatomirim: suspenso. Só sai com número mínimo de pagantes; se não sair, há reembolso.",
+  "precos": "Pocket: R$ 140 antecipado (24h antes) ou R$ 160 no dia. Full: R$ 190 ou R$ 210. Full + Anhatomirim: R$ 240 ou R$ 260 (suspenso). Almoço e bar à parte. Taxa da Fortaleza de Anhatomirim: R$ 20, quando reabrir.",
+  "melhor_horario": "Sábado ou domingo de sol e mar calmo, na saída das 10h30.",
+  "duracao": "2h (Pocket) ou 4h (Full)",
+  "trilha": {
+    "distancia_km": null,
+    "tempo_ida_min": null,
+    "desnivel_m": null,
+    "dificuldade": null,
+    "inicio": null,
+    "sinalizacao": null
+  },
+  "o_que_levar": [
+    "roupa de banho e toalha",
+    "protetor solar",
+    "dinheiro para o almoço",
+    "remédio para enjoo, se precisar"
+  ],
+  "cuidados": [
+    "Anhatomirim fechada (UFSC, desde 2/11/2026, sem data de reabertura): não pague o roteiro com desembarque",
+    "Mar agitado ou vento sul cancelam o passeio",
+    "Golfinhos não são garantidos"
+  ],
+  "clima": {
+    "sensivel_a": [
+      "vento sul",
+      "mar agitado",
+      "chuva"
+    ],
+    "plano_b": "Fortaleza da Ponta Grossa por terra e Praia do Forte."
+  },
+  "publico": "Famílias e turistas; clima de passeio turístico, com animação a bordo.",
+  "combina_com": [
+    "fortaleza-ponta-grossa"
+  ],
+  "encaixe": [
+    "fim-de-semana"
+  ],
+  "fotos": [
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Escunas_em_Canasvieiras%2C_Florianopolis%2C_SC.jpg/1280px-Escunas_em_Canasvieiras%2C_Florianopolis%2C_SC.jpg",
+      "pagina": "https://commons.wikimedia.org/wiki/File:Escunas_em_Canasvieiras,_Florianopolis,_SC.jpg",
+      "autor": "Amanda Likes",
+      "licenca": "CC BY-SA 4.0"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Fortaleza_de_Anhatomirim.jpg/1280px-Fortaleza_de_Anhatomirim.jpg",
+      "pagina": "https://commons.wikimedia.org/wiki/File:Fortaleza_de_Anhatomirim.jpg",
+      "autor": "Rodbats",
+      "licenca": "CC BY-SA 4.0"
+    }
+  ],
+  "dicas": [
+    "Não cabe nos dias úteis: o Full só sai às 10h30, durante o expediente. Os fins de semana 21 e 22 estão lotados e o sábado 28 é dia leve; então só vale se sobrar uma manhã",
+    "Compre com 24h de antecedência para pagar R$ 20 a menos"
+  ],
+  "fontes": [
+    "https://escunamartin.com.br/barco-pirata-canasvieiras-preco/",
+    "https://escunamartin.com.br/barco-pirata-canas/",
+    "https://ceniconstrucoes.com.br/wp/guias/passeio-de-barco-florianopolis-precos-roteiros/",
+    "https://noticias.ufsc.br/2026/10/fortaleza-de-santa-cruz-de-anhatomirim-tera-fechamento-temporario-para-obras-no-trapiche-de-acesso/",
+    "https://sctd.com.br/geral/obras-em-trapiche-fecham-um-dos-principais-pontos-turisticos-de-sc/",
+    "https://fortalezas.ufsc.br/"
+  ],
+  "verificado_em": "2026-11-16",
+  "confianca": "media",
+  "pendencias": [
+    "Se o Pocket das 14h30 sai em dia útil em novembro",
+    "Reabertura de Anhatomirim"
+  ]
+}

@@ -1,0 +1,116 @@
+{
+  "id": "sc21k-2026",
+  "nome": "9ª Meia Maratona SC21K 2026",
+  "categoria": "evento",
+  "regiao": "continente",
+  "resumo": "Meia maratona da Corre Brasil, no domingo 29/11/2026, com provas de 5 km, 15 km e 21 km e arena na Beira-Mar Continental, embaixo da Ponte Hercílio Luz. A largada geral dos 21K e 15K é às 5h31 e a do 5K às 6h, conforme o regulamento oficial. O percurso de 21K e 15K costuma passar pelas pontes, pelo Túnel Antonieta de Barros (com DJ) e pela Via Expressa Sul.",
+  "destaques": [
+    "Largadas (regulamento oficial): 5h29 PCD 21K; 5h30 elite; 5h31 geral 21K e 15K; 6h PCD 5K; 6h01 geral 5K (o site diz 6h00); 8h30 kids; 8h45 premiação",
+    "Retirada do kit: sábado 28/11, das 9h às 19h, na arena",
+    "Chip no dia: domingo, das 4h30 às 5h, na arena; depois das 5h, não há entrega",
+    "Tempo limite: 5K em 1h, 15K em 2h, 21K em 3h; há guarda-volumes por número de peito"
+  ],
+  "coords": {
+    "lat": -27.5920196,
+    "lng": -48.5710582,
+    "fonte": "OSM Nominatim",
+    "ponto": "Av. Cláudio Alvim Barbosa (Beira-Mar Continental), perto da cabeceira continental da Ponte Hercílio Luz; a posição exata da arena não está mapeada"
+  },
+  "endereco": "Arena do evento: Beira-Mar Continental, Av. Cláudio Alvim Barbosa, s/n, Balneário Estreito, Florianópolis (site e regulamento oficiais). TicketSports e MovNow citam Rua Capitão Euclides de Castro, 1100, Coqueiros. Vale o endereço oficial.",
+  "links": {
+    "google_maps": "https://www.google.com/maps/search/?api=1&query=-27.5920196,-48.5710582",
+    "waze": "https://waze.com/ul?ll=-27.5920196,-48.5710582&navigate=yes",
+    "site": "https://www.correbrasil.com.br/sc21k-2026",
+    "instagram": "https://www.instagram.com/correbrasil",
+    "ingressos": "https://www.ticketsports.com.br/e/e-88388",
+    "reserva": null
+  },
+  "nota_google": null,
+  "outras_notas": [],
+  "da_lagoa": {
+    "tempo_min": 25,
+    "km": 17,
+    "obs": "OSRM: 17,3 km e 22 min sem trânsito, pela Admar Gonzaga, Beira-Mar Norte e Ponte Colombo Salles. Às 4h30 de domingo não há trânsito, mas some a busca de vaga e a caminhada: saindo às 4h30, chega por volta das 4h55 e fica na arena às 5h05–5h10. Dá certo só se o kit e o chip já tiverem sido retirados no sábado; para o 21K das 5h31 é apertado. Recomendação: sair às 4h15. Bloqueios na Beira-Mar Continental começaram às 5h30 em edições anteriores."
+  },
+  "estacionamento": "O regulamento cita um 'estacionamento conveniado', sem endereço. Em edições anteriores, a Av. Cláudio Alvim Barbosa foi fechada para carros a partir das 5h30. Estacione nas ruas do Estreito e do Balneário antes disso.",
+  "horarios": "Kit: sábado 28/11, das 9h às 19h. Chip no dia: das 4h30 às 5h. Largadas a partir das 5h29 (geral 21K e 15K às 5h31; 5K às 6h ou 6h01).",
+  "precos": "4º lote (14/10 a 25/11/2026): 5K R$ 119 sem kit e R$ 219 com kit; 15K R$ 139 e R$ 239; 21K R$ 169 e R$ 269. Inscrições até 25/11/2026 pelo regulamento, ou até 16/11 segundo De Olho na Ilha, ou até esgotar.",
+  "melhor_horario": "Chegar à arena até 5h05 para guarda-volumes e aquecimento.",
+  "duracao": "5h a 9h (com prova e premiação)",
+  "trilha": {
+    "distancia_km": null,
+    "tempo_ida_min": null,
+    "desnivel_m": null,
+    "dificuldade": null,
+    "inicio": null,
+    "sinalizacao": null
+  },
+  "o_que_levar": [
+    "número de peito e chip (retirados no sábado)",
+    "comprovante de inscrição no celular e documento com foto",
+    "1 kg de alimento não perecível (obrigatório na retirada)",
+    "roupa seca para o guarda-volumes",
+    "gel e água para o 21K"
+  ],
+  "cuidados": [
+    "Retirada por terceiros: autorização por escrito ou digital com nome, RG e telefone de quem retira, mais a confirmação de inscrição",
+    "Idade mínima: 18 anos para 15K e 21K; 14 anos para 5K",
+    "Calor e umidade aumentam depois das 7h: hidrate-se bem no sábado",
+    "Possível bloqueio de pontes e da Beira-Mar Continental a partir de 5h30: chegue antes"
+  ],
+  "clima": {
+    "sensivel_a": [
+      "chuva",
+      "vento sul",
+      "calor"
+    ],
+    "plano_b": "A prova acontece com chuva; só é cancelada em caso de força maior."
+  },
+  "publico": "Mais de 5 mil corredores em 2025, de todos os níveis.",
+  "combina_com": [
+    "ponte-hercilio-luz",
+    "forte-santana",
+    "mercado-publico"
+  ],
+  "encaixe": [
+    "fim-de-semana",
+    "cedo-dia-util"
+  ],
+  "fotos": [
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Ponte_Herc%C3%ADlio_Luz_Florianopolis-edit.jpg/1280px-Ponte_Herc%C3%ADlio_Luz_Florianopolis-edit.jpg",
+      "pagina": "https://commons.wikimedia.org/wiki/File:Ponte_Herc%C3%ADlio_Luz_Florianopolis-edit.jpg",
+      "autor": "Rodrigo Soldon from Rio de Janeiro, Brazil",
+      "licenca": "CC BY 2.0"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Ponte_Herc%C3%ADlio_Luz%2C_Florian%C3%B3polis.jpg/1280px-Ponte_Herc%C3%ADlio_Luz%2C_Florian%C3%B3polis.jpg",
+      "pagina": "https://commons.wikimedia.org/wiki/File:Ponte_Herc%C3%ADlio_Luz,_Florian%C3%B3polis.jpg",
+      "autor": "Daniel Becher",
+      "licenca": "CC BY 2.0"
+    }
+  ],
+  "dicas": [
+    "Resolvido: a largada geral do 21K e do 15K é às 5h31, com a elite às 5h30. O 5K larga às 6h (6h01 no regulamento)",
+    "Retire o kit no sábado de manhã (9h), junto com a caminhada pela ponte, já que a arena fica na cabeceira continental",
+    "Em 2025, o percurso de 21K e 15K passou pela Beira-Mar Continental, pelas pontes, pelo Túnel Antonieta de Barros (com DJ) e por um trecho da Via Expressa Sul. O mapa de 2026 ainda não foi publicado",
+    "As fotos são da Ponte Hercílio Luz, ao lado da arena; não há foto da prova no Commons"
+  ],
+  "fontes": [
+    "https://www.correbrasil.com.br/sc21k-2026",
+    "https://www.correbrasil.com.br/_files/ugd/36c67a_f8923312118d459593ed7fc9cc5a145d.pdf",
+    "https://www.deolhonailha.com.br/florianopolis/noticias/meia-maratona-sc21k-2026-beira-mar-continental-29-novembro/",
+    "https://www.ticketsports.com.br/e/e-88388",
+    "https://acontecendoaqui.com.br/eventos/sc21k-2025-movimenta-florianopolis-neste-fim-de-semana/",
+    "https://www.nsctotal.com.br/?p=7011531",
+    "https://router.project-osrm.org (tempo sem trânsito)"
+  ],
+  "verificado_em": "2026-11-16",
+  "confianca": "alta",
+  "pendencias": [
+    "Mapa do percurso de 2026 (a seção 'Conheça os percursos' do site está vazia)",
+    "Endereço do estacionamento conveniado",
+    "Plano de trânsito da Prefeitura para 29/11 (bloqueios de pontes e da Beira-Mar)",
+    "O regulamento tem um erro de digitação ('No 23 de novembro' na seção do 21K); o resto do documento e o site dizem 29/11"
+  ]
+}

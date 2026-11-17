@@ -1,0 +1,113 @@
+{
+  "id": "centro-noite",
+  "nome": "Noite no Centro: Centro Leste (samba) e Rua Bocaiúva",
+  "categoria": "noite",
+  "regiao": "centro",
+  "resumo": "O Centro tem dois polos a pé: o Centro Leste/histórico (Bugio, Bar do Noel, Largo da Alfândega) com roda de samba e bar de calçada, e a Rua Bocaiúva, perto da Beira-Mar, com rooftop, drinks e cerveja. Entre os dois são ~1,6 km (22 min).",
+  "destaques": [
+    "Sex 20/11/2026 (feriado): 7ª Noite Funarte no Bugio Centro, 13h–22h, grátis — Samba da Antonieta com Glória Bomfim e Dú Kadência, Pastorinhas do Samba, Choro Negro, DJ Pretana, feijoada",
+    "Bugio Centro (Rua Victor Meirelles, 112): Samba da Antonieta aos sábados 17h30–21h30; a roda ocupa Victor Meirelles e Nunes Machado",
+    "Bar do Noel (Travessa Ratcliff): roda de samba de sexta a domingo, gente na rua",
+    "Café/bar do Largo da Alfândega: música de quinta a sábado; Borogodó da Ilha (Praça Olívio Amorim): samba ter–sáb; Da Esquina Boteco: sextas ~21h",
+    "Rua Bocaiúva: Duplex 48 / Bocaiúva Rooftop (nº 2297, DJs qua–sáb a partir de 18h–19h), Jazzinn (nº 2468, jazz/blues), UNIKA Bar (Beiramar Shopping, 21 torneiras), Monsenhor Cervejaria, Emporium Bocaiúva (nº 1901)",
+    "Balbúrdia Cervejeira (R. Alm. Lamego, 425): sáb 21/11 'Especial Bob Marley com Marley Concert', casa 17h, show 21h, até 1h",
+    "Mercado Público: bares só 11h–17h — não conte com ele à noite"
+  ],
+  "coords": {
+    "lat": -27.5984806,
+    "lng": -48.5487744,
+    "fonte": "OSM Nominatim",
+    "ponto": "Bugio Centro (nó OSM, Rua Victor Meirelles, 112) — centro da roda de samba do Centro Leste"
+  },
+  "endereco": "Polo 1: Rua Victor Meirelles / Rua Nunes Machado / Travessa Ratcliff (Centro Leste). Polo 2: Rua Bocaiúva, 1901–2468 (Beira-Mar Norte).",
+  "links": {
+    "google_maps": "https://www.google.com/maps/search/?api=1&query=-27.5984806,-48.5487744",
+    "waze": "https://waze.com/ul?ll=-27.5984806,-48.5487744&navigate=yes",
+    "site": null,
+    "instagram": null,
+    "ingressos": "https://www.pensanoevento.com.br/eventos/110624/especial-bob-marley-com-marley-concert",
+    "reserva": null
+  },
+  "nota_google": null,
+  "outras_notas": [],
+  "da_lagoa": {
+    "tempo_min": 30,
+    "km": 13.8,
+    "obs": "Do Centrinho ao Bugio: 13,8 km, 19 min sem trânsito; à Bocaiúva 12,3 km, 16 min (OSM routing (routing.openstreetmap.de, OSRM), tempo sem trânsito). Na volta da sexta à noite, conte 25–35 min (estimativa). Uber/99 nos dois sentidos."
+  },
+  "estacionamento": "Centro tem zona azul de dia e pouca vaga à noite; vá de Uber.",
+  "horarios": "Ver destaques: samba concentra-se de sexta a domingo; Bocaiúva funciona de terça a sábado à noite.",
+  "precos": "Rodas de samba de rua em geral sem ingresso (consumo no bar); Noite Funarte grátis; Bocaiúva tem perfil de preço mais alto (drinks autorais).",
+  "melhor_horario": "Sexta a partir das 20h no Centro Leste; Bocaiúva no happy hour (18h–21h).",
+  "duracao": "3–5 h",
+  "trilha": {
+    "distancia_km": null,
+    "tempo_ida_min": null,
+    "desnivel_m": null,
+    "dificuldade": null,
+    "inicio": null,
+    "sinalizacao": null
+  },
+  "o_que_levar": [],
+  "cuidados": [
+    "Lei Seca: tolerância zero para álcool ao volante (CTB art. 165). Quem beber não dirige — Uber/99 ou motorista da vez que fica no zero.",
+    "Golpe da maquininha: confira o valor no visor antes de aproximar o cartão/celular e peça o comprovante — golpe comum em eventos, com alertas na imprensa em 2026 (em.com.br, 04/2026).",
+    "Ingresso só no canal oficial (Ingresse, Sympla, Shotgun, Pensanoevento, Guichê Web ou bilheteria da casa). Ingresse/ABREVIN alertam contra revenda em Viagogo, StubHub e grupos de WhatsApp/Telegram.",
+    "Leve documento original com foto: as casas são 18+ e conferem na porta.",
+    "Centro esvazia tarde da noite fora das ruas de bar: ande em grupo e chame o Uber na porta."
+  ],
+  "clima": {
+    "sensivel_a": [
+      "chuva"
+    ],
+    "plano_b": "Com chuva, rodas de rua minguam: ir para o Bocaiúva Rooftop (coberto) ou UNIKA no Beiramar Shopping."
+  },
+  "publico": "Centro Leste: jovem, universitário e de samba, misturado e de rua. Bocaiúva: 25–40, mais arrumado, happy hour de quem trabalha no Centro.",
+  "combina_com": [
+    "festas-universitarias",
+    "agenda-noite-20-28-nov"
+  ],
+  "encaixe": [
+    "pos-expediente",
+    "noite"
+  ],
+  "fotos": [
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/b/b5/Ponte_Hercilio_Luz_a_noite.jpg",
+      "pagina": "https://commons.wikimedia.org/wiki/File:Ponte_Hercilio_Luz_a_noite.jpg",
+      "autor": "Herr stahlhoefer",
+      "licenca": "Public domain"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/8/81/Beira_mar_norte.jpg",
+      "pagina": "https://commons.wikimedia.org/wiki/File:Beira_mar_norte.jpg",
+      "autor": "Alex Fabiano João",
+      "licenca": "CC BY-SA 4.0"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/2/28/Mercado_P%C3%BAblico_de_Florian%C3%B3polis_%28p%C3%BAblico%29.jpg",
+      "pagina": "https://commons.wikimedia.org/wiki/File:Mercado_P%C3%BAblico_de_Florian%C3%B3polis_(p%C3%BAblico).jpg",
+      "autor": "Prefeitura de Florianópolis",
+      "licenca": "CC BY 2.0"
+    }
+  ],
+  "dicas": [
+    "Roteiro a pé: Bocaiúva no happy hour (18h30) → caminhar 22 min até Victor Meirelles → Bar do Noel/Bugio para o samba.",
+    "Quinta é fraca no Centro Leste (as rodas são sex–dom); para quinta, a Lagoa rende mais."
+  ],
+  "fontes": [
+    "https://www.deolhonailha.com.br/florianopolis/noticias/7a-noite-funarte-gloria-bomfim-samba-da-antonieta-bugio-centro-20-novembro/",
+    "https://ndmais.com.br/turismo/11-lugares-para-curtir-roda-de-samba-em-florianopolis/",
+    "https://www.viajali.com.br/bares-florianopolis/",
+    "https://www.pensanoevento.com.br/locais/2738/bocaiuva-roftoop-e-bar",
+    "https://www.pensanoevento.com.br/eventos/110624/especial-bob-marley-com-marley-concert",
+    "https://piramides.com.br/blog/florianopolis/o-que-fazer-no-centro-de-florianopolis/",
+    "https://tripmundao.com/florianopolis/48h-na-cidade/"
+  ],
+  "verificado_em": "2026-11-16",
+  "confianca": "media",
+  "pendencias": [
+    "Agenda de novembro do Bocaiúva Rooftop (a última vista é de outubro)",
+    "Se o Bar do Noel mantém samba de sexta em 27/11"
+  ]
+}

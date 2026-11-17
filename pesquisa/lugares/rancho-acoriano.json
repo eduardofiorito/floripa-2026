@@ -1,0 +1,94 @@
+{
+  "id": "rancho-acoriano",
+  "nome": "Rancho Açoriano (Ribeirão da Ilha)",
+  "categoria": "comida",
+  "regiao": "sul",
+  "resumo": "Restaurante grande e tradicional do Ribeirão, com deck sobre a baía e ostras do próprio cultivo; mais de 25 anos de casa. Bom para sequência de ostras em grupo; fica 2 km antes da Freguesia.",
+  "destaques": [
+    "Ostras de cultivo próprio; cliente cita degustação de 35 ostras para dois",
+    "Deck com vista para o mar",
+    "Peixes e camarões além da ostra",
+    "Vizinho do Porto do Contrato (OSM: Rod. Baldicero Filomeno, 5544)"
+  ],
+  "coords": {
+    "lat": -27.704415,
+    "lng": -48.5561837,
+    "fonte": "OSM Nominatim",
+    "ponto": "restaurante (OSM: Rod. Baldicero Filomeno, 5634)"
+  },
+  "endereco": "Rod. Baldicero Filomeno, 5634, Ribeirão da Ilha (fontes também citam o nº 5618)",
+  "links": {
+    "google_maps": "https://www.google.com/maps/search/?api=1&query=Rancho%20A%C3%A7oriano%20%28Ribeir%C3%A3o%20da%20Ilha%29&query_place_id=ChIJiZc2np46J5URSayqdznJ_gk",
+    "waze": "https://waze.com/ul?ll=-27.704415,-48.5561837&navigate=yes",
+    "site": null,
+    "instagram": "https://www.instagram.com/ranchoacoriano/",
+    "ingressos": null,
+    "reserva": null
+  },
+  "nota_google": null,
+  "outras_notas": [],
+  "da_lagoa": {
+    "tempo_min": 35,
+    "km": 19,
+    "obs": "Pouco antes do Ostradamus no mesmo trajeto."
+  },
+  "estacionamento": "Próprio, segundo fichas (não confirmado).",
+  "horarios": "Ficha Visite Floripa: seg e qua–sáb 11h–23h; ter fechado; dom 11h–16h.",
+  "precos": null,
+  "melhor_horario": "Almoço de sábado ou jantar com pôr do sol.",
+  "duracao": "1h30",
+  "trilha": {
+    "distancia_km": null,
+    "tempo_ida_min": null,
+    "desnivel_m": null,
+    "dificuldade": null,
+    "inicio": null,
+    "sinalizacao": null
+  },
+  "o_que_levar": [],
+  "cuidados": [
+    "Fechado às terças",
+    "Existe outra unidade em Coqueiros (continente); não confundir"
+  ],
+  "clima": {
+    "sensivel_a": [],
+    "plano_b": "Salão interno."
+  },
+  "publico": "Famílias e grupos.",
+  "combina_com": [
+    "ribeirao-da-ilha",
+    "ostradamus"
+  ],
+  "encaixe": [
+    "fim-de-semana",
+    "pos-expediente"
+  ],
+  "fotos": [
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/c/c3/Rede_de_pesca_de_ostras_%2814272800831%29.jpg",
+      "pagina": "https://commons.wikimedia.org/wiki/File:Rede_de_pesca_de_ostras_(14272800831).jpg",
+      "autor": "Joao Paulo de Vasconcelos",
+      "licenca": "CC BY-SA 2.0"
+    }
+  ],
+  "dicas": [
+    "Porto do Contrato, ao lado, é outra boa opção histórica (antigo porto do Ribeirão)"
+  ],
+  "fontes": [
+    "https://visitefloripa.com.br/en_us/?p=2832",
+    "https://jovempan.com.br/entretenimento/onde-comer-ostras-em-florianopolis-roteiro-do-ribeirao-da-ilha/",
+    "https://www.nsctotal.com.br/?p=6657808",
+    "https://wanderlog.com/place/details/1181293/rancho-açoriano"
+  ],
+  "verificado_em": "2026-11-16",
+  "confianca": "baixa",
+  "pendencias": [
+    "Número exato (5618 x 5634)",
+    "Preços e reserva",
+    "Horário atual"
+  ],
+  "google": {
+    "place_id": "ChIJiZc2np46J5URSayqdznJ_gk",
+    "consultado_em": "2026-11-16"
+  }
+}

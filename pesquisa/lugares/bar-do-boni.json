@@ -1,0 +1,130 @@
+{
+  "id": "bar-do-boni",
+  "nome": "Bar do Boni",
+  "categoria": "noite",
+  "regiao": "leste-lagoa",
+  "resumo": "Bar clássico de beira de lagoa no Retiro da Lagoa, com pôr do sol, frutos do mar e música ao vivo à noite. É o 'P1' do grupo: chega no fim da tarde, vê o sol cair e fica para a música. Lota e mistura turistas e gente local.",
+  "destaques": [
+    "Vista da Lagoa da Conceição no pôr do sol (~18h50 em novembro)",
+    "Música ao vivo; o site oficial diz 'todos os dias'. Shows de 2026 misturaram sertanejo e samba (ex.: 03/05/2026, Fábio Dunk no sertanejo às 18h + Entre Elas no samba às 20h30)",
+    "Dom 22/11/2026: 1ª Festa Campeira do Bar do Boni, 15h30–2h, com Melizza, Maiara Coelho, Joni Lopes, Felipe & Kaynan e show de Paulinho Mocelin; pedem traje campeiro (ingresso antecipado pela Pensanoevento, preço ainda não publicado)",
+    "Petiscos de camarão são o destaque da cozinha (BOABreja, 11/2026)"
+  ],
+  "coords": {
+    "lat": -27.6086717,
+    "lng": -48.441917,
+    "fonte": "OSM Nominatim",
+    "ponto": "nó do bar no OSM (amenity=pub), Av. Pref. Acácio Garibaldi São Thiago, Retiro da Lagoa"
+  },
+  "endereco": "Av. Pref. Acácio Garibaldi São Thiago, 67 – Retiro da Lagoa, Lagoa da Conceição, Florianópolis (Pensanoevento/Sympla/BOABreja). O Diário de Floripa cita 'Av. das Rendeiras, 2232' e o Apontador cita 'Av. das Rendeiras, 67': é o mesmo trecho, na ponta da Av. das Rendeiras",
+  "links": {
+    "google_maps": "https://www.google.com/maps/search/?api=1&query=Bar%20do%20Boni&query_place_id=ChIJ37mFmbw-J5URJlNBtg4RXX0",
+    "waze": "https://waze.com/ul?ll=-27.6086717,-48.441917&navigate=yes",
+    "site": "https://bardoboni.com.br/",
+    "instagram": "https://www.instagram.com/bardoboni/",
+    "ingressos": "https://www.pensanoevento.com.br/casas/1513/bar-do-boni",
+    "reserva": "Telefone/WhatsApp (48) 99107-1139 (Pensanoevento)"
+  },
+  "nota_google": null,
+  "outras_notas": [
+    {
+      "fonte": "Apontador",
+      "nota": 4.0,
+      "avaliacoes": 6,
+      "url": "https://www.apontador.com.br/local/sc/florianopolis/entretenimento_e_lazer/4KCC2459/bar_do_boni.html"
+    }
+  ],
+  "da_lagoa": {
+    "tempo_min": 8,
+    "km": 3.3,
+    "obs": "Do Centrinho (Praça Bento Silvério): 3,3 km, ~5 min de carro sem trânsito (OSM routing (routing.openstreetmap.de, OSRM), tempo sem trânsito); a pé 2,8 km/~37 min pela Av. das Rendeiras. À noite e depois de beber, vá de Uber/99. Do John Bull/Espartano são 1,2 km (~16 min a pé)."
+  },
+  "estacionamento": "Pouca vaga na rua; avaliações antigas (2014) citam estacionamento privado em frente (R$ 5 na época). Melhor não ir de carro se for beber.",
+  "horarios": "BOABreja (04/11/2026): todos os dias, 11h–2h. Guia da Semana (sem data): diariamente 17h–23h. Apontador (antigo): 18h–22h. Fontes divergem: confirmar no Instagram.",
+  "precos": "Descrito como 'preço justo' (Viajali) e 'acessível' em avaliações; nenhum cardápio com valores achado. Festas especiais têm ingresso (Festa Campeira 22/11: valor ainda não publicado).",
+  "melhor_horario": "Chegar 17h30–18h para pegar mesa e o pôr do sol; a música engrena à noite. Fins de semana e domingos de show são os dias mais cheios.",
+  "duracao": "3–5 h",
+  "trilha": {
+    "distancia_km": null,
+    "tempo_ida_min": null,
+    "desnivel_m": null,
+    "dificuldade": null,
+    "inicio": null,
+    "sinalizacao": null
+  },
+  "o_que_levar": [],
+  "cuidados": [
+    "Lei Seca: tolerância zero para álcool ao volante (CTB art. 165). Quem beber não dirige — Uber/99 ou motorista da vez que fica no zero.",
+    "Golpe da maquininha: confira o valor no visor antes de aproximar o cartão/celular e peça o comprovante — golpe comum em eventos, com alertas na imprensa em 2026 (em.com.br, 04/2026).",
+    "Ingresso só no canal oficial (Ingresse, Sympla, Shotgun, Pensanoevento, Guichê Web ou bilheteria da casa). Ingresse/ABREVIN alertam contra revenda em Viagogo, StubHub e grupos de WhatsApp/Telegram.",
+    "Leve documento original com foto: as casas são 18+ e conferem na porta.",
+    "Espaço interno pequeno: em noite cheia, espera por mesa e atendimento (avaliações).",
+    "Avenida sem calçada boa em trechos: à noite, não volte a pé até o Centrinho."
+  ],
+  "clima": {
+    "sensivel_a": [
+      "chuva",
+      "vento sul"
+    ],
+    "plano_b": "Com chuva/vento sul a área externa perde a graça: ir direto para Rufus/Quintal Lagoa no Centrinho."
+  },
+  "publico": "Casais, grupos de amigos, turistas e moradores; happy hour que vira noite. Sem dress code. Dias de show (fim de semana/domingo) atraem público de samba/pagode e sertanejo.",
+  "combina_com": [
+    "john-bull-floripa",
+    "espartano-lagoa",
+    "rufus",
+    "bar-deraiz"
+  ],
+  "encaixe": [
+    "pos-expediente",
+    "noite",
+    "fim-de-semana"
+  ],
+  "fotos": [
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/f/f1/Avdasrendeiras.jpg",
+      "pagina": "https://commons.wikimedia.org/wiki/File:Avdasrendeiras.jpg",
+      "autor": "Ben Tavener",
+      "licenca": "CC BY 2.0"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/a/a8/A_magia_do_por_do_sol_na_lagoa.jpg",
+      "pagina": "https://commons.wikimedia.org/wiki/File:A_magia_do_por_do_sol_na_lagoa.jpg",
+      "autor": "BruRibeiro",
+      "licenca": "CC BY-SA 4.0"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/d/d5/Lagoarendeiras.jpg",
+      "pagina": "https://commons.wikimedia.org/wiki/File:Lagoarendeiras.jpg",
+      "autor": "Ben Tavener",
+      "licenca": "CC BY 2.0"
+    }
+  ],
+  "dicas": [
+    "Para grupo de 4, mande mensagem antes pedindo mesa perto da lagoa.",
+    "Combina como esquenta: Boni no pôr do sol, depois 1,2 km até o Espartano (balada até 4h) ou Uber até o DeRaiz.",
+    "Se o domingo 22 abrir uma brecha, a Festa Campeira (sertanejo, 15h30–2h) é o evento mais 'a cara' do grupo no próprio Boni."
+  ],
+  "fontes": [
+    "https://www.pensanoevento.com.br/casas/1513/bar-do-boni",
+    "https://www.pensanoevento.com.br/eventos/111270/1a-festa-campeira-do-bar-do-boni",
+    "https://www.sympla.com.br/evento/entre-elas-bar-do-boni/3402130",
+    "https://www.boabreja.com.br/blog/bares-lagoa-da-conceicao",
+    "https://diariodefloripa.com.br/bares-na-lagoa-da-conceicao/",
+    "https://www.viajali.com.br/bares-florianopolis/",
+    "https://www.guiadasemana.com.br/florianopolis/bares/estabelecimento/bar-do-boni",
+    "https://www.apontador.com.br/local/sc/florianopolis/entretenimento_e_lazer/4KCC2459/bar_do_boni.html"
+  ],
+  "verificado_em": "2026-11-16",
+  "confianca": "media",
+  "pendencias": [
+    "Programação semanal de música (quais dias têm samba/pagode/sertanejo) — só no Instagram @bardoboni",
+    "Horário real de fechamento (fontes dizem 23h, 22h ou 2h)",
+    "Preço do ingresso da Festa Campeira de 22/11",
+    "Site bardoboni.com.br deu erro 500 na verificação"
+  ],
+  "google": {
+    "place_id": "ChIJ37mFmbw-J5URJlNBtg4RXX0",
+    "consultado_em": "2026-11-16"
+  }
+}

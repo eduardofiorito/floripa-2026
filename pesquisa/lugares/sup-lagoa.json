@@ -1,0 +1,115 @@
+{
+  "id": "sup-lagoa",
+  "nome": "Stand up paddle na Lagoa (Av. das Rendeiras)",
+  "categoria": "atividade",
+  "regiao": "leste-lagoa",
+  "resumo": "A água calma da Lagoa, ao longo da Avenida das Rendeiras, é o lugar de alugar prancha de stand up e remar no fim da tarde com o sol se pondo atrás dos morros. Os pontos de aluguel ficam a 5 minutos do Centrinho, mas os preços de 2026 não aparecem online.",
+  "destaques": [
+    "Floripa SUP Club: Av. das Rendeiras, 1672, com aula, aluguel e venda",
+    "Aldeia da Conceição: mesmo endereço (Rendeiras, 1672), espaço náutico com windsurf, kite, canoagem havaiana, day use e \"aulas e aluguéis\"",
+    "EasySUP: Av. das Rendeiras, 408, loja, escola e aluguel (informação antiga)",
+    "Ilha Bike Watersports: pedalinho, caiaque e SUP na Lagoa (endereço não confirmado)",
+    "Remada de pôr do sol com o sol caindo atrás do Morro da Lagoa"
+  ],
+  "coords": {
+    "lat": -27.6087563,
+    "lng": -48.4517194,
+    "fonte": "OSM Nominatim (trecho da Av. das Rendeiras; número 1672 não geocodificado)",
+    "ponto": "trecho central da Av. das Rendeiras, onde ficam os pontos de aluguel; posição aproximada"
+  },
+  "endereco": "Av. das Rendeiras, 1672 (Floripa SUP Club / Aldeia da Conceição), Lagoa da Conceição, 88062-400",
+  "links": {
+    "google_maps": "https://www.google.com/maps/search/?api=1&query=-27.6087563,-48.4517194",
+    "waze": "https://waze.com/ul?ll=-27.6087563,-48.4517194&navigate=yes",
+    "site": "https://www.aldeiadaconceicao.com.br/",
+    "instagram": "https://www.instagram.com/aldeiadaconceicao/",
+    "ingressos": null,
+    "reserva": null
+  },
+  "nota_google": null,
+  "outras_notas": [],
+  "da_lagoa": {
+    "tempo_min": 4,
+    "km": 1.8,
+    "obs": "Pela Av. das Rendeiras; a pé ~20 min. Estimativa pelo mapa"
+  },
+  "estacionamento": "Na própria avenida, onde houver vaga; sem informação de custo",
+  "horarios": "Não confirmados",
+  "precos": "Não confirmados para 2026. Referências antigas: R$ 30 por meia hora (avaliação no TripAdvisor sem data) e R$ 30/h só a prancha com aula a R$ 60 (blog de 2017)",
+  "melhor_horario": "17h30–18h50, com a Lagoa calma; o pôr do sol é ~18h50",
+  "duracao": "1 h",
+  "trilha": {
+    "distancia_km": null,
+    "tempo_ida_min": null,
+    "desnivel_m": null,
+    "dificuldade": null,
+    "inicio": null,
+    "sinalizacao": null
+  },
+  "o_que_levar": [
+    "saco estanque para o celular",
+    "roupa que pode molhar",
+    "protetor solar",
+    "toalha"
+  ],
+  "cuidados": [
+    "A Rendeiras é ponto de windsurf e kite (oferecidos na Aldeia): sinal de que venta à tarde. Se o vento estiver forte, a remada de volta fica pesada",
+    "Use o leash (cordinha) e fique perto da margem ao escurecer",
+    "Não reme depois do pôr do sol sem luz"
+  ],
+  "clima": {
+    "sensivel_a": [
+      "vento nordeste forte",
+      "vento sul",
+      "chuva",
+      "raios"
+    ],
+    "plano_b": "Caminhada e jantar na Av. das Rendeiras"
+  },
+  "publico": "Iniciantes; não precisa experiência na água calma",
+  "combina_com": [
+    "avenida-das-rendeiras",
+    "centrinho-da-lagoa",
+    "costa-da-lagoa",
+    "bar-do-boni"
+  ],
+  "encaixe": [
+    "pos-expediente",
+    "cedo-dia-util",
+    "fim-de-semana"
+  ],
+  "fotos": [
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/9/98/Stand-up_Paddle_na_Lagoa_%287625442380%29.jpg",
+      "pagina": "https://commons.wikimedia.org/wiki/File:Stand-up_Paddle_na_Lagoa_%287625442380%29.jpg",
+      "autor": "Otávio Nogueira",
+      "licenca": "CC BY 2.0"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/d/d5/Lagoarendeiras.jpg",
+      "pagina": "https://commons.wikimedia.org/wiki/File:Lagoarendeiras.jpg",
+      "autor": "Ben Tavener",
+      "licenca": "CC BY 2.0"
+    }
+  ],
+  "dicas": [
+    "Ligue ou mande WhatsApp antes para a Aldeia da Conceição, +55 48 99192-1596, e pergunte preço por hora e até que horas aluga",
+    "De manhã cedo a Lagoa costuma estar parada; é alternativa de antes do expediente",
+    "Remada de lua cheia já foi organizada na Lagoa, mas a referência é antiga e não é para iniciantes"
+  ],
+  "fontes": [
+    "https://www.aldeiadaconceicao.com.br/",
+    "https://www.aldeiadaconceicao.com.br/service-page/caiaque-passeio",
+    "https://easysup.wordpress.com/",
+    "https://www.facebook.com/ilhabikefloripa/",
+    "https://www.tripadvisor.com.br/ShowUserReviews-g303576-d553866-r199317215-Lagoa_da_Conceicao-Florianopolis_State_of_Santa_Catarina.html",
+    "https://30depassagem.wordpress.com/2017/04/21/stand-up-paddle-floripa/",
+    "https://destinoflorianopolis.com.br/5-lugares-para-fazer-stand-up-paddle-em-florianopolis/"
+  ],
+  "verificado_em": "2026-11-16",
+  "confianca": "baixa",
+  "pendencias": [
+    "Quem aluga SUP hoje, preço por hora e horário de fechamento (só no Instagram ou WhatsApp)",
+    "Se o Floripa SUP Club ainda existe (a página do guia Waves deu 404)"
+  ]
+}

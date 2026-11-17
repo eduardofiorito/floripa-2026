@@ -1,0 +1,97 @@
+{
+  "id": "john-bull-floripa",
+  "nome": "John Bull Floripa",
+  "categoria": "noite",
+  "regiao": "leste-lagoa",
+  "resumo": "Casa de shows de rock na Av. das Rendeiras, com deck sobre a lagoa, bandas ao vivo e noites temáticas/tributos. Vizinho do Espartano: dá para alternar os dois a pé.",
+  "destaques": [
+    "Rock, blues e reggae ao vivo; noites temáticas e tributos",
+    "Deck com vista da lagoa",
+    "Vizinho de porta do Espartano; 1,2 km do Bar do Boni"
+  ],
+  "coords": {
+    "lat": -27.608376,
+    "lng": -48.453926,
+    "fonte": "OSM Nominatim",
+    "ponto": "nó 'John Bull Layback' no OSM, Av. das Rendeiras, 1046"
+  },
+  "endereco": "Av. das Rendeiras, 1046 – Lagoa da Conceição",
+  "links": {
+    "google_maps": "https://www.google.com/maps/search/?api=1&query=John%20Bull%20Floripa&query_place_id=ChIJRbuxRpk-J5UR9HdDq2-isws",
+    "waze": "https://waze.com/ul?ll=-27.608376,-48.453926&navigate=yes",
+    "site": null,
+    "instagram": null,
+    "ingressos": null,
+    "reserva": null
+  },
+  "nota_google": null,
+  "outras_notas": [],
+  "da_lagoa": {
+    "tempo_min": 5,
+    "km": 1.7,
+    "obs": "Do Centrinho: ~3 min de carro ou ~25 min a pé (OSM routing (routing.openstreetmap.de, OSRM), tempo sem trânsito)."
+  },
+  "estacionamento": null,
+  "horarios": "Sex e sáb a partir das 20h (BOABreja, 11/2026); Viajali: sex/sáb 22h–4h. Depende do evento.",
+  "precos": "Ingresso varia por evento; sem valores para novembro/2026.",
+  "melhor_horario": "Chegar cedo para ficar perto do palco (BOABreja).",
+  "duracao": "3–4 h",
+  "trilha": {
+    "distancia_km": null,
+    "tempo_ida_min": null,
+    "desnivel_m": null,
+    "dificuldade": null,
+    "inicio": null,
+    "sinalizacao": null
+  },
+  "o_que_levar": [],
+  "cuidados": [
+    "Lei Seca: tolerância zero para álcool ao volante (CTB art. 165). Quem beber não dirige — Uber/99 ou motorista da vez que fica no zero.",
+    "Golpe da maquininha: confira o valor no visor antes de aproximar o cartão/celular e peça o comprovante — golpe comum em eventos, com alertas na imprensa em 2026 (em.com.br, 04/2026).",
+    "Ingresso só no canal oficial (Ingresse, Sympla, Shotgun, Pensanoevento, Guichê Web ou bilheteria da casa). Ingresse/ABREVIN alertam contra revenda em Viagogo, StubHub e grupos de WhatsApp/Telegram."
+  ],
+  "clima": {
+    "sensivel_a": [],
+    "plano_b": null
+  },
+  "publico": "Fãs de rock e grupos de amigos; um guia chama de 'muita gente bonita'.",
+  "combina_com": [
+    "espartano-lagoa",
+    "bar-do-boni"
+  ],
+  "encaixe": [
+    "noite",
+    "fim-de-semana"
+  ],
+  "fotos": [
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/d/d5/Lagoarendeiras.jpg",
+      "pagina": "https://commons.wikimedia.org/wiki/File:Lagoarendeiras.jpg",
+      "autor": "Ben Tavener",
+      "licenca": "CC BY 2.0"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/8/88/AvRendeiras-02.png",
+      "pagina": "https://commons.wikimedia.org/wiki/File:AvRendeiras-02.png",
+      "autor": "Et27ju7",
+      "licenca": "CC BY-SA 4.0"
+    }
+  ],
+  "dicas": [
+    "O site tem agenda velha: use o Instagram para ver o show da semana (Diário de Floripa)."
+  ],
+  "fontes": [
+    "https://www.boabreja.com.br/blog/bares-lagoa-da-conceicao",
+    "https://diariodefloripa.com.br/bares-na-lagoa-da-conceicao/",
+    "https://www.viajali.com.br/bares-florianopolis/"
+  ],
+  "verificado_em": "2026-11-16",
+  "confianca": "baixa",
+  "pendencias": [
+    "Nenhum show de 20–28/11/2026 achado em canal público — conferir Instagram"
+  ],
+  "google": {
+    "place_id": "ChIJRbuxRpk-J5UR9HdDq2-isws",
+    "consultado_em": "2026-11-16"
+  }
+}

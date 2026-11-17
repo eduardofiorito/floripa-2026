@@ -1,0 +1,87 @@
+{
+  "id": "umas-e-ostras",
+  "nome": "Umas e Ostras",
+  "categoria": "comida",
+  "regiao": "sul",
+  "resumo": "Casa de ostras simples, quase em frente ao Ostradamus, que os moradores preferem pelo frescor e preço justo. Boa para o grupo comer bastante ostra sem pagar o preço do vizinho famoso.",
+  "destaques": [
+    "Ostra fresca servida sem firula",
+    "'Queridinho de quem mora na cidade' (Grupo Dicas)",
+    "Dá para fazer rodada dupla: Umas e Ostras e depois Ostradamus"
+  ],
+  "coords": {
+    "lat": -27.7206178,
+    "lng": -48.5641593,
+    "fonte": "OSM Overpass (openstreetmap.org) (amenity=restaurant 'Umas e Ostras')",
+    "ponto": "restaurante"
+  },
+  "endereco": "Rod. Baldicero Filomeno, Freguesia do Ribeirão da Ilha (quase em frente ao Ostradamus); número não confirmado",
+  "links": {
+    "google_maps": "https://www.google.com/maps/search/?api=1&query=Umas%20e%20Ostras&query_place_id=ChIJPwZ-Tg8wJ5UREsNUTM-fgW4",
+    "waze": "https://waze.com/ul?ll=-27.7206178,-48.5641593&navigate=yes",
+    "site": null,
+    "instagram": null,
+    "ingressos": null,
+    "reserva": null
+  },
+  "nota_google": null,
+  "outras_notas": [],
+  "da_lagoa": {
+    "tempo_min": 35,
+    "km": 20,
+    "obs": "Mesmo trajeto do Ostradamus."
+  },
+  "estacionamento": "Rua.",
+  "horarios": null,
+  "precos": "'Preço justo' (Jovem Pan, abr/2026), sem valores.",
+  "melhor_horario": "Almoço ou fim de tarde.",
+  "duracao": "1 h",
+  "trilha": {
+    "distancia_km": null,
+    "tempo_ida_min": null,
+    "desnivel_m": null,
+    "dificuldade": null,
+    "inicio": null,
+    "sinalizacao": null
+  },
+  "o_que_levar": [],
+  "cuidados": [],
+  "clima": {
+    "sensivel_a": [],
+    "plano_b": "—"
+  },
+  "publico": "Locais e turistas; simples.",
+  "combina_com": [
+    "ostradamus",
+    "ribeirao-da-ilha"
+  ],
+  "encaixe": [
+    "fim-de-semana",
+    "pos-expediente"
+  ],
+  "fotos": [
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/5/50/Ostras.jpg",
+      "pagina": "https://commons.wikimedia.org/wiki/File:Ostras.jpg",
+      "autor": "Larissinhast",
+      "licenca": "CC BY-SA 4.0"
+    }
+  ],
+  "dicas": [
+    "Atenção: existe um 'Umas & Ostras' no Rio de Janeiro; horários que aparecem em buscas costumam ser de lá"
+  ],
+  "fontes": [
+    "https://jovempan.com.br/entretenimento/onde-comer-ostras-em-florianopolis-roteiro-do-ribeirao-da-ilha/",
+    "https://www.grupodicas.com/melhores-restaurantes-em-florianopolis/",
+    "https://lorenzigo.com/best-restaurants-florianopolis/"
+  ],
+  "verificado_em": "2026-11-16",
+  "confianca": "baixa",
+  "pendencias": [
+    "Horário, preço e Instagram (nada confiável encontrado)"
+  ],
+  "google": {
+    "place_id": "ChIJPwZ-Tg8wJ5UREsNUTM-fgW4",
+    "consultado_em": "2026-11-16"
+  }
+}

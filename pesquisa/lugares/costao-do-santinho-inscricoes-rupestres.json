@@ -1,0 +1,121 @@
+{
+  "id": "costao-do-santinho-inscricoes-rupestres",
+  "nome": "Inscrições rupestres do Costão do Santinho (Museu Arqueológico a Céu Aberto)",
+  "categoria": "passeio",
+  "regiao": "norte",
+  "resumo": "Gravuras pré-históricas em blocos de pedra no costão sul da Praia do Santinho, com cerca de 110 grafismos e uma passarela elevada para vê-las. A entrada é gratuita e a caminhada leva uns 15 minutos. É uma visita curta, boa para juntar com a trilha do Morro das Aranhas ou com a praia.",
+  "destaques": [
+    "Cerca de 110 grafismos pré-históricos; é o terceiro sítio com mais inscrições da Ilha",
+    "Passarela elevada e painéis informativos",
+    "Bem da União protegido pelo IPHAN; pesquisas da UFSC",
+    "Vista do costão e do mar aberto"
+  ],
+  "coords": {
+    "lat": -27.4649978,
+    "lng": -48.3792633,
+    "fonte": "OSM Nominatim",
+    "ponto": "Costão do Santinho Resort, no canto sul da praia; o acesso à trilha das inscrições fica por ali, no canto direito de quem olha o mar"
+  },
+  "endereco": "Canto sul (direito) da Praia do Santinho, junto ao Costão do Santinho Resort, Rua das Ilhas, Florianópolis.",
+  "links": {
+    "google_maps": "https://www.google.com/maps/search/?api=1&query=Inscri%C3%A7%C3%B5es%20rupestres%20do%20Cost%C3%A3o%20do%20Santinho%20%28Museu%20Arqueol%C3%B3gico%20a%20C%C3%A9u%20Aberto%29&query_place_id=ChIJX67ZZ15qJ5URp_R7p-yqHOw",
+    "waze": "https://waze.com/ul?ll=-27.4649978,-48.3792633&navigate=yes",
+    "site": null,
+    "instagram": null,
+    "ingressos": null,
+    "reserva": null
+  },
+  "nota_google": null,
+  "outras_notas": [
+    {
+      "fonte": "TripAdvisor (Open Air Costão do Santinho Archaeology Museum)",
+      "nota": null,
+      "avaliacoes": null,
+      "url": "https://www.tripadvisor.com/Attraction_Review-g303576-d4376383-Reviews-Open_Air_Costao_do_Santinho_Archaeology_Museum-Florianopolis_State_of_Santa_Catar.html"
+    }
+  ],
+  "da_lagoa": {
+    "tempo_min": 35,
+    "km": 29,
+    "obs": "Mesmo caminho do Morro das Aranhas, pela SC-406."
+  },
+  "estacionamento": "Na rua, perto do canto sul do Santinho. Sem custo informado.",
+  "horarios": "Acesso livre, segundo o ND+ (mai/2026). Um guia local fala em visitas monitoradas todos os dias, das 8h às 12h e das 14h às 18h, pelo telefone (48) 3261-1000, que é do resort.",
+  "precos": "Grátis",
+  "melhor_horario": "De manhã ou no fim da tarde, com luz baixa, que realça o relevo das gravuras.",
+  "duracao": "De 30 a 45 min, ida e volta.",
+  "trilha": {
+    "distancia_km": null,
+    "tempo_ida_min": 15,
+    "desnivel_m": null,
+    "dificuldade": "fácil",
+    "inicio": "canto direito (sul) da Praia do Santinho",
+    "sinalizacao": "painéis informativos ao longo do percurso"
+  },
+  "o_que_levar": [
+    "tênis ou papete",
+    "água",
+    "protetor solar"
+  ],
+  "cuidados": [
+    "Não toque nem pise nas gravuras; elas são protegidas pelo IPHAN e já foram vandalizadas",
+    "Pedras do costão escorregam",
+    "As expectativas variam: algumas avaliações acham que há poucas gravuras visíveis"
+  ],
+  "clima": {
+    "sensivel_a": [
+      "chuva",
+      "mar agitado no costão"
+    ],
+    "plano_b": "Praia de Ingleses ou o jantar."
+  },
+  "publico": "Curiosos e famílias; é uma visita curta.",
+  "combina_com": [
+    "morro-das-aranhas",
+    "kart-ingleses"
+  ],
+  "encaixe": [
+    "cedo-dia-util",
+    "fim-de-semana"
+  ],
+  "fotos": [
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Figuras_rupestres%2C_Cost%C3%A3o_do_Santinho%2C_Florian%C3%B3polis.JPG/1280px-Figuras_rupestres%2C_Cost%C3%A3o_do_Santinho%2C_Florian%C3%B3polis.JPG",
+      "pagina": "https://commons.wikimedia.org/wiki/File:Figuras_rupestres,_Cost%C3%A3o_do_Santinho,_Florian%C3%B3polis.JPG",
+      "autor": "Herr stahlhoefer",
+      "licenca": "Public domain"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Figuras_rupestres%2C_Cost%C3%A3o_do_Santinho%2C_Florian%C3%B3polis_3.JPG/1280px-Figuras_rupestres%2C_Cost%C3%A3o_do_Santinho%2C_Florian%C3%B3polis_3.JPG",
+      "pagina": "https://commons.wikimedia.org/wiki/File:Figuras_rupestres,_Cost%C3%A3o_do_Santinho,_Florian%C3%B3polis_3.JPG",
+      "autor": "Herr stahlhoefer",
+      "licenca": "Public domain"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Figuras_rupestres%2C_Cost%C3%A3o_do_Santinho%2C_Florian%C3%B3polis_2.JPG/1280px-Figuras_rupestres%2C_Cost%C3%A3o_do_Santinho%2C_Florian%C3%B3polis_2.JPG",
+      "pagina": "https://commons.wikimedia.org/wiki/File:Figuras_rupestres,_Cost%C3%A3o_do_Santinho,_Florian%C3%B3polis_2.JPG",
+      "autor": "Herr stahlhoefer",
+      "licenca": "Public domain"
+    }
+  ],
+  "dicas": [
+    "Junte com a subida do Morro das Aranhas: as inscrições ficam no começo do caminho",
+    "A datação varia conforme a fonte (de 1 a 5 mil anos); não há número oficial"
+  ],
+  "fontes": [
+    "https://ndmais.com.br/turismo/praia-do-santinho-esconde-segredos-milenares-em-rochas/",
+    "https://www.guiadasemana.com.br/florianopolis/turismo/estabelecimento/museu-arqueologico-ao-ar-livre-costao-do-santinho",
+    "https://belafloripa.com.br/index.php/museu-de-arqueologia-costao-do-santinho/",
+    "https://www.nsctotal.com.br/cotidiano/fotos-como-visitar-as-principais-inscricoes-rupestres-na-ilha-de-santa-catarina",
+    "https://floripa.com/o-que-fazer/mapa-do-patrimonio-arqueologico-de-floripa/"
+  ],
+  "verificado_em": "2026-11-16",
+  "confianca": "media",
+  "pendencias": [
+    "Se a passarela é de acesso livre a qualquer hora ou só no horário monitorado"
+  ],
+  "google": {
+    "place_id": "ChIJX67ZZ15qJ5URp_R7p-yqHOw",
+    "consultado_em": "2026-11-16"
+  }
+}

@@ -1,0 +1,144 @@
+{
+  "id": "centrinho-da-lagoa",
+  "nome": "Centrinho da Lagoa",
+  "categoria": "comida",
+  "regiao": "leste-lagoa",
+  "resumo": "A base do grupo: em volta da Praça Bento Silvério e da Rua Manoel Severino de Oliveira há almoço rápido, cafés com wi-fi, pizzaria e restaurantes bem avaliados para jantar, tudo a pé. Tem feira livre às quartas e sábados de manhã e feira de artesanato no fim de semana.",
+  "destaques": [
+    "Jantar: Artesano Pizza Bar (TripAdvisor 4,7, ~880), Paixão Restaurante (4,6, 1.720) e Dolce Vita (4,7, ~675)",
+    "Almoço rápido: Guacamole Taqueria (R. Manoel Severino de Oliveira, 644; 4,6), Café Cultura (wi-fi e tomadas) e Suco da Saúde (Rua Henrique Veras, 431; 4,1/76)",
+    "Outros citados: Thai Thai, Restaurante Oliveira, D'Paula, The Black Swan (pub inglês, fish and chips), Books & Beers e Bar do Betinho do Deca da Lina (comida manezinha)",
+    "Feira livre (agricultura familiar) na Praça Bento Silvério: quarta e sábado, 6h–12h",
+    "Feira de artesanato (AAFLA) na Praça Bento Silvério: sábado e domingo, 14h ou 15h até 20h",
+    "Terminal Lacustre dos barcos para a Costa da Lagoa ao lado da praça"
+  ],
+  "coords": {
+    "lat": -27.6039612,
+    "lng": -48.4642893,
+    "fonte": "OSM Nominatim (leisure=park 'Praça Bento Silvério')",
+    "ponto": "Praça Bento Silvério, centro do Centrinho"
+  },
+  "endereco": "Praça Bento Silvério e arredores (R. Manoel Severino de Oliveira, Av. Henrique Veras do Nascimento, R. Senador Ivo d'Aquino), Lagoa da Conceição",
+  "links": {
+    "google_maps": "https://www.google.com/maps/search/?api=1&query=Centrinho%20da%20Lagoa&query_place_id=ChIJv3K_8rs-J5URXs4khl4-Fss",
+    "waze": "https://waze.com/ul?ll=-27.6039612,-48.4642893&navigate=yes",
+    "site": null,
+    "instagram": "https://www.instagram.com/feiradalagoa_aafla/",
+    "ingressos": null,
+    "reserva": null
+  },
+  "nota_google": null,
+  "outras_notas": [
+    {
+      "fonte": "TripAdvisor (Artesano Pizza Bar)",
+      "nota": 4.7,
+      "avaliacoes": 883,
+      "url": "https://www.tripadvisor.com/Restaurants-g4288027-Lagoa_da_Conceicao_Florianopolis_State_of_Santa_Catarina.html"
+    },
+    {
+      "fonte": "TripAdvisor (Paixão Restaurante)",
+      "nota": 4.6,
+      "avaliacoes": 1720,
+      "url": "https://www.tripadvisor.com/Restaurants-g4288027-Lagoa_da_Conceicao_Florianopolis_State_of_Santa_Catarina.html"
+    },
+    {
+      "fonte": "TripAdvisor (Dolce Vita)",
+      "nota": 4.7,
+      "avaliacoes": 677,
+      "url": "https://www.tripadvisor.com/RestaurantsNear-g303576-d553866-Lagoa_da_Conceicao-Florianopolis_State_of_Santa_Catarina.html"
+    },
+    {
+      "fonte": "Evendo (Guacamole Taqueria)",
+      "nota": 4.6,
+      "avaliacoes": null,
+      "url": "https://evendo.com/locations/brazil/florianopolis/lagoa-da-conceicao/best-restaurants"
+    }
+  ],
+  "da_lagoa": {
+    "tempo_min": 0,
+    "km": 0,
+    "obs": "É a base do grupo: tudo a pé"
+  },
+  "estacionamento": "Difícil no Centrinho à noite e no fim de semana; vá a pé",
+  "horarios": "Variam por casa (não confirmados). Feiras: livre qua e sáb 6h–12h; artesanato sáb e dom 14h/15h–20h",
+  "precos": null,
+  "melhor_horario": "Almoço de dia útil às 12h (antes da fila); jantar a partir das 19h30",
+  "duracao": "45 min (almoço) a 2 h (jantar)",
+  "trilha": {
+    "distancia_km": null,
+    "tempo_ida_min": null,
+    "desnivel_m": null,
+    "dificuldade": null,
+    "inicio": null,
+    "sinalizacao": null
+  },
+  "o_que_levar": [],
+  "cuidados": [
+    "Fila no jantar de sexta e sábado nas casas mais bem avaliadas: chegue cedo ou reserve"
+  ],
+  "clima": {
+    "sensivel_a": [
+      "nenhum (programa urbano)"
+    ],
+    "plano_b": "É o próprio plano B de chuva"
+  },
+  "publico": "Jovens, surfistas, estudantes e turistas; à noite o Centrinho é o ponto de bar da Lagoa",
+  "combina_com": [
+    "costa-da-lagoa",
+    "avenida-das-rendeiras",
+    "coworking-lagoa",
+    "mirante-da-lagoa",
+    "rufus"
+  ],
+  "encaixe": [
+    "almoco-dia-util",
+    "noite",
+    "pos-expediente",
+    "fim-de-semana"
+  ],
+  "fotos": [
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/7/7b/Santu%C3%A1rio_Nossa_Senhora_da_Imaculada_Concei%C3%A7%C3%A3o_da_Lagoa_2.jpg",
+      "pagina": "https://commons.wikimedia.org/wiki/File:Santu%C3%A1rio_Nossa_Senhora_da_Imaculada_Concei%C3%A7%C3%A3o_da_Lagoa_2.jpg",
+      "autor": "Mx. Granger",
+      "licenca": "CC0"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/d/dd/Par%C3%B3quia_Nossa_Senhora_da_Imaculada_Concei%C3%A7%C3%A3o_a_noite_.jpg",
+      "pagina": "https://commons.wikimedia.org/wiki/File:Par%C3%B3quia_Nossa_Senhora_da_Imaculada_Concei%C3%A7%C3%A3o_a_noite_.jpg",
+      "autor": "Boaventuravinicius",
+      "licenca": "CC BY-SA 3.0"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/4/45/Lagoa_da_Concei%C3%A7%C3%A3o_%283423230047%29.jpg",
+      "pagina": "https://commons.wikimedia.org/wiki/File:Lagoa_da_Concei%C3%A7%C3%A3o_%283423230047%29.jpg",
+      "autor": "Rodrigo Soldon",
+      "licenca": "CC BY 2.0"
+    }
+  ],
+  "dicas": [
+    "Quarta 25/11 e sábado 28/11: feira livre na praça de manhã, boa para frutas e café da manhã antes do expediente",
+    "Sanduicheria da Ilha (Av. Henrique Veras do Nascimento, 50) e Uma Rosa (buffet a quilo, Av. Afonso Delambert Neto, 315) eram opções de almoço rápido em 2015; confirme se ainda existem",
+    "Basílico (R. Laurindo Januário da Silveira, 647) era considerada uma das melhores pizzas da cidade, mas a informação é antiga"
+  ],
+  "fontes": [
+    "https://www.tripadvisor.com/Restaurants-g4288027-Lagoa_da_Conceicao_Florianopolis_State_of_Santa_Catarina.html",
+    "https://evendo.com/locations/brazil/florianopolis/lagoa-da-conceicao/best-restaurants",
+    "https://guiadonomadedigital.com/o-que-fazer-na-lagoa-da-conceicao/",
+    "https://www.meusroteirosdeviagem.com/restaurantes-florianopolis-lagoa/",
+    "https://www.guiadasemana.com.br/florianopolis/turismo/evento/feira-de-artesanato-da-lagoa-da-conceicao-praca-bento-silverio-01-01-2000",
+    "https://www.instagram.com/feiradalagoa_aafla/",
+    "https://feirou.ai/feira-livre-lagoa-da-conceicao-bento-silverio/"
+  ],
+  "verificado_em": "2026-11-16",
+  "confianca": "media",
+  "pendencias": [
+    "Endereço e horário de Artesano, Paixão e Dolce Vita",
+    "Se a feira livre de quarta e sábado continua (fonte com ~1 ano)",
+    "Um bom prato feito ou buffet a quilo atual para o almoço de dia útil"
+  ],
+  "google": {
+    "place_id": "ChIJv3K_8rs-J5URXs4khl4-Fss",
+    "consultado_em": "2026-11-16"
+  }
+}

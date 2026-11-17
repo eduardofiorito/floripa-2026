@@ -1,0 +1,140 @@
+{
+  "id": "lagoinha-do-leste",
+  "nome": "Lagoinha do Leste (trilhas + Morro da Coroa)",
+  "categoria": "trilha",
+  "regiao": "sul",
+  "resumo": "A praia mais bonita do sul da ilha que só se alcança a pé: mar aberto de um lado, uma lagoa de água calma do outro, e nenhum bar nem casa. O programa completo (Armação → Matadeiro → Lagoinha → Morro da Coroa → Pântano do Sul) é o melhor dia de trilha de Floripa.",
+  "destaques": [
+    "Travessia clássica: entra pelo Matadeiro (costão, mais longa e bonita) e sai pelo Pântano do Sul (curta e íngreme)",
+    "Morro da Coroa: o mirante da foto famosa da Lagoinha vista de cima; no topo fica a Pedra do Surfista",
+    "Lagoa de água salgada e calma atrás da praia, boa para banho quando o mar está bravo",
+    "Fim da trilha a 400 m do Bar do Arante (peixe frito e bilhetes nas paredes)"
+  ],
+  "coords": {
+    "lat": -27.7789918,
+    "lng": -48.5062507,
+    "fonte": "OSM Overpass (openstreetmap.org) (nó highway=trailhead 'Trilha da Lagoinha do Leste')",
+    "ponto": "início da trilha pelo Pântano do Sul (Rua Manoel Pedro de Oliveira). Início pelo Matadeiro: ponte de pedestres da Armação, -27.7519486, -48.5024115 (OSM). Praia da Lagoinha: -27.7724, -48.4895 (Nominatim). Mirante Pico da Coroa: -27.7812193, -48.4884021 (OSM)"
+  },
+  "endereco": "Início Pântano do Sul: Rua Manoel Pedro de Oliveira, Pântano do Sul. Início Matadeiro: ponte de pedestres no canto sul da Praia da Armação (perto da Rua Fernando Beck).",
+  "links": {
+    "google_maps": "https://www.google.com/maps/search/?api=1&query=Lagoinha%20do%20Leste%20%28trilhas%20%2B%20Morro%20da%20Coroa%29&query_place_id=ChIJbSh0wBwkJ5URpJgx2hWgDnc",
+    "waze": "https://waze.com/ul?ll=-27.7789918,-48.5062507&navigate=yes",
+    "site": null,
+    "instagram": null,
+    "ingressos": null,
+    "reserva": null
+  },
+  "nota_google": null,
+  "outras_notas": [],
+  "da_lagoa": {
+    "tempo_min": 45,
+    "km": 24,
+    "obs": "OSRM dá 32 min/23,8 km até o início do Pântano e 28 min/21 km até a Armação sem trânsito; conte 40–50 min. Rota: Rio Tavares → SC-405 → Armação/Pântano. Às 7h de sábado/domingo flui bem; volta no fim da tarde de domingo enche na SC-405."
+  },
+  "estacionamento": "Sem estacionamento oficial. Pântano do Sul: vagas na vila e estacionamentos particulares pagos perto da entrada (preço não confirmado). Armação: rua e estacionamentos particulares perto da Rua Fernando Beck. Na travessia, deixe o carro na Armação e volte do Pântano de Uber ou ônibus (4,4 km, ~7 min de carro).",
+  "horarios": "Trilha aberta todos os dias; não há bilheteria. Comece cedo (antes das 8h) por causa do sol.",
+  "precos": "Grátis. Barco de pescador Pântano do Sul ↔ Lagoinha citado a R$ 50 ida e volta ou R$ 25 só a volta (blog de mar/2026, 'na alta temporada'); outro relato antigo (2016) dava R$ 80/R$ 50. Trilha guiada em grupo vendida por agências.",
+  "melhor_horario": "Sair às 7h–7h30. Morro da Coroa antes das 14h. Para foto clássica da Coroa, luz boa de manhã até o começo da tarde.",
+  "duracao": "Ida e volta pelo Pântano: 3–4 h com praia. Travessia completa com Morro da Coroa: 6–7 h com paradas (agência vende como passeio de ~6 h).",
+  "trilha": {
+    "distancia_km": 2.2,
+    "tempo_ida_min": 60,
+    "desnivel_m": null,
+    "dificuldade": "Pântano do Sul: curta (2,2–2,3 km, ~1 h) e íngreme, moderada. Matadeiro: ~4 km a partir do Matadeiro (quase 6 km desde a Armação), 2–2,5 h, moderada a difícil, com pedras soltas e escorregadias. Morro da Coroa: ~1 km e ~30 min de subida muito íngreme, quase escalada, areia solta.",
+    "inicio": "Pântano do Sul: Rua Manoel Pedro de Oliveira (-27.7790, -48.5063). Matadeiro: ponte de pedestres da Armação (-27.7519, -48.5024), passa pela praia do Matadeiro e entra à direita na placa da Lagoinha.",
+    "sinalizacao": "Trilha do Pântano bem batida e sinalizada; trilha do Matadeiro pouco usada e menos marcada; atalho da Coroa no meio do mato. Sem sinal de celular na maior parte (só pega no Morro da Coroa)."
+  },
+  "o_que_levar": [
+    "2 L de água por pessoa (não há nascente confiável)",
+    "lanche/almoço (não há bar na praia; Komoot cita um quiosque, sem confirmação)",
+    "tênis com boa aderência",
+    "protetor, boné, repelente",
+    "kit de primeiros socorros",
+    "chinelo e roupa de banho",
+    "dinheiro/Pix para Uber ou barco de volta"
+  ],
+  "cuidados": [
+    "Não faça a travessia completa sozinho; pedras empilhadas e lisas causam entorses",
+    "Descida do Morro da Coroa é perigosa e escorregadia, desça devagar",
+    "Mar aberto com ondas fortes e repuxo na praia da Lagoinha, sem salva-vidas; prefira a lagoa",
+    "Relato de cobras na vegetação junto à areia: não deite na sombra do mato",
+    "Pedra do Surfista: a Defesa Civil já colocou placas proibindo o acesso por risco de queda (data da interdição não confirmada); não suba na pedra",
+    "Não ande pelo asfalto Pântano → Armação (4 km sem sombra); pegue ônibus ou Uber",
+    "É parque municipal: lixo volta com você"
+  ],
+  "clima": {
+    "sensivel_a": [
+      "chuva (trilha vira lama e pedras ficam lisas)",
+      "calor forte",
+      "vento sul/mar agitado (barco não sai)"
+    ],
+    "plano_b": "Com chuva recente, faça só Armação → Matadeiro (20 min) e almoço no Arante. Com mar bravo, banho só na lagoinha."
+  },
+  "publico": "Jovens trilheiros, surfistas e grupos de amigos; no verão enche, no fim de novembro ainda tranquila.",
+  "combina_com": [
+    "praia-do-matadeiro",
+    "bar-do-arante",
+    "ribeirao-da-ilha",
+    "ostradamus",
+    "morro-das-pedras"
+  ],
+  "encaixe": [
+    "fim-de-semana"
+  ],
+  "fotos": [
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/f/fb/Praia_da_Lagoinha_do_Leste%2C_Florian%C3%B3polis.jpg",
+      "pagina": "https://commons.wikimedia.org/wiki/File:Praia_da_Lagoinha_do_Leste,_Florian%C3%B3polis.jpg",
+      "autor": "Papa Pic",
+      "licenca": "CC0"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/6/61/Morro_Da_Coroa_Praia_Lagoinha_Do_Leste_%28242401955%29.jpeg",
+      "pagina": "https://commons.wikimedia.org/wiki/File:Morro_Da_Coroa_Praia_Lagoinha_Do_Leste_(242401955).jpeg",
+      "autor": "Paulo Cameli",
+      "licenca": "CC BY 3.0"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/0/0e/Parque_Natural_Municipal_da_Lagoinha_do_Leste_%2803%29.jpg",
+      "pagina": "https://commons.wikimedia.org/wiki/File:Parque_Natural_Municipal_da_Lagoinha_do_Leste_(03).jpg",
+      "autor": "DouglasSchifter",
+      "licenca": "CC BY-SA 4.0"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/f/f5/Praia_da_Lagoinha_do_Leste_vindo_da_praia_do_Matadeiro.jpg",
+      "pagina": "https://commons.wikimedia.org/wiki/File:Praia_da_Lagoinha_do_Leste_vindo_da_praia_do_Matadeiro.jpg",
+      "autor": "Robersantos",
+      "licenca": "CC BY-SA 4.0"
+    }
+  ],
+  "dicas": [
+    "Sentido recomendado: ida pelo Matadeiro (mais plana, longa, bonita) e volta pelo Pântano (curta e íngreme) terminando no Arante",
+    "Carro na Armação; do Arante volte de Uber (7 min) ou ônibus (passa ~a cada 15 min, segundo blog)",
+    "Quem estiver com pouco fôlego vai e volta pelo Pântano (2 h de caminhada no total)",
+    "O Arante serve cachaça de cortesia, ótimo para fechar a trilha",
+    "Se for o sábado 28 (véspera da SC21K), não faça a travessia: são ~8 km de trilha pesada"
+  ],
+  "fontes": [
+    "https://www.viagensecaminhos.com/trilha-da-lagoinha-do-leste-florianopolis/",
+    "https://comigoemflorianopolis.substack.com/p/13-lagoinha-do-leste",
+    "https://www.komoot.com/pt-br/highlight/524262",
+    "https://www.civitatis.com/br/florianopolis/trilha-matadeiro-morro-coroa/",
+    "https://www.nationalworld.com/travel/travel-news/instagram-tourists-banned-pedra-do-surfista-surfboard-rock-brazil-4932813",
+    "https://www.viciadaemviajar.com/praias-do-sul-de-florianopolis-melhores/",
+    "https://nominatim.openstreetmap.org"
+  ],
+  "verificado_em": "2026-11-16",
+  "confianca": "media",
+  "pendencias": [
+    "Desnível exato das trilhas (fontes não trazem)",
+    "Se a Pedra do Surfista segue interditada em nov/2026",
+    "Se há barco de pescador do Pântano para a Lagoinha no fim de novembro (citado como 'alta temporada')",
+    "Preço do estacionamento no Pântano e na Armação",
+    "Distâncias divergem: 2,2 km (Pântano), 4 km ou quase 6 km (Matadeiro), Komoot cita circuito de 17,9 km"
+  ],
+  "google": {
+    "place_id": "ChIJbSh0wBwkJ5URpJgx2hWgDnc",
+    "consultado_em": "2026-11-16"
+  }
+}

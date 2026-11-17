@@ -1,0 +1,140 @@
+{
+  "id": "ilha-do-campeche",
+  "nome": "Ilha do Campeche",
+  "categoria": "passeio",
+  "regiao": "sul",
+  "resumo": "O 'Caribe catarinense': água transparente, areia branca e trilhas com gravuras rupestres numa ilha tombada pelo IPHAN. Exige autorização online da Prefeitura (R$ 15) + barco credenciado, e só dá 4 horas por lá.",
+  "destaques": [
+    "Água mais clara de Floripa, ótima para mergulho livre",
+    "Gravuras rupestres e oficinas líticas, com trilhas guiadas por monitor credenciado",
+    "Patrimônio tombado pelo IPHAN (Portaria 270/2000)",
+    "Fim de novembro é baixa temporada: barco mais barato e ilha vazia"
+  ],
+  "coords": {
+    "lat": -27.6978624,
+    "lng": -48.4656407,
+    "fonte": "OSM Nominatim (place=islet)",
+    "ponto": "a ilha. Embarque APAAPS na Armação: Rua Fernando Beck, 135 (-27.7520, -48.5038, Nominatim). Embarque ABTC no Campeche: fim da Av. Pequeno Príncipe na praia (-27.6893, -48.4825)"
+  },
+  "endereco": "Embarques: Praia da Armação (Rua Fernando Beck, 135 — APAAPS/ACOMPECHE), Praia do Campeche (final da Av. Pequeno Príncipe — ABTC), Barra da Lagoa (ATBL)",
+  "links": {
+    "google_maps": "https://www.google.com/maps/search/?api=1&query=Ilha%20do%20Campeche&query_place_id=ChIJGf638kwjJ5URtkPOyVftgXQ",
+    "waze": "https://waze.com/ul?ll=-27.752,-48.5038&navigate=yes",
+    "site": "https://ilhadocampeche.pmf.sc.gov.br",
+    "instagram": null,
+    "ingressos": "https://ilhadocampeche.pmf.sc.gov.br",
+    "reserva": "https://ingressos.aventuranailha.com.br/unit/6/barco-ilha-do-campeche-%E2%80%93-embarque-praia-da-arma%C3%A7ao/"
+  },
+  "nota_google": null,
+  "outras_notas": [],
+  "da_lagoa": {
+    "tempo_min": 40,
+    "km": 21,
+    "obs": "Até o embarque da Armação: OSRM 28 min/21 km; conte 35–45 min. Até o embarque do Campeche: OSRM 18 min/11 km; conte ~25 min. Barra da Lagoa fica a ~15 min da base, mas a travessia leva 1h10–1h20."
+  },
+  "estacionamento": "Armação: rua e estacionamentos particulares perto da Rua Fernando Beck. Campeche: ruas perto do fim da Av. Pequeno Príncipe. Preços não confirmados.",
+  "horarios": "Permanência só das 9h às 17h. Barco APAAPS: encontro 9h30 na Armação, travessia ~30 min, 4 h na ilha e volta no mesmo barco (~14h–14h30). ABTC (Campeche): saídas a partir das 9h por ordem de chegada, travessia de ~5 min. ATBL (Barra da Lagoa): embarque 9h30, saída 10h, ~1h10, volta ~15h.",
+  "precos": "Autorização da Prefeitura: R$ 15 por pessoa (separada do barco). Barco Armação (revendedor Aventura na Ilha): R$ 170 até 30/11/2026; R$ 250 de 1º a 14/12; R$ 350 de 15 a 24/12; R$ 380 de 25/12 a 28/02/2027; sinal de R$ 70 e saldo SÓ em dinheiro no dia (sem Pix nem cartão). ND Mais (jan/2026) dá a faixa R$ 185–250 conforme época e ponto de saída. Barra da Lagoa: NSC citava R$ 300 até 25/12 na temporada passada. Trilhas na ilha: R$ 20 (curta, 1 h) e R$ 30 (longa, 1h30) pelo revendedor; ACOMPECHE lista R$ 10/25/35. Snorkel guiado R$ 80, só de dezembro a abril.",
+  "melhor_horario": "Primeiro barco (9h–9h30) com mar calmo e sem vento sul.",
+  "duracao": "Meio dia: ~5h30 porta a porta saindo da Armação (4 h na ilha).",
+  "trilha": {
+    "distancia_km": null,
+    "tempo_ida_min": 60,
+    "desnivel_m": null,
+    "dificuldade": "fácil a moderada, só com monitor",
+    "inicio": "Na própria ilha, com monitor credenciado pelo IPHAN",
+    "sinalizacao": "Guiada"
+  },
+  "o_que_levar": [
+    "dinheiro vivo para o saldo do barco e as trilhas",
+    "voucher da Prefeitura impresso ou no celular",
+    "comida e água (o Bar do Bochecha da ilha só abre de dezembro a abril, segundo a ACOMPECHE)",
+    "tênis para as trilhas",
+    "máscara de mergulho própria",
+    "cadeira/guarda-sol/cooler são permitidos",
+    "saco para o lixo"
+  ],
+  "cuidados": [
+    "Sem autorização da Prefeitura não desembarca; o voucher só sai 24 h depois da compensação do pagamento",
+    "Reserva da Prefeitura não tem reagendamento nem devolução, mesmo se o barco não sair por mau tempo",
+    "Ilha fecha com mau tempo, mar agitado ou falta de monitores",
+    "Proibido: alimentar quatis, levar animais, acampar, churrasco, som alto, levar plantas/pedras",
+    "Limite de 800 pessoas/dia na temporada (dez–mar) e 770 na baixa (ACOMPECHE)",
+    "Barco tem lotação de 20; grupo de 4 precisa reservar junto"
+  ],
+  "clima": {
+    "sensivel_a": [
+      "vento sul",
+      "mar agitado",
+      "chuva"
+    ],
+    "plano_b": "Se o barco cancelar: Matadeiro a pé + Arante, ou Ribeirão da Ilha (baía protegida)."
+  },
+  "publico": "Todos; muitos casais e grupos. Em novembro, bem menos gente que no verão.",
+  "combina_com": [
+    "praia-do-matadeiro",
+    "bar-do-arante",
+    "morro-das-pedras",
+    "praia-do-campeche",
+    "ribeirao-da-ilha",
+    "ostradamus"
+  ],
+  "encaixe": [
+    "fim-de-semana"
+  ],
+  "fotos": [
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/7/70/Ilha_do_Campeche_em_Florian%C3%B3polis.jpg",
+      "pagina": "https://commons.wikimedia.org/wiki/File:Ilha_do_Campeche_em_Florian%C3%B3polis.jpg",
+      "autor": "Boaventuravinicius",
+      "licenca": "CC BY-SA 4.0"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/c/cb/Ilha_do_Campeche_um_lugar_intoc%C3%A1vel.jpg",
+      "pagina": "https://commons.wikimedia.org/wiki/File:Ilha_do_Campeche_um_lugar_intoc%C3%A1vel.jpg",
+      "autor": "Luluhgomes",
+      "licenca": "CC BY-SA 4.0"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/7/72/Florianopolis_Campeche_Ilha.JPG",
+      "pagina": "https://commons.wikimedia.org/wiki/File:Florianopolis_Campeche_Ilha.JPG",
+      "autor": "Lionel Baur",
+      "licenca": "CC BY-SA 3.0"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/8/83/Ilha_do_Campeche_visto_da_praia.jpg",
+      "pagina": "https://commons.wikimedia.org/wiki/File:Ilha_do_Campeche_visto_da_praia.jpg",
+      "autor": "Boaventuravinicius",
+      "licenca": "CC BY-SA 4.0"
+    }
+  ],
+  "dicas": [
+    "Passo a passo: 1) reserve o barco (APAAPS/Armação pelo WhatsApp (48) 98430-4097, ou Aventura na Ilha (48) 99831-3422 que pede nome completo + CPF de cada um); 2) cadastre-se em ilhadocampeche.pmf.sc.gov.br, escolha a data e o transporte (a associação do barco), adicione os acompanhantes e pague R$ 15 por pessoa; 3) espere o voucher (24 h após compensar)",
+    "Para o sábado 28/11, faça tudo até a quarta 25/11",
+    "Na Armação o barco custa menos em novembro (R$ 170) do que a partir de dezembro (R$ 250+)",
+    "ABTC (saída da Praia do Campeche, travessia de 5 min): (48) 99180-8841; ATBL (Barra da Lagoa): Aquarium (48) 99628-9911, Lagomar (48) 99640-6840, Querubim (48) 98483-5257",
+    "Cotas diárias: APAAPS 410, ATBL 135, ABTC 73, ACOMPECHE 62, outros/próprios 120"
+  ],
+  "fontes": [
+    "https://ilhadocampeche.pmf.sc.gov.br",
+    "https://ndmais.com.br/turismo/ilha-do-campeche-saiba-o-que-mudou-para-visitacao-em-2026/",
+    "https://ndmais.com.br/turismo/como-visitar-a-ilha-do-campeche-no-verao-2026/",
+    "https://ingressos.aventuranailha.com.br/unit/6/barco-ilha-do-campeche-%E2%80%93-embarque-praia-da-arma%C3%A7ao/",
+    "https://acompeche.org.br/ilhadocampeche.php",
+    "https://passeios.floripa.com/service/ilha-do-campeche",
+    "https://www.nsctotal.com.br/noticias/ilha-do-campeche-quanto-custa-visitar-o-destino-conhecido-como-o-caribe-catarinense"
+  ],
+  "verificado_em": "2026-11-16",
+  "confianca": "media",
+  "pendencias": [
+    "Não achei portaria específica da temporada 2026/2027; regras acima são da temporada 2025/2026 + site oficial atual",
+    "Preço direto da APAAPS em nov/2026 (site apaaps.com recusou acesso); revendedor dá R$ 170",
+    "Se o bar da ilha abre no fim de novembro (ACOMPECHE: só dez–abr)",
+    "Preço da ABTC (saída do Campeche) em 2026",
+    "Disponibilidade no quadro de reservas da Prefeitura para 28 e 29/11 (só vê após login)"
+  ],
+  "google": {
+    "place_id": "ChIJGf638kwjJ5URtkPOyVftgXQ",
+    "consultado_em": "2026-11-16"
+  }
+}

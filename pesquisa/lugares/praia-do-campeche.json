@@ -1,0 +1,114 @@
+{
+  "id": "praia-do-campeche",
+  "nome": "Praia do Campeche",
+  "categoria": "praia",
+  "regiao": "sul",
+  "resumo": "Praião de areia branca com a Ilha do Campeche de frente, mar aberto bom de surf e a Av. Pequeno Príncipe cheia de restaurantes. É a praia urbana do sul mais perto da Lagoa (~25 min).",
+  "destaques": [
+    "Vista direta para a Ilha do Campeche",
+    "Barcos da ABTC para a ilha saem daqui (5 min de travessia)",
+    "Zeca Bar (fim da Av. Pequeno Príncipe): camarão ao bafo, anchova, drinks e música ao vivo",
+    "Nascer do sol atrás da ilha"
+  ],
+  "coords": {
+    "lat": -27.6892649,
+    "lng": -48.4824743,
+    "fonte": "OSM Nominatim",
+    "ponto": "final da Av. Pequeno Príncipe na praia (acesso principal e saída dos barcos da ABTC)"
+  },
+  "endereco": "Final da Av. Pequeno Príncipe, Campeche, Florianópolis",
+  "links": {
+    "google_maps": "https://www.google.com/maps/search/?api=1&query=Praia%20do%20Campeche&query_place_id=ChIJA9ZasVk7J5URM59o-uEPlqY",
+    "waze": "https://waze.com/ul?ll=-27.6892649,-48.4824743&navigate=yes",
+    "site": null,
+    "instagram": null,
+    "ingressos": null,
+    "reserva": null
+  },
+  "nota_google": null,
+  "outras_notas": [],
+  "da_lagoa": {
+    "tempo_min": 25,
+    "km": 11,
+    "obs": "OSRM 18 min/11 km sem trânsito, via Rio Tavares. A Av. Pequeno Príncipe trava no fim da tarde de verão."
+  },
+  "estacionamento": "Ruas próximas ao fim da Av. Pequeno Príncipe e estacionamentos particulares; lota em dia de sol.",
+  "horarios": "Livre. Zeca Bar: seg–qui 10h–18h, sex–dom 10h–19h (Viajali, jul/2026).",
+  "precos": "Praia grátis.",
+  "melhor_horario": "Manhã (antes do vento nordeste da tarde) ou nascer do sol.",
+  "duracao": "2–4 h",
+  "trilha": {
+    "distancia_km": null,
+    "tempo_ida_min": null,
+    "desnivel_m": null,
+    "dificuldade": null,
+    "inicio": null,
+    "sinalizacao": null
+  },
+  "o_que_levar": [
+    "protetor",
+    "guarda-sol (pouca sombra)"
+  ],
+  "cuidados": [
+    "Mar aberto com correnteza; tome banho perto do posto de salva-vidas",
+    "Não deixe objetos no carro"
+  ],
+  "clima": {
+    "sensivel_a": [
+      "vento sul",
+      "chuva"
+    ],
+    "plano_b": "Ribeirão da Ilha (lado da baía, sem onda)."
+  },
+  "publico": "Surfistas, moradores jovens do sul, famílias. Fim de semana cheio.",
+  "combina_com": [
+    "novo-campeche",
+    "ilha-do-campeche",
+    "morro-das-pedras",
+    "ribeirao-da-ilha"
+  ],
+  "encaixe": [
+    "cedo-dia-util",
+    "pos-expediente",
+    "fim-de-semana"
+  ],
+  "fotos": [
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/c/c0/Praia_do_Campeche_em_Santa_Catarina_-_Brasil.jpg",
+      "pagina": "https://commons.wikimedia.org/wiki/File:Praia_do_Campeche_em_Santa_Catarina_-_Brasil.jpg",
+      "autor": "HelenCampos",
+      "licenca": "CC BY-SA 4.0"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/7/73/DanielVianna_Praia_do_Campeche_Florianopolis_SC_%2841528477152%29.jpg",
+      "pagina": "https://commons.wikimedia.org/wiki/File:DanielVianna_Praia_do_Campeche_Florianopolis_SC_(41528477152).jpg",
+      "autor": "MTur Destinos",
+      "licenca": "Public domain"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/0/0e/Ilha_do_Campeche_%283443245807%29.jpg",
+      "pagina": "https://commons.wikimedia.org/wiki/File:Ilha_do_Campeche_(3443245807).jpg",
+      "autor": "Rodrigo Soldon from Rio de Janeiro, Brazil",
+      "licenca": "CC BY 2.0"
+    }
+  ],
+  "dicas": [
+    "Bom para um mergulho cedo antes do expediente: 25 min da Lagoa",
+    "Se quiser ir à ilha sem a Armação, a ABTC sai daqui (travessia de 5 min)"
+  ],
+  "fontes": [
+    "https://www.viajali.com.br/bares-florianopolis/",
+    "https://www.nsctotal.com.br/cotidiano/ilha-do-campeche-tudo-o-que-voce-precisa-saber-para-visitar-o-caribe-catarinense",
+    "https://www.viciadaemviajar.com/praias-do-sul-de-florianopolis-melhores/",
+    "https://acompeche.org.br/ilhadocampeche.php"
+  ],
+  "verificado_em": "2026-11-16",
+  "confianca": "media",
+  "pendencias": [
+    "Se o Zeca Bar mantém o horário de verão em novembro"
+  ],
+  "google": {
+    "place_id": "ChIJA9ZasVk7J5URM59o-uEPlqY",
+    "consultado_em": "2026-11-16"
+  }
+}

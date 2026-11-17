@@ -1,0 +1,116 @@
+{
+  "id": "ostradamus",
+  "nome": "Ostradamus",
+  "categoria": "comida",
+  "regiao": "sul",
+  "resumo": "O restaurante de ostras mais famoso e premiado de Floripa, com deck sobre a baía do Ribeirão. Ostra crua, ao bafo e em uma dezena de gratinados; nasceu de uma oficina mecânica que virou lanchonete e, desde 1998, casa de ostras.",
+  "destaques": [
+    "Ostras in natura, ao bafo e gratinadas (parmesão, defumada, gorgonzola com pera, catupiry...) por dúzia",
+    "Deck sobre o mar, de frente para o pôr do sol",
+    "Pratos: Camarão na telha, Moqueca, Peixe à Iemanjá, Polvo da Andréia",
+    "Carta de vinhos elogiada"
+  ],
+  "coords": {
+    "lat": -27.720099,
+    "lng": -48.564204,
+    "fonte": "OSM Nominatim",
+    "ponto": "entrada do restaurante"
+  },
+  "endereco": "Rod. Baldicero Filomeno, 7640, Freguesia do Ribeirão da Ilha, Florianópolis",
+  "links": {
+    "google_maps": "https://www.google.com/maps/search/?api=1&query=Ostradamus&query_place_id=ChIJp0zB1w4wJ5URHtGQ71WzQXo",
+    "waze": "https://waze.com/ul?ll=-27.720099,-48.564204&navigate=yes",
+    "site": "https://www.ostradamus.com.br",
+    "instagram": "https://www.instagram.com/ostradamusrestaurante/",
+    "ingressos": null,
+    "reserva": "https://wa.me/5548999905711"
+  },
+  "nota_google": null,
+  "outras_notas": [],
+  "da_lagoa": {
+    "tempo_min": 35,
+    "km": 20,
+    "obs": "OSRM 26 min/20 km sem trânsito; conte 35–40 min."
+  },
+  "estacionamento": "Rua/beira da rodovia; difícil no almoço de fim de semana.",
+  "horarios": "Site (topo): ter–sáb 12h–22h30; dom e feriados 12h–17h. Site (rodapé): seg 11h–17h; ter–sáb 11h–23h; dom 11h30–17h30. Fontes divergem; segunda pode estar fechado à noite.",
+  "precos": "Cardápio online sem preços. Faixa $$–$$$ (Apontador).",
+  "melhor_horario": "Sábado 17h30–19h30 (pôr do sol ~18h50). Almoço: chegar antes das 13h, depois forma fila.",
+  "duracao": "1h30–2 h",
+  "trilha": {
+    "distancia_km": null,
+    "tempo_ida_min": null,
+    "desnivel_m": null,
+    "dificuldade": null,
+    "inicio": null,
+    "sinalizacao": null
+  },
+  "o_que_levar": [],
+  "cuidados": [
+    "Domingo fecha às 17h–17h30: não serve para pôr do sol no domingo",
+    "Fila depois das 13h no fim de semana"
+  ],
+  "clima": {
+    "sensivel_a": [
+      "chuva (deck)"
+    ],
+    "plano_b": "Salão interno."
+  },
+  "publico": "Casais, famílias, turistas; ambiente bonito mas sem dress code.",
+  "combina_com": [
+    "ribeirao-da-ilha",
+    "umas-e-ostras",
+    "naufragados",
+    "lagoinha-do-leste",
+    "ilha-do-campeche"
+  ],
+  "encaixe": [
+    "fim-de-semana",
+    "pos-expediente"
+  ],
+  "fotos": [
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/1/15/Ostra_gratinada.jpg",
+      "pagina": "https://commons.wikimedia.org/wiki/File:Ostra_gratinada.jpg",
+      "autor": "Rodrigo.Argenton",
+      "licenca": "CC BY-SA 3.0"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/5/50/Ostras.jpg",
+      "pagina": "https://commons.wikimedia.org/wiki/File:Ostras.jpg",
+      "autor": "Larissinhast",
+      "licenca": "CC BY-SA 4.0"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/c/c3/Rede_de_pesca_de_ostras_%2814272800831%29.jpg",
+      "pagina": "https://commons.wikimedia.org/wiki/File:Rede_de_pesca_de_ostras_(14272800831).jpg",
+      "autor": "Joao Paulo de Vasconcelos",
+      "licenca": "CC BY-SA 2.0"
+    }
+  ],
+  "dicas": [
+    "Reserve pelo WhatsApp (48) 99990-5711 (fixo (48) 3337-5711) e peça mesa no deck",
+    "Para 4 pessoas: 2 dúzias in natura + 2 de gratinadas variadas para provar",
+    "O Umas e Ostras, quase em frente, é a opção mais simples e barata"
+  ],
+  "fontes": [
+    "https://www.ostradamus.com.br",
+    "https://www.ostradamus.com.br/cardapio",
+    "https://www.guiadasemana.com.br/florianopolis/restaurantes/estabelecimento/ostradamus",
+    "https://www.apontador.com.br/local/sc/florianopolis/restaurantes/C40104940D5F2Q5F2E/ostradamus.html",
+    "https://www.nsctotal.com.br/noticias/como-oficina-mecanica-se-transformou-em-restaurante-referencia-em-ostras-em-florianopolis",
+    "https://jovempan.com.br/entretenimento/onde-comer-ostras-em-florianopolis-roteiro-do-ribeirao-da-ilha/"
+  ],
+  "verificado_em": "2026-11-16",
+  "confianca": "media",
+  "pendencias": [
+    "Preço da dúzia em 2026",
+    "Horário exato (site tem dois horários diferentes)",
+    "Se o 'Festival de Ostras' de sábado existe e quanto custa",
+    "Nota TripAdvisor não encontrada em busca"
+  ],
+  "google": {
+    "place_id": "ChIJp0zB1w4wJ5URHtGQ71WzQXo",
+    "consultado_em": "2026-11-16"
+  }
+}

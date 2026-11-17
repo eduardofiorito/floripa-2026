@@ -1,0 +1,123 @@
+{
+  "id": "forte-santana",
+  "nome": "Forte de Santana (Forte Santana do Estreito)",
+  "categoria": "mirante",
+  "regiao": "centro",
+  "resumo": "Pequeno forte de 1763, logo abaixo da cabeceira insular da Ponte Hercílio Luz, com canhões e uma das melhores vistas da ponte de perto. A visita ao pátio é gratuita e rápida. O Museu de Armas da PM que funciona ali (Museu de Armas Major Lara Ribas) está fechado desde 2018, sem reabertura anunciada.",
+  "destaques": [
+    "Vista da ponte de baixo para cima e das baías Norte e Sul",
+    "Bateria de canhões, muralhas de pedra e cal, guarita, quartel e casa da pólvora",
+    "Fica no trajeto entre a ponte, o Parque da Luz e a Beira-Mar Norte",
+    "Bom ângulo para o pôr do sol"
+  ],
+  "coords": {
+    "lat": -27.5931955,
+    "lng": -48.5636728,
+    "fonte": "OSM Nominatim",
+    "ponto": "o forte (historic=fort), Rua do Forte Santana"
+  },
+  "endereco": "Rua do Forte Santana, s/n (sob a cabeceira insular da Ponte Hercílio Luz, junto à Av. Beira-Mar Norte), Centro, Florianópolis, CEP 88010-220.",
+  "links": {
+    "google_maps": "https://www.google.com/maps/search/?api=1&query=Forte%20de%20Santana%20%28Forte%20Santana%20do%20Estreito%29&query_place_id=ChIJByr1f_Q3J5URfpeDDgyHZI4",
+    "waze": "https://waze.com/ul?ll=-27.5931955,-48.5636728&navigate=yes",
+    "site": null,
+    "instagram": null,
+    "ingressos": null,
+    "reserva": null
+  },
+  "nota_google": null,
+  "outras_notas": [
+    {
+      "fonte": "TripAdvisor (Forte Sant'Anna e Museu de Armas)",
+      "nota": null,
+      "avaliacoes": null,
+      "url": "https://www.tripadvisor.com/Attraction_Review-g303576-d2362703-Reviews-Forte_Sant_Anna_e_Museu_de_Armas-Florianopolis_State_of_Santa_Catarina.html"
+    }
+  ],
+  "da_lagoa": {
+    "tempo_min": 25,
+    "km": 14,
+    "obs": "OSRM: 14,1 km e 18 min sem trânsito. No sábado 28, o ideal é chegar a pé pela ponte."
+  },
+  "estacionamento": "Os guias citam estacionamento próprio do conjunto, com poucas vagas. No sábado, vá a pé.",
+  "horarios": "Sem horário oficial de 2026. O mais citado é terça a domingo, das 9h às 17h (Diário de Floripa, set/2025). Outros guias dizem das 9h às 18h ou das 8h30 às 18h30. O museu está fechado desde 2018 (ND+); em 2025, o TJSC destinou mais de R$ 1,2 milhão à restauração, sem data de reabertura.",
+  "precos": "Grátis",
+  "melhor_horario": "Sábado entre 9h30 e 10h30, logo depois de atravessar a ponte; ou no fim da tarde, pelo pôr do sol.",
+  "duracao": "15 a 30 min (só a parte externa)",
+  "trilha": {
+    "distancia_km": null,
+    "tempo_ida_min": null,
+    "desnivel_m": null,
+    "dificuldade": null,
+    "inicio": null,
+    "sinalizacao": null
+  },
+  "o_que_levar": [
+    "câmera ou celular"
+  ],
+  "cuidados": [
+    "Não espere o museu: só a área externa costuma estar aberta",
+    "Muralhas sem guarda-corpo em alguns trechos"
+  ],
+  "clima": {
+    "sensivel_a": [
+      "chuva"
+    ],
+    "plano_b": "Museu Histórico de Santa Catarina, na Praça XV."
+  },
+  "publico": "Turistas de passagem; costuma estar vazio.",
+  "combina_com": [
+    "ponte-hercilio-luz",
+    "mercado-publico",
+    "centro-historico",
+    "sc21k-2026"
+  ],
+  "encaixe": [
+    "fim-de-semana"
+  ],
+  "fotos": [
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Forte_Santana_Florian%C3%B3polis_-_SC.JPG/1280px-Forte_Santana_Florian%C3%B3polis_-_SC.JPG",
+      "pagina": "https://commons.wikimedia.org/wiki/File:Forte_Santana_Florian%C3%B3polis_-_SC.JPG",
+      "autor": "Adrianoflorianopolis",
+      "licenca": "CC BY-SA 4.0"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Forte_de_Santana_do_Estreito_-_Florian%C3%B3polis_-_20250524121216.jpg/1280px-Forte_de_Santana_do_Estreito_-_Florian%C3%B3polis_-_20250524121216.jpg",
+      "pagina": "https://commons.wikimedia.org/wiki/File:Forte_de_Santana_do_Estreito_-_Florian%C3%B3polis_-_20250524121216.jpg",
+      "autor": "Thaismay",
+      "licenca": "CC BY-SA 4.0"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Forte_ao_por-do-sol.jpg/1280px-Forte_ao_por-do-sol.jpg",
+      "pagina": "https://commons.wikimedia.org/wiki/File:Forte_ao_por-do-sol.jpg",
+      "autor": "Filipeschaves",
+      "licenca": "CC BY-SA 4.0"
+    }
+  ],
+  "dicas": [
+    "Acesso a pé: ao chegar à Ilha pela ponte, o forte fica logo abaixo, à direita de quem vem do continente, a uns 200 m da cabeceira. Desça pela Rua do Forte Santana, que fica no lado da Beira-Mar Norte",
+    "Do Parque da Luz são cerca de 5 min a pé, descendo para o lado da Beira-Mar",
+    "Do forte até a Praça XV e o Mercado são cerca de 1,5 km, uns 20 min a pé pela Felipe Schmidt ou pela Av. Hercílio Luz"
+  ],
+  "fontes": [
+    "https://diariodefloripa.com.br/forte-santana-florianopolis/",
+    "https://ndmais.com.br/cultura/acervo-deteriorado-museu-do-forte-de-santana-completa-5-anos-fechado-em-florianopolis/",
+    "https://www.tjsc.jus.br/web/imprensa/-/iphan-destaca-apoio-do-judiciario-catarinense-na-preservacao-do-patrimonio-historico-de-sc",
+    "https://www.agorafloripa.com.br/iphan-anuncia-avancos-e-fortalece-preservacao-historica-na-grande-florianopolis/",
+    "https://cbntotal.com.br/cotidiano/florianopolis-tem-sete-fortalezas-veja-quais-onde-ficam-e-como-visitar/",
+    "https://www.encontraflorianopolis.com.br/florianopolis/forte-de-santana-em-florianopolis.shtml",
+    "https://pt.wikipedia.org/wiki/Forte_de_Santana_do_Estreito"
+  ],
+  "verificado_em": "2026-11-16",
+  "confianca": "baixa",
+  "pendencias": [
+    "Horário de 2026 e se o portão abre no sábado de manhã",
+    "Se o Museu de Armas reabriu (última informação: fechado e com restauração financiada em 2025)",
+    "Os telefones listados pelo EncontraFlorianópolis são (48) 3229-6263 (forte) e (48) 3229-6947 (museu); não foram verificados"
+  ],
+  "google": {
+    "place_id": "ChIJByr1f_Q3J5URfpeDDgyHZI4",
+    "consultado_em": "2026-11-16"
+  }
+}

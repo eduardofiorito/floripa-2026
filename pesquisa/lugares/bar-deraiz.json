@@ -1,0 +1,108 @@
+{
+  "id": "bar-deraiz",
+  "nome": "Bar DeRaiz",
+  "categoria": "noite",
+  "regiao": "leste-lagoa",
+  "resumo": "Casa de festas no caminho da Joaquina, com pista que muda a cada noite: forró, samba, dub/reggae, funk/reggaeton, drum & bass. Público local, diverso e sem sertanejo universitário. Abre tarde (22h–23h) e vai até a madrugada.",
+  "destaques": [
+    "Sex 20/11/2026: Estação Dub • Jhayam x Mana Moa x Iland Rebel, 23h, R$ 40 (Shotgun)",
+    "Sex 27/11/2026: Pop Shots Convida Bailafunk, 23h, R$ 15 — reggaeton, funk, dancehall (Shotgun)",
+    "Programação de 11/2026 já teve Na Banguela 10 com Marcelinho da Lua (d&b, 6/11, R$ 30), Dance 44444 (7/11) e Baile do Sindicato (1/11)",
+    "Fixos citados por guias (antigos): Forró da Joaquina às terças e Sambão DeRaiz aos domingos",
+    "Festa GinGa: não achamos edição em 2026 em nenhum canal público (as GinGa do Groovecultural no Shotgun são de 2021–22, no Selina da Barra da Lagoa)"
+  ],
+  "coords": {
+    "lat": -27.6227276,
+    "lng": -48.4488648,
+    "fonte": "OSM Nominatim",
+    "ponto": "nó do bar no OSM (amenity=bar), entrada pela avenida"
+  },
+  "endereco": "Av. Pref. Acácio Garibaldi São Thiago, 1777 – Lagoa da Conceição (lado da Joaquina), CEP 88062-600",
+  "links": {
+    "google_maps": "https://www.google.com/maps/search/?api=1&query=Bar%20DeRaiz&query_place_id=ChIJUSbgoTo8J5URNLrZS5NaFHs",
+    "waze": "https://waze.com/ul?ll=-27.6227276,-48.4488648&navigate=yes",
+    "site": null,
+    "instagram": null,
+    "ingressos": "https://shotgun.live/pt-br/venues/de-raiz",
+    "reserva": null
+  },
+  "nota_google": null,
+  "outras_notas": [],
+  "da_lagoa": {
+    "tempo_min": 10,
+    "km": 4.5,
+    "obs": "Do Centrinho: 4,5 km, ~7 min de carro sem trânsito (OSM routing (routing.openstreetmap.de, OSRM), tempo sem trânsito); a pé ~1 h por avenida escura — não. Uber/99 ida e volta. Do Bar do Boni são ~2 km."
+  },
+  "estacionamento": "Sem informação confiável; ir de Uber.",
+  "horarios": "Ter–sáb, a partir das 22h/23h até a madrugada (BOABreja, 11/2026). Viajali (antigo): ter 22h–3h, qui–sáb 22h–4h, dom 21h–2h.",
+  "precos": "Ingressos de R$ 15 a R$ 40 nas festas de novembro/2026 (Shotgun). Bebida: sem valores publicados.",
+  "melhor_horario": "Chegar 23h30–0h30, quando a pista enche.",
+  "duracao": "3–4 h",
+  "trilha": {
+    "distancia_km": null,
+    "tempo_ida_min": null,
+    "desnivel_m": null,
+    "dificuldade": null,
+    "inicio": null,
+    "sinalizacao": null
+  },
+  "o_que_levar": [],
+  "cuidados": [
+    "Lei Seca: tolerância zero para álcool ao volante (CTB art. 165). Quem beber não dirige — Uber/99 ou motorista da vez que fica no zero.",
+    "Golpe da maquininha: confira o valor no visor antes de aproximar o cartão/celular e peça o comprovante — golpe comum em eventos, com alertas na imprensa em 2026 (em.com.br, 04/2026).",
+    "Ingresso só no canal oficial (Ingresse, Sympla, Shotgun, Pensanoevento, Guichê Web ou bilheteria da casa). Ingresse/ABREVIN alertam contra revenda em Viagogo, StubHub e grupos de WhatsApp/Telegram.",
+    "Leve documento original com foto: as casas são 18+ e conferem na porta.",
+    "Fica fora do Centrinho, em avenida escura: combine o Uber de volta em grupo."
+  ],
+  "clima": {
+    "sensivel_a": [],
+    "plano_b": "Casa fechada; chuva não cancela."
+  },
+  "publico": "Locais e público diverso, receptivo; mais alternativo que Jurerê. Sem dress code. Não toca sertanejo universitário (BOABreja).",
+  "combina_com": [
+    "bar-do-boni",
+    "espartano-lagoa",
+    "rufus"
+  ],
+  "encaixe": [
+    "noite"
+  ],
+  "fotos": [
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/a/a8/A_magia_do_por_do_sol_na_lagoa.jpg",
+      "pagina": "https://commons.wikimedia.org/wiki/File:A_magia_do_por_do_sol_na_lagoa.jpg",
+      "autor": "BruRibeiro",
+      "licenca": "CC BY-SA 4.0"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/f/fd/ViewLagoadaConceicao-feb2015.JPG",
+      "pagina": "https://commons.wikimedia.org/wiki/File:ViewLagoadaConceicao-feb2015.JPG",
+      "autor": "Ezarate",
+      "licenca": "CC BY-SA 4.0"
+    }
+  ],
+  "dicas": [
+    "Compre pelo Shotgun antes: festa barata (R$ 15) costuma virar lote mais caro na porta.",
+    "Sex 27/11 (Bailafunk, R$ 15) é a noite mais 'pista' da semana perto da base."
+  ],
+  "fontes": [
+    "https://shotgun.live/pt-br/venues/de-raiz",
+    "https://shotgun.live/pt-br/cities/florianopolis",
+    "https://www.deolhonailha.com.br/florianopolis/noticias/na-banguela-10-marcelinho-da-lua-bar-deraiz-lagoa/",
+    "https://www.boabreja.com.br/blog/bares-lagoa-da-conceicao",
+    "https://www.viajali.com.br/bares-florianopolis/",
+    "https://en.guiafloripa.com.br/services/leisure-and-entertainment/ballads-nightclubs-parties/rooted-in-forro-and-samba.php",
+    "https://shotgun.live/pt-br/events/ginga"
+  ],
+  "verificado_em": "2026-11-16",
+  "confianca": "media",
+  "pendencias": [
+    "Festa GinGa em 2026: data/local — perguntar no Instagram do DeRaiz ou do Groovecultural",
+    "Se ainda há forró às terças e samba aos domingos",
+    "Programação de qui 26/11 (nada publicado)"
+  ],
+  "google": {
+    "place_id": "ChIJUSbgoTo8J5URNLrZS5NaFHs",
+    "consultado_em": "2026-11-16"
+  }
+}

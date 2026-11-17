@@ -1,0 +1,116 @@
+{
+  "id": "p12-jurere",
+  "nome": "P12 Jurerê (Parador 12) – Pátio P12 Sunset",
+  "categoria": "noite",
+  "regiao": "norte",
+  "resumo": "O beach club mais famoso de Jurerê Internacional. Fora da temporada, faz o 'Pátio P12 Sunset': tarde de pagode e sertanejo ao vivo com food hall e o pôr do sol de Jurerê, com ingresso barato. É a abertura da noite grande de sábado 21/11.",
+  "destaques": [
+    "Sáb 21/11/2026 – Pátio P12 Sunset (4ª edição): abertura 15h; pagode e sertanejo; line-up DAVINCE + FELIPE & KAYNAN + DJs",
+    "Ingresso Pista unissex: R$ 30 + R$ 3,60 de taxa (lote 'atual', visto em 16/11/2026 na Ingresse). Sem meia-entrada. 18+",
+    "Pista dá acesso às áreas comuns, restaurante e Food Hall; na 2ª edição incluía praia, duchas e piscina",
+    "Camarote em grupo (12 ingressos + garçom): (48) 3284-8156 ou camarotesp12@parador12.com.br",
+    "Sex 20/11/2026 (feriado): MEDUZA – Radio Celebrate Jovem Pan, abertura 14h; Pista R$ 120 + R$ 14,40; há Área VIP Corona e Premium Second Floor open bar",
+    "Temporada de verão começa 26/12 (Murilo Huff); nada mais no P12 entre 22 e 29/11"
+  ],
+  "coords": {
+    "lat": -27.4331337,
+    "lng": -48.5141728,
+    "fonte": "OSM Nominatim",
+    "ponto": "nó 'Parador 12' (amenity=nightclub) no OSM, Servidão José Cardoso de Oliveira"
+  },
+  "endereco": "Servidão José Cardoso de Oliveira, s/n (lote 03) – Jurerê Internacional, Florianópolis, CEP 88053-306",
+  "links": {
+    "google_maps": "https://www.google.com/maps/search/?api=1&query=P12%20Jurer%C3%AA%20%28Parador%2012%29%20%E2%80%93%20P%C3%A1tio%20P12%20Sunset&query_place_id=ChIJ8_6xfgBFJ5URAP5_F886tA4",
+    "waze": "https://waze.com/ul?ll=-27.4331337,-48.5141728&navigate=yes",
+    "site": "https://parador12.com.br/agenda-de-eventos/",
+    "instagram": null,
+    "ingressos": "https://www.ingresse.com/patio-p12-sunset-p12-jurere-21-11-2026/",
+    "reserva": "Camarotes: (48) 3284-8156 / camarotesp12@parador12.com.br"
+  },
+  "nota_google": null,
+  "outras_notas": [],
+  "da_lagoa": {
+    "tempo_min": 50,
+    "km": 27,
+    "obs": "27 km pela SC-401: 33 min sem trânsito (OSM routing (routing.openstreetmap.de, OSRM), tempo sem trânsito); sábado à tarde conte 45–60 min (estimativa). Volta à noite: Uber/99 (4 dividem) ou motorista da vez."
+  },
+  "estacionamento": "Jurerê Internacional tem estacionamento na rua e pagos; sem informação de custo para o Sunset. Se forem de carro, alguém fica no zero para voltar.",
+  "horarios": "21/11: abertura 15h (horário de término não publicado; a estreia em 19/09 foi 15h–0h). 20/11 (Meduza): abertura 14h.",
+  "precos": "Pátio P12 Sunset: Pista R$ 30 + R$ 3,60 taxa (+ taxa do meio de pagamento). Meduza 20/11: Pista R$ 120 + R$ 14,40. Pontos de venda sem taxa no escritório do P12 (seg–sex 9h–18h, sáb 9h–12h).",
+  "melhor_horario": "Chegar 16h–16h30 para pegar o fim de tarde, ficar no pôr do sol (~18h50) e sair 21h–22h para a segunda parte da noite.",
+  "duracao": "4–6 h",
+  "trilha": {
+    "distancia_km": null,
+    "tempo_ida_min": null,
+    "desnivel_m": null,
+    "dificuldade": null,
+    "inicio": null,
+    "sinalizacao": null
+  },
+  "o_que_levar": [],
+  "cuidados": [
+    "Lei Seca: tolerância zero para álcool ao volante (CTB art. 165). Quem beber não dirige — Uber/99 ou motorista da vez que fica no zero.",
+    "Golpe da maquininha: confira o valor no visor antes de aproximar o cartão/celular e peça o comprovante — golpe comum em eventos, com alertas na imprensa em 2026 (em.com.br, 04/2026).",
+    "Ingresso só no canal oficial (Ingresse, Sympla, Shotgun, Pensanoevento, Guichê Web ou bilheteria da casa). Ingresse/ABREVIN alertam contra revenda em Viagogo, StubHub e grupos de WhatsApp/Telegram.",
+    "Leve documento original com foto: as casas são 18+ e conferem na porta.",
+    "Titularidade não importa: o código do ingresso é conferido na bilheteria — não compartilhe o QR em rede social."
+  ],
+  "clima": {
+    "sensivel_a": [
+      "chuva",
+      "vento sul"
+    ],
+    "plano_b": "Com chuva, o Sunset perde o sentido; trocar por noite na Lagoa (Espartano – Trippy Anos 2000) ou Centro (Open Bar no Vale)."
+  },
+  "publico": "Fora de temporada: público regional jovem/adulto de pagode e sertanejo, mais 'tarde com amigos' do que balada premium. Classificação 18+. Dress code não publicado pelo P12; bermuda e camisa (sem regata/chinelo, regra que o Greenvalley publica) é aposta segura.",
+  "combina_com": [
+    "espartano-lagoa",
+    "cafe-de-la-musique-jurere",
+    "agenda-noite-20-28-nov"
+  ],
+  "encaixe": [
+    "fim-de-semana",
+    "noite"
+  ],
+  "fotos": [
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/9/9c/Jurer%C3%AA_Internacional_panorama.jpg",
+      "pagina": "https://commons.wikimedia.org/wiki/File:Jurer%C3%AA_Internacional_panorama.jpg",
+      "autor": "Rafael Ghidini",
+      "licenca": "CC BY-SA 4.0"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/b/b6/Praia_de_Jurer%C3%AA_Internacional.JPG",
+      "pagina": "https://commons.wikimedia.org/wiki/File:Praia_de_Jurer%C3%AA_Internacional.JPG",
+      "autor": "Rafael Bernardino Mattei",
+      "licenca": "CC BY-SA 3.0"
+    }
+  ],
+  "dicas": [
+    "Comprem os 4 ingressos de uma vez pela Ingresse (R$ 33,60 cada) — barato e sem risco de lote virar.",
+    "Para o pôr do sol, fiquem do lado da praia; o sol se põe atrás do continente/baía.",
+    "A Ingresse alerta: não compre de Viagogo/StubHub/grupos de WhatsApp."
+  ],
+  "fontes": [
+    "https://www.ingresse.com/patio-p12-sunset-p12-jurere-21-11-2026/",
+    "https://event.ingresse.com/public/110384",
+    "https://p12.ingresse.com/",
+    "https://parador12.com.br/agenda-de-eventos/",
+    "https://parador12.com.br/agenda/patio-p12-sunset/",
+    "https://www.deolhonailha.com.br/florianopolis/noticias/patio-p12-sunset-pagode-gastronomia-jurere-19-setembro-2026/",
+    "https://ingresse.com/p12-radio-celebrate-jovem-pan-floripa-com-meduza-p12-jurere/",
+    "https://www.pensanoevento.com.br/eventos/111511/meduza-radio-celebrate-jovem-pan-floripa",
+    "https://www.technoairlines.com/club/p12-florianopolis"
+  ],
+  "verificado_em": "2026-11-16",
+  "confianca": "alta",
+  "pendencias": [
+    "Horário de término do Sunset de 21/11",
+    "Dress code oficial",
+    "Se o lote de R$ 30 vira na véspera"
+  ],
+  "google": {
+    "place_id": "ChIJ8_6xfgBFJ5URAP5_F886tA4",
+    "consultado_em": "2026-11-16"
+  }
+}

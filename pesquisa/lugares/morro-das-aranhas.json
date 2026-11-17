@@ -1,0 +1,126 @@
+{
+  "id": "morro-das-aranhas",
+  "nome": "Trilha do Morro das Aranhas",
+  "categoria": "trilha",
+  "regiao": "norte",
+  "resumo": "Trilha curta e íngreme que sai do canto sul da Praia do Santinho e sobe até cerca de 246 m. Lá de cima se veem as praias do Santinho, dos Ingleses e do Moçambique e as dunas. Dá para combinar com as gravuras rupestres do Costão do Santinho, que ficam no começo do caminho.",
+  "destaques": [
+    "Mirantes naturais para Santinho, Ingleses, Moçambique e as dunas",
+    "Área de Reserva Particular do Patrimônio Natural (RPPN) Morro das Aranhas",
+    "Passa perto do sítio de inscrições rupestres do Costão do Santinho",
+    "Variante que desce até a Praia do Moçambique"
+  ],
+  "coords": {
+    "lat": -27.4649978,
+    "lng": -48.3792633,
+    "fonte": "OSM Nominatim",
+    "ponto": "início aproximado: Costão do Santinho Resort, no canto sul da Praia do Santinho, onde começa a trilha; o cume fica em -27.4722279, -48.3800666 (OSM, natural=peak)"
+  },
+  "endereco": "Canto sul da Praia do Santinho, em frente ao Museu Arqueológico a Céu Aberto do Costão do Santinho (Rua das Ilhas), Ingleses do Rio Vermelho, Florianópolis.",
+  "links": {
+    "google_maps": "https://www.google.com/maps/search/?api=1&query=Trilha%20do%20Morro%20das%20Aranhas&query_place_id=ChIJsbknXF5qJ5UR5Dnb6MdY75c",
+    "waze": "https://waze.com/ul?ll=-27.4649978,-48.3792633&navigate=yes",
+    "site": null,
+    "instagram": null,
+    "ingressos": null,
+    "reserva": null
+  },
+  "nota_google": null,
+  "outras_notas": [
+    {
+      "fonte": "AllTrails (Cume do Morro das Aranhas)",
+      "nota": null,
+      "avaliacoes": 50,
+      "url": "https://www.alltrails.com/trail/brazil/santa-catarina--2/cume-do-morro-das-aranhas"
+    }
+  ],
+  "da_lagoa": {
+    "tempo_min": 35,
+    "km": 29,
+    "obs": "OSRM dá 32 min sem trânsito pela SC-406 (Rio Vermelho). Num dia útil de manhã cedo, o tempo é parecido."
+  },
+  "estacionamento": "Na rua, perto do canto sul do Santinho; o resort tem estacionamento para hóspedes. Sem informação de custo.",
+  "horarios": "Trilha aberta, sem horário oficial. Prefira de dia.",
+  "precos": "Grátis",
+  "melhor_horario": "Ao nascer do sol (cerca de 5h05) ou de manhã cedo, antes do calor; ou no fim da tarde num fim de semana.",
+  "duracao": "De 1h30 a 2h30, ida e volta, com paradas.",
+  "trilha": {
+    "distancia_km": 2.5,
+    "tempo_ida_min": 45,
+    "desnivel_m": 250,
+    "dificuldade": "moderada (curta, mas íngreme e irregular)",
+    "inicio": "canto sul da Praia do Santinho, junto ao Costão do Santinho",
+    "sinalizacao": "parcial; há painéis no trecho das inscrições rupestres. Nada confirmado no resto do caminho"
+  },
+  "o_que_levar": [
+    "água (não há na trilha)",
+    "tênis com boa aderência",
+    "protetor solar e boné",
+    "lanterna, se for no nascer do sol"
+  ],
+  "cuidados": [
+    "Pedras escorregadias e trechos íngremes; mirantes sem guarda-corpo",
+    "Não há água potável",
+    "Evite com chuva ou logo depois dela",
+    "O mar do Santinho é forte: cuidado ao entrar"
+  ],
+  "clima": {
+    "sensivel_a": [
+      "chuva",
+      "vento sul",
+      "calor forte ao meio-dia"
+    ],
+    "plano_b": "Ver só as inscrições rupestres, a 15 min do começo, ou caminhar na areia do Santinho até Ingleses."
+  },
+  "publico": "Quem gosta de trilha; pouco movimento em dia útil.",
+  "combina_com": [
+    "costao-do-santinho-inscricoes-rupestres",
+    "kart-ingleses",
+    "ingleses-santinho-jantar"
+  ],
+  "encaixe": [
+    "cedo-dia-util",
+    "fim-de-semana"
+  ],
+  "fotos": [
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/8/80/Morro_das_Aranhas_-_Florian%C3%B3polis_-_panoramio.jpg",
+      "pagina": "https://commons.wikimedia.org/wiki/File:Morro_das_Aranhas_-_Florian%C3%B3polis_-_panoramio.jpg",
+      "autor": "Vanderlei Bissiato",
+      "licenca": "CC BY-SA 3.0"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Reserva_Particular_do_Patrim%C3%B4nio_Natural_Morro_das_Aranhas_%2801%29.jpg/1280px-Reserva_Particular_do_Patrim%C3%B4nio_Natural_Morro_das_Aranhas_%2801%29.jpg",
+      "pagina": "https://commons.wikimedia.org/wiki/File:Reserva_Particular_do_Patrim%C3%B4nio_Natural_Morro_das_Aranhas_(01).jpg",
+      "autor": "DouglasSchifter",
+      "licenca": "CC BY-SA 4.0"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Ilha_Santa_Catarina_20_Praia_Santinho.JPG/1280px-Ilha_Santa_Catarina_20_Praia_Santinho.JPG",
+      "pagina": "https://commons.wikimedia.org/wiki/File:Ilha_Santa_Catarina_20_Praia_Santinho.JPG",
+      "autor": "Mariordo Mario Roberto Duran Ortiz",
+      "licenca": "CC BY-SA 3.0"
+    }
+  ],
+  "dicas": [
+    "Vá ao nascer do sol num dia útil: saindo da Lagoa às 5h, dá para estar de volta antes das 8h",
+    "Os números de distância variam muito: 1,2 km da base ao cume num relato, 2,5 km no Lets Hike e 3 km no AllTrails, cuja conta parece incluir a volta"
+  ],
+  "fontes": [
+    "https://www.letshike.com.br/trilha-do-morro-das-aranhas-2/",
+    "https://www.alltrails.com/trail/brazil/santa-catarina--2/cume-do-morro-das-aranhas",
+    "https://en.guiafloripa.com.br/turismo/trilhas-florianopolis/trilha-morro-das-aranhas",
+    "https://www.wikiloc.com/hiking-trails/morro-das-aranhas-santinho-florianopolis-sc-45890448",
+    "https://nominatim.openstreetmap.org/search?format=json&q=Morro%20das%20Aranhas"
+  ],
+  "verificado_em": "2026-11-16",
+  "confianca": "media",
+  "pendencias": [
+    "Distância e tempo exatos (fontes divergem de 1,2 a 3 km)",
+    "Se há restrição de acesso pela RPPN ou pelo resort"
+  ],
+  "google": {
+    "place_id": "ChIJsbknXF5qJ5UR5Dnb6MdY75c",
+    "consultado_em": "2026-11-16"
+  }
+}

@@ -1,0 +1,117 @@
+{
+  "id": "ponte-hercilio-luz",
+  "nome": "Ponte Hercílio Luz (travessia a pé)",
+  "categoria": "passeio",
+  "regiao": "centro",
+  "resumo": "Cartão-postal de Florianópolis: ponte pênsil de 1926, com 821 m e vão central de 339,5 m. Nos fins de semana e feriados fecha para carros e fica para pedestres e ciclistas. Atravessar a pé leva uns 15 minutos e liga o Parque da Luz, na Ilha, à Beira-Mar Continental, onde é a arena da SC21K.",
+  "destaques": [
+    "Travessia a pé pelo tabuleiro ou pelas passarelas laterais",
+    "Vista das duas baías e do Centro",
+    "Iluminação cênica à noite (sem horário oficial publicado)",
+    "Mirantes: Parque da Luz e Forte Santana, na cabeceira insular, e Beira-Mar Continental, na cabeceira continental"
+  ],
+  "coords": {
+    "lat": -27.5938202,
+    "lng": -48.5654433,
+    "fonte": "OSM Nominatim",
+    "ponto": "meio da ponte (man_made=bridge); a cabeceira insular fica perto do Parque da Luz (-27.5925794, -48.5601991)"
+  },
+  "endereco": "Cabeceira insular: Rua Felipe Schmidt e Av. Osvaldo Rodrigues Cabral, Centro. Cabeceira continental: Av. Cláudio Alvim Barbosa (Beira-Mar Continental), Estreito.",
+  "links": {
+    "google_maps": "https://www.google.com/maps/search/?api=1&query=Ponte%20Herc%C3%ADlio%20Luz%20%28travessia%20a%20p%C3%A9%29&query_place_id=ChIJx80CqfM3J5UROhjuBsfepxo",
+    "waze": "https://waze.com/ul?ll=-27.5938202,-48.5654433&navigate=yes",
+    "site": null,
+    "instagram": null,
+    "ingressos": null,
+    "reserva": null
+  },
+  "nota_google": null,
+  "outras_notas": [],
+  "da_lagoa": {
+    "tempo_min": 25,
+    "km": 14,
+    "obs": "OSRM: 14,2 km e 19 min até o Parque da Luz sem trânsito. Num sábado de manhã, de 20 a 30 min."
+  },
+  "estacionamento": "Não procure vaga na cabeceira insular, que é ruim. No sábado 28, a melhor opção é estacionar no lado continental, perto da arena da SC21K, e atravessar a pé. Há também estacionamentos pagos no Centro.",
+  "horarios": "Pedestres e ciclistas: passarelas liberadas o dia todo, inclusive durante as manutenções. Carros: só em dias úteis. Nos fins de semana e feriados a ponte fica exclusiva para pedestres e ciclistas, regra citada pelo MPC-SC em jul/2026. Manutenção: desde jul/2026, fecha para carros às terças e quintas, das 20h à 0h. De 19/11 (20h) a 22/11 (5h), o vão central e a passarela sul ficam fechados e só a passarela norte fica aberta. Isso não afeta o sábado 28.",
+  "precos": "Grátis",
+  "melhor_horario": "Sábado de manhã (das 9h às 11h) ou ao anoitecer, para ver a iluminação.",
+  "duracao": "15 a 20 min para atravessar; 45 min com fotos e os mirantes",
+  "trilha": {
+    "distancia_km": null,
+    "tempo_ida_min": null,
+    "desnivel_m": null,
+    "dificuldade": null,
+    "inicio": null,
+    "sinalizacao": null
+  },
+  "o_que_levar": [
+    "boné e protetor solar (não há sombra)",
+    "água"
+  ],
+  "cuidados": [
+    "Bicicletas dividem o espaço: ande pela direita",
+    "Venta muito no vão central",
+    "No domingo 29 a ponte faz parte da SC21K: pode haver bloqueio e mudança de regra"
+  ],
+  "clima": {
+    "sensivel_a": [
+      "chuva",
+      "vento sul forte"
+    ],
+    "plano_b": "Ver a ponte do Parque da Luz ou do Forte Santana."
+  },
+  "publico": "Moradores caminhando e correndo, turistas e ciclistas; cheia nos fins de semana.",
+  "combina_com": [
+    "forte-santana",
+    "sc21k-2026",
+    "mercado-publico",
+    "centro-historico"
+  ],
+  "encaixe": [
+    "fim-de-semana",
+    "noite"
+  ],
+  "fotos": [
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Ponte_Herc%C3%ADlio_Luz_de_noite_%2801%29.jpg/1280px-Ponte_Herc%C3%ADlio_Luz_de_noite_%2801%29.jpg",
+      "pagina": "https://commons.wikimedia.org/wiki/File:Ponte_Herc%C3%ADlio_Luz_de_noite_(01).jpg",
+      "autor": "Thaismay",
+      "licenca": "CC BY-SA 4.0"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Ponte_Herc%C3%ADlio_Luz_Florian%C3%B3polis.jpg/1280px-Ponte_Herc%C3%ADlio_Luz_Florian%C3%B3polis.jpg",
+      "pagina": "https://commons.wikimedia.org/wiki/File:Ponte_Herc%C3%ADlio_Luz_Florian%C3%B3polis.jpg",
+      "autor": "Chamuscajr",
+      "licenca": "CC BY-SA 4.0"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Ponte_Herc%C3%ADlio_Luz_em_2015.JPG/1280px-Ponte_Herc%C3%ADlio_Luz_em_2015.JPG",
+      "pagina": "https://commons.wikimedia.org/wiki/File:Ponte_Herc%C3%ADlio_Luz_em_2015.JPG",
+      "autor": "Thiagomalkowski",
+      "licenca": "CC BY-SA 4.0"
+    }
+  ],
+  "dicas": [
+    "Para o sábado 28: estacione no Estreito, retire o kit da SC21K na arena (9h às 19h), atravesse a pé para a Ilha, desça pelo Forte Santana e pelo Parque da Luz e siga a pé até a Praça XV e o Mercado (cerca de 1,5 km)",
+    "Dá para voltar de Uber até o carro se as pernas pedirem descanso antes da prova"
+  ],
+  "fontes": [
+    "https://sctd.com.br/geral/mudanca-na-ponte-hercilio-luz-afeta-transito-em-florianopolis-saiba-o-que-muda/",
+    "https://agorafloripa.com.br/ponte-hercilio-luz-tera-bloqueio-em-florianopolis-veja-os-horarios-e-o-que-muda-durante-o-feriado",
+    "https://sctd.com.br/geral/ponte-hercilio-luz-tera-passagem-parcialmente-fechada-por-quatro-dias/",
+    "https://pontehercilio.com/",
+    "https://www.quintoandar.com.br/guias/cidades/ponte-hercilio-luz/",
+    "https://ndmais.com.br/transito/maratona-internacional-de-floripa-reune-19-mil-atletas-e-altera-transito-na-capital/"
+  ],
+  "verificado_em": "2026-11-16",
+  "confianca": "media",
+  "pendencias": [
+    "Horário oficial da iluminação cênica",
+    "Comunicado da SIE/Prefeitura sobre a ponte no fim de semana da SC21K (28 e 29/11)"
+  ],
+  "google": {
+    "place_id": "ChIJx80CqfM3J5UROhjuBsfepxo",
+    "consultado_em": "2026-11-16"
+  }
+}

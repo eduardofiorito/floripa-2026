@@ -1,0 +1,120 @@
+{
+  "id": "kart-ingleses",
+  "nome": "Kartódromo dos Ingleses (Kartódromo Internacional dos Ingleses)",
+  "categoria": "atividade",
+  "regiao": "norte",
+  "resumo": "Pista de kart ao ar livre no norte da Ilha, com cerca de 1 km e iluminação para correr à noite. É o programa competitivo da semana: uma bateria de 20 minutos entre os quatro e depois jantar em Ingleses. O ponto fraco é que a oferta de kart de aluguel para o público não está confirmada em nenhuma fonte oficial.",
+  "destaques": [
+    "Pista outdoor de cerca de 1.048 m (um guia diz 800 m), com iluminação para baterias noturnas",
+    "Kart de aluguel Honda de 12–13 HP; há também kart com câmbio (24 HP) em eventos",
+    "Baterias de 20 a 25 minutos com cronometragem",
+    "Pacotes para grupo com pódio, troféus e cronometragem exclusiva (segundo guia local)"
+  ],
+  "coords": {
+    "lat": -27.4397348,
+    "lng": -48.4230636,
+    "fonte": "OSM Nominatim",
+    "ponto": "localidade 'Kartódromo' na Estrada Anarolina Silveira Santos, Vargem do Bom Jesus; a entrada exata da pista não está mapeada no OSM"
+  },
+  "endereco": "Estrada Anarolina Silveira Santos, 691, Vargem do Bom Jesus, Florianópolis/SC, CEP 88056-590 (Hagah, FAUESC, Kart Directory). Outras fontes (guia Mais Perto, evento no Luma) dão 'R. Q. H, 2, Vargem do Bom Jesus', ao lado do Floripa Paintball. Na prática parecem ser o mesmo terreno: a Rua Quadra H sai da Estrada Anarolina; o OSM chama a localidade de 'Kartódromo'.",
+  "links": {
+    "google_maps": "https://www.google.com/maps/search/?api=1&query=Kart%C3%B3dromo%20dos%20Ingleses%20%28Kart%C3%B3dromo%20Internacional%20dos%20Ingleses%29&query_place_id=ChIJSySDWyRCJ5URFYO9GZWdq5I",
+    "waze": "https://waze.com/ul?ll=-27.4397348,-48.4230636&navigate=yes",
+    "site": null,
+    "instagram": null,
+    "ingressos": null,
+    "reserva": null
+  },
+  "nota_google": null,
+  "outras_notas": [
+    {
+      "fonte": "Buser (agregador)",
+      "nota": 4.5,
+      "avaliacoes": 557,
+      "url": "https://www.buser.com.br/destinos/pontos-turisticos/sc/florianopolis/kartodromo-dos-ingleses"
+    },
+    {
+      "fonte": "Foursquare",
+      "nota": 6.7,
+      "avaliacoes": 28,
+      "url": "https://pt.foursquare.com/v/kart%C3%B3dromo-dos-ingleses/4d7bd182da568cfae30f59ff"
+    }
+  ],
+  "da_lagoa": {
+    "tempo_min": 45,
+    "km": 27,
+    "obs": "OSRM dá 29 min sem trânsito, pela SC-406 (Rio Vermelho, Rod. João Gualberto Soares) e Estrada Anarolina. Numa terça às 17h40, conte de 40 a 50 min. A SC-406 costuma ser melhor que a SC-401 no fim da tarde. Saindo às 17h40, a chegada fica perto das 18h25: apertado para uma bateria às 18h30."
+  },
+  "estacionamento": "Os guias citam estacionamento próprio, sem custo informado.",
+  "horarios": "Não confirmados; as fontes divergem. Guia Mais Perto (nov/2025): terça a sexta, 14h às 22h; fins de semana e feriados, 10h às 23h. Planeta Brasileiro: terça a domingo, 8h às 16h e 16h às 22h. Buser: sábado e domingo, 16h às 22h. Segunda parece fechado em todas.",
+  "precos": "Estimativas: R$ 80 a 120 por bateria de 20 a 25 min, com capacete, balaclava e luvas (guia Mais Perto, nov/2025). Um evento de grupo no próprio kartódromo cobrou R$ 140 por pessoa por bateria de 20 min no kart rental de 12 HP e R$ 220 no kart com câmbio de 24 HP, pagos na pista (Luma, Founder Haus, sem data). Outro guia dá R$ 100 a 140 por bateria de grupo de 20 min.",
+  "melhor_horario": "Ao anoitecer (sol se põe por volta das 18h50); a pista é iluminada.",
+  "duracao": "Bateria de 20 a 25 min mais briefing e equipamento; conte de 1h a 1h15 no local.",
+  "trilha": {
+    "distancia_km": null,
+    "tempo_ida_min": null,
+    "desnivel_m": null,
+    "dificuldade": null,
+    "inicio": null,
+    "sinalizacao": null
+  },
+  "o_que_levar": [
+    "tênis fechado (obrigatório)",
+    "calça e camiseta",
+    "documento com foto",
+    "dinheiro ou Pix (pagamento na pista)",
+    "casaco leve para depois"
+  ],
+  "cuidados": [
+    "Não há confirmação pública de que a pista aluga kart avulso numa terça à noite: confirme antes de sair",
+    "Regras de idade e altura: um guia cita mínimo de 13 ou 14 anos e cerca de 1,50 m; adultos não têm problema",
+    "Com chuva a pista pode fechar ou trocar o horário",
+    "Campeonatos e escolinha (FAUESC) usam a pista em algumas datas; a 3ª etapa da Copa Ingleses é em 19/12/2026, fora da viagem"
+  ],
+  "clima": {
+    "sensivel_a": [
+      "chuva",
+      "pista molhada"
+    ],
+    "plano_b": "Top Speed Kart Indoor, no Continente Shopping (São José, BR-101). É coberto, mas fica a cerca de 35 km da Lagoa. Outra opção é trocar o kart por jantar e cerveja em Santo Antônio ou na Lagoa."
+  },
+  "publico": "Grupos de amigos, aniversários, despedidas de solteiro e eventos de empresa; pilotos amadores com kart próprio nos campeonatos.",
+  "combina_com": [
+    "ingleses-santinho-jantar",
+    "morro-das-aranhas"
+  ],
+  "encaixe": [
+    "pos-expediente",
+    "noite"
+  ],
+  "fotos": [],
+  "dicas": [
+    "Mande mensagem pedindo uma bateria fechada para 4 às 18h30 (ou 19h) da terça 24/11; com grupo pequeno, a pista pode exigir um mínimo de pilotos ou juntar vocês a outros",
+    "Se a bateria puder ser às 19h, saiam às 17h40 sem pressa; se for às 18h30, saiam às 17h30",
+    "Depois do kart, Ingleses fica a 5 min; Koniko e Orlando ficam na própria SC-406, no caminho de volta para a Lagoa"
+  ],
+  "fontes": [
+    "https://florianopolis.maisperto.com.br/kartodromo-dos-ingleses/",
+    "https://www.hagah.com.br/kartodromo-internacional-dos-ingleses-anarolina-silveira-santos-691",
+    "https://kartdirectory.racing/br/circuit/kartodromo-internacional-dos-ingleses/",
+    "https://luma.com/founder-5jx0",
+    "https://fauesc.org.br/noticia/206",
+    "https://www.florianopolisturismo.com.br/kart-em-florianopolis.asp",
+    "https://www.buser.com.br/destinos/pontos-turisticos/sc/florianopolis/kartodromo-dos-ingleses",
+    "https://www.facebook.com/kartodromofkc/",
+    "https://nominatim.openstreetmap.org/search?format=json&q=kart%C3%B3dromo%20Florian%C3%B3polis",
+    "https://router.project-osrm.org (tempo sem trânsito)"
+  ],
+  "verificado_em": "2026-11-16",
+  "confianca": "baixa",
+  "pendencias": [
+    "CRÍTICO: confirmar se há kart de aluguel aberto ao público na terça 24/11 às 18h30, o preço por bateria e se fazem bateria só para 4 pessoas",
+    "Telefone e WhatsApp: as fontes divergem. Hagah dá (48) 9972-1230 e o Kart Directory (48) 99972-1230, que parece a mesma linha com o 9 na frente. Diretórios citam ainda (48) 99125-1188 e (48) 99608-1128. Não achei Instagram oficial; há uma página no Facebook (facebook.com/kartodromofkc)",
+    "Endereço exato da portaria (Estrada Anarolina Silveira Santos, 691 ou Rua Quadra H, 2)",
+    "Sem foto do kartódromo no Wikimedia Commons"
+  ],
+  "google": {
+    "place_id": "ChIJSySDWyRCJ5URFYO9GZWdq5I",
+    "consultado_em": "2026-11-16"
+  }
+}

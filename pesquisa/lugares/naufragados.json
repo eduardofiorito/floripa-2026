@@ -1,0 +1,131 @@
+{
+  "id": "naufragados",
+  "nome": "Naufragados (trilha, farol e canhões)",
+  "categoria": "trilha",
+  "regiao": "sul",
+  "resumo": "A ponta sul da ilha: 50 min de trilha na mata saindo da Caieira da Barra do Sul até uma praia selvagem, com farol (sem visitação interna), canhões do antigo forte e vista da Fortaleza de Araçatuba numa ilhota. Volta a pé ou de barco de pescador.",
+  "destaques": [
+    "Trilha de ~2,5–3 km com sombra e riachos",
+    "Farol de Naufragados e Canhões de Naufragados no canto direito da praia",
+    "Vista da Fortaleza de N. S. da Conceição de Araçatuba (1742 segundo Visite Floripa; 1744 segundo legenda no Commons)",
+    "Combina com almoço de ostras no Ribeirão no mesmo dia"
+  ],
+  "coords": {
+    "lat": -27.8163195,
+    "lng": -48.5609981,
+    "fonte": "OSM Nominatim (highway=trailhead 'Caminho dos Naufragados e do Farol')",
+    "ponto": "início da trilha, ao lado do estacionamento da Caieira (Rod. Baldicero Filomeno, 20409). Praia: -27.8340, -48.5624; Farol: -27.8357367, -48.5697603; Canhões: -27.8341049, -48.5687977 (OSM)"
+  },
+  "endereco": "Rod. Baldicero Filomeno, 20409, Caieira da Barra do Sul (fim da estrada)",
+  "links": {
+    "google_maps": "https://www.google.com/maps/search/?api=1&query=Naufragados%20%28trilha%2C%20farol%20e%20canh%C3%B5es%29&query_place_id=ChIJQxsLgyYpJ5URvhm_Q5p7xJ8",
+    "waze": "https://waze.com/ul?ll=-27.8163195,-48.5609981&navigate=yes",
+    "site": null,
+    "instagram": null,
+    "ingressos": null,
+    "reserva": null
+  },
+  "nota_google": null,
+  "outras_notas": [],
+  "da_lagoa": {
+    "tempo_min": 60,
+    "km": 34,
+    "obs": "OSRM 51 min/34 km sem trânsito; conte 60–70 min. Estrada estreita e sinuosa depois do Ribeirão."
+  },
+  "estacionamento": "Estacionamentos particulares no início da trilha: R$ 20/dia em relatos recentes (inclui banheiro e ducha); R$ 10 num relato de 2017. Pode subir no verão.",
+  "horarios": "Trilha sempre aberta; recomendado de manhã.",
+  "precos": "Trilha grátis. Barco de pescador Caieira ↔ Naufragados: R$ 20–30 por pessoa por trecho em relatos antigos (negociar na praia). Passeio de barco de 6 h (farol, Araçatuba, Ponta do Papagaio, Pedras Altas): R$ 180, saídas 8h e 10h30 (Aventura na Ilha).",
+  "melhor_horario": "Começar 8h–9h, praia de manhã, almoço no Ribeirão.",
+  "duracao": "4–5 h com praia e farol",
+  "trilha": {
+    "distancia_km": 2.8,
+    "tempo_ida_min": 50,
+    "desnivel_m": null,
+    "dificuldade": "fácil a moderada: começa com subida íngreme, depois quase plana (relato de nov/2025 diz que é mais puxada do que os moradores dizem)",
+    "inicio": "Estacionamento no fim da Rod. Baldicero Filomeno, Caieira da Barra do Sul",
+    "sinalizacao": "Trilha bem marcada"
+  },
+  "o_que_levar": [
+    "1 L de água por pessoa",
+    "lanche",
+    "tênis",
+    "repelente",
+    "chinelo para as pedras",
+    "dinheiro para barco/estacionamento"
+  ],
+  "cuidados": [
+    "Água muito gelada mesmo no verão",
+    "Para chegar aos canhões/farol pode ser preciso passar por pedras dentro da água; maré alta e mar agitado impedem",
+    "Lama na trilha da direita depois de chuva",
+    "Sinal de celular falha",
+    "Lado direito da praia tem ondas fortes"
+  ],
+  "clima": {
+    "sensivel_a": [
+      "chuva",
+      "maré alta",
+      "mar agitado",
+      "vento sul"
+    ],
+    "plano_b": "Só Ribeirão da Ilha (ostras e Freguesia)."
+  },
+  "publico": "Trilheiros, surfistas, campistas; tranquila.",
+  "combina_com": [
+    "ribeirao-da-ilha",
+    "ostradamus",
+    "rancho-acoriano"
+  ],
+  "encaixe": [
+    "fim-de-semana"
+  ],
+  "fotos": [
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/8/8a/Naufragados%2C_Florian%C3%B3polis%2C_2015.jpg",
+      "pagina": "https://commons.wikimedia.org/wiki/File:Naufragados,_Florian%C3%B3polis,_2015.jpg",
+      "autor": "Pedro Soares de Oliveira Neto",
+      "licenca": "CC BY-SA 4.0"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/b/b8/Farol_da_Praia_de_Naufragados.jpg",
+      "pagina": "https://commons.wikimedia.org/wiki/File:Farol_da_Praia_de_Naufragados.jpg",
+      "autor": "Papa Pic",
+      "licenca": "CC0"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/d/d0/Fortaleza_de_Nossa_Senhora_da_Concei%C3%A7%C3%A3o_de_Ara%C3%A7atuba%2C_Florian%C3%B3polis%2C_SC%2C_Brasil.JPG",
+      "pagina": "https://commons.wikimedia.org/wiki/File:Fortaleza_de_Nossa_Senhora_da_Concei%C3%A7%C3%A3o_de_Ara%C3%A7atuba,_Florian%C3%B3polis,_SC,_Brasil.JPG",
+      "autor": "Luiz Vianna",
+      "licenca": "CC BY-SA 3.0"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/f/f5/A_caminho_da_Praia_dos_Naufragados_%285376191812%29.jpg",
+      "pagina": "https://commons.wikimedia.org/wiki/File:A_caminho_da_Praia_dos_Naufragados_(5376191812).jpg",
+      "autor": "Andreia Reis from São Paulo, Brasil",
+      "licenca": "CC BY 2.0"
+    }
+  ],
+  "dicas": [
+    "Vá a pé e volte de barco para a Caieira se estiver cansado",
+    "Leve comida: fontes divergem sobre restaurantes na praia (2017: ~3 restaurantes; guia de 2026: sem comércio estruturado)",
+    "Dá para seguir a pé até Saquinho e Solidão (~5 km), mas aí o carro fica do outro lado"
+  ],
+  "fontes": [
+    "https://visitefloripa.com.br/en_us/?p=4901",
+    "https://viajapinha.com.br/trilha-para-praia-de-naufragados-florianopolis/",
+    "https://sendoguia.com.br/2026/02/22/trilha-de-naufragados-guia-completo-para-explorar-uma-das-trilhas-mais-incriveis-de-florianopolis/",
+    "https://ingressos.aventuranailha.com.br/unit/55/passeio-de-barco-pelo-sul-da-ilha/",
+    "https://www.wikiloc.com/hiking-trails/trilha-de-naufragados-florianopolis-sc-73246348",
+    "https://www.mochileiros.com/circuito-de-trilhas-no-sul-de-floripa-sc-mai-13-t82660.html"
+  ],
+  "verificado_em": "2026-11-16",
+  "confianca": "media",
+  "pendencias": [
+    "Preço atual do barco de pescador e se opera em novembro",
+    "Se há restaurante aberto na praia em nov/2026",
+    "Data de construção do farol não levantada"
+  ],
+  "google": {
+    "place_id": "ChIJQxsLgyYpJ5URvhm_Q5p7xJ8",
+    "consultado_em": "2026-11-16"
+  }
+}

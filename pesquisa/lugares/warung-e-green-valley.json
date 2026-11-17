@@ -1,0 +1,101 @@
+{
+  "id": "warung-e-green-valley",
+  "nome": "Warung e Greenvalley (Itajaí/Camboriú)",
+  "categoria": "noite",
+  "regiao": "fora-da-ilha",
+  "resumo": "O Warung Beach Club (Praia Brava, Itajaí) encerrou as atividades com o 'Closing Weekend' de 4–6/06/2026 — não há data em novembro. O Greenvalley (Camboriú) tem uma noite na viagem: sáb 21/11, aniversário de 19 anos com PAWSA, que bate com o Pátio P12 Sunset. Em 27/11 não há nada.",
+  "destaques": [
+    "Greenvalley 19 Year Anniversary with PAWSA – sáb 21/11/2026, 22h; sets: Carol Seubert, Jackson, Bhaskar b2b Marian, PAWSA",
+    "Ingressos (Guichê Web, 16/11): Frontstage inteira a partir de R$ 380, meia R$ 190, social R$ 210 (com 1 kg de alimento), Área VIP R$ 520, Backstage R$ 610, + taxas. 18+",
+    "Regras de roupa: proibido bermuda de banho, regata, camiseta de time, chinelo e corrente grossa",
+    "Greenvalley 27/11: sem evento (próximo depois do dia 21 é 28/12, Miss Monique)",
+    "Warung: agenda oficial termina em 06/06/2026 (Vintage Culture, Dixon, Hernan Cattaneo); a marca segue só como 'Warung Tour' em outras cidades",
+    "Surreal Park (Camboriú): Baladas Floripa cita Hernan Cattaneo em 20/11, sem link de ingresso — não confirmado"
+  ],
+  "coords": {
+    "lat": -27.0368887,
+    "lng": -48.6264002,
+    "fonte": "OSM Nominatim",
+    "ponto": "nó 'GreenValley' (amenity=nightclub) no OSM, Rua Antônio Lopes Gonçalves Bastos, Rio Pequeno, Camboriú"
+  },
+  "endereco": "Greenvalley: Rua Antônio Lopes Gonçalves Bastos, 1083 – Rio Pequeno, Camboriú/SC, CEP 88343-412. Warung (fechado): Av. Dr. José Medeiros Vieira, Praia Brava, Itajaí.",
+  "links": {
+    "google_maps": "https://www.google.com/maps/search/?api=1&query=-27.0368887,-48.6264002",
+    "waze": "https://waze.com/ul?ll=-27.0368887,-48.6264002&navigate=yes",
+    "site": "https://www.greenvalleybr.com/",
+    "instagram": "https://www.instagram.com/greenvalleybr/",
+    "ingressos": "https://www.guicheweb.com.br/greenvalley-19-year-anniversary-with-pawsa_55669",
+    "reserva": "Mesas e camarotes: WhatsApp +55 47 99903-4303 (site oficial)"
+  },
+  "nota_google": null,
+  "outras_notas": [],
+  "da_lagoa": {
+    "tempo_min": 100,
+    "km": 92,
+    "obs": "Lagoa → Greenvalley: 92 km pela BR-101, 82 min sem trânsito (OSM routing (routing.openstreetmap.de, OSRM), tempo sem trânsito); sábado à noite conte 1h30–2h. Warung ficaria a 104 km/98 min. Volta de madrugada (~6h) só com motorista que não bebeu."
+  },
+  "estacionamento": "O clube tem estacionamento (sem preço publicado).",
+  "horarios": "Greenvalley 21/11: 22h até de manhã. Warung: fechado.",
+  "precos": "Greenvalley 21/11: R$ 190–610 + taxas (ver destaques). Para 4 pessoas no Frontstage inteira: ~R$ 1.520 + taxas.",
+  "melhor_horario": "Chegar 0h–1h; PAWSA fecha a noite.",
+  "duracao": "Noite inteira + 1h30–2h de estrada cada lado",
+  "trilha": {
+    "distancia_km": null,
+    "tempo_ida_min": null,
+    "desnivel_m": null,
+    "dificuldade": null,
+    "inicio": null,
+    "sinalizacao": null
+  },
+  "o_que_levar": [],
+  "cuidados": [
+    "Lei Seca: tolerância zero para álcool ao volante (CTB art. 165). Quem beber não dirige — Uber/99 ou motorista da vez que fica no zero.",
+    "Golpe da maquininha: confira o valor no visor antes de aproximar o cartão/celular e peça o comprovante — golpe comum em eventos, com alertas na imprensa em 2026 (em.com.br, 04/2026).",
+    "Ingresso só no canal oficial (Ingresse, Sympla, Shotgun, Pensanoevento, Guichê Web ou bilheteria da casa). Ingresse/ABREVIN alertam contra revenda em Viagogo, StubHub e grupos de WhatsApp/Telegram.",
+    "Leve documento original com foto: as casas são 18+ e conferem na porta.",
+    "BR-101 de madrugada com sono é tão perigoso quanto com álcool: se forem, o motorista dorme à tarde e não bebe."
+  ],
+  "clima": {
+    "sensivel_a": [
+      "chuva"
+    ],
+    "plano_b": "Casa coberta; chuva só piora a estrada."
+  },
+  "publico": "Público de música eletrônica de todo o Sul, 20–35, produzido; regras de roupa na porta.",
+  "combina_com": [
+    "agenda-noite-20-28-nov",
+    "p12-jurere"
+  ],
+  "encaixe": [
+    "noite",
+    "fim-de-semana"
+  ],
+  "fotos": [
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/6/6d/Praia_Brava_Itaja%C3%AD.jpg",
+      "pagina": "https://commons.wikimedia.org/wiki/File:Praia_Brava_Itaja%C3%AD.jpg",
+      "autor": "Eduardo Marquetti - on Flickr",
+      "licenca": "CC BY-SA 4.0"
+    }
+  ],
+  "dicas": [
+    "Para este grupo e esta viagem: não recomendamos — o mesmo sábado já tem o P12 em Jurerê e o carro único obrigaria alguém a não beber e dirigir 3–4 h.",
+    "Se eletrônica for prioridade máxima, a troca é: pular o P12, sair da Lagoa às 22h com motorista da vez e voltar ~7h no domingo."
+  ],
+  "fontes": [
+    "https://www.greenvalleybr.com/",
+    "https://www.guicheweb.com.br/greenvalley-19-year-anniversary-with-pawsa_55669",
+    "https://betimelapse.com.br/eventos/greenvalley-aniversario-pawsa-2026",
+    "https://warungclub.com.br/agenda/",
+    "https://warungclub.com.br/",
+    "https://www.nsctotal.com.br/?p=7836118",
+    "https://dropdaily.com.br/agenda/clubs-pistas/dawn-patrol-promete-noite-historica-na-temporada-de-despedida-do-warung-beach-club/",
+    "https://baladasfloripa.com/"
+  ],
+  "verificado_em": "2026-11-16",
+  "confianca": "alta",
+  "pendencias": [
+    "Warung: confirmar que não há nenhuma data 'Warung Tour' em SC em novembro (página do Tour sem datas)",
+    "Surreal Park 20/11"
+  ]
+}

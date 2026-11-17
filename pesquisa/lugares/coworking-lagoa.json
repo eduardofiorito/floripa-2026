@@ -1,0 +1,106 @@
+{
+  "id": "coworking-lagoa",
+  "nome": "Coworkings e cafés para trabalhar na Lagoa",
+  "categoria": "atividade",
+  "regiao": "leste-lagoa",
+  "resumo": "Opções para tirar o home office de casa nos dias úteis: um coworking no Centrinho a 3 minutos a pé (Cool Office), um na Av. das Rendeiras (Pantai), cafés com wi-fi e dois hostels-coworking mais baratos. O Selina da Praia Mole provavelmente fechou.",
+  "destaques": [
+    "Cool Office Lagoa: Rua Bento Silveira, 34, sala 2, Centrinho. Seg–sex 8h–18h, café e chá, ar-condicionado, sala de reunião, Woba 4,5 (19). Wi-fi descrito como fibra rápida",
+    "Pantai: Av. das Rendeiras, 2222. Seg–sex 9h–17h, day pass e sala de reunião sob consulta, café, chá e internet rápida",
+    "O Sítio Coworking: R. Francisca Luísa Vieira, 53, Lagoa. Seg–sex 9h–21h, hot desk ~8 euros/dia (CoworkBooking), café grátis, zona silenciosa, sala para chamadas e estacionamento grátis",
+    "Nômades Adventure Hostel & Coworking: Rua Laurindo José de Souza, 1100, Barra da Lagoa, beira do canal. Todo dia 7h–23h, hot desk ~5 euros/dia, primeiro dia grátis (CoworkBooking), café grátis",
+    "Café Cultura (R. Manoel Severino de Oliveira): não é coworking, mas tem wi-fi grátis e tomadas nas mesas; enche de notebooks à tarde",
+    "Selina Floripa (Praia Mole): R$ 60/dia em 2024, mas há relato de fechamento repentino em out/2024 e a Woba marca \"fechado\""
+  ],
+  "coords": {
+    "lat": -27.602958,
+    "lng": -48.4665518,
+    "fonte": "OSM Nominatim (Rua Bento Silveira; número 34 não geocodificado)",
+    "ponto": "Rua Bento Silveira, Centrinho, onde fica o Cool Office Lagoa (posição da rua, aproximada)"
+  },
+  "endereco": "Cool Office Lagoa: Rua Bento Silveira, 34, sala 2, Lagoa da Conceição, 88062-045",
+  "links": {
+    "google_maps": "https://www.google.com/maps/search/?api=1&query=-27.602958,-48.4665518",
+    "waze": "https://waze.com/ul?ll=-27.602958,-48.4665518&navigate=yes",
+    "site": "https://portal.woba.com.br/coworking/space/cool-office-lagoa--florianopolis",
+    "instagram": null,
+    "ingressos": null,
+    "reserva": "https://www.coworkbooking.com/south-america/brazil/florianopolis/o-sitio"
+  },
+  "nota_google": null,
+  "outras_notas": [
+    {
+      "fonte": "Woba (Cool Office Lagoa)",
+      "nota": 4.5,
+      "avaliacoes": 19,
+      "url": "https://portal.woba.com.br/coworking/space/cool-office-lagoa--florianopolis"
+    }
+  ],
+  "da_lagoa": {
+    "tempo_min": 3,
+    "km": 0.3,
+    "obs": "Cool Office a pé do Centrinho; Pantai ~5 min de carro; O Sítio na Lagoa; Nômades ~15 min (Barra)"
+  },
+  "estacionamento": "Cool Office: estacionamento cobrado à parte. O Sítio e Nômades: estacionamento grátis (CoworkBooking)",
+  "horarios": "Cool Office seg–sex 8h–18h; Pantai seg–sex 9h–17h; O Sítio seg–sex 9h–21h; Nômades todo dia 7h–23h",
+  "precos": "Diária em R$ não publicada para Cool Office (Woba usa créditos) nem para Pantai. O Sítio ~8 euros/dia; Nômades ~5 euros/dia; Selina R$ 60/dia (2024, provavelmente fechado). Referências da cidade: Regus a partir de R$ 59/dia, Sandbox R$ 60/dia (fora da Lagoa)",
+  "melhor_horario": "Dias úteis 23–27/11, no expediente",
+  "duracao": "Diária",
+  "trilha": {
+    "distancia_km": null,
+    "tempo_ida_min": null,
+    "desnivel_m": null,
+    "dificuldade": null,
+    "inicio": null,
+    "sinalizacao": null
+  },
+  "o_que_levar": [
+    "fone com microfone",
+    "extensão",
+    "casaco (ar-condicionado)"
+  ],
+  "cuidados": [
+    "Confirme velocidade da internet e se há cabine para chamadas antes de pagar",
+    "Os preços em euro vêm de agregador e podem não valer na porta"
+  ],
+  "clima": {
+    "sensivel_a": [
+      "nenhum"
+    ],
+    "plano_b": "É plano B de chuva"
+  },
+  "publico": "Nômades digitais e trabalhadores remotos; ambiente em inglês nos hostels",
+  "combina_com": [
+    "centrinho-da-lagoa",
+    "avenida-das-rendeiras",
+    "barra-da-lagoa"
+  ],
+  "encaixe": [
+    "expediente"
+  ],
+  "fotos": [],
+  "dicas": [
+    "Para quatro pessoas com reuniões, peça uma sala de reunião por diária no Cool Office (16 créditos/dia na Woba) em vez de quatro mesas",
+    "O Pantai, na Rendeiras, deve ser o \"coworking café da Rendeiras\": confirme o nome",
+    "Nômades tem SUP, caiaque e bicicleta para hóspedes; bom para um dia de trabalho na Barra com almoço de camarão"
+  ],
+  "fontes": [
+    "https://portal.woba.com.br/coworking/space/cool-office-lagoa--florianopolis",
+    "https://www.coworkingcafe.com/coworking-property/br/sc/lagoa-da-conceicao/avenida-das-rendeiras-2222/",
+    "https://www.coworkbooking.com/south-america/brazil/florianopolis/o-sitio",
+    "https://www.coworkbooking.com/south-america/brazil/florianopolis/nomades-hostel-e-coworking",
+    "https://www.oond.com.br/espacos/selina-florianopolis",
+    "https://portal.woba.com.br/coworking/space/selina-florianopolis--florianopolis/reviews?page=1",
+    "https://www.trip.com/hotels/florianopolis-hotel-detail-45808725/selina-floripa/",
+    "https://www.boraexplorar.com.br/guides/cafes-for-working-in-florianopolis",
+    "https://www.regus.com/pt/br/florianopolis/coworking"
+  ],
+  "verificado_em": "2026-11-16",
+  "confianca": "baixa",
+  "pendencias": [
+    "Diária em R$ do Cool Office e do Pantai (só por WhatsApp ou ligação)",
+    "Velocidade real da internet em todos",
+    "Confirmar se o Selina Floripa fechou e se há outro espaço no lugar",
+    "Coordenadas exatas de cada espaço"
+  ]
+}

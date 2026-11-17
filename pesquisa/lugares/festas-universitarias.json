@@ -1,0 +1,104 @@
+{
+  "id": "festas-universitarias",
+  "nome": "Festas universitárias e open bar (20–28/11/2026)",
+  "categoria": "evento",
+  "regiao": "centro",
+  "resumo": "Fim de semestre: nenhuma festa de atlética da UFSC/UDESC/ESAG com data em 20–28/11/2026 apareceu em Sympla, Shotgun, Ingresse ou Pensanoevento — elas vendem por Instagram/WhatsApp. O que existe com ingresso público é a UNIBEACH (Praia Mole, sáb 21 à tarde) e o 'Open Bar no Vale' (Centro, sáb 21 à noite).",
+  "destaques": [
+    "Sáb 21/11 – UNIBEACH, Clássico da Mole, 16h–23h, 18+, vendas ainda não abertas: https://www.pensanoevento.com.br/eventos/113399/unibeach",
+    "Sáb 21/11 – Open Bar no Vale (Undr Porão), Alameda Adolfo Konder, 1007, Centro, 23h–5h: R$ 75 antecipado (lote único, Sympla) / R$ 85 na porta; open bar 23h–4h30 com vodka, gin, whisky, cerveja, energético e drinks; pista pop/funk/hits + pista house/pop da cena LGBTQIA+; parte da renda vai para a Parada de Floripa: https://www.sympla.com.br/evento/open-bar-no-vale/3656925",
+    "Sex 20/11 – Baile Proibidão (Undr Porão), mesmo endereço, 23h–5h, funk; R$ 15 até 0h, R$ 35 depois; ingresso consumível R$ 80: https://www.sympla.com.br/evento/baile-proibidao/3656952",
+    "Baladas Floripa lista 'Apocalipse Volta ao Mundo' (Stage Music Park) e 'Choppada ESAG' (P12) sem data — não contam como confirmadas",
+    "UFSC (Divulga UFSC, 11/2026): só eventos acadêmicos/culturais, nenhuma festa"
+  ],
+  "coords": {
+    "lat": -27.5936806,
+    "lng": -48.5595501,
+    "fonte": "OSM Nominatim",
+    "ponto": "prédio da Alameda Adolfo Konder, 1007 (Undr Porão – Open Bar no Vale/Baile Proibidão)"
+  },
+  "endereco": "Undr Porão: Alameda Adolfo Konder, 1007 – Centro. UNIBEACH: Rod. Jorn. Manoel de Menezes, 1264 – Praia Mole.",
+  "links": {
+    "google_maps": "https://www.google.com/maps/search/?api=1&query=-27.5936806,-48.5595501",
+    "waze": "https://waze.com/ul?ll=-27.5936806,-48.5595501&navigate=yes",
+    "site": null,
+    "instagram": null,
+    "ingressos": "https://www.sympla.com.br/evento/open-bar-no-vale/3656925",
+    "reserva": null
+  },
+  "nota_google": null,
+  "outras_notas": [],
+  "da_lagoa": {
+    "tempo_min": 25,
+    "km": 14.3,
+    "obs": "Undr Porão: 14,3 km, 19 min sem trânsito (OSM routing (routing.openstreetmap.de, OSRM), tempo sem trânsito); do Bugio Centro são 1,3 km a pé. UNIBEACH: 4,5 km/6 min."
+  },
+  "estacionamento": "Centro de madrugada: Uber.",
+  "horarios": "Ver destaques.",
+  "precos": "Open Bar no Vale R$ 75 (+ taxa Sympla) / R$ 85 porta; Baile Proibidão R$ 15–35; UNIBEACH a publicar.",
+  "melhor_horario": null,
+  "duracao": null,
+  "trilha": {
+    "distancia_km": null,
+    "tempo_ida_min": null,
+    "desnivel_m": null,
+    "dificuldade": null,
+    "inicio": null,
+    "sinalizacao": null
+  },
+  "o_que_levar": [],
+  "cuidados": [
+    "Lei Seca: tolerância zero para álcool ao volante (CTB art. 165). Quem beber não dirige — Uber/99 ou motorista da vez que fica no zero.",
+    "Golpe da maquininha: confira o valor no visor antes de aproximar o cartão/celular e peça o comprovante — golpe comum em eventos, com alertas na imprensa em 2026 (em.com.br, 04/2026).",
+    "Ingresso só no canal oficial (Ingresse, Sympla, Shotgun, Pensanoevento, Guichê Web ou bilheteria da casa). Ingresse/ABREVIN alertam contra revenda em Viagogo, StubHub e grupos de WhatsApp/Telegram.",
+    "Leve documento original com foto: as casas são 18+ e conferem na porta.",
+    "Open bar: combinem um limite e água entre os drinks; das 4h30 às 5h só servem água.",
+    "Festa de atlética vendida por PIX a pessoa física em grupo de WhatsApp é risco de golpe — só compre com link de plataforma."
+  ],
+  "clima": {
+    "sensivel_a": [],
+    "plano_b": null
+  },
+  "publico": "Undr Porão: festa LGBTQIA+ com público jovem e misto, pop/funk. UNIBEACH: festa de praia jovem.",
+  "combina_com": [
+    "centro-noite",
+    "classico-da-mole",
+    "agenda-noite-20-28-nov"
+  ],
+  "encaixe": [
+    "noite",
+    "fim-de-semana"
+  ],
+  "fotos": [
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/2/26/Bosque_da_UFSC.jpg",
+      "pagina": "https://commons.wikimedia.org/wiki/File:Bosque_da_UFSC.jpg",
+      "autor": "Brunobmrf",
+      "licenca": "CC BY-SA 3.0"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/1/1c/Praia_Mole_em_Florianopolis.jpg",
+      "pagina": "https://commons.wikimedia.org/wiki/File:Praia_Mole_em_Florianopolis.jpg",
+      "autor": "Otávio Astor Vaz Costa",
+      "licenca": "CC0"
+    }
+  ],
+  "dicas": [
+    "Para achar festa de atlética, olhe os Instagrams das atléticas da UFSC (Engenharia, Direito, Medicina) e da ESAG/UDESC na semana — divulgam com 1–2 semanas."
+  ],
+  "fontes": [
+    "https://www.sympla.com.br/eventos/florianopolis-sc",
+    "https://www.sympla.com.br/evento/open-bar-no-vale/3656925",
+    "https://www.sympla.com.br/evento/baile-proibidao/3656952",
+    "https://www.pensanoevento.com.br/eventos/113399/unibeach",
+    "https://baladasfloripa.com.br/festas-universitarias-florianopolis/",
+    "https://noticias.ufsc.br/2026/11/divulga-ufsc-12112026-edicao-2608/",
+    "https://shotgun.live/pt-br/cities/florianopolis"
+  ],
+  "verificado_em": "2026-11-16",
+  "confianca": "media",
+  "pendencias": [
+    "Festas de atlética (UFSC/UDESC/ESAG) em 26–27/11 — só pelo Instagram delas",
+    "Preço/estilo da UNIBEACH"
+  ]
+}

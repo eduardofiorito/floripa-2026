@@ -1,0 +1,122 @@
+{
+  "id": "praia-da-galheta",
+  "nome": "Praia da Galheta",
+  "categoria": "praia",
+  "regiao": "leste-lagoa",
+  "resumo": "Praia selvagem dentro de um parque municipal, a 15–20 minutos a pé do canto norte da Praia Mole. Sem barraca nem construção, é a praia mais vazia do leste. O naturismo é opcional e tem situação jurídica em disputa.",
+  "destaques": [
+    "Areia branca de 800–950 m, mar azul e costões, dentro do Parque Natural Municipal da Galheta",
+    "Acesso só a pé: 15–20 min de trilha leve saindo do canto norte da Mole",
+    "Naturismo opcional: um habeas corpus do TJSC de 2025 impede prisão só por nudez não sexual na areia e no mar",
+    "Mirante na Trilha do Dólmen da Oração, no morro entre a Galheta e a Barra",
+    "Voltada para o leste: nascer do sol sobre o mar"
+  ],
+  "coords": {
+    "lat": -27.5935267,
+    "lng": -48.4269154,
+    "fonte": "OSM Nominatim (natural=beach)",
+    "ponto": "faixa de areia da praia; o carro fica no estacionamento da Praia Mole"
+  },
+  "endereco": "Acesso a pé pelo canto norte (esquerdo) da Praia Mole, SC-406",
+  "links": {
+    "google_maps": "https://www.google.com/maps/search/?api=1&query=Praia%20da%20Galheta&query_place_id=ChIJT2ez228-J5UROebf7VbK5Io",
+    "waze": "https://waze.com/ul?ll=-27.5935267,-48.4269154&navigate=yes",
+    "site": null,
+    "instagram": null,
+    "ingressos": null,
+    "reserva": null
+  },
+  "nota_google": null,
+  "outras_notas": [],
+  "da_lagoa": {
+    "tempo_min": 28,
+    "km": 3.8,
+    "obs": "8 min de carro até a Praia Mole e mais 15–20 min a pé pela trilha"
+  },
+  "estacionamento": "Estacionamentos da Praia Mole (ver praia-mole). Não há acesso de carro à Galheta",
+  "horarios": "Livre",
+  "precos": "Gratuito",
+  "melhor_horario": "Manhã cedo (nascer do sol ou antes das 9h). Fins de tarde de sol têm mais naturistas",
+  "duracao": "2–3 h com a ida e volta a pé",
+  "trilha": {
+    "distancia_km": 0.6,
+    "tempo_ida_min": 20,
+    "desnivel_m": null,
+    "dificuldade": "leve",
+    "inicio": "Canto norte (esquerdo) da Praia Mole",
+    "sinalizacao": "Não encontrei descrição da sinalização. A trilha é curta e bem usada"
+  },
+  "o_que_levar": [
+    "água e lanche (não tem quiosque nem banheiro)",
+    "protetor solar",
+    "tênis ou sandália firme para as pedras",
+    "lanterna se for de madrugada"
+  ],
+  "cuidados": [
+    "Sem estrutura: não tem quiosque nem banheiro e não achei menção a salva-vidas",
+    "Naturismo: o HC vale só para a areia e o mar; na trilha, nos costões e no estacionamento a nudez não está coberta",
+    "Não fotografe pessoas na praia",
+    "Mar aberto, que pode ter ondas fortes"
+  ],
+  "clima": {
+    "sensivel_a": [
+      "chuva (trilha de pedra)",
+      "mar agitado",
+      "vento sul"
+    ],
+    "plano_b": "Ficar na Praia Mole, que tem bares, ou subir ao Mirante Ponto de Vista"
+  },
+  "publico": "Naturistas, casais e quem busca praia vazia; o naturismo não é obrigatório",
+  "combina_com": [
+    "praia-mole",
+    "trilha-do-gravata",
+    "barra-da-lagoa"
+  ],
+  "encaixe": [
+    "cedo-dia-util",
+    "fim-de-semana"
+  ],
+  "fotos": [
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/4/41/Praia_da_Galheta%2C_Florian%C3%B3polis%2C_SC%2C_Brasil.jpg",
+      "pagina": "https://commons.wikimedia.org/wiki/File:Praia_da_Galheta%2C_Florian%C3%B3polis%2C_SC%2C_Brasil.jpg",
+      "autor": "Papa Pic",
+      "licenca": "CC0"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/a/a7/Praia_da_Galheta_%2815711343670%29.jpg",
+      "pagina": "https://commons.wikimedia.org/wiki/File:Praia_da_Galheta_%2815711343670%29.jpg",
+      "autor": "Otávio Nogueira",
+      "licenca": "CC BY 2.0"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/3/3b/Praia_da_Galheta_%2815896628901%29.jpg",
+      "pagina": "https://commons.wikimedia.org/wiki/File:Praia_da_Galheta_%2815896628901%29.jpg",
+      "autor": "Otávio Nogueira",
+      "licenca": "CC BY 2.0"
+    }
+  ],
+  "dicas": [
+    "Nascer do sol em dupla: estaciona na Mole às 4h55 e anda até a Galheta com lanterna (20 min), ou fica na Mole",
+    "AllTrails estima 1 a 1,5 h para a ida e volta (~2,9 km) a partir da Mole",
+    "Existe outra trilha, mais longa e íngreme, pela Barra da Lagoa (mais de 40 min)"
+  ],
+  "fontes": [
+    "https://www.fbrn.org.br/praia-da-galheta/",
+    "https://www.nsctotal.com.br/cotidiano/entenda-por-que-a-pratica-do-nudismo-nao-e-permitida-na-praia-da-galheta-em-florianopolis",
+    "https://ndmais.com.br/turismo/nudismo-na-galheta-o-que-diz-projeto-de-lei/",
+    "https://localtour.com.br/praia-mole/",
+    "https://www.alltrails.com/trail/brazil/santa-catarina--2/praia-da-galheta",
+    "https://diariodefloripa.com.br/praia-da-galheta/"
+  ],
+  "verificado_em": "2026-11-16",
+  "confianca": "media",
+  "pendencias": [
+    "Situação jurídica do naturismo: lei de 2016 revogou a autorização de 1997 (Câmara), HC do TJSC de 2025 (nº 5084206-42.2025.8.24.0000) protege a nudez na areia e no mar, e o PL 19.423/2024 está pendente",
+    "Confirmar se há salva-vidas em novembro"
+  ],
+  "google": {
+    "place_id": "ChIJT2ez228-J5UROebf7VbK5Io",
+    "consultado_em": "2026-11-16"
+  }
+}

@@ -1,0 +1,113 @@
+{
+  "id": "centro-historico",
+  "nome": "Centro Histórico (Praça XV, Catedral, Museu Cruz e Sousa)",
+  "categoria": "passeio",
+  "regiao": "centro",
+  "resumo": "Volta a pé de 1 hora pelo coração de Florianópolis: a Praça XV com a figueira centenária, a Catedral Metropolitana e o Palácio Cruz e Sousa, que abriga o Museu Histórico de Santa Catarina. Tudo fica a 300 m do Mercado Público. No sábado, o museu abre só de manhã.",
+  "destaques": [
+    "Praça XV de Novembro e a figueira centenária",
+    "Catedral Metropolitana (entrada livre fora das missas)",
+    "Palácio Cruz e Sousa / Museu Histórico de SC (sábado das 10h às 13h30; entrada gratuita na maioria das fontes)",
+    "Museu Victor Meirelles, a uma quadra"
+  ],
+  "coords": {
+    "lat": -27.5976387,
+    "lng": -48.549858,
+    "fonte": "OSM Nominatim",
+    "ponto": "Praça XV de Novembro"
+  },
+  "endereco": "Praça XV de Novembro, Centro, Florianópolis. Museu Histórico: Praça XV de Novembro, 227. Catedral: Largo São João Paulo II (Rua Padre Miguelinho, 55).",
+  "links": {
+    "google_maps": "https://www.google.com/maps/search/?api=1&query=Centro%20Hist%C3%B3rico%20%28Pra%C3%A7a%20XV%2C%20Catedral%2C%20Museu%20Cruz%20e%20Sousa%29&query_place_id=ChIJr7EvSTA4J5URBFe9tFuM7As",
+    "waze": "https://waze.com/ul?ll=-27.5976387,-48.549858&navigate=yes",
+    "site": null,
+    "instagram": null,
+    "ingressos": null,
+    "reserva": null
+  },
+  "nota_google": null,
+  "outras_notas": [],
+  "da_lagoa": {
+    "tempo_min": 25,
+    "km": 15,
+    "obs": "Igual ao Mercado Público; os dois ficam a 300 m um do outro."
+  },
+  "estacionamento": "Zona Azul e estacionamentos pagos no Centro.",
+  "horarios": "Museu Histórico de SC: terça a sexta, das 10h às 17h30; sábado, das 10h às 13h30 (ALESC, Guia Floripa). Uma matéria fala em horário de verão estendido nos fins de semana (das 10h às 17h), sem confirmação para novembro. Catedral: aberta fora dos horários de missa; grade de sábado não confirmada. Praça: livre.",
+  "precos": "Praça e catedral grátis. Museu: gratuito na maioria das fontes; uma fonte antiga cita R$ 5 a R$ 10.",
+  "melhor_horario": "Sábado entre 10h30 e 11h30, antes do almoço no Mercado.",
+  "duracao": "1h a 1h30",
+  "trilha": {
+    "distancia_km": null,
+    "tempo_ida_min": null,
+    "desnivel_m": null,
+    "dificuldade": null,
+    "inicio": null,
+    "sinalizacao": null
+  },
+  "o_que_levar": [
+    "água",
+    "boné"
+  ],
+  "cuidados": [
+    "Atenção aos pertences na praça e no calçadão",
+    "Comércio do Centro fecha cedo no sábado"
+  ],
+  "clima": {
+    "sensivel_a": [
+      "chuva (praça)"
+    ],
+    "plano_b": "Museu Histórico e catedral são cobertos."
+  },
+  "publico": "Turistas e moradores; movimentado no sábado de manhã.",
+  "combina_com": [
+    "mercado-publico",
+    "ponte-hercilio-luz",
+    "forte-santana",
+    "morro-da-cruz"
+  ],
+  "encaixe": [
+    "fim-de-semana"
+  ],
+  "fotos": [
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Pra%C3%A7a_XV_de_Novembro_%28Florian%C3%B3polis%29_by_K%C3%A1tia_C._Oliveira_01.jpg/1280px-Pra%C3%A7a_XV_de_Novembro_%28Florian%C3%B3polis%29_by_K%C3%A1tia_C._Oliveira_01.jpg",
+      "pagina": "https://commons.wikimedia.org/wiki/File:Pra%C3%A7a_XV_de_Novembro_(Florian%C3%B3polis)_by_K%C3%A1tia_C._Oliveira_01.jpg",
+      "autor": "Ajmcbarreto",
+      "licenca": "CC BY-SA 4.0"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Catedral_Metropolitana_de_Florian%C3%B3polis%2C_2025.jpg/1280px-Catedral_Metropolitana_de_Florian%C3%B3polis%2C_2025.jpg",
+      "pagina": "https://commons.wikimedia.org/wiki/File:Catedral_Metropolitana_de_Florian%C3%B3polis,_2025.jpg",
+      "autor": "Manuella Chaulet",
+      "licenca": "CC0"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Pal%C3%A1cio_Cruz_e_Sousa_06.jpg/1280px-Pal%C3%A1cio_Cruz_e_Sousa_06.jpg",
+      "pagina": "https://commons.wikimedia.org/wiki/File:Pal%C3%A1cio_Cruz_e_Sousa_06.jpg",
+      "autor": "Ajmcbarreto",
+      "licenca": "CC BY-SA 4.0"
+    }
+  ],
+  "dicas": [
+    "Ordem que funciona: ponte, Forte Santana, Parque da Luz, descida pela Felipe Schmidt, Catedral e Museu (antes das 13h30), Praça XV e Mercado",
+    "O museu tem telefone (48) 3665-6363"
+  ],
+  "fontes": [
+    "https://alesc.sc.gov.br/tv/noticia/o-palacio-da-historia-cultura-catarina/",
+    "https://guiafloripa.com.br/cidade/bairros/centro/pontos-turisticos/museu-historico-de-santa-catarina-palacio-cruz-e-sousa",
+    "https://www.imagemdailha.com.br/noticias/cidade/museus-facilitam-acesso-e-atraem-publico-no-verao.html",
+    "https://izi.travel/pt/562f-palacio-cruz-e-sousa-museu-historico-de-santa-catarina/pt",
+    "https://www.avygeo.com/pt/guia/atividades/8777-catedral-metropolitana-de-florianopolis"
+  ],
+  "verificado_em": "2026-11-16",
+  "confianca": "media",
+  "pendencias": [
+    "Horário do museu no sábado 28/11 (até 13h30 ou até 17h)",
+    "Missas de sábado na catedral (catedralflorianopolis.org.br)"
+  ],
+  "google": {
+    "place_id": "ChIJr7EvSTA4J5URBFe9tFuM7As",
+    "consultado_em": "2026-11-16"
+  }
+}

@@ -1,0 +1,106 @@
+{
+  "id": "classico-da-mole",
+  "nome": "Clássico da Mole (beach club da Praia Mole)",
+  "categoria": "noite",
+  "regiao": "leste-lagoa",
+  "resumo": "Casa de festas pé na areia na Praia Mole, a 5 min de carro da base. Em novembro tem a festa UNIBEACH no sábado 21 à tarde e festas de domingo (Budah Tech). Na Mole também fica o Espartano Surf House, que só anuncia o Réveillon.",
+  "destaques": [
+    "Sáb 21/11/2026: UNIBEACH, 16h–23h (a descrição fala 'a partir das 15h'), line-up Piriquita, Molck, Mauricio, Kzin, Carrau, Mingal, Rush Hour; 18+; vendas ainda não abertas na Pensanoevento",
+    "Qui 19/11: Green Go! 15 anos (23h–5h) — antes da chegada do grupo",
+    "Dom 29/11: Budah Tech na Praia (13h) — dia da corrida, fora",
+    "UNIBEACH bate com o Pátio P12 Sunset (mesmo sábado à tarde): escolher um"
+  ],
+  "coords": {
+    "lat": -27.6017064,
+    "lng": -48.4350459,
+    "fonte": "OSM Nominatim",
+    "ponto": "aproximado: Rod. Jorn. Manoel de Menezes no trecho da Praia Mole (o OSM não tem a casa; nº 1264)"
+  },
+  "endereco": "Rod. Jornalista Manoel de Menezes, 1264 – Praia Mole, Florianópolis",
+  "links": {
+    "google_maps": "https://www.google.com/maps/search/?api=1&query=Cl%C3%A1ssico%20da%20Mole%20%28beach%20club%20da%20Praia%20Mole%29&query_place_id=ChIJAUE8JDw_J5URmsOo6pGKWcw",
+    "waze": "https://waze.com/ul?ll=-27.6017064,-48.4350459&navigate=yes",
+    "site": null,
+    "instagram": "https://www.instagram.com/classicodamole/",
+    "ingressos": "https://www.pensanoevento.com.br/sitev2/casas/1643/classico-da-mole",
+    "reserva": "(48) 98859-7189 (Pensanoevento)"
+  },
+  "nota_google": null,
+  "outras_notas": [],
+  "da_lagoa": {
+    "tempo_min": 8,
+    "km": 4.5,
+    "obs": "Do Centrinho: 4,3–4,5 km, ~6 min de carro sem trânsito (OSM routing (routing.openstreetmap.de, OSRM), tempo sem trânsito); a pé ~55 min por estrada de morro — à noite, Uber."
+  },
+  "estacionamento": "Estacionamentos da Praia Mole (pagos na temporada); sem dado para novembro.",
+  "horarios": "Só em dias de evento (ver destaques).",
+  "precos": "UNIBEACH: preço ainda não publicado (16/11/2026).",
+  "melhor_horario": "Fim de tarde (17h–19h) para o pôr do sol na praia.",
+  "duracao": "4–6 h",
+  "trilha": {
+    "distancia_km": null,
+    "tempo_ida_min": null,
+    "desnivel_m": null,
+    "dificuldade": null,
+    "inicio": null,
+    "sinalizacao": null
+  },
+  "o_que_levar": [],
+  "cuidados": [
+    "Lei Seca: tolerância zero para álcool ao volante (CTB art. 165). Quem beber não dirige — Uber/99 ou motorista da vez que fica no zero.",
+    "Golpe da maquininha: confira o valor no visor antes de aproximar o cartão/celular e peça o comprovante — golpe comum em eventos, com alertas na imprensa em 2026 (em.com.br, 04/2026).",
+    "Ingresso só no canal oficial (Ingresse, Sympla, Shotgun, Pensanoevento, Guichê Web ou bilheteria da casa). Ingresse/ABREVIN alertam contra revenda em Viagogo, StubHub e grupos de WhatsApp/Telegram.",
+    "Leve documento original com foto: as casas são 18+ e conferem na porta."
+  ],
+  "clima": {
+    "sensivel_a": [
+      "chuva",
+      "vento sul",
+      "mar agitado"
+    ],
+    "plano_b": "Festa de areia: com chuva, P12 também sofre; ir para Espartano à noite."
+  },
+  "publico": "Festa de praia jovem (a UNIBEACH sugere público universitário, mas o organizador é a própria casa, não atlética).",
+  "combina_com": [
+    "espartano-lagoa",
+    "bar-do-boni",
+    "festas-universitarias"
+  ],
+  "encaixe": [
+    "fim-de-semana",
+    "noite"
+  ],
+  "fotos": [
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/7/7d/Praia_Mole_-_Florian%C3%B3polis.jpg",
+      "pagina": "https://commons.wikimedia.org/wiki/File:Praia_Mole_-_Florian%C3%B3polis.jpg",
+      "autor": "Chamuscajr",
+      "licenca": "CC BY-SA 4.0"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/1/1c/Praia_Mole_em_Florianopolis.jpg",
+      "pagina": "https://commons.wikimedia.org/wiki/File:Praia_Mole_em_Florianopolis.jpg",
+      "autor": "Otávio Astor Vaz Costa",
+      "licenca": "CC0"
+    }
+  ],
+  "dicas": [
+    "Se o grupo preferir algo perto e universitário no sábado 21, a UNIBEACH evita os 27 km até Jurerê — mas aí perde o P12."
+  ],
+  "fontes": [
+    "https://www.pensanoevento.com.br/sitev2/casas/1643/classico-da-mole",
+    "https://www.pensanoevento.com.br/eventos/113399/unibeach",
+    "https://www.pensanoevento.com.br/eventos/113088/green-go",
+    "https://promoteronline.com.br/eventos/reveillon-do-espartano-florianopolis/"
+  ],
+  "verificado_em": "2026-11-16",
+  "confianca": "media",
+  "pendencias": [
+    "Preço e estilo da UNIBEACH",
+    "Se a UNIBEACH tem open bar"
+  ],
+  "google": {
+    "place_id": "ChIJAUE8JDw_J5URmsOo6pGKWcw",
+    "consultado_em": "2026-11-16"
+  }
+}

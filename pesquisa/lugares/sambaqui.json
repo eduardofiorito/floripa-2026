@@ -1,0 +1,110 @@
+{
+  "id": "sambaqui",
+  "nome": "Sambaqui e Ponta do Sambaqui",
+  "categoria": "mirante",
+  "regiao": "norte",
+  "resumo": "Bairro vizinho de Santo Antônio, mais quieto, com bares e restaurantes à beira da Baía Norte. A Ponta do Sambaqui é um mirante natural da baía. Fica a 3 km da praça de Santo Antônio, um bom desvio para ver o pôr do sol com menos gente.",
+  "destaques": [
+    "Ponta do Sambaqui: vista ampla da Baía Norte e do continente",
+    "Restinga Recanto: deck e trapiche próprios, com ostra gratinada (horário antigo: terça a domingo, das 11h à 0h)",
+    "Orla calma, com barcos de pesca e cultivo de ostras",
+    "Bares pé na areia (Köhler Pub, Rancho do Bastião, Casa Amarela, Bar do Vadinho)"
+  ],
+  "coords": {
+    "lat": -27.4909868,
+    "lng": -48.5388529,
+    "fonte": "OSM Nominatim",
+    "ponto": "Ponta do Sambaqui (natural=cape)"
+  },
+  "endereco": "Rod. Gilson da Costa Xavier, Sambaqui, Florianópolis; seguir a orla depois de Santo Antônio de Lisboa.",
+  "links": {
+    "google_maps": "https://www.google.com/maps/search/?api=1&query=Sambaqui%20e%20Ponta%20do%20Sambaqui&query_place_id=ChIJM4TTsgpGJ5URx9ghBl0rJIg",
+    "waze": "https://waze.com/ul?ll=-27.4909868,-48.5388529&navigate=yes",
+    "site": null,
+    "instagram": null,
+    "ingressos": null,
+    "reserva": null
+  },
+  "nota_google": null,
+  "outras_notas": [],
+  "da_lagoa": {
+    "tempo_min": 45,
+    "km": 21,
+    "obs": "OSRM: 20,8 km e 27 min sem trânsito. Numa quarta às 17h10, conte de 40 a 50 min. Da praça de Santo Antônio são cerca de 3 km, uns 6 min."
+  },
+  "estacionamento": "Na rua, ao longo da orla.",
+  "horarios": "Orla e ponta com acesso livre. Restinga Recanto: terça a domingo, das 11h à 0h, mas o dado é antigo.",
+  "precos": "Grátis (orla). Restaurantes na faixa média.",
+  "melhor_horario": "Das 18h20 às 19h (pôr do sol por volta das 18h50).",
+  "duracao": "30 min (mirante) ou 2h (jantar)",
+  "trilha": {
+    "distancia_km": null,
+    "tempo_ida_min": null,
+    "desnivel_m": null,
+    "dificuldade": null,
+    "inicio": null,
+    "sinalizacao": null
+  },
+  "o_que_levar": [
+    "casaco leve",
+    "repelente"
+  ],
+  "cuidados": [
+    "Rua estreita e sem acostamento na orla; cuidado ao andar à noite",
+    "Pouca iluminação na ponta depois do pôr do sol"
+  ],
+  "clima": {
+    "sensivel_a": [
+      "céu nublado",
+      "chuva"
+    ],
+    "plano_b": "Jantar em Santo Antônio, que tem mais opções cobertas."
+  },
+  "publico": "Moradores e casais; tranquilo.",
+  "combina_com": [
+    "santo-antonio-de-lisboa"
+  ],
+  "encaixe": [
+    "pos-expediente",
+    "noite"
+  ],
+  "fotos": [
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Por_do_Sol_Sambaqui_-_Florian%C3%B3polis_-_SC.JPG/1280px-Por_do_Sol_Sambaqui_-_Florian%C3%B3polis_-_SC.JPG",
+      "pagina": "https://commons.wikimedia.org/wiki/File:Por_do_Sol_Sambaqui_-_Florian%C3%B3polis_-_SC.JPG",
+      "autor": "Lázara Garcia dos Santos",
+      "licenca": "CC BY-SA 3.0"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Florianopolis_Sambaqui_Praia.JPG/1280px-Florianopolis_Sambaqui_Praia.JPG",
+      "pagina": "https://commons.wikimedia.org/wiki/File:Florianopolis_Sambaqui_Praia.JPG",
+      "autor": "Lionel Baur",
+      "licenca": "CC BY-SA 3.0"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Sambaqui_-_Isla_de_Florian%C3%B3polis_-_Brasil.jpg/1280px-Sambaqui_-_Isla_de_Florian%C3%B3polis_-_Brasil.jpg",
+      "pagina": "https://commons.wikimedia.org/wiki/File:Sambaqui_-_Isla_de_Florian%C3%B3polis_-_Brasil.jpg",
+      "autor": "Otávio Nogueira",
+      "licenca": "CC BY 2.0"
+    }
+  ],
+  "dicas": [
+    "Na quarta 25, a ordem sugerida é ver o pôr do sol em Santo Antônio e jantar ali. Se o Freguesia estiver lotado, troque por um deck no Sambaqui, como o Restinga, e depois volte",
+    "A estrada segue a orla, então dá para ver o pôr do sol de vários pontos"
+  ],
+  "fontes": [
+    "https://visite.floripa.br/sambaqui-florianopolis/",
+    "https://floripa.com/o-que-fazer/um-passeio-gastronomico-por-santo-antonio-de-lisboa-ostras-arquitetura-e-poesia/",
+    "https://viajantesemfim.com.br/atracoes-no-sambaqui-o-bairro-mais-tranquilo-de-florianopolis/",
+    "https://www.floripanews.com.br/noticia/10916-restaurante-com-trapiche-proprio-e-um-classico-da-capital"
+  ],
+  "verificado_em": "2026-11-16",
+  "confianca": "media",
+  "pendencias": [
+    "Horário atual e nota do Restinga Recanto"
+  ],
+  "google": {
+    "place_id": "ChIJM4TTsgpGJ5URx9ghBl0rJIg",
+    "consultado_em": "2026-11-16"
+  }
+}

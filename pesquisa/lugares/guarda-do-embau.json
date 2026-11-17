@@ -1,0 +1,125 @@
+{
+  "id": "guarda-do-embau",
+  "nome": "Guarda do Embaú",
+  "categoria": "bate-volta",
+  "regiao": "fora-da-ilha",
+  "resumo": "Vila de surfistas no Parque da Serra do Tabuleiro, 1ª Reserva Mundial de Surf do Brasil (2016). Para chegar à praia atravessa-se o Rio da Madre de canoa; do lado da vila, a Pedra do Urubu dá a vista mais bonita da região. O melhor bate-volta ao sul para o grupo.",
+  "destaques": [
+    "Travessia do Rio da Madre de bateira (R$ 7, Pix)",
+    "Pedra do Urubu: 20–30 min de subida, ~130 m, vista do rio, da praia e da Pinheira",
+    "Prainha: enseada de 200 m com piscinas naturais, por trilha (1 km pelo morro ou 1,6 km pelo costão)",
+    "Bares na barra do rio: La Madre, Del Mar, Greco Beach Club; centrinho com música ao vivo"
+  ],
+  "coords": {
+    "lat": -27.9025381,
+    "lng": -48.5913089,
+    "fonte": "OSM Overpass (openstreetmap.org) (amenity=parking, fee=yes)",
+    "ponto": "estacionamento pago na vila, perto do rio. Pedra do Urubu: -27.9015063, -48.5872033 (Nominatim). Praia (lado de Paulo Lopes): -27.9248, -48.6078"
+  },
+  "endereco": "Guarda do Embaú, Enseada de Brito, Palhoça/SC (a praia do outro lado do rio fica em Paulo Lopes)",
+  "links": {
+    "google_maps": "https://www.google.com/maps/search/?api=1&query=Guarda%20do%20Emba%C3%BA&query_place_id=ChIJtQI-jcXXJpURctLFFJQC9m8",
+    "waze": "https://waze.com/ul?ll=-27.9025381,-48.5913089&navigate=yes",
+    "site": null,
+    "instagram": null,
+    "ingressos": null,
+    "reserva": null
+  },
+  "nota_google": null,
+  "outras_notas": [],
+  "da_lagoa": {
+    "tempo_min": 80,
+    "km": 66,
+    "obs": "OSRM: 63 min/66 km sem trânsito (Via Expressa Sul → pontes → BR-101 sul → 6 km de acesso). Realista: 1h10–1h20 saindo às 7h; volta de domingo no fim da tarde na BR-101 pode passar de 1h45."
+  },
+  "estacionamento": "Estacionamentos pagos na entrada da vila. Alta temporada R$ 60–80/dia, baixa R$ 10–25 (TripMundão, jul/2026); relato de R$ 20 (jul/2024). Estacione antes de entrar na vila, onde é mais barato.",
+  "horarios": "Barqueiros ~7h–19h; volte com 30 min de folga antes de escurecer.",
+  "precos": "Travessia R$ 7 por trecho (jul/2026); guias antigos citam R$ 3–5. Trilhas grátis.",
+  "melhor_horario": "Chegar até 8h30: estacionamento vazio, surf antes das 10h, Prainha melhor na maré baixa e antes das 10h.",
+  "duracao": "Dia inteiro",
+  "trilha": {
+    "distancia_km": 0.5,
+    "tempo_ida_min": 25,
+    "desnivel_m": 130,
+    "dificuldade": "subida constante e cansativa na mata, curta",
+    "inicio": "Centrinho da vila (Pedra do Urubu)",
+    "sinalizacao": "Placa na trilha (foto no Commons)"
+  },
+  "o_que_levar": [
+    "dinheiro/Pix para barqueiro e estacionamento",
+    "1 L de água por pessoa para a Prainha",
+    "protetor (praia sem sombra)",
+    "tênis para trilha e costão",
+    "saco estanque"
+  ],
+  "cuidados": [
+    "Rio com mais de 2 m na maré alta, correnteza forte e água fria: atravesse de barco",
+    "Não nade na barra do rio",
+    "Localismo no surf é real",
+    "Pedras escorregadias na Prainha depois de chuva",
+    "Água do rio e da praia estavam próprias até jul/2026 (IMA); conferir boletim"
+  ],
+  "clima": {
+    "sensivel_a": [
+      "chuva",
+      "maré alta",
+      "vento sul"
+    ],
+    "plano_b": "Com chuva, só Pedra do Urubu se não estiver encharcada + almoço no centrinho; ou fique na ilha."
+  },
+  "publico": "Surfistas, jovens, mochileiros; clima alternativo e descontraído. Em novembro, antes da alta temporada.",
+  "combina_com": [],
+  "encaixe": [
+    "fim-de-semana"
+  ],
+  "fotos": [
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/4/46/Guarda_do_Emba%C3%BA%2C_Santa_Catarina%2C_Brasil_%283591497314%29.jpg",
+      "pagina": "https://commons.wikimedia.org/wiki/File:Guarda_do_Emba%C3%BA,_Santa_Catarina,_Brasil_(3591497314).jpg",
+      "autor": "Rodrigo Soldon from Rio de Janeiro, Brazil",
+      "licenca": "CC BY 2.0"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/3/31/Rio_da_madre_visto_da_pedra_do_urubu.jpg",
+      "pagina": "https://commons.wikimedia.org/wiki/File:Rio_da_madre_visto_da_pedra_do_urubu.jpg",
+      "autor": "Arthur friedrich",
+      "licenca": "CC BY-SA 4.0"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/c/c3/Pedra_do_urubu%2C_guarda_do_Emba%C3%BA_SC.jpg",
+      "pagina": "https://commons.wikimedia.org/wiki/File:Pedra_do_urubu,_guarda_do_Emba%C3%BA_SC.jpg",
+      "autor": "Arthur friedrich",
+      "licenca": "CC BY-SA 4.0"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/f/f9/Amanhecer_Guarda_do_Emba%C3%BA..JPG",
+      "pagina": "https://commons.wikimedia.org/wiki/File:Amanhecer_Guarda_do_Emba%C3%BA..JPG",
+      "autor": "Adriano Tormena",
+      "licenca": "CC BY-SA 3.0"
+    }
+  ],
+  "dicas": [
+    "Ordem do dia: Pedra do Urubu cedo → barco → Prainha pela trilha do morro e volta pelo costão → praia → pôr do sol num bar da barra do rio",
+    "Confira a tábua de marés: maré baixa facilita a Prainha",
+    "Surf e esportes náuticos são proibidos de abril a julho (tainha); em novembro está liberado",
+    "Nov ainda pode ter baleia franca vista do Vale da Utopia (temporada jul–nov)"
+  ],
+  "fontes": [
+    "https://tripmundao.com/guarda-do-embau/melhores-praias/",
+    "https://www.viagensecaminhos.com/guarda-do-embau/",
+    "https://www.nsctotal.com.br/?p=8021451",
+    "https://quantocustaviajar.com/blog/guarda-do-embau",
+    "https://www.maladeaventuras.com/o-que-fazer-na-guarda-do-embau/"
+  ],
+  "verificado_em": "2026-11-16",
+  "confianca": "media",
+  "pendencias": [
+    "Preço do estacionamento em nov/2026 (entre baixa e alta)",
+    "Quais bares da barra do rio abrem no fim de novembro",
+    "Tábua de marés do dia escolhido"
+  ],
+  "google": {
+    "place_id": "ChIJtQI-jcXXJpURctLFFJQC9m8",
+    "consultado_em": "2026-11-16"
+  }
+}

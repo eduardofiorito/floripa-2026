@@ -1,0 +1,140 @@
+{
+  "id": "trilha-do-gravata",
+  "nome": "Trilha do Gravatá",
+  "categoria": "trilha",
+  "regiao": "leste-lagoa",
+  "resumo": "Trilha curta que sai da subida da SC-406 (Lagoa → Praia Mole) e chega a uma prainha deserta entre a Mole e a Joaquina, passando pela rampa de parapente e pela Pedra do Urubu. É o melhor nascer do sol perto da Lagoa: 6 minutos de carro do Centrinho e menos de 1 hora de caminhada.",
+  "destaques": [
+    "Mirante da rampa de parapente da Praia Mole a ~400 m do início (10–15 min), com vista da Mole e da Galheta",
+    "Pedra do Urubu: desvio de ~200 m no alto do morro, vista de 360°",
+    "Praia do Gravatá: ~75 m de areia, só se chega por trilha ou barco, sem nenhum comércio",
+    "Rancho dos Pescadores: bifurcação, à esquerda desce para a praia, em frente vai para o costão do Gravatá",
+    "Nascer do sol sobre o mar: ~5h11 nos dias 23–28/11 (cálculo astronômico), com claridade a partir de ~4h45"
+  ],
+  "coords": {
+    "lat": -27.6076555,
+    "lng": -48.4407591,
+    "fonte": "OSM Nominatim (Caminho dos Pescadores)",
+    "ponto": "início da trilha: rampa de concreto na SC-406, no começo da subida para a Praia Mole"
+  },
+  "endereco": "Rod. Jornalista Manoel de Menezes (SC-406), altura do nº 346, início da subida da Lagoa para a Praia Mole, lado direito. Placa pequena; siga pela rampa de concreto à esquerda, porque à direita fica a entrada de uma propriedade particular",
+  "links": {
+    "google_maps": "https://www.google.com/maps/search/?api=1&query=Trilha%20do%20Gravat%C3%A1&query_place_id=ChIJtziawnw-J5URMppKkB3fJLI",
+    "waze": "https://waze.com/ul?ll=-27.6076555,-48.4407591&navigate=yes",
+    "site": null,
+    "instagram": null,
+    "ingressos": null,
+    "reserva": null
+  },
+  "nota_google": null,
+  "outras_notas": [],
+  "da_lagoa": {
+    "tempo_min": 6,
+    "km": 2.8,
+    "obs": "Do Centrinho pela Av. das Rendeiras até o fim, no Retiro (Bar do Boni). Estimativa pelo mapa; de madrugada não tem trânsito. A pé dá ~35 min"
+  },
+  "estacionamento": "Não estacione na SC-406: não tem acostamento, é proibido e há relatos de multa e guincho pela PM (Família na Trilha, 2024/2026; Trilhas em SC, 2020). Deixe o carro no fim da Av. das Rendeiras, perto do Bar do Boni, e suba a pé uns 150–300 m. Atravesse a rodovia na faixa. Trilhas em SC cita um estacionamento pequeno que abriu perto da entrada, sem preço informado",
+  "horarios": "Livre, 24 h (área natural sem portaria)",
+  "precos": "Gratuito",
+  "melhor_horario": "Nascer do sol (sol ~5h11; chegue no alto às 5h00). De dia, comece cedo por causa do calor e da lotação",
+  "duracao": "1h30 a 2h30 ida e volta com paradas; 2h com o nascer do sol",
+  "trilha": {
+    "distancia_km": 1.4,
+    "tempo_ida_min": 35,
+    "desnivel_m": null,
+    "dificuldade": "leve a moderada: a subida inicial (~300 m) é forte, erodida e escorrega quando molhada",
+    "inicio": "Rampa de concreto na SC-406 (Rod. Jorn. Manoel de Menezes, ~346), a ~150–300 m do Bar do Boni",
+    "sinalizacao": "Só uma placa no início; tem bifurcações (Pedra do Urubu, Rancho dos Pescadores, Praia Secreta) que podem confundir no escuro"
+  },
+  "o_que_levar": [
+    "lanterna de cabeça (uma por pessoa)",
+    "tênis fechado",
+    "água e lanche (não tem nada na praia)",
+    "casaco leve para o vento da madrugada",
+    "roupa de banho se quiser mergulhar na volta",
+    "saco para trazer o lixo"
+  ],
+  "cuidados": [
+    "Pedras de diabásio ficam muito escorregadias molhadas, principalmente nos mirantes altos",
+    "Pedra do Urubu é alta e exposta: não chegue na beira no escuro",
+    "Correnteza forte na praia e sem salva-vidas",
+    "Travessia da SC-406 no escuro: carros rápidos, use a faixa perto do início",
+    "Não estacione no acostamento (multa e guincho)",
+    "Não deixe nada à vista no carro; não achei notícia recente de assalto na trilha, mas vá em grupo",
+    "Área de preservação permanente: não abra atalhos nem colha plantas"
+  ],
+  "clima": {
+    "sensivel_a": [
+      "chuva (trilha escorregadia)",
+      "nebulosidade (perde o nascer do sol)",
+      "vento sul forte nos mirantes"
+    ],
+    "plano_b": "Com tempo fechado de manhã: Mirante da Lagoa de carro (5 min, iluminado) ou café no Centrinho. Com chuva, não faça a trilha"
+  },
+  "publico": "Trilheiros e casais; lota em feriados e dias de sol. De madrugada em dia útil, tende a estar vazia",
+  "combina_com": [
+    "praia-mole",
+    "parapente-lagoa",
+    "avenida-das-rendeiras",
+    "joaquina-e-dunas",
+    "bar-do-boni"
+  ],
+  "encaixe": [
+    "cedo-dia-util",
+    "fim-de-semana"
+  ],
+  "fotos": [
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/3/35/Praia_do_Gravat%C3%A1.jpg",
+      "pagina": "https://commons.wikimedia.org/wiki/File:Praia_do_Gravat%C3%A1.jpg",
+      "autor": "Hector Garcia",
+      "licenca": "CC BY-SA 2.0"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/e/ea/Praia_do_Gravat%C3%A1_4.jpg",
+      "pagina": "https://commons.wikimedia.org/wiki/File:Praia_do_Gravat%C3%A1_4.jpg",
+      "autor": "Scarlet silva",
+      "licenca": "CC BY-SA 4.0"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/0/0d/Praia_Gravata%2C_Florian%C3%B3polis_-_panoramio.jpg",
+      "pagina": "https://commons.wikimedia.org/wiki/File:Praia_Gravata%2C_Florian%C3%B3polis_-_panoramio.jpg",
+      "autor": "jce",
+      "licenca": "CC BY-SA 3.0"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/a/ae/Mole_e_Galheta.jpg",
+      "pagina": "https://commons.wikimedia.org/wiki/File:Mole_e_Galheta.jpg",
+      "autor": "Papa Pic",
+      "licenca": "CC0"
+    }
+  ],
+  "dicas": [
+    "Roteiro de nascer do sol: sair do Centrinho às 4h45, estacionar no fim da Rendeiras às 4h52, rampa da Mole às 5h05 e Pedra do Urubu por volta das 5h12, junto com o sol. Para ver o sol nascer na praia ou no costão do Gravatá, saia às 4h20 (são ~45 min no escuro, segundo a Picos de Floripa)",
+    "Volta às 6h30 e às 7h já está em casa, a tempo do expediente das 8h",
+    "No alto, o gramado da rampa é o mirante da Mole e da Galheta; a Pedra do Urubu tem vista de 360°, incluindo a Lagoa",
+    "Com maré baixa há uma piscina natural nas pedras do Gravatá (Picos de Floripa)",
+    "O tour guiado privativo de nascer do sol da Picos de Floripa custa R$ 547 para 1–2 pessoas; dá para ir sem guia"
+  ],
+  "fontes": [
+    "https://www.viagensecaminhos.com/trilha-do-gravata-florianopolis/",
+    "https://www.latitudeinfinita.com/2020/11/trilha-do-gravata/",
+    "https://mochileirosdefloripacombr.wordpress.com/2020/01/10/trilhadogravata/",
+    "https://trilhasemsc.com.br/florianopolis/trilhas/passeio/trilha-do-gravata",
+    "https://www.familianatrilha.tur.br/post/trilha-do-gravata-floripa",
+    "https://picosdefloripa.com.br/nascer-do-sol-na-trilha-do-gravata/",
+    "https://nominatim.openstreetmap.org/search?format=json&q=Trilha%20do%20Gravat%C3%A1"
+  ],
+  "verificado_em": "2026-11-16",
+  "confianca": "media",
+  "pendencias": [
+    "Distância e tempo divergem entre fontes (1,2 a 2 km; 30 a 45 min até a praia)",
+    "Desnível em metros não confirmado",
+    "Confirmar se o estacionamento pequeno perto da entrada existe e abre de madrugada",
+    "Conferir a direção exata do nascer do sol (ESE) a partir da rampa; a Pedra do Urubu tem vista livre"
+  ],
+  "google": {
+    "place_id": "ChIJtziawnw-J5URMppKkB3fJLI",
+    "consultado_em": "2026-11-16"
+  }
+}

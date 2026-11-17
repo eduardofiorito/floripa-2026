@@ -1,0 +1,112 @@
+{
+  "id": "morro-das-pedras",
+  "nome": "Morro das Pedras (mirante, retiro e praia)",
+  "categoria": "mirante",
+  "regiao": "sul",
+  "resumo": "Costão de pedras entre o Campeche e a Armação, com um mirante à beira da SC-406 e, no alto, a Casa de Retiros Vila Fátima (jesuíta, 1956, feita com pedras do próprio morro). Parada rápida de 20–30 min com vista da Armação e da Lagoa do Peri; a praia é de mar forte e surf.",
+  "destaques": [
+    "Mirante com vista da Armação, Matadeiro e Lagoa do Peri",
+    "Casa de Retiros Vila Fátima, de pedra, no topo do morro",
+    "Praia longa de ondas grandes, pico de surf com vento sul",
+    "Fica no caminho de qualquer dia no sul"
+  ],
+  "coords": {
+    "lat": -27.7233847,
+    "lng": -48.5061721,
+    "fonte": "OSM Nominatim (tourism=viewpoint 'Mirante do Morro das Pedras')",
+    "ponto": "mirante na Rodovia Francisco Thomaz dos Santos (SC-406). Casa de Retiros: -27.7225459, -48.5063176. Praia: -27.7107007, -48.5001545"
+  },
+  "endereco": "Rodovia Francisco Thomaz dos Santos (SC-406), ao lado da Casa de Retiros Vila Fátima, nº 2210",
+  "links": {
+    "google_maps": "https://www.google.com/maps/search/?api=1&query=Morro%20das%20Pedras%20%28mirante%2C%20retiro%20e%20praia%29&query_place_id=ChIJA_JBecYkJ5URvG3Vb87iKfI",
+    "waze": "https://waze.com/ul?ll=-27.7233847,-48.5061721&navigate=yes",
+    "site": null,
+    "instagram": null,
+    "ingressos": null,
+    "reserva": null
+  },
+  "nota_google": null,
+  "outras_notas": [],
+  "da_lagoa": {
+    "tempo_min": 30,
+    "km": 17,
+    "obs": "OSRM 23 min/17 km sem trânsito."
+  },
+  "estacionamento": "Recuo à beira da rodovia junto ao mirante (poucas vagas, não confirmado).",
+  "horarios": "Mirante livre. Uma ficha (Buser) dizia 'temporariamente fechado ao público' — não confirmado.",
+  "precos": "Grátis.",
+  "melhor_horario": "Manhã com sol de frente para o mar, ou de passagem no fim da tarde.",
+  "duracao": "20–30 min (mirante); praia 1–2 h",
+  "trilha": {
+    "distancia_km": null,
+    "tempo_ida_min": null,
+    "desnivel_m": null,
+    "dificuldade": null,
+    "inicio": null,
+    "sinalizacao": null
+  },
+  "o_que_levar": [],
+  "cuidados": [
+    "Mar forte com ondas grandes; banho só perto de salva-vidas",
+    "Atravessar a rodovia com cuidado no mirante"
+  ],
+  "clima": {
+    "sensivel_a": [
+      "neblina",
+      "chuva"
+    ],
+    "plano_b": "—"
+  },
+  "publico": "Surfistas na praia; mirante é parada de passagem.",
+  "combina_com": [
+    "praia-do-campeche",
+    "ilha-do-campeche",
+    "praia-do-matadeiro",
+    "bar-do-arante",
+    "ribeirao-da-ilha"
+  ],
+  "encaixe": [
+    "fim-de-semana",
+    "cedo-dia-util"
+  ],
+  "fotos": [
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/d/d5/Panoramica_Morro_das_Pedras_-_panoramio.jpg",
+      "pagina": "https://commons.wikimedia.org/wiki/File:Panoramica_Morro_das_Pedras_-_panoramio.jpg",
+      "autor": "Erico Rechenmacher",
+      "licenca": "CC BY-SA 3.0"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/f/fb/Morro_das_Pedras%2C_Florian%C3%B3polis_-_Brasil_-_panoramio.jpg",
+      "pagina": "https://commons.wikimedia.org/wiki/File:Morro_das_Pedras,_Florian%C3%B3polis_-_Brasil_-_panoramio.jpg",
+      "autor": "Jeferson Felix",
+      "licenca": "CC BY 3.0"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/c/c6/Morro_das_Pedras%2C_Vista_panor%C3%A2mica_-_panoramio.jpg",
+      "pagina": "https://commons.wikimedia.org/wiki/File:Morro_das_Pedras,_Vista_panor%C3%A2mica_-_panoramio.jpg",
+      "autor": "Erico Rechenmacher",
+      "licenca": "CC BY-SA 3.0"
+    }
+  ],
+  "dicas": [
+    "Pare no mirante na ida ou volta da Armação: custa 5 minutos",
+    "Não espere uma igreja aberta à visitação: é uma casa de retiro"
+  ],
+  "fontes": [
+    "https://visitefloripa.com.br/en_us/?p=4373",
+    "https://www.buser.com.br/destinos/pontos-turisticos/sc/florianopolis/mirante-do-morro-das-pedras",
+    "https://www.viciadaemviajar.com/praias-do-sul-de-florianopolis-melhores/",
+    "https://nominatim.openstreetmap.org"
+  ],
+  "verificado_em": "2026-11-16",
+  "confianca": "media",
+  "pendencias": [
+    "Se o mirante está aberto (ficha antiga diz fechado temporariamente)",
+    "Se a Casa de Retiros aceita visitas"
+  ],
+  "google": {
+    "place_id": "ChIJA_JBecYkJ5URvG3Vb87iKfI",
+    "consultado_em": "2026-11-16"
+  }
+}

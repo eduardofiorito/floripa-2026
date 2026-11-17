@@ -1,0 +1,111 @@
+{
+  "id": "espartano-lagoa",
+  "nome": "Bar do Espartano (Espartano Floripa)",
+  "categoria": "noite",
+  "regiao": "leste-lagoa",
+  "resumo": "Bar-balada na Av. das Rendeiras, de frente para a lagoa: show ao vivo a partir das 21h e DJ a partir das 23h, até 4h. É a balada mais perto da base e tem festa quase toda quinta, sexta e sábado de novembro.",
+  "destaques": [
+    "Sex 20/11: DJ vs DECK (21h–4h)",
+    "Sáb 21/11: TRIPPY Anos 2000 (21h–4h) — dá para emendar na volta do P12",
+    "Qui 26/11: CLOSE FRIENDS (21h) — aparece na busca da Pensanoevento, mas não na página da casa: confirmar",
+    "Sex 27/11: BAILE DO OLIMPO (21h–4h)",
+    "Sáb 28/11: POP HITZ (fora — véspera da corrida)",
+    "Entrada por lista com QR code no e-mail; 'nome na lista não garante entrada'; se o botão de lista some, lotou"
+  ],
+  "coords": {
+    "lat": -27.608376,
+    "lng": -48.453926,
+    "fonte": "OSM Nominatim",
+    "ponto": "aproximado: nó do John Bull (Av. das Rendeiras, 1046), vizinho do nº 1098; o OSM não tem o Espartano"
+  },
+  "endereco": "Av. das Rendeiras, 1098 – Lagoa da Conceição, Florianópolis",
+  "links": {
+    "google_maps": "https://www.google.com/maps/search/?api=1&query=Bar%20do%20Espartano%20%28Espartano%20Floripa%29&query_place_id=ChIJ6YqikDM_J5URR1eLmBhx4qI",
+    "waze": "https://waze.com/ul?ll=-27.608376,-48.453926&navigate=yes",
+    "site": null,
+    "instagram": "https://www.instagram.com/espartanofloripa/",
+    "ingressos": "https://www.pensanoevento.com.br/espartanofloripa",
+    "reserva": null
+  },
+  "nota_google": null,
+  "outras_notas": [],
+  "da_lagoa": {
+    "tempo_min": 5,
+    "km": 1.7,
+    "obs": "Do Centrinho: 1,7 km, ~3 min de carro; a pé 1,9 km/~25 min pela Av. das Rendeiras (OSM routing (routing.openstreetmap.de, OSRM), tempo sem trânsito). Do Bar do Boni: 1,2 km/~16 min."
+  },
+  "estacionamento": "Na avenida, disputado à noite; ir a pé ou de Uber.",
+  "horarios": "Qui–sáb 21h–3h/4h; dom 20h–2h (BOABreja, 11/2026; páginas de evento: 21h–4h).",
+  "precos": "Valores das festas de novembro ainda não publicados na Pensanoevento (vendas 'a iniciar'). Entrada via lista.",
+  "melhor_horario": "Chegar 21h para o show ou 23h para o DJ; lista cedo garante entrada.",
+  "duracao": "3–5 h",
+  "trilha": {
+    "distancia_km": null,
+    "tempo_ida_min": null,
+    "desnivel_m": null,
+    "dificuldade": null,
+    "inicio": null,
+    "sinalizacao": null
+  },
+  "o_que_levar": [],
+  "cuidados": [
+    "Lei Seca: tolerância zero para álcool ao volante (CTB art. 165). Quem beber não dirige — Uber/99 ou motorista da vez que fica no zero.",
+    "Golpe da maquininha: confira o valor no visor antes de aproximar o cartão/celular e peça o comprovante — golpe comum em eventos, com alertas na imprensa em 2026 (em.com.br, 04/2026).",
+    "Ingresso só no canal oficial (Ingresse, Sympla, Shotgun, Pensanoevento, Guichê Web ou bilheteria da casa). Ingresse/ABREVIN alertam contra revenda em Viagogo, StubHub e grupos de WhatsApp/Telegram.",
+    "Leve documento original com foto: as casas são 18+ e conferem na porta.",
+    "Documento original com foto é exigido."
+  ],
+  "clima": {
+    "sensivel_a": [
+      "vento sul"
+    ],
+    "plano_b": "Tem área coberta; chuva forte reduz o deck."
+  },
+  "publico": "Jovem, para dançar; balada, não happy hour (BOABreja). Dress code não informado (casual arrumado é seguro).",
+  "combina_com": [
+    "bar-do-boni",
+    "john-bull-floripa",
+    "rufus"
+  ],
+  "encaixe": [
+    "noite",
+    "fim-de-semana"
+  ],
+  "fotos": [
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/f/f1/Avdasrendeiras.jpg",
+      "pagina": "https://commons.wikimedia.org/wiki/File:Avdasrendeiras.jpg",
+      "autor": "Ben Tavener",
+      "licenca": "CC BY 2.0"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/8/88/AvRendeiras-02.png",
+      "pagina": "https://commons.wikimedia.org/wiki/File:AvRendeiras-02.png",
+      "autor": "Et27ju7",
+      "licenca": "CC BY-SA 4.0"
+    }
+  ],
+  "dicas": [
+    "Coloque os 4 nomes na lista pelo link da Pensanoevento assim que abrir.",
+    "Não confundir com o Espartano Surf House, na Praia Mole (outra casa do grupo, com festa de Réveillon)."
+  ],
+  "fontes": [
+    "https://www.pensanoevento.com.br/espartanofloripa",
+    "https://www.pensanoevento.com.br/eventos/110922/dj-vs-deck",
+    "https://www.pensanoevento.com.br/eventos/110924/trippy-anos-2000",
+    "https://www.pensanoevento.com.br/eventos/110923/baile-do-olimpo",
+    "https://www.boabreja.com.br/blog/bares-lagoa-da-conceicao",
+    "https://promoteronline.com.br/eventos/reveillon-do-espartano-florianopolis/"
+  ],
+  "verificado_em": "2026-11-16",
+  "confianca": "media",
+  "pendencias": [
+    "Estilo musical de cada festa (as páginas não dizem)",
+    "Preço de entrada/consumação",
+    "Confirmar Close Friends em 26/11"
+  ],
+  "google": {
+    "place_id": "ChIJ6YqikDM_J5URR1eLmBhx4qI",
+    "consultado_em": "2026-11-16"
+  }
+}

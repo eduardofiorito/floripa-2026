@@ -1,0 +1,118 @@
+{
+  "id": "morro-da-cruz",
+  "nome": "Mirante do Morro da Cruz",
+  "categoria": "mirante",
+  "regiao": "centro",
+  "resumo": "Mirante a 285 m de altitude, no meio da Ilha, com vista de 360° das baías Norte e Sul, das três pontes e do continente. Sobe-se de carro em poucos minutos a partir do Centro. É bom ao fim da tarde, mas as fontes desaconselham ficar depois de escurecer.",
+  "destaques": [
+    "Vista panorâmica de Centro, pontes, baías e serra do continente (Cambirela)",
+    "Parque com áreas arborizadas, quadras e banheiros",
+    "Pôr do sol atrás das montanhas do continente",
+    "Perto do Centro e no caminho entre a Lagoa e o Centro"
+  ],
+  "coords": {
+    "lat": -27.5884779,
+    "lng": -48.5338176,
+    "fonte": "OSM Nominatim",
+    "ponto": "Mirante do Morro da Cruz (tourism=viewpoint), Av. do Antão"
+  },
+  "endereco": "Av. do Antão, 1900, Morro da Cruz, Florianópolis.",
+  "links": {
+    "google_maps": "https://www.google.com/maps/search/?api=1&query=Mirante%20do%20Morro%20da%20Cruz&query_place_id=ChIJ5zZH_UM4J5URxHtESIdQaJA",
+    "waze": "https://waze.com/ul?ll=-27.5884779,-48.5338176&navigate=yes",
+    "site": null,
+    "instagram": null,
+    "ingressos": null,
+    "reserva": null
+  },
+  "nota_google": null,
+  "outras_notas": [
+    {
+      "fonte": "TripAdvisor (Mirante do Morro da Cruz)",
+      "nota": null,
+      "avaliacoes": null,
+      "url": "https://www.tripadvisor.com/Attraction_Review-g303576-d2362720-Reviews-Mirante_do_Morro_da_Cruz-Florianopolis_State_of_Santa_Catarina.html"
+    }
+  ],
+  "da_lagoa": {
+    "tempo_min": 25,
+    "km": 12,
+    "obs": "OSRM: 12 km e 19 min sem trânsito. Rota indicada: Beira-Mar Norte, Rua João Carvalho e Av. do Antão."
+  },
+  "estacionamento": "Poucas vagas no alto; na rua, perto do mirante.",
+  "horarios": "Parque aberto 24 horas, com acesso gratuito (QuintoAndar, fev/2026). Mesmo assim, vá de dia.",
+  "precos": "Grátis",
+  "melhor_horario": "Fim da tarde, das 17h30 às 18h50, e descer logo depois do pôr do sol.",
+  "duracao": "30 a 45 min",
+  "trilha": {
+    "distancia_km": null,
+    "tempo_ida_min": null,
+    "desnivel_m": null,
+    "dificuldade": null,
+    "inicio": null,
+    "sinalizacao": null
+  },
+  "o_que_levar": [
+    "casaco (venta no alto)"
+  ],
+  "cuidados": [
+    "À noite, vários relatos falam de risco de assalto e pouca iluminação: desça antes de escurecer",
+    "Suba de carro pela Av. do Antão; evite as ruas laterais que entram nas comunidades e evite subir a pé",
+    "Vá em grupo e sem deixar objetos à vista no carro"
+  ],
+  "clima": {
+    "sensivel_a": [
+      "neblina",
+      "chuva"
+    ],
+    "plano_b": "Vista do Parque da Luz ou do Forte Santana."
+  },
+  "publico": "Moradores, casais e turistas no fim da tarde.",
+  "combina_com": [
+    "mercado-publico",
+    "centro-historico",
+    "ponte-hercilio-luz"
+  ],
+  "encaixe": [
+    "pos-expediente",
+    "fim-de-semana"
+  ],
+  "fotos": [
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Morro_da_Cruz_-_Florian%C3%B3polis.JPG/1280px-Morro_da_Cruz_-_Florian%C3%B3polis.JPG",
+      "pagina": "https://commons.wikimedia.org/wiki/File:Morro_da_Cruz_-_Florian%C3%B3polis.JPG",
+      "autor": "Abreu, H.F.",
+      "licenca": "CC BY-SA 3.0"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/3/32/Florian%C3%B3polis_Vista_Do_Morro_Da_Cruz_-_panoramio.jpg",
+      "pagina": "https://commons.wikimedia.org/wiki/File:Florian%C3%B3polis_Vista_Do_Morro_Da_Cruz_-_panoramio.jpg",
+      "autor": "Vanderlei Bissiato",
+      "licenca": "CC BY-SA 3.0"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Morro_da_Cruz%2C_Florian%C3%B3polis_-_SC%2C_Brazil_-_panoramio.jpg/1280px-Morro_da_Cruz%2C_Florian%C3%B3polis_-_SC%2C_Brazil_-_panoramio.jpg",
+      "pagina": "https://commons.wikimedia.org/wiki/File:Morro_da_Cruz,_Florian%C3%B3polis_-_SC,_Brazil_-_panoramio.jpg",
+      "autor": "oscar fava",
+      "licenca": "CC BY 3.0"
+    }
+  ],
+  "dicas": [
+    "Bom fecho de um fim de tarde de dia útil: Lagoa, mirante ao pôr do sol e jantar no Centro ou de volta à Lagoa",
+    "Não é para o sábado 28, que já tem bastante caminhada"
+  ],
+  "fontes": [
+    "https://www.quintoandar.com.br/guias/cidades/mirante-morro-da-cruz/",
+    "https://www.tripadvisor.com.br/ShowTopic-g303576-i6938-k9868239-Mirante_morro_da_cruz-Florianopolis_State_of_Santa_Catarina.html",
+    "https://immobilefloripa.com.br/trilha-morro-da-cruz/",
+    "https://praiasflorianopolis.com.br/morro-da-cruz-em-florianopolis/",
+    "https://escalada.carlson.eti.br/morro-da-cruz/"
+  ],
+  "verificado_em": "2026-11-16",
+  "confianca": "media",
+  "pendencias": [],
+  "google": {
+    "place_id": "ChIJ5zZH_UM4J5URxHtESIdQaJA",
+    "consultado_em": "2026-11-16"
+  }
+}

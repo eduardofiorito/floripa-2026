@@ -1,0 +1,101 @@
+{
+  "id": "praia-do-saquinho",
+  "nome": "Praia do Saquinho",
+  "categoria": "praia",
+  "regiao": "sul",
+  "resumo": "Prainha de 75 m entre a Solidão e Naufragados, só por trilha curta (~1 km) saindo da Solidão, com água clara e calma. Bonita, mas sem nenhuma estrutura; vale como esticada a partir da Solidão.",
+  "destaques": [
+    "Areia branca e água transparente e calma",
+    "Mirantes na trilha",
+    "Quase deserta"
+  ],
+  "coords": {
+    "lat": -27.8008392,
+    "lng": -48.5363336,
+    "fonte": "OSM Nominatim (caminho 'Pântano do Sul - Praia Naufragados', trecho Saquinho)",
+    "ponto": "trecho da trilha no Saquinho; o carro fica no fim da estrada da Solidão (-27.7943, -48.5336)"
+  },
+  "endereco": "Acesso pelo fim da estrada da Praia da Solidão, depois da ponte do Rio das Pacas",
+  "links": {
+    "google_maps": "https://www.google.com/maps/search/?api=1&query=Praia%20do%20Saquinho&query_place_id=ChIJ8T6XezomJ5URtLKiFzZhRMU",
+    "waze": "https://waze.com/ul?ll=-27.7942829,-48.533581&navigate=yes",
+    "site": null,
+    "instagram": null,
+    "ingressos": null,
+    "reserva": null
+  },
+  "nota_google": null,
+  "outras_notas": [],
+  "da_lagoa": {
+    "tempo_min": 50,
+    "km": 28,
+    "obs": "Até a Solidão: OSRM 40 min/27,6 km; conte 45–55 min. Mais ~1 km de trilha."
+  },
+  "estacionamento": "Na Solidão (rua, pequeno).",
+  "horarios": "Livre.",
+  "precos": "Grátis.",
+  "melhor_horario": "Manhã.",
+  "duracao": "2–3 h com a Solidão",
+  "trilha": {
+    "distancia_km": 1.0,
+    "tempo_ida_min": null,
+    "desnivel_m": null,
+    "dificuldade": null,
+    "inicio": "Lado direito da Praia da Solidão, logo após a ponte do Rio das Pacas",
+    "sinalizacao": null
+  },
+  "o_que_levar": [
+    "água e comida (essencial)",
+    "tênis"
+  ],
+  "cuidados": [
+    "Sem estrutura nem salva-vidas"
+  ],
+  "clima": {
+    "sensivel_a": [
+      "chuva",
+      "mar agitado"
+    ],
+    "plano_b": "Arante no Pântano (8 min de carro)."
+  },
+  "publico": "Quem quer praia vazia.",
+  "combina_com": [
+    "praia-da-solidao",
+    "bar-do-arante"
+  ],
+  "encaixe": [
+    "fim-de-semana"
+  ],
+  "fotos": [
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/7/7c/Praia_do_Saquinho_%2817722345476%29.jpg",
+      "pagina": "https://commons.wikimedia.org/wiki/File:Praia_do_Saquinho_(17722345476).jpg",
+      "autor": "Papa Pic from Eldorado, Argentina",
+      "licenca": "CC0"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/a/a3/Praia_do_Saquinho_%2814175703621%29.jpg",
+      "pagina": "https://commons.wikimedia.org/wiki/File:Praia_do_Saquinho_(14175703621).jpg",
+      "autor": "Otávio Nogueira from Fortaleza, BR",
+      "licenca": "CC BY 2.0"
+    }
+  ],
+  "dicas": [
+    "Só vale se já estiverem na Solidão; com tempo curto, Lagoinha ou Naufragados entregam mais"
+  ],
+  "fontes": [
+    "https://visitefloripa.com.br/en_us/?p=4395",
+    "https://en.guiafloripa.com.br/tourism/beaches/bag-beach",
+    "https://www.mochileiros.com/circuito-de-trilhas-no-sul-de-floripa-sc-mai-13-t82660.html"
+  ],
+  "verificado_em": "2026-11-16",
+  "confianca": "baixa",
+  "pendencias": [
+    "Tempo da trilha Solidão → Saquinho (nenhuma fonte dá)",
+    "Coordenada exata da faixa de areia"
+  ],
+  "google": {
+    "place_id": "ChIJ8T6XezomJ5URtLKiFzZhRMU",
+    "consultado_em": "2026-11-16"
+  }
+}

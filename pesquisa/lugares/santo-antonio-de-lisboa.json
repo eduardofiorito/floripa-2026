@@ -1,0 +1,127 @@
+{
+  "id": "santo-antonio-de-lisboa",
+  "nome": "Santo Antônio de Lisboa (pôr do sol e ostras)",
+  "categoria": "comida",
+  "regiao": "norte",
+  "resumo": "Vila açoriana de 1750 na Baía Norte, com casario colonial, a Igreja de Nossa Senhora das Necessidades e restaurantes de ostra pé na areia. É o melhor pôr do sol de fim de tarde perto da Lagoa: o sol desce atrás do continente, do outro lado da baía. Às quartas-feiras, o Freguesia faz o Festival de Ostras.",
+  "destaques": [
+    "Pôr do sol sobre a Baía Norte (por volta das 18h50 em 25/11), visto da orla, do trapiche ou das mesas na areia",
+    "Igreja de Nossa Senhora das Necessidades (1756) e casario açoriano, na primeira rua calçada de SC",
+    "Freguesia Oyster Bar: Festival de Ostras toda quarta-feira (ND/De Olho na Ilha, set/2026); a casa tem fazenda marinha própria",
+    "Rosso Cozinha do Mar: polvo da casa com acompanhamentos que se repetem; o mais elegante da orla",
+    "Marisqueira Sintra: cozinha portuguesa, nota 4,6 com cerca de 2 mil avaliações no TripAdvisor"
+  ],
+  "coords": {
+    "lat": -27.507493,
+    "lng": -48.5195435,
+    "fonte": "OSM Nominatim",
+    "ponto": "Praça Roldão da Rocha Pires, centro histórico, perto da igreja e dos restaurantes"
+  },
+  "endereco": "Rua XV de Novembro e Praça Roldão da Rocha Pires, Santo Antônio de Lisboa, Florianópolis. Acesso pela SC-401, Rod. José Carlos Daux, e pela Rua Cônego Serpa.",
+  "links": {
+    "google_maps": "https://www.google.com/maps/search/?api=1&query=Santo%20Ant%C3%B4nio%20de%20Lisboa%20%28p%C3%B4r%20do%20sol%20e%20ostras%29&query_place_id=ChIJ0yq_gUZHJ5URg3eVkLPQSYc",
+    "waze": "https://waze.com/ul?ll=-27.507493,-48.5195435&navigate=yes",
+    "site": null,
+    "instagram": null,
+    "ingressos": null,
+    "reserva": "https://wa.me/5548988501055"
+  },
+  "nota_google": null,
+  "outras_notas": [
+    {
+      "fonte": "TripAdvisor (Marisqueira Sintra)",
+      "nota": 4.6,
+      "avaliacoes": 2090,
+      "url": "https://www.tripadvisor.pt/Restaurant_Review-g303576-d2363058-Reviews-or75-Marisqueira_Sintra-Florianopolis_State_of_Santa_Catarina.html"
+    }
+  ],
+  "da_lagoa": {
+    "tempo_min": 40,
+    "km": 18,
+    "obs": "OSRM: 18,4 km e 23 min sem trânsito, pela Rod. Admar Gonzaga, Itacorubi, SC-401 e Cônego Serpa. Saindo às 17h10 de uma quarta, pegue o pico da SC-401 sentido norte: conte de 35 a 45 min e chegada entre 17h45 e 17h55. A volta, às 21h30, leva uns 22 min."
+  },
+  "estacionamento": "Poucas vagas públicas perto da praça e da igreja; o resto é na rua ou em estacionamentos dos restaurantes. Fora da temporada, numa quarta, costuma ter vaga antes das 18h.",
+  "horarios": "Freguesia: aberto todos os dias, com fechamento às 23h ou 23h45, conforme a fonte. Rosso: segunda a sábado, das 11h40 às 23h20 (site oficial). Marisqueira Sintra: o TripAdvisor dá terça a sábado, das 12h às 23h; o Yelp (nov/2025) dá fechado às terças, com jantar das 19h às 23h30.",
+  "precos": "Faixa média a alta. Ostras: o quiosque Caminho/Cantinho das Ostras é a opção barata, mas o preço citado (R$ 18 a dúzia) é antigo. Os pratos para dividir no Rosso e no Freguesia ficam na faixa de $$$; sem preço confirmado.",
+  "melhor_horario": "Chegar às 17h50, caminhar pelo casario até 18h20 e sentar de frente para o mar das 18h20 às 19h10.",
+  "duracao": "3h a 3h30",
+  "trilha": {
+    "distancia_km": null,
+    "tempo_ida_min": null,
+    "desnivel_m": null,
+    "dificuldade": null,
+    "inicio": null,
+    "sinalizacao": null
+  },
+  "o_que_levar": [
+    "casaco leve (vento da baía à noite)",
+    "repelente (mosquitinhos no fim de tarde na beira da baía)"
+  ],
+  "cuidados": [
+    "Ostra crua: prefira as casas com fazenda própria e evite comer depois de chuva forte",
+    "O motorista não bebe, mesmo sendo quarta-feira"
+  ],
+  "clima": {
+    "sensivel_a": [
+      "céu nublado (sem pôr do sol)",
+      "chuva",
+      "vento"
+    ],
+    "plano_b": "Jantar nas mesas internas do Rosso ou da Marisqueira Sintra. Se o céu fechar, troque por um jantar na Lagoa."
+  },
+  "publico": "Casais, famílias e grupos de amigos; frequentado por moradores; casual-arrumado.",
+  "combina_com": [
+    "sambaqui"
+  ],
+  "encaixe": [
+    "pos-expediente",
+    "noite"
+  ],
+  "fotos": [
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Igreja_Nossa_Senhora_das_Necessidades_vista_frontal.jpg/1280px-Igreja_Nossa_Senhora_das_Necessidades_vista_frontal.jpg",
+      "pagina": "https://commons.wikimedia.org/wiki/File:Igreja_Nossa_Senhora_das_Necessidades_vista_frontal.jpg",
+      "autor": "Boaventuravinicius",
+      "licenca": "CC BY-SA 4.0"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Santo_Ant%C3%B4nio_de_Lisboa_%28Floripa%29_by_K%C3%A1tiia_C._Oliveira_-_03.jpg/1280px-Santo_Ant%C3%B4nio_de_Lisboa_%28Floripa%29_by_K%C3%A1tiia_C._Oliveira_-_03.jpg",
+      "pagina": "https://commons.wikimedia.org/wiki/File:Santo_Ant%C3%B4nio_de_Lisboa_(Floripa)_by_K%C3%A1tiia_C._Oliveira_-_03.jpg",
+      "autor": "Ajmcbarreto",
+      "licenca": "CC BY-SA 4.0"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Santo_Ant%C3%B4nio_de_Lisboa_%2822035896568%29.jpg/1280px-Santo_Ant%C3%B4nio_de_Lisboa_%2822035896568%29.jpg",
+      "pagina": "https://commons.wikimedia.org/wiki/File:Santo_Ant%C3%B4nio_de_Lisboa_(22035896568).jpg",
+      "autor": "Alexandre Machado from São José - SC, Brasil",
+      "licenca": "CC BY-SA 2.0"
+    }
+  ],
+  "dicas": [
+    "Reserve mesa de frente para o mar no Freguesia, pelo WhatsApp (48) 98850-1055, para 18h20 da quarta 25/11, e pergunte pelo Festival de Ostras",
+    "O Rosso aceita reserva pelo WhatsApp (link no site oficial) e tem o telefone (48) 3206-7665; é mais caro e mais calmo",
+    "Feira das Alfaias só aos sábados e domingos; numa quarta não tem"
+  ],
+  "fontes": [
+    "https://www.carpemundi.com.br/santo-antonio-de-lisboa-florianopolis/",
+    "https://floripa.com/o-que-fazer/um-passeio-gastronomico-por-santo-antonio-de-lisboa-ostras-arquitetura-e-poesia/",
+    "https://www.deolhonailha.com.br/florianopolis/noticias/festival-de-ostras-movimenta-as-quartas-feiras-do-freguesia-bar-em-santo-antonio-de-lisboa/",
+    "https://rossorestaurante.com.br/",
+    "https://www.folhadoestado.com.br/colunistas/prosa-cozinha-por-fernando-bicudo/rosso-o-sabor-do-mar-que-fez-do-polvo-uma-assinatura-gastronomica-em-florianopolis/645128",
+    "https://www.tripadvisor.pt/Restaurant_Review-g303576-d2363058-Reviews-or75-Marisqueira_Sintra-Florianopolis_State_of_Santa_Catarina.html",
+    "https://www.yelp.com/biz/marisqueira-sintra-florian%C3%B3polis",
+    "https://www.carpemundi.com.br/restaurantes-para-ir-no-por-do-sol-em-florianopolis/",
+    "https://router.project-osrm.org (tempo sem trânsito)"
+  ],
+  "verificado_em": "2026-11-16",
+  "confianca": "media",
+  "pendencias": [
+    "Confirmar se o Festival de Ostras do Freguesia acontece na quarta 25/11 e o preço",
+    "Reserva de mesa na beira d'água para 4 pessoas às 18h20",
+    "Nota TripAdvisor do Freguesia e do Rosso (não apareceu nas buscas)"
+  ],
+  "google": {
+    "place_id": "ChIJ0yq_gUZHJ5URg3eVkLPQSYc",
+    "consultado_em": "2026-11-16"
+  }
+}

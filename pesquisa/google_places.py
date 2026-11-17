@@ -12,6 +12,9 @@ import json, sys, time, pathlib, urllib.request, datetime
 AQUI = pathlib.Path(__file__).resolve().parent
 ENV = pathlib.Path.home() / ".config/peregrino/google.env"
 SAIDA = AQUI / "google.json"
+# fichas que agrupam vários lugares ou eventos: não têm um único ponto no Google
+PULAR = {"agenda-noite-20-28-nov", "festas-universitarias", "warung-e-green-valley", "centro-noite",
+         "ingleses-santinho-jantar", "coworking-lagoa", "sup-lagoa", "sc21k-2026"}
 CAMPOS = ",".join([
     "places.id", "places.displayName", "places.formattedAddress", "places.location",
     "places.rating", "places.userRatingCount", "places.googleMapsUri", "places.websiteUri",
@@ -72,7 +75,7 @@ def main():
     feito = json.loads(SAIDA.read_text()) if SAIDA.exists() else {}
     for arq in sorted((AQUI / "lugares").glob("*.json")):
         d = json.loads(arq.read_text())
-        if d["id"] in feito:
+        if d["id"] in feito or d["id"] in PULAR:
             continue
         c = d.get("coords") or {}
         consulta = d.get("google_consulta") or f"{d['nome']}, Florianópolis SC"

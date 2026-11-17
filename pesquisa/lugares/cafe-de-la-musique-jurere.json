@@ -1,0 +1,87 @@
+{
+  "id": "cafe-de-la-musique-jurere",
+  "nome": "Café de la Musique Jurerê (fechado) e outras casas de Jurerê",
+  "categoria": "noite",
+  "regiao": "norte",
+  "resumo": "O Café de la Musique de Jurerê fechou em 2023, depois da ação do MPF que mandou demolir as estruturas sobre área pública de restinga; a marca falou em reabrir em Balneário Camboriú, sem anúncio oficial. Em novembro/2026 Jurerê está em pré-temporada: só o P12 tem evento na janela da viagem.",
+  "destaques": [
+    "Café de la Musique Jurerê: fechado desde a temporada 2023/24 (Diarinho, 05/2025); o site da marca não lista evento em Floripa desde abril/2023",
+    "Milk Club, Safari Beach, Posh Club: sem nenhuma data de novembro/2026 publicada; as agendas começam no Réveillon/temporada",
+    "Terraza Music Park (Rod. Jorn. Maurício Sirotsky Sobrinho, 1050, Jurerê): só um agregador (TechnoBeatsCloud) lista 'Brisotti long set' em 21/11/2026, 23h, 'a partir de US$ 50' — não confirmado em canal oficial",
+    "Conclusão: em Jurerê, o programa da viagem é o Pátio P12 Sunset (21/11)"
+  ],
+  "coords": {
+    "lat": -27.4375454,
+    "lng": -48.4996497,
+    "fonte": "OSM Nominatim",
+    "ponto": "local antigo do Café de la Musique na Av. dos Merlins (o OSM ainda tem o nó; a casa fechou)"
+  },
+  "endereco": "Antigo endereço: Av. dos Merlins, Jurerê Internacional (fechado)",
+  "links": {
+    "google_maps": "https://www.google.com/maps/search/?api=1&query=-27.4375454,-48.4996497",
+    "waze": "https://waze.com/ul?ll=-27.4375454,-48.4996497&navigate=yes",
+    "site": "https://cafedelamusique.com.br/en/events",
+    "instagram": null,
+    "ingressos": null,
+    "reserva": null
+  },
+  "nota_google": null,
+  "outras_notas": [],
+  "da_lagoa": {
+    "tempo_min": 50,
+    "km": 27,
+    "obs": "Jurerê fica a ~27 km da Lagoa (33 min sem trânsito, OSM routing (routing.openstreetmap.de, OSRM), tempo sem trânsito)."
+  },
+  "estacionamento": null,
+  "horarios": "Fechado.",
+  "precos": null,
+  "melhor_horario": null,
+  "duracao": null,
+  "trilha": {
+    "distancia_km": null,
+    "tempo_ida_min": null,
+    "desnivel_m": null,
+    "dificuldade": null,
+    "inicio": null,
+    "sinalizacao": null
+  },
+  "o_que_levar": [],
+  "cuidados": [
+    "Sites de 'baladas Jurerê' ainda vendem como se o Café estivesse aberto — confira a data do evento antes de pagar."
+  ],
+  "clima": {
+    "sensivel_a": [],
+    "plano_b": null
+  },
+  "publico": "Jurerê na temporada: público premium, ingressos caros; em novembro o movimento é baixo.",
+  "combina_com": [
+    "p12-jurere"
+  ],
+  "encaixe": [
+    "noite"
+  ],
+  "fotos": [
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/b/b6/Praia_de_Jurer%C3%AA_Internacional.JPG",
+      "pagina": "https://commons.wikimedia.org/wiki/File:Praia_de_Jurer%C3%AA_Internacional.JPG",
+      "autor": "Rafael Bernardino Mattei",
+      "licenca": "CC BY-SA 3.0"
+    }
+  ],
+  "dicas": [
+    "Não vale a viagem até Jurerê à noite em dia útil de novembro: não há casa aberta com evento confirmado."
+  ],
+  "fontes": [
+    "https://diarinho.net/materia/661796/BC-sera-novo-endereco-do-Cafe-de-La-Musique--beach-club-que-fez-historia-em-Floripa",
+    "https://cafedelamusique.com.br/en/events",
+    "https://baladasfloripa.com/",
+    "https://technobeatscloud.com/en/events/november-2026/brazil/florianopolis",
+    "https://ra.co/events/2299887"
+  ],
+  "verificado_em": "2026-11-16",
+  "confianca": "alta",
+  "pendencias": [
+    "Terraza 21/11 (Brisotti) — confirmar no Instagram da casa se interessar",
+    "Milk Club: alguma data em novembro?"
+  ]
+}

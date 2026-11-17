@@ -1,0 +1,124 @@
+{
+  "id": "praia-mole",
+  "nome": "Praia Mole",
+  "categoria": "praia",
+  "regiao": "leste-lagoa",
+  "resumo": "Praia de mar aberto a 8 minutos do Centrinho, com areia grossa, ondas fortes, surfistas e o público mais jovem e animado do leste da Ilha. Boa para ver o nascer do sol sem caminhar e para um fim de tarde de praia depois do expediente.",
+  "destaques": [
+    "Um dos principais picos de surf do Brasil (Wikipedia)",
+    "Público jovem e LGBT+ (Carpe Mundi), barracas, aluguel de cadeiras e ambulantes",
+    "Nascer do sol sobre o mar: ~5h11 nos dias úteis da viagem",
+    "Pouso dos voos de parapente da rampa do Morro da Mole, no canto sul",
+    "Do canto norte sai a trilha de 15–20 min para a Praia da Galheta",
+    "Mirante Ponto de Vista na SC-406 (Rod. Jorn. Manoel de Menezes, 1747), acima da praia, com vista da Lagoa, das dunas e do mar"
+  ],
+  "coords": {
+    "lat": -27.6045983,
+    "lng": -48.4359582,
+    "fonte": "OSM Nominatim (amenity=parking)",
+    "ponto": "estacionamento junto à SC-406, no acesso à praia"
+  },
+  "endereco": "Rod. Jornalista Manoel de Menezes (SC-406), Praia Mole, entre a Lagoa e a Barra da Lagoa",
+  "links": {
+    "google_maps": "https://www.google.com/maps/search/?api=1&query=Praia%20Mole&query_place_id=ChIJp4s3IXw-J5URKHtI1SnvF6M",
+    "waze": "https://waze.com/ul?ll=-27.6045983,-48.4359582&navigate=yes",
+    "site": null,
+    "instagram": null,
+    "ingressos": null,
+    "reserva": null
+  },
+  "nota_google": null,
+  "outras_notas": [],
+  "da_lagoa": {
+    "tempo_min": 8,
+    "km": 3.8,
+    "obs": "Pela Av. das Rendeiras e a subida da SC-406. Estimativa pelo mapa; em fim de semana de sol a SC-406 engarrafa"
+  },
+  "estacionamento": "Estacionamentos pagos ao longo da SC-406. Preços divergem: R$ 10 (baixa) a R$ 20 (alta) num guia antigo (Carpe Mundi) e R$ 30–40 por vaga em relatos recentes no TripAdvisor. Também há vagas de rua gratuitas com flanelinha esperando gorjeta. De madrugada, quase certamente sobra vaga",
+  "horarios": "Livre",
+  "precos": "Gratuito; estacionamento pago (ver acima)",
+  "melhor_horario": "Nascer do sol (chegue 4h55) ou fim de tarde depois das 17h, quando o sol fica mais fraco e a areia esvazia",
+  "duracao": "1 h no nascer do sol; 2–3 h no fim de tarde",
+  "trilha": {
+    "distancia_km": null,
+    "tempo_ida_min": null,
+    "desnivel_m": null,
+    "dificuldade": null,
+    "inicio": null,
+    "sinalizacao": null
+  },
+  "o_que_levar": [
+    "lanterna se for andar até a Galheta no escuro",
+    "canga e casaco para a madrugada",
+    "dinheiro e Pix para estacionamento e barraca"
+  ],
+  "cuidados": [
+    "Praia de tombo com ondas fortes e correnteza: nade só perto do posto de salva-vidas",
+    "Não estacione no acostamento da SC-406",
+    "Não deixe nada à vista no carro"
+  ],
+  "clima": {
+    "sensivel_a": [
+      "mar agitado",
+      "vento sul",
+      "chuva"
+    ],
+    "plano_b": "Mirante Ponto de Vista, na rodovia acima da praia, ou café no Centrinho"
+  },
+  "publico": "Jovens de 18 a 35, surfistas, parapentistas e público LGBT+; fins de semana de sol lotam. No fim de tarde de dia útil, mais tranquila",
+  "combina_com": [
+    "praia-da-galheta",
+    "trilha-do-gravata",
+    "parapente-lagoa",
+    "barra-da-lagoa",
+    "classico-da-mole"
+  ],
+  "encaixe": [
+    "cedo-dia-util",
+    "pos-expediente",
+    "fim-de-semana"
+  ],
+  "fotos": [
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/7/7d/Praia_Mole_-_Florian%C3%B3polis.jpg",
+      "pagina": "https://commons.wikimedia.org/wiki/File:Praia_Mole_-_Florian%C3%B3polis.jpg",
+      "autor": "Chamuscajr",
+      "licenca": "CC BY-SA 4.0"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/1/1c/Praia_Mole_em_Florianopolis.jpg",
+      "pagina": "https://commons.wikimedia.org/wiki/File:Praia_Mole_em_Florianopolis.jpg",
+      "autor": "Otávio Astor Vaz Costa",
+      "licenca": "CC0"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/7/77/Panoramica_Praia_Mole_-_Florianopolis_-_Brasil.JPG",
+      "pagina": "https://commons.wikimedia.org/wiki/File:Panoramica_Praia_Mole_-_Florianopolis_-_Brasil.JPG",
+      "autor": "Leandro Kibisz",
+      "licenca": "CC BY-SA 3.0"
+    }
+  ],
+  "dicas": [
+    "Para o nascer do sol sem caminhar, este é o ponto mais fácil: sai 4h45, estaciona 4h55",
+    "Quem quiser mais, anda 15–20 min pelo canto norte até a Galheta, mais vazia",
+    "No fim de tarde o sol se põe atrás do morro, do lado da Lagoa: a praia fica na sombra antes das 18h50. Para ver o pôr do sol, suba ao Mirante Ponto de Vista",
+    "O Mirante Ponto de Vista cobra cerca de R$ 5 de estacionamento, segundo um relato não datado"
+  ],
+  "fontes": [
+    "https://en.wikipedia.org/wiki/Mole_Beach",
+    "https://www.carpemundi.com.br/praia-mole-floripa/",
+    "https://www.tripadvisor.com/Attraction_Review-g303576-d553415-Reviews-Praia_Mole-Florianopolis_State_of_Santa_Catarina.html",
+    "https://visitefloripa.com.br/o-que-ver/mirante-praia-mole-ou-mirante-ponto-de-vista/",
+    "https://ideiasnamala.com/roteiro-floripa/"
+  ],
+  "verificado_em": "2026-11-16",
+  "confianca": "media",
+  "pendencias": [
+    "Preço atual dos estacionamentos (R$ 10–20 x R$ 30–40) e se cobram de madrugada",
+    "Quais barracas funcionam em dia útil de novembro"
+  ],
+  "google": {
+    "place_id": "ChIJp4s3IXw-J5URKHtI1SnvF6M",
+    "consultado_em": "2026-11-16"
+  }
+}

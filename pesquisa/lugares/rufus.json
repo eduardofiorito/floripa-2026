@@ -1,0 +1,102 @@
+{
+  "id": "rufus",
+  "nome": "Rufus Bar – Cervejas Experimentais",
+  "categoria": "noite",
+  "regiao": "leste-lagoa",
+  "resumo": "Cervejaria de bairro no Centrinho da Lagoa com cerca de 20 torneiras de receitas próprias e experimentais. Bom ponto de esquenta a pé da base, com hambúrguer e porções; à noite costuma ter músico ao vivo.",
+  "destaques": [
+    "~20 torneiras, com receitas experimentais servidas só lá (BOABreja, Diário de Floripa)",
+    "Músicos ao vivo à noite (BOABreja, 11/2026); guias citam jazz, blues, rock e reggae",
+    "Participou do Comida di Buteco 2026 (NSC Total)",
+    "A 9 min a pé da Praça Bento Silvério; 7 min do Quintal Lagoa/Liffey"
+  ],
+  "coords": {
+    "lat": -27.602474,
+    "lng": -48.4681484,
+    "fonte": "OSM Nominatim",
+    "ponto": "ponto da Rua Manoel Isidoro da Silveira (o OSM não tem o bar; o nº 655 fica nessa rua)"
+  },
+  "endereco": "Rua Manoel Isidoro da Silveira, 655 – Centrinho, Lagoa da Conceição (Diário de Floripa, BOABreja, guias). Uma fonte (Visite Floripa, via busca) cita 'Rua Manoel Severino de Oliveira, 655'.",
+  "links": {
+    "google_maps": "https://www.google.com/maps/search/?api=1&query=Rufus%20Bar%20%E2%80%93%20Cervejas%20Experimentais&query_place_id=ChIJf37l-vo_J5URcWjwKqDdbSM",
+    "waze": "https://waze.com/ul?ll=-27.602474,-48.4681484&navigate=yes",
+    "site": null,
+    "instagram": null,
+    "ingressos": null,
+    "reserva": null
+  },
+  "nota_google": null,
+  "outras_notas": [],
+  "da_lagoa": {
+    "tempo_min": 9,
+    "km": 0.7,
+    "obs": "A pé do Centrinho (Praça Bento Silvério): 0,7 km, ~9 min (OSM routing (routing.openstreetmap.de, OSRM), tempo sem trânsito). Até o John Bull/Espartano: 2 km (~27 min) — à noite melhor Uber."
+  },
+  "estacionamento": "Centrinho tem pouca vaga à noite; como é a pé da base, deixe o carro em casa.",
+  "horarios": "Abre no almoço todos os dias e fecha mais tarde sex/sáb; cozinha fecha antes do bar (Diário de Floripa, atualizado em 10/2026). Horário exato não publicado.",
+  "precos": "Sem valores publicados; guias elogiam custo-benefício. A carta de torneiras muda — o site oficial lista estilo, teor e amargor.",
+  "melhor_horario": "19h–22h como esquenta antes de balada; ou noite inteira em dia útil.",
+  "duracao": "2–3 h",
+  "trilha": {
+    "distancia_km": null,
+    "tempo_ida_min": null,
+    "desnivel_m": null,
+    "dificuldade": null,
+    "inicio": null,
+    "sinalizacao": null
+  },
+  "o_que_levar": [],
+  "cuidados": [
+    "Lei Seca: tolerância zero para álcool ao volante (CTB art. 165). Quem beber não dirige — Uber/99 ou motorista da vez que fica no zero.",
+    "Golpe da maquininha: confira o valor no visor antes de aproximar o cartão/celular e peça o comprovante — golpe comum em eventos, com alertas na imprensa em 2026 (em.com.br, 04/2026)."
+  ],
+  "clima": {
+    "sensivel_a": [],
+    "plano_b": "É coberto: serve de plano B de chuva no Centrinho."
+  },
+  "publico": "Público de cerveja artesanal, grupos de amigos e casais; clima de bar, não de balada.",
+  "combina_com": [
+    "bar-do-boni",
+    "espartano-lagoa",
+    "john-bull-floripa"
+  ],
+  "encaixe": [
+    "pos-expediente",
+    "noite"
+  ],
+  "fotos": [
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/f/fd/ViewLagoadaConceicao-feb2015.JPG",
+      "pagina": "https://commons.wikimedia.org/wiki/File:ViewLagoadaConceicao-feb2015.JPG",
+      "autor": "Ezarate",
+      "licenca": "CC BY-SA 4.0"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/d/d5/Lagoarendeiras.jpg",
+      "pagina": "https://commons.wikimedia.org/wiki/File:Lagoarendeiras.jpg",
+      "autor": "Ben Tavener",
+      "licenca": "CC BY 2.0"
+    }
+  ],
+  "dicas": [
+    "Peça para provar antes: diga o quanto gosta de amargor/teor e o atendimento indica (Diário de Floripa).",
+    "Pergunte o que entrou na semana — as receitas experimentais giram.",
+    "Na mesma caminhada: Quintal Lagoa (Liffey, 21 torneiras + pizza Spitfire, 17h–0h), a 7 min."
+  ],
+  "fontes": [
+    "https://diariodefloripa.com.br/bares-na-lagoa-da-conceicao/",
+    "https://www.boabreja.com.br/blog/bares-lagoa-da-conceicao",
+    "https://www.nsctotal.com.br/?p=7893070",
+    "https://visitefloripa.com.br/en/?p=1276"
+  ],
+  "verificado_em": "2026-11-16",
+  "confianca": "media",
+  "pendencias": [
+    "Número/rua exatos (Manoel Isidoro da Silveira x Manoel Severino de Oliveira)",
+    "Dias de música ao vivo e horário de fechamento — Instagram do bar"
+  ],
+  "google": {
+    "place_id": "ChIJf37l-vo_J5URcWjwKqDdbSM",
+    "consultado_em": "2026-11-16"
+  }
+}

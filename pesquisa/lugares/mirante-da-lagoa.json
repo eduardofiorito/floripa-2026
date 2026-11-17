@@ -1,0 +1,116 @@
+{
+  "id": "mirante-da-lagoa",
+  "nome": "Mirante da Lagoa da Conceição (Morro da Lagoa)",
+  "categoria": "mirante",
+  "regiao": "leste-lagoa",
+  "resumo": "Mirante à beira da SC-404, no alto do Morro da Lagoa, a 5 minutos do Centrinho, com a vista clássica da Lagoa, do Centrinho e das dunas da Joaquina até o mar. Foi reformado em agosto de 2026 e ganhou deque novo e iluminação de LED para uso à noite.",
+  "destaques": [
+    "Vista panorâmica da Lagoa inteira, das dunas e do mar ao fundo",
+    "Revitalização entregue em 24/08 (2026, pelo contexto da notícia): deque novo, guarda-corpo, LED, rampas acessíveis e estacionamento refeito, ~R$ 165 mil",
+    "Estacionamento gratuito no próprio mirante, com poucas vagas (Carimbo de Viagem, abr/2026)",
+    "Atrás do mirante sai o acesso às rampas de voo livre do Morro da Lagoa"
+  ],
+  "coords": {
+    "lat": -27.600911,
+    "lng": -48.4813096,
+    "fonte": "OSM Nominatim (tourism=viewpoint)",
+    "ponto": "mirante e estacionamento à beira da Rodovia Admar Gonzaga (SC-404)"
+  },
+  "endereco": "Rodovia Admar Gonzaga (SC-404), Morro da Lagoa, Lagoa da Conceição",
+  "links": {
+    "google_maps": "https://www.google.com/maps/search/?api=1&query=Mirante%20da%20Lagoa%20da%20Concei%C3%A7%C3%A3o%20%28Morro%20da%20Lagoa%29&query_place_id=ChIJyaK1XzQ5J5URjNM3KzFbwjE",
+    "waze": "https://waze.com/ul?ll=-27.600911,-48.4813096&navigate=yes",
+    "site": null,
+    "instagram": null,
+    "ingressos": null,
+    "reserva": null
+  },
+  "nota_google": null,
+  "outras_notas": [],
+  "da_lagoa": {
+    "tempo_min": 5,
+    "km": 2.5,
+    "obs": "Subida da SC-404 em direção ao Itacorubi; o mirante fica antes da primeira curva fechada. Estimativa pelo mapa"
+  },
+  "estacionamento": "Gratuito, no próprio mirante, com poucas vagas; também nas ruas próximas",
+  "horarios": "Livre; iluminado à noite desde a reforma",
+  "precos": "Gratuito",
+  "melhor_horario": "Nascer do sol (a Lagoa e as dunas ficam do lado leste) e fim de tarde, quando a luz bate na Lagoa e nas dunas. Depois do anoitecer, a vista das luzes do Centrinho",
+  "duracao": "20–40 min",
+  "trilha": {
+    "distancia_km": null,
+    "tempo_ida_min": null,
+    "desnivel_m": null,
+    "dificuldade": null,
+    "inicio": null,
+    "sinalizacao": null
+  },
+  "o_que_levar": [
+    "casaco (venta)",
+    "café para viagem do Centrinho"
+  ],
+  "cuidados": [
+    "SC-404 com curvas e tráfego rápido: entre e saia do estacionamento com cuidado",
+    "Não deixe nada à vista no carro"
+  ],
+  "clima": {
+    "sensivel_a": [
+      "neblina",
+      "chuva"
+    ],
+    "plano_b": "Com neblina não se vê nada; fique no Centrinho"
+  },
+  "publico": "Turistas, casais e fotógrafos; parada rápida",
+  "combina_com": [
+    "parapente-lagoa",
+    "centrinho-da-lagoa",
+    "joaquina-e-dunas"
+  ],
+  "encaixe": [
+    "cedo-dia-util",
+    "pos-expediente",
+    "noite"
+  ],
+  "fotos": [
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/5/53/Mirante_Lagoa_da_Concei%C3%A7%C3%A3o_-_panoramio.jpg",
+      "pagina": "https://commons.wikimedia.org/wiki/File:Mirante_Lagoa_da_Concei%C3%A7%C3%A3o_-_panoramio.jpg",
+      "autor": "Larissa Fraga",
+      "licenca": "CC BY 3.0"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/1/1a/Lagoa_da_Concei%C3%A7%C3%A3o_do_alto_do_Mirante_-_By_Mauro_Soares_-_panoramio.jpg",
+      "pagina": "https://commons.wikimedia.org/wiki/File:Lagoa_da_Concei%C3%A7%C3%A3o_do_alto_do_Mirante_-_By_Mauro_Soares_-_panoramio.jpg",
+      "autor": "Mauro Soares",
+      "licenca": "CC BY-SA 3.0"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/5/5b/Mirante_da_Lagoa_%286946852683%29.jpg",
+      "pagina": "https://commons.wikimedia.org/wiki/File:Mirante_da_Lagoa_%286946852683%29.jpg",
+      "autor": "Otávio Nogueira",
+      "licenca": "CC BY 2.0"
+    }
+  ],
+  "dicas": [
+    "O nascer do sol mais preguiçoso: sair 4h55, chegar 5h00 e ver o sol (~5h11) subir atrás das dunas e do mar, sem caminhar",
+    "No pôr do sol o sol fica às costas, atrás do morro: o espetáculo é a luz dourada na Lagoa e nas dunas, não o disco do sol",
+    "Com vento leste ou sul, observe os parapentes decolando da rampa ao lado (ver parapente-lagoa)"
+  ],
+  "fontes": [
+    "https://www.conectandosc.com.br/post/mirante-do-morro-da-lagoa-ganha-nova-estrutura",
+    "https://carimbodeviagem.com.br/floripa/missao-todas-as-praias-de-floripa/praia-da-joaquina/",
+    "https://tourb.com.br/florianopolis/lugares/praias-e-natureza/mirante-da-lagoa-da-conceicao/",
+    "https://mevou.com.br/points-of-interest/mirante-da-lagoa-da-conceicao",
+    "https://ndmais.com.br/turismo/lagoa-da-conceicao-guia-completo-no-bairro-mais-mistico-de-florianopolis/"
+  ],
+  "verificado_em": "2026-11-16",
+  "confianca": "media",
+  "pendencias": [
+    "Confirmar o ano da reforma (a notícia diz só \"24 de agosto\")",
+    "Número de vagas"
+  ],
+  "google": {
+    "place_id": "ChIJyaK1XzQ5J5URjNM3KzFbwjE",
+    "consultado_em": "2026-11-16"
+  }
+}

@@ -1,0 +1,113 @@
+{
+  "id": "fortaleza-ponta-grossa",
+  "nome": "Fortaleza de São José da Ponta Grossa",
+  "categoria": "passeio",
+  "regiao": "norte",
+  "resumo": "Fortaleza de 1740 no alto de um costão entre Jurerê Internacional e a Praia do Forte, restaurada e administrada pela UFSC. Tem vista da Baía Norte, de Anhatomirim e de Jurerê, e é a única das fortalezas da baía com acesso por terra. A visita leva cerca de 1 hora.",
+  "destaques": [
+    "Conjunto colonial restaurado: capela, quartel, paiol, muralhas e canhões",
+    "Vista para a Baía Norte e para Jurerê",
+    "Desce-se para a Praia do Forte logo ao lado",
+    "Último domingo do mês com entrada gratuita (o de novembro é 29/11)"
+  ],
+  "coords": {
+    "lat": -27.4315348,
+    "lng": -48.5178891,
+    "fonte": "OSM Nominatim",
+    "ponto": "a fortaleza (tourism=museum)"
+  },
+  "endereco": "Estrada Fortaleza de São José da Ponta Grossa, Praia do Forte, Jurerê/Canasvieiras, Florianópolis.",
+  "links": {
+    "google_maps": "https://www.google.com/maps/search/?api=1&query=Fortaleza%20de%20S%C3%A3o%20Jos%C3%A9%20da%20Ponta%20Grossa&query_place_id=ChIJada49eJEJ5URIcF4fExxiy4",
+    "waze": "https://waze.com/ul?ll=-27.4315348,-48.5178891&navigate=yes",
+    "site": "https://fortalezas.ufsc.br/",
+    "instagram": null,
+    "ingressos": "https://fortalezas.eventos.ufsc.br/ingressos/",
+    "reserva": null
+  },
+  "nota_google": null,
+  "outras_notas": [],
+  "da_lagoa": {
+    "tempo_min": 50,
+    "km": 28,
+    "obs": "OSRM: 27,6 km e 34 min sem trânsito, pela SC-401. Em dia útil, conte de 45 a 60 min; no fim de semana de sol, Jurerê enche."
+  },
+  "estacionamento": "Há estacionamento ao pé da fortaleza; custo não confirmado.",
+  "horarios": "Todos os dias, das 8h30 às 18h30. A UFSC informou que, a partir de 9/11/2026, a fortaleza volta a abrir às segundas.",
+  "precos": "Taxa de visitação: R$ 16 a inteira e R$ 8 a meia (CBN, nov/2024). Para Anhatomirim, um guia de out/2026 cita R$ 20 e R$ 10, o que indica reajuste. O valor de 2026 em Ponta Grossa não foi confirmado. Paga-se na bilheteria, com Pix aceito. Grátis no último domingo do mês (29/11).",
+  "melhor_horario": "Fim da tarde, das 16h30 às 18h30, com luz boa na baía.",
+  "duracao": "1h a 1h30",
+  "trilha": {
+    "distancia_km": null,
+    "tempo_ida_min": null,
+    "desnivel_m": null,
+    "dificuldade": null,
+    "inicio": null,
+    "sinalizacao": null
+  },
+  "o_que_levar": [
+    "dinheiro ou Pix para a taxa",
+    "protetor solar",
+    "água"
+  ],
+  "cuidados": [
+    "Ladeira curta e íngreme até a entrada",
+    "Calçamento de pedra irregular"
+  ],
+  "clima": {
+    "sensivel_a": [
+      "chuva"
+    ],
+    "plano_b": "Os edifícios têm exposições internas, mas a graça é a vista."
+  },
+  "publico": "Turistas e famílias; tranquilo em dia útil.",
+  "combina_com": [
+    "escuna-anhatomirim",
+    "santo-antonio-de-lisboa"
+  ],
+  "encaixe": [
+    "fim-de-semana",
+    "pos-expediente"
+  ],
+  "fotos": [
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Fortaleza_de_S%C3%A3o_Jos%C3%A9_da_Ponta_Grossa_por_Diogo_Doria.jpg/1280px-Fortaleza_de_S%C3%A3o_Jos%C3%A9_da_Ponta_Grossa_por_Diogo_Doria.jpg",
+      "pagina": "https://commons.wikimedia.org/wiki/File:Fortaleza_de_S%C3%A3o_Jos%C3%A9_da_Ponta_Grossa_por_Diogo_Doria.jpg",
+      "autor": "Diogo de Miranda e Doria",
+      "licenca": "CC BY-SA 4.0"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Fortaleza_de_S%C3%A3o_Jos%C3%A9_da_Ponta_Grossa_por_Diogo_Doria_6.jpg/1280px-Fortaleza_de_S%C3%A3o_Jos%C3%A9_da_Ponta_Grossa_por_Diogo_Doria_6.jpg",
+      "pagina": "https://commons.wikimedia.org/wiki/File:Fortaleza_de_S%C3%A3o_Jos%C3%A9_da_Ponta_Grossa_por_Diogo_Doria_6.jpg",
+      "autor": "Diogo de Miranda e Doria",
+      "licenca": "CC BY-SA 4.0"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Fortaleza_S%C3%A3o_Jos%C3%A9_Ponta_Grossa_5.jpg/1280px-Fortaleza_S%C3%A3o_Jos%C3%A9_Ponta_Grossa_5.jpg",
+      "pagina": "https://commons.wikimedia.org/wiki/File:Fortaleza_S%C3%A3o_Jos%C3%A9_Ponta_Grossa_5.jpg",
+      "autor": "GLandovsky",
+      "licenca": "CC BY-SA 4.0"
+    }
+  ],
+  "dicas": [
+    "Num dia útil, dá para ir depois das 17h e pegar a última meia hora",
+    "A escuna de Canasvieiras passa em frente e mostra a fortaleza pelo mar"
+  ],
+  "fontes": [
+    "https://fortalezas.ufsc.br/",
+    "https://noticias.ufsc.br/2026/11/fortalezas-de-santo-antonio-de-ratones-e-sao-jose-da-ponta-grossa-voltam-a-abrir-as-segundas-feiras/",
+    "https://fortalezas.eventos.ufsc.br/ingressos/",
+    "https://cbntotal.com.br/cotidiano/florianopolis-tem-sete-fortalezas-veja-quais-onde-ficam-e-como-visitar/",
+    "https://ceniconstrucoes.com.br/wp/guias/passeio-de-barco-florianopolis-precos-roteiros/",
+    "https://floripa.com/o-que-fazer/passeio-duplo-em-floripa-praia-do-forte-e-fortaleza-de-sao-jose-da-ponta-grossa/"
+  ],
+  "verificado_em": "2026-11-16",
+  "confianca": "media",
+  "pendencias": [
+    "Valor exato da taxa em 2026 (R$ 16 ou R$ 20)"
+  ],
+  "google": {
+    "place_id": "ChIJada49eJEJ5URIcF4fExxiy4",
+    "consultado_em": "2026-11-16"
+  }
+}

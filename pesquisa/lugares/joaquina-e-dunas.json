@@ -1,0 +1,135 @@
+{
+  "id": "joaquina-e-dunas",
+  "nome": "Praia da Joaquina e Dunas da Joaquina",
+  "categoria": "praia",
+  "regiao": "leste-lagoa",
+  "resumo": "Praia famosa pelo surf, com dunas enormes na estrada de acesso, a 10 minutos do Centrinho. Depois do expediente dá para fazer sandboard das 17h30 às 18h30 e ver o pôr do sol do alto das dunas, com a Lagoa ao fundo.",
+  "destaques": [
+    "Sandboard e esquibunda nas dunas, com pranchas alugadas em barracas na entrada",
+    "Pôr do sol do alto das dunas, do lado da Lagoa: ~18h49–18h53 nos dias da viagem",
+    "Joaquina: \"templo do surfe\" da Ilha, com ondas fortes, duchas, quadras de areia, salva-vidas e restaurantes à beira-mar",
+    "Costão no canto esquerdo da praia, com vista ampla",
+    "As dunas fazem parte do Parque Natural Municipal das Dunas da Lagoa da Conceição"
+  ],
+  "coords": {
+    "lat": -27.6279717,
+    "lng": -48.4490704,
+    "fonte": "OSM Nominatim (amenity=parking, 'Trilha Dunas da Joaquina')",
+    "ponto": "estacionamento junto às dunas, na estrada da Joaquina; a praia fica em -27.6342805, -48.4543517 (OSM natural=beach)"
+  },
+  "endereco": "Av. Prefeito Acácio Garibaldi San Thiago (estrada da Joaquina), Lagoa da Conceição",
+  "links": {
+    "google_maps": "https://www.google.com/maps/search/?api=1&query=Praia%20da%20Joaquina%20e%20Dunas%20da%20Joaquina&query_place_id=ChIJBSybQTg8J5URP5RckJSq30g",
+    "waze": "https://waze.com/ul?ll=-27.6279717,-48.4490704&navigate=yes",
+    "site": null,
+    "instagram": null,
+    "ingressos": null,
+    "reserva": null
+  },
+  "nota_google": null,
+  "outras_notas": [],
+  "da_lagoa": {
+    "tempo_min": 9,
+    "km": 4.5,
+    "obs": "Pela Av. das Rendeiras até o Retiro e depois a estrada da Joaquina. São ~10 min até a praia. Estimativa pelo mapa"
+  },
+  "estacionamento": "Estacionamentos pagos perto da praia: R$ 7/h em abril de 2026 (Carimbo de Viagem), ou cerca de R$ 30 a diária fixa. Lotam rápido em dia de sol. Há vagas gratuitas ao longo da rodovia (Visite Floripa)",
+  "horarios": "Praia e dunas livres. Barracas de sandboard: horário não confirmado",
+  "precos": "Sandboard: R$ 50 por pessoa por ~1 h (Carimbo de Viagem, abril 2026). A faixa citada é R$ 30–50/h (Accor, nov 2025; NSC Total); esquibunda básica ~R$ 20/h; aula com instrutor R$ 70–100 (Accor) ou R$ 130–150 (NSC). Algumas barracas só aceitam dinheiro ou Pix",
+  "melhor_horario": "Sandboard no fim da tarde (17h30–18h30), com areia mais fresca e menos sol. Pôr do sol no alto da duna por volta de 18h50. Surf e praia de manhã",
+  "duracao": "2 h (sandboard + pôr do sol)",
+  "trilha": {
+    "distancia_km": null,
+    "tempo_ida_min": null,
+    "desnivel_m": null,
+    "dificuldade": null,
+    "inicio": null,
+    "sinalizacao": null
+  },
+  "o_que_levar": [
+    "dinheiro e Pix para o aluguel",
+    "água",
+    "casaco corta-vento (o vento sul sopra forte nas dunas)",
+    "óculos de sol contra areia",
+    "chinelo, porque a areia esquenta de dia"
+  ],
+  "cuidados": [
+    "Joaquina tem ondas fortes e correnteza: nade perto do salva-vidas",
+    "Costão escorregadio com onda batendo: cuidado ao subir",
+    "Comece o sandboard sentado e em duna de pouca inclinação; capacete é recomendado (Accor)",
+    "Areia molhada não desliza: evite depois de chuva",
+    "Volte das dunas com luz ou lanterna, porque escurece rápido depois das 19h15"
+  ],
+  "clima": {
+    "sensivel_a": [
+      "chuva",
+      "vento sul",
+      "mar agitado"
+    ],
+    "plano_b": "Com chuva: jantar na Av. das Rendeiras ou no Centrinho. Com vento sul forte nas dunas: pôr do sol no Mirante da Lagoa"
+  },
+  "publico": "Surfistas, jovens e turistas; muitos ensaios fotográficos nas dunas",
+  "combina_com": [
+    "trilha-do-gravata",
+    "avenida-das-rendeiras",
+    "mirante-da-lagoa",
+    "parapente-lagoa",
+    "bar-do-boni"
+  ],
+  "encaixe": [
+    "pos-expediente",
+    "fim-de-semana",
+    "cedo-dia-util"
+  ],
+  "fotos": [
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/2/2b/Joaquina_Beach%2C_Florianopolis.jpg",
+      "pagina": "https://commons.wikimedia.org/wiki/File:Joaquina_Beach%2C_Florianopolis.jpg",
+      "autor": "Rafaelomondini",
+      "licenca": "CC BY-SA 3.0"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/0/0a/Floripa_12_2014_Joaquina_912.JPG",
+      "pagina": "https://commons.wikimedia.org/wiki/File:Floripa_12_2014_Joaquina_912.JPG",
+      "autor": "Mariordo (Mario Roberto Durán Ortiz)",
+      "licenca": "CC BY-SA 4.0"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/f/f9/Panorama_Dunas_Joaquina_SC_12_2014_857.JPG",
+      "pagina": "https://commons.wikimedia.org/wiki/File:Panorama_Dunas_Joaquina_SC_12_2014_857.JPG",
+      "autor": "Mariordo (Mario Roberto Durán Ortiz)",
+      "licenca": "CC BY-SA 4.0"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/f/ff/Parque_Natural_Municipal_das_Dunas_da_Lagoa_da_Concei%C3%A7%C3%A3o_-_lagoa_3.jpg",
+      "pagina": "https://commons.wikimedia.org/wiki/File:Parque_Natural_Municipal_das_Dunas_da_Lagoa_da_Concei%C3%A7%C3%A3o_-_lagoa_3.jpg",
+      "autor": "André Ganzarolli Martins",
+      "licenca": "CC BY-SA 4.0"
+    }
+  ],
+  "dicas": [
+    "Roteiro pós-expediente: sair às 17h10, prancha às 17h30, descidas até 18h30, pôr do sol sentado no topo às 18h50 e jantar na Rendeiras às 19h30",
+    "As dunas maiores e com vista mais bonita ficam na entrada pela estrada da praia; pelo lado da Lagoa são menores e com mais vegetação (Foursquare)",
+    "Para sandboard menos cansativo, há dunas menos íngremes do lado da Lagoa (Carimbo de Viagem)",
+    "A Joaquina também é voltada para o leste: dá para ver o nascer do sol no costão, a 10 min de carro"
+  ],
+  "fontes": [
+    "https://carimbodeviagem.com.br/floripa/missao-todas-as-praias-de-floripa/praia-da-joaquina/",
+    "https://all.accor.com/a/pt-br/limitless/thematics/outdoors/uma-hora-nas-dunas-da-praia-da-joaquina.html",
+    "https://www.nsctotal.com.br/?p=7775121",
+    "https://visitefloripa.com.br/o-que-ver/praia-da-joaquina/",
+    "https://pt.foursquare.com/v/dunas-da-praia-da-joaquina/4bb3b7dd2397b713858538b3",
+    "https://www.tripadvisor.com/Attraction_Review-g303576-d2362761-Reviews-Joaquina_Beach-Florianopolis_State_of_Santa_Catarina.html"
+  ],
+  "verificado_em": "2026-11-16",
+  "confianca": "media",
+  "pendencias": [
+    "Nomes das barracas que alugam sandboard e até que horas ficam abertas em dia útil de novembro",
+    "Preço atual do aluguel (R$ 30–50/h; R$ 50 em abril de 2026)",
+    "Se o estacionamento das dunas cobra no fim da tarde"
+  ],
+  "google": {
+    "place_id": "ChIJBSybQTg8J5URP5RckJSq30g",
+    "consultado_em": "2026-11-16"
+  }
+}

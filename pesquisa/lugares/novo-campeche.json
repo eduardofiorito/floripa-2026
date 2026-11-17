@@ -1,0 +1,104 @@
+{
+  "id": "novo-campeche",
+  "nome": "Novo Campeche (bares e restaurantes)",
+  "categoria": "noite",
+  "regiao": "sul",
+  "resumo": "Bairro novo e jovem no norte do Campeche, cheio de gente de 20–30 que mora no sul: bares de drinks, food park e restaurantes. É bom para um happy hour ou jantar sem frescura; mas não é um polo de balada, e a noite forte do grupo continua sendo a Lagoa.",
+  "destaques": [
+    "Rabodigalo (2ª unidade): drinks autorais e mais frutos do mar, Rua Nicolau João de Abreu, 58 (NC Gallery)",
+    "Quintal de Casa: espaço com várias cozinhas e música ao vivo",
+    "MULTI Open Shopping: Botânico Colheita Criativa (drinks) e outros",
+    "Point do Riozinho: ponto de encontro de surfistas na praia, pôr do sol e movimento no verão",
+    "Praia do Novo Campeche: trecho mais vazio e natural do Campeche"
+  ],
+  "coords": {
+    "lat": -27.6653193,
+    "lng": -48.4776962,
+    "fonte": "OSM Nominatim (place=neighbourhood)",
+    "ponto": "centro do bairro Novo Campeche (não é um bar específico)"
+  },
+  "endereco": "Novo Campeche, Florianópolis (eixo Rua Nicolau João de Abreu e acessos à praia)",
+  "links": {
+    "google_maps": "https://www.google.com/maps/search/?api=1&query=Novo%20Campeche%20%28bares%20e%20restaurantes%29&query_place_id=ChIJyRuZaAA7J5URk2ZTuPT1A7w",
+    "waze": "https://waze.com/ul?ll=-27.6653193,-48.4776962&navigate=yes",
+    "site": null,
+    "instagram": null,
+    "ingressos": null,
+    "reserva": null
+  },
+  "nota_google": null,
+  "outras_notas": [],
+  "da_lagoa": {
+    "tempo_min": 20,
+    "km": 8,
+    "obs": "OSRM 14 min/8,4 km sem trânsito, via Rio Tavares. É o sul mais perto da base."
+  },
+  "estacionamento": "Rua, fácil fora do verão.",
+  "horarios": "Rabodigalo (dados antigos, de outra unidade): ter–qui 18h–0h, sex 18h–1h, sáb 19h–1h. Demais: confirmar.",
+  "precos": null,
+  "melhor_horario": "Sexta e sábado, das 19h às 23h.",
+  "duracao": "2–3 h",
+  "trilha": {
+    "distancia_km": null,
+    "tempo_ida_min": null,
+    "desnivel_m": null,
+    "dificuldade": null,
+    "inicio": null,
+    "sinalizacao": null
+  },
+  "o_que_levar": [],
+  "cuidados": [
+    "Volta de carro: alguém precisa ficar sem beber, ou usem Uber (8 km da Lagoa)"
+  ],
+  "clima": {
+    "sensivel_a": [
+      "chuva (point da praia)"
+    ],
+    "plano_b": "Bares cobertos do Quintal de Casa/MULTI."
+  },
+  "publico": "20–35, moradores do sul, surfistas, nômades digitais; casual, sem dress code. Mais happy hour e jantar que balada.",
+  "combina_com": [
+    "praia-do-campeche",
+    "morro-das-pedras"
+  ],
+  "encaixe": [
+    "pos-expediente",
+    "noite"
+  ],
+  "fotos": [
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/6/6f/Novo_Campeche_ou_de_novo_no_Campeche%3F_%2813061048923%29.jpg",
+      "pagina": "https://commons.wikimedia.org/wiki/File:Novo_Campeche_ou_de_novo_no_Campeche%3F_(13061048923).jpg",
+      "autor": "Otávio Nogueira from Fortaleza, BR",
+      "licenca": "CC BY 2.0"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/7/7c/Novo_Campeche_ou_de_novo_no_Campeche%3F_%2812948135683%29.jpg",
+      "pagina": "https://commons.wikimedia.org/wiki/File:Novo_Campeche_ou_de_novo_no_Campeche%3F_(12948135683).jpg",
+      "autor": "Otávio Nogueira from Fortaleza, BR",
+      "licenca": "CC BY 2.0"
+    }
+  ],
+  "dicas": [
+    "Se o objetivo é noite com gente da idade de vocês, a Lagoa (base) tem mais opções; use o Novo Campeche para um happy hour diferente num dia útil",
+    "Casa Dipraia Layback (Campeche) e O Pátio (atrás da Panvel da Av. Pequeno Príncipe) têm música ao vivo, segundo guias locais"
+  ],
+  "fontes": [
+    "https://santailha.com.br/guia-de-bairros/novo-campeche/",
+    "https://santailha.com.br/o-que-fazer-no-campeche-a-noite/",
+    "https://mixologynews.com.br/bares/rabodigalo-florianopolis-santa-catarina/",
+    "https://www.facebook.com/opatiohappyspot/",
+    "https://www.viajali.com.br/bares-florianopolis/"
+  ],
+  "verificado_em": "2026-11-16",
+  "confianca": "baixa",
+  "pendencias": [
+    "Fontes sobre a noite do Novo Campeche são fracas e de imobiliárias; conferir no Instagram quais bares estão bombando em nov/2026",
+    "Horários atuais do Rabodigalo Novo Campeche",
+    "Coordenadas de cada bar"
+  ],
+  "google": {
+    "place_id": "ChIJyRuZaAA7J5URk2ZTuPT1A7w",
+    "consultado_em": "2026-11-16"
+  }
+}

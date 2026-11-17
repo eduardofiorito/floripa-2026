@@ -1,0 +1,116 @@
+{
+  "id": "bar-do-arante",
+  "nome": "Bar do Arante",
+  "categoria": "comida",
+  "regiao": "sul",
+  "resumo": "Restaurante de pescador de frente para a praia do Pântano do Sul, famoso pelas paredes forradas de bilhetes deixados por visitantes desde os anos 1970. Peixe fresco da baía, pirão e camarão; é o fim natural da trilha da Lagoinha.",
+  "destaques": [
+    "Milhares de bilhetes pendurados nas paredes: leve caneta e deixe o seu",
+    "Peixe da baía do Pântano, sem congelado (segundo o site de turismo da prefeitura)",
+    "Pastel de camarão, peixe frito com pirão, camarão na moranga",
+    "Bufê de frutos do mar aos sábados (número de pratos varia entre fontes: 23 ou 28)",
+    "Cachaça artesanal de cortesia"
+  ],
+  "coords": {
+    "lat": -27.781817,
+    "lng": -48.5081292,
+    "fonte": "OSM Nominatim",
+    "ponto": "entrada do restaurante"
+  },
+  "endereco": "Rua Abelardo Otacílio Gomes, 254, Pântano do Sul, Florianópolis",
+  "links": {
+    "google_maps": "https://www.google.com/maps/search/?api=1&query=Bar%20do%20Arante&query_place_id=ChIJC0F4diUkJ5UR8jXTzhckZn8",
+    "waze": "https://waze.com/ul?ll=-27.781817,-48.5081292&navigate=yes",
+    "site": null,
+    "instagram": "https://www.instagram.com/restaurante.arante/",
+    "ingressos": null,
+    "reserva": null
+  },
+  "nota_google": null,
+  "outras_notas": [],
+  "da_lagoa": {
+    "tempo_min": 45,
+    "km": 24,
+    "obs": "OSRM 32 min/24 km sem trânsito; conte 40–50 min pela SC-405."
+  },
+  "estacionamento": "Dois estacionamentos de clientes ao lado (OSM marca access=customers). No sábado de sol e na alta temporada lota; chegar antes das 12h30 ou depois das 14h30.",
+  "horarios": "Todos os dias. Visite Floripa e Viajali (jul/2026): 11h30–23h30. Guia da Semana: 11h30–0h; outra ficha antiga: 9h–0h.",
+  "precos": "Faixa $$–$$$ (Visite Floripa). Preços antigos (2016): pastel de camarão R$ 9, filé de peixe R$ 60 para 1; Catraca Livre (antigo): pratos de R$ 40 a R$ 120, servem mais do que indicam. Sem cardápio de 2026 com preços.",
+  "melhor_horario": "Almoço tardio depois da trilha (14h–16h) ou um pastel + cerveja no fim da tarde.",
+  "duracao": "1–1h30",
+  "trilha": {
+    "distancia_km": null,
+    "tempo_ida_min": null,
+    "desnivel_m": null,
+    "dificuldade": null,
+    "inicio": null,
+    "sinalizacao": null
+  },
+  "o_que_levar": [
+    "caneta e papel para o bilhete"
+  ],
+  "cuidados": [
+    "Pratos são grandes: peça para dividir"
+  ],
+  "clima": {
+    "sensivel_a": [],
+    "plano_b": "Funciona com chuva; é o plano B do sul num dia nublado."
+  },
+  "publico": "Misto: turistas, famílias, trilheiros saindo da Lagoinha. Descontraído, sem dress code.",
+  "combina_com": [
+    "lagoinha-do-leste",
+    "praia-da-solidao",
+    "praia-do-matadeiro",
+    "ilha-do-campeche",
+    "morro-das-pedras"
+  ],
+  "encaixe": [
+    "fim-de-semana"
+  ],
+  "fotos": [
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/1/13/Bar_do_Arante_in_P%C3%A2ntano_do_Sul_%2821929384299%29.jpg",
+      "pagina": "https://commons.wikimedia.org/wiki/File:Bar_do_Arante_in_P%C3%A2ntano_do_Sul_(21929384299).jpg",
+      "autor": "Janko Hoener from Brühl, Germany",
+      "licenca": "CC BY-SA 2.0"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/7/7b/Bar_do_Arantes_-_P%C3%A2ntano_do_Sul_%286939438001%29.jpg",
+      "pagina": "https://commons.wikimedia.org/wiki/File:Bar_do_Arantes_-_P%C3%A2ntano_do_Sul_(6939438001).jpg",
+      "autor": "Otávio Nogueira from Fortaleza, BR",
+      "licenca": "CC BY 2.0"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/b/bb/Caipirinha_in_der_Bar_do_Arante_in_P%C3%A2ntano_do_Sul_%2821928379538%29.jpg",
+      "pagina": "https://commons.wikimedia.org/wiki/File:Caipirinha_in_der_Bar_do_Arante_in_P%C3%A2ntano_do_Sul_(21928379538).jpg",
+      "autor": "Janko Hoener from Brühl, Germany",
+      "licenca": "CC BY-SA 2.0"
+    }
+  ],
+  "dicas": [
+    "Fundado por Arante Monteiro e a esposa como quiosque de peixe frito com pirão para pescadores; virou bar e restaurante nos anos 1970",
+    "A família retira bilhetes que escurecem com a umidade, mas guarda os que caem",
+    "Saia da trilha da Lagoinha pelo Pântano e ande 400 m até lá"
+  ],
+  "fontes": [
+    "https://visitefloripa.com.br/en_us/?p=1270",
+    "https://www.viajali.com.br/bares-florianopolis/",
+    "https://www.guiadasemana.com.br/florianopolis/restaurantes/estabelecimento/arante-bar-e-restaurante",
+    "https://catracalivre.com.br/viagem-livre/o-bar-dos-bilhetes-em-santa-catarina/",
+    "https://www.nsctotal.com.br/?p=7851644",
+    "https://www.viciadaemviajar.com/praias-do-sul-de-florianopolis-melhores/",
+    "https://comigoemflorianopolis.substack.com/p/13-lagoinha-do-leste"
+  ],
+  "verificado_em": "2026-11-16",
+  "confianca": "media",
+  "pendencias": [
+    "Preços atuais do cardápio",
+    "Se o bufê de sábado segue e quanto custa",
+    "Telefone (48) 3237-7022 (Visite Floripa) a confirmar",
+    "Ano de fundação: um relato diz 1958, outras fontes falam em anos 1960/1970"
+  ],
+  "google": {
+    "place_id": "ChIJC0F4diUkJ5UR8jXTzhckZn8",
+    "consultado_em": "2026-11-16"
+  }
+}

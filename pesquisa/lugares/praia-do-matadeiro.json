@@ -1,0 +1,118 @@
+{
+  "id": "praia-do-matadeiro",
+  "nome": "Praia do Matadeiro",
+  "categoria": "praia",
+  "regiao": "sul",
+  "resumo": "Prainha pequena e bonita escondida atrás da Armação, só a pé (15–20 min de trilha fácil). Ondas para surf, rio que desce da Lagoa do Peri, morro verde em volta e quase nada de estrutura.",
+  "destaques": [
+    "Acesso a pé curto e fácil, parte cimentada",
+    "Pico de surf de rio, bom com ondulação de nordeste e vento sudoeste",
+    "Porta de entrada da trilha costeira para a Lagoinha do Leste",
+    "Uma barraca de praia com cadeiras e petiscos (relato de 2016/2025)"
+  ],
+  "coords": {
+    "lat": -27.7543668,
+    "lng": -48.4989819,
+    "fonte": "OSM Nominatim",
+    "ponto": "a praia. O carro fica na Armação; a ponte de pedestres está em -27.7519486, -48.5024115 (OSM)"
+  },
+  "endereco": "Acesso pelo canto sul da Praia da Armação (Rua Fernando Beck / Av. Antônio Borges dos Santos), Armação do Pântano do Sul",
+  "links": {
+    "google_maps": "https://www.google.com/maps/search/?api=1&query=Praia%20do%20Matadeiro&query_place_id=ChIJNZ7dWV0kJ5URvYKnHEkKq_A",
+    "waze": "https://waze.com/ul?ll=-27.7519486,-48.5024115&navigate=yes",
+    "site": null,
+    "instagram": null,
+    "ingressos": null,
+    "reserva": null
+  },
+  "nota_google": null,
+  "outras_notas": [],
+  "da_lagoa": {
+    "tempo_min": 40,
+    "km": 21,
+    "obs": "Até a Armação: OSRM 28 min/21 km sem trânsito; conte 35–45 min. Mais 15–20 min a pé."
+  },
+  "estacionamento": "Na Armação: rua e estacionamentos particulares perto da Rua Fernando Beck (preço não confirmado). Não há acesso de carro ao Matadeiro.",
+  "horarios": "Livre.",
+  "precos": "Grátis.",
+  "melhor_horario": "Manhã cedo (antes do barco do Campeche das 9h30) ou fim de tarde.",
+  "duracao": "1–2 h",
+  "trilha": {
+    "distancia_km": null,
+    "tempo_ida_min": 20,
+    "desnivel_m": null,
+    "dificuldade": "fácil, leve ladeira",
+    "inicio": "Canto sul da Armação: cruza a barreira de pedras (píer dos barcos do Campeche) ou a ponte de pedestres sobre o rio",
+    "sinalizacao": "Sem placas, segundo blog; pergunte a pescadores. Na bifurcação, Lagoinha à direita, Matadeiro à esquerda."
+  },
+  "o_que_levar": [
+    "água",
+    "chinelo",
+    "prancha se surfar"
+  ],
+  "cuidados": [
+    "Sem salva-vidas; foz do rio muda com a chuva",
+    "Mar com ondas ('bravo'); banho com cuidado",
+    "Com maré alta pode ser preciso atravessar água ou usar a ponte mais afastada",
+    "Trilha escorregadia depois de chuva"
+  ],
+  "clima": {
+    "sensivel_a": [
+      "chuva",
+      "mar agitado"
+    ],
+    "plano_b": "Ficar na Armação (mar calmo) ou mirante do Morro das Pedras."
+  },
+  "publico": "Surfistas e quem busca praia tranquila; jovem e local.",
+  "combina_com": [
+    "ilha-do-campeche",
+    "lagoinha-do-leste",
+    "bar-do-arante",
+    "morro-das-pedras"
+  ],
+  "encaixe": [
+    "fim-de-semana",
+    "cedo-dia-util"
+  ],
+  "fotos": [
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/3/34/Praia_do_Matadeiro_-_Florian%C3%B3polis_-_SC.JPG",
+      "pagina": "https://commons.wikimedia.org/wiki/File:Praia_do_Matadeiro_-_Florian%C3%B3polis_-_SC.JPG",
+      "autor": "Tarcísio de Paula Salgado",
+      "licenca": "CC BY-SA 3.0"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/e/e3/Praia_Matadeiro_%2824648355852%29.jpg",
+      "pagina": "https://commons.wikimedia.org/wiki/File:Praia_Matadeiro_(24648355852).jpg",
+      "autor": "Papa Pic from Eldorado, Argentina",
+      "licenca": "CC0"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/f/f0/Praia_do_Matadeiro_%2813961691756%29.jpg",
+      "pagina": "https://commons.wikimedia.org/wiki/File:Praia_do_Matadeiro_(13961691756).jpg",
+      "autor": "Otávio Nogueira from Fortaleza, BR",
+      "licenca": "CC BY 2.0"
+    }
+  ],
+  "dicas": [
+    "Dá para encaixar 1 h de Matadeiro antes do barco das 9h30 para o Campeche, que sai da mesma ponta da Armação",
+    "Restaurantes mais próximos ficam na Armação, a 200 m–1 km"
+  ],
+  "fontes": [
+    "https://www.viciadaemviajar.com/praias-do-sul-de-florianopolis-melhores/",
+    "https://guia.melhoresdestinos.com.br/matadeiro-65-434-l.html",
+    "https://cdn.whereismybeach.com/en/beach/praia-do-matadeiro",
+    "https://www.surf-forecast.com/breaks/Matadeiro",
+    "https://comigoemflorianopolis.substack.com/p/13-lagoinha-do-leste"
+  ],
+  "verificado_em": "2026-11-16",
+  "confianca": "media",
+  "pendencias": [
+    "Se a barraca de praia funciona no fim de novembro",
+    "Preço de estacionamento na Armação"
+  ],
+  "google": {
+    "place_id": "ChIJNZ7dWV0kJ5URvYKnHEkKq_A",
+    "consultado_em": "2026-11-16"
+  }
+}

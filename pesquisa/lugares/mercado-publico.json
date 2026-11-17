@@ -1,0 +1,132 @@
+{
+  "id": "mercado-publico",
+  "nome": "Mercado Público de Florianópolis",
+  "categoria": "comida",
+  "regiao": "centro",
+  "resumo": "Mercado de 1899 no Centro, com boxes de peixe, bares e restaurantes em volta do vão central coberto. No sábado é o programa clássico do almoço, com pastel de camarão, chope e frutos do mar. Fecha cedo no sábado: as lojas às 14h e os restaurantes por volta das 15h a 17h.",
+  "destaques": [
+    "Box 32: pastel e camarão frito; no sábado abre das 10h às 15h (site e Instagram)",
+    "Bar Vai Quem Quer (Ala Norte, Box 2): só bebidas catarinenses, como a IPA de pitanga",
+    "Peixarias da Ala Sul (tainha, anchova, robalo)",
+    "Vão central coberto, com mezanino para ver de cima"
+  ],
+  "coords": {
+    "lat": -27.5973289,
+    "lng": -48.55306,
+    "fonte": "OSM Nominatim",
+    "ponto": "Mercado Público, Rua Jerônimo Coelho, 60"
+  },
+  "endereco": "Rua Jerônimo Coelho, 60, Centro, Florianópolis, CEP 88010-030.",
+  "links": {
+    "google_maps": "https://www.google.com/maps/search/?api=1&query=Mercado%20P%C3%BAblico%20de%20Florian%C3%B3polis&query_place_id=ChIJKQXXEyQ4J5URmhxOBg8l7QU",
+    "waze": "https://waze.com/ul?ll=-27.5973289,-48.55306&navigate=yes",
+    "site": "https://www.box32.com.br/",
+    "instagram": "https://www.instagram.com/box32floripa/",
+    "ingressos": null,
+    "reserva": null
+  },
+  "nota_google": null,
+  "outras_notas": [
+    {
+      "fonte": "TripAdvisor (Box 32)",
+      "nota": 3.8,
+      "avaliacoes": 1035,
+      "url": "https://www.tripadvisor.com/Restaurant_Review-g303576-d2035019-Reviews-Box_32-Florianopolis_State_of_Santa_Catarina.html"
+    },
+    {
+      "fonte": "Restaurant Guru (Box 32)",
+      "nota": 4.9,
+      "avaliacoes": 4245,
+      "url": "https://restaurantguru.com/Box-32-Florianopolis"
+    },
+    {
+      "fonte": "TripAdvisor (Mercado Público)",
+      "nota": null,
+      "avaliacoes": null,
+      "url": "https://www.tripadvisor.com/Attraction_Review-g303576-d25360363-Reviews-Mercado_Publico_de_Florianopolis-Florianopolis_State_of_Santa_Catarina.html"
+    }
+  ],
+  "da_lagoa": {
+    "tempo_min": 25,
+    "km": 15,
+    "obs": "OSRM: 14,6 km e 20 min sem trânsito. No sábado 28, chegue a pé pela ponte, a cerca de 1,5 km do Forte Santana."
+  },
+  "estacionamento": "Estacionamentos pagos e Zona Azul no Centro; no sábado de manhã costuma lotar. As fontes sugerem ir de ônibus, Uber ou a pé.",
+  "horarios": "Sábado (fontes de 2026): lojas e peixarias das 7h às 14h; bares e restaurantes das 10h às 17h. Box 32 no sábado: das 10h às 15h. De segunda a sexta, lojas das 7h às 19h e restaurantes das 10h às 22h. Domingo: lojas fechadas; peixarias das 7h às 13h.",
+  "precos": "Pastel e petiscos a preço médio; frutos do mar, $$. Sem preço confirmado.",
+  "melhor_horario": "Sábado entre 11h e 13h (antes, o Box 32 fica muito cheio).",
+  "duracao": "1h30 a 2h",
+  "trilha": {
+    "distancia_km": null,
+    "tempo_ida_min": null,
+    "desnivel_m": null,
+    "dificuldade": null,
+    "inicio": null,
+    "sinalizacao": null
+  },
+  "o_que_levar": [
+    "dinheiro (alguns boxes só aceitam espécie)",
+    "bolsa térmica, se for comprar peixe"
+  ],
+  "cuidados": [
+    "Celular e carteira na frente: fica cheio no sábado",
+    "Sinal de celular instável lá dentro",
+    "Na véspera da SC21K: pouca bebida e comida leve; evite fritura pesada e ostra crua"
+  ],
+  "clima": {
+    "sensivel_a": [],
+    "plano_b": "O vão central é coberto e funciona com chuva."
+  },
+  "publico": "De tudo um pouco: moradores, turistas e grupos de amigos no chope de sábado.",
+  "combina_com": [
+    "centro-historico",
+    "ponte-hercilio-luz",
+    "forte-santana",
+    "morro-da-cruz"
+  ],
+  "encaixe": [
+    "fim-de-semana"
+  ],
+  "fotos": [
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/2/28/Mercado_P%C3%BAblico_de_Florian%C3%B3polis_%28p%C3%BAblico%29.jpg",
+      "pagina": "https://commons.wikimedia.org/wiki/File:Mercado_P%C3%BAblico_de_Florian%C3%B3polis_(p%C3%BAblico).jpg",
+      "autor": "Prefeitura de Florianópolis",
+      "licenca": "CC BY 2.0"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Mercado_P%C3%BAblico_de_Florian%C3%B3polis_%28interna_2%29.jpg/1280px-Mercado_P%C3%BAblico_de_Florian%C3%B3polis_%28interna_2%29.jpg",
+      "pagina": "https://commons.wikimedia.org/wiki/File:Mercado_P%C3%BAblico_de_Florian%C3%B3polis_(interna_2).jpg",
+      "autor": "Prefeitura de Florianópolis",
+      "licenca": "CC BY 2.0"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Mercado_P%C3%BAblico_um_lugar_imperd%C3%ADvel_com_toda_sua_import%C3%A2ncia_hist%C3%B3rica.jpg/1280px-Mercado_P%C3%BAblico_um_lugar_imperd%C3%ADvel_com_toda_sua_import%C3%A2ncia_hist%C3%B3rica.jpg",
+      "pagina": "https://commons.wikimedia.org/wiki/File:Mercado_P%C3%BAblico_um_lugar_imperd%C3%ADvel_com_toda_sua_import%C3%A2ncia_hist%C3%B3rica.jpg",
+      "autor": "Luluhgomes",
+      "licenca": "CC BY-SA 4.0"
+    }
+  ],
+  "dicas": [
+    "No sábado 28, na véspera da prova, troque o pastel e o chope por um peixe grelhado com arroz e água, e deixe o chope para depois da corrida",
+    "Box 32: o próprio site indica Ala Sul, Box 04S; outras fontes dizem Box 32. Procure pelo nome"
+  ],
+  "fontes": [
+    "https://tripetravel.com.br/mercado-publico-florianopolis/",
+    "https://www.quintoandar.com.br/guias/cidades/mercado-publico-florianopolis/",
+    "https://www.box32.com.br/contato",
+    "https://www.instagram.com/box32floripa/",
+    "https://www.tripadvisor.com/Restaurant_Review-g303576-d2035019-Reviews-Box_32-Florianopolis_State_of_Santa_Catarina.html",
+    "https://restaurantguru.com/Box-32-Florianopolis",
+    "https://botecovaiquemquer.wordpress.com/"
+  ],
+  "verificado_em": "2026-11-16",
+  "confianca": "media",
+  "pendencias": [
+    "Horário oficial de sábado direto com a administração do Mercado ((48) 3225-8464)"
+  ],
+  "google": {
+    "place_id": "ChIJKQXXEyQ4J5URmhxOBg8l7QU",
+    "consultado_em": "2026-11-16"
+  }
+}

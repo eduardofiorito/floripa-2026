@@ -1,0 +1,129 @@
+{
+  "id": "parapente-lagoa",
+  "nome": "Voo duplo de parapente (Praia Mole e Morro da Lagoa)",
+  "categoria": "atividade",
+  "regiao": "leste-lagoa",
+  "resumo": "Voo duplo com instrutor sobre a Praia Mole e a Lagoa, saindo de duas rampas a menos de 10 minutos do Centrinho. O voo dura 10–20 minutos e custa R$ 400–700 conforme a escola e o pacote de vídeo. Só sai quando o vento ajuda, por isso a confirmação é no próprio dia.",
+  "destaques": [
+    "Rampa da Praia Mole (Morro da Mole): decolagem sobre o mar a 85–145 m e pouso na areia da Mole; acesso por 10 min da trilha do Gravatá ou de 4x4",
+    "Rampa do Morro da Lagoa (\"morro das sete curvas\", 200–225 m), junto ao mirante da SC-404, com carro até a decolagem; pouso na Joaquina ou no Centrinho (Supremo Parapente)",
+    "Voo de 10–15 min na Mole e de 15–20 min na Lagoa; experiência completa ~1 h",
+    "Vento: a Mole é ideal com nordeste; a Lagoa voa com leste ou sul. Assim, quase sempre uma das duas funciona"
+  ],
+  "coords": {
+    "lat": -27.6085736,
+    "lng": -48.437608,
+    "fonte": "OSM Nominatim (tourism=viewpoint no Caminho dos Pescadores; bate com a foto geolocalizada do Commons 'Pista de salto en parapente de la praia Mole')",
+    "ponto": "rampa de decolagem da Praia Mole, na trilha do Gravatá"
+  },
+  "endereco": "Rampa da Mole: trilha do Gravatá, a partir da SC-406. Rampa da Lagoa: Estrada Sertão do Assopro (ou \"do Sopro\"), saindo da SC-404 junto ao Mirante da Lagoa",
+  "links": {
+    "google_maps": "https://www.google.com/maps/search/?api=1&query=Voo%20duplo%20de%20parapente%20%28Praia%20Mole%20e%20Morro%20da%20Lagoa%29&query_place_id=ChIJD9Rx4KU9J5UR599hSklTB10",
+    "waze": "https://waze.com/ul?ll=-27.6085736,-48.437608&navigate=yes",
+    "site": "https://www.parapentesul.com.br/voo-duplo",
+    "instagram": null,
+    "ingressos": null,
+    "reserva": "https://culturaradical.com.br/voo-duplo-parapente-praia-mole-florianopolis/"
+  },
+  "nota_google": null,
+  "outras_notas": [],
+  "da_lagoa": {
+    "tempo_min": 10,
+    "km": 3,
+    "obs": "Mole: 6 min de carro + 10–15 min de trilha (ou transfer 4x4 da escola). Lagoa: ~8 min de carro pela SC-404. Estimativas pelo mapa"
+  },
+  "estacionamento": "Mole: mesmo esquema da trilha do Gravatá (fim da Av. das Rendeiras); combine o ponto de encontro com a escola. Lagoa: estrada de terra até a rampa; depois de chuva pode exigir 4x4",
+  "horarios": "Na Mole, a confirmação sai no dia, perto do meio-dia (Parapente Sul); voos em geral a partir das 11h–12h, quando entra o vento do mar (Sambatur, Destino Florianópolis). A Supremo diz que o início da manhã e o fim da tarde são os melhores horários e atende das 8h às 19h",
+  "precos": "Cultura Radical: R$ 450 com vídeo GoPro, R$ 520 com Insta360, R$ 700 com vídeo e fotos (sinal de 50% 72 h antes; cancelamento grátis até 48 h; mau tempo devolve 100%). Parapente Sul e Sambatur: R$ 400 no Pix ou R$ 415 no cartão; com vídeo R$ 460/475; com vídeo e fotos R$ 550/565. Brava Parapente: R$ 450 (vídeo à parte). Supremo: sob consulta",
+  "melhor_horario": "Dia de vento nordeste para a Mole; leste ou sul para a Lagoa. Fim de tarde pela Supremo, se o vento permitir",
+  "duracao": "10–20 min de voo; ~1 h no total",
+  "trilha": {
+    "distancia_km": null,
+    "tempo_ida_min": null,
+    "desnivel_m": null,
+    "dificuldade": null,
+    "inicio": null,
+    "sinalizacao": null
+  },
+  "o_que_levar": [
+    "tênis",
+    "corta-vento",
+    "óculos de sol com cordinha",
+    "celular preso ou deixado com a escola"
+  ],
+  "cuidados": [
+    "Peso máximo de ~110 kg e altura de 1,00 a 1,90 m (Destino Florianópolis, 2018); confirme com a escola",
+    "Vento norte deixa a Mole turbulenta (rotor); quem decide é o piloto",
+    "Não recomendado para gestantes e cardíacos",
+    "Combine por escrito a regra do sinal em caso de cancelamento por clima"
+  ],
+  "clima": {
+    "sensivel_a": [
+      "chuva",
+      "vento forte",
+      "vento norte (Mole)",
+      "falta de vento"
+    ],
+    "plano_b": "Remarcar para outro dia ou outra rampa (Lagoa x Mole). As escolas também voam em Santo Amaro da Imperatriz (40 min do continente)"
+  },
+  "publico": "Qualquer adulto sem experiência",
+  "combina_com": [
+    "trilha-do-gravata",
+    "praia-mole",
+    "mirante-da-lagoa",
+    "joaquina-e-dunas"
+  ],
+  "encaixe": [
+    "almoco-dia-util",
+    "pos-expediente",
+    "fim-de-semana"
+  ],
+  "fotos": [
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/a/ae/Mole_e_Galheta.jpg",
+      "pagina": "https://commons.wikimedia.org/wiki/File:Mole_e_Galheta.jpg",
+      "autor": "Papa Pic",
+      "licenca": "CC0"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/3/37/Mole_y_Galheta_antes_del_lanzamiento.jpg",
+      "pagina": "https://commons.wikimedia.org/wiki/File:Mole_y_Galheta_antes_del_lanzamiento.jpg",
+      "autor": "Papa Pic",
+      "licenca": "CC0"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/b/b2/Descida_de_Paraglider_By_Mauro_Soares_-_panoramio.jpg",
+      "pagina": "https://commons.wikimedia.org/wiki/File:Descida_de_Paraglider_By_Mauro_Soares_-_panoramio.jpg",
+      "autor": "Mauro Soares",
+      "licenca": "CC BY-SA 3.0"
+    }
+  ],
+  "dicas": [
+    "Pré-agende para vários dias e deixe a escola avisar o melhor: em dia útil, um voo na Mole às 12h–13h cabe no almoço",
+    "Sábado 28 é o dia ideal: leve e com janela larga",
+    "Supremo Parapente: base na Estrada Sertão do Sopro, Lagoa, WhatsApp (48) 99201-8719, reagendamento sem custo",
+    "Parapente Sul: agendamento pelo WhatsApp (48) 99155-9642, com pelo menos 1 dia de antecedência",
+    "Cultura Radical: WhatsApp +55 48 99620-1304, @culturaradicalfloripa, Rod. Jorn. Manoel de Menezes, 2510"
+  ],
+  "fontes": [
+    "https://culturaradical.com.br/voo-duplo-parapente-praia-mole-florianopolis/",
+    "https://www.parapentesul.com.br/voo-duplo",
+    "https://www.supremoparapente.com.br/",
+    "https://sambatur.com.br/Atividades/voo-duplo-de-parapente-em-florianopolis/",
+    "https://bravaparapente.com/vooduplo/",
+    "https://destinoflorianopolis.com.br/voo-de-parapente-em-florianopolis/",
+    "https://guia4ventos.com.br/florianopolis-rampa-da-lagoa-da-conceicao-sc/",
+    "https://guiafloripa.com.br/turismo/praias/praia-mole/pontos-turisticos/voo-livre"
+  ],
+  "verificado_em": "2026-11-16",
+  "confianca": "media",
+  "pendencias": [
+    "Preço atual de nov/2026 (as páginas não têm data)",
+    "Se alguma escola voa no fim de tarde em dia útil (17h30–18h30) na rampa da Lagoa",
+    "Coordenada da rampa do Morro da Lagoa (não geocodificada)"
+  ],
+  "google": {
+    "place_id": "ChIJD9Rx4KU9J5UR599hSklTB10",
+    "consultado_em": "2026-11-16"
+  }
+}

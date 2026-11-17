@@ -1,12 +1,45 @@
-#!/bin/sh
-# Barra dados pessoais e segredos nas linhas adicionadas (o repo pode virar público).
-diff=$(git diff --cached -U0 --no-color | grep '^+' | grep -v '^+++')
-fail=0
-check() {
-  hits=$(printf '%s\n' "$diff" | grep -nE "$2" | grep -vE "$3")
-  if [ -n "$hits" ]; then echo "pre-commit: $1"; printf '%s\n' "$hits" | head -5; fail=1; fi
-}
-check "e-mail encontrado" '[A-Za-z0-9._%+-]+@[A-Za-z0-9.-]+\.[A-Za-z]{2,}' 'noreply@anthropic\.com|users\.noreply\.github\.com'
-check "telefone encontrado" '(\(?[0-9]{2}\)?[ .-]?)?9[0-9]{4}[ .-]?[0-9]{4}' '"(lat|lng)"|[0-9]\.[0-9]{5,}'
-check "chave ou token encontrado" 'AIza[0-9A-Za-z_-]{20,}|gh[opsu]_[0-9A-Za-z]{20,}|sk-[0-9A-Za-z]{20,}' '^$'
-[ $fail -eq 0 ] || { echo "Revise. Para forçar (só se tiver certeza): git commit --no-verify"; exit 1; }
+#!/usr/bin/env python3
+"""Barra dados pessoais e segredos nas linhas adicionadas (o repo pode virar público).
+
+Contatos públicos de estabelecimentos (reserva, WhatsApp comercial) já revisados ficam em
+.githooks/contatos-permitidos.txt, um por linha (telefone só com dígitos, ou e-mail).
+"""
+import pathlib, re, subprocess, sys
+
+raiz = pathlib.Path(subprocess.check_output(["git", "rev-parse", "--show-toplevel"], text=True).strip())
+perm_arq = raiz / ".githooks/contatos-permitidos.txt"
+permitidos = {l.strip().lower() for l in perm_arq.read_text().splitlines() if l.strip() and not l.startswith("#")} if perm_arq.exists() else set()
+
+diff = subprocess.check_output(["git", "diff", "--cached", "-U0", "--no-color"], text=True)
+arquivo, achados = None, []
+TEL = re.compile(r"(?:\+?55\s?)?\(?\b\d{2}\)?[ .-]?9?\d{4}[ .-]\d{4}\b")
+MAIL = re.compile(r"[A-Za-z0-9._%+-]+@[A-Za-z0-9.-]+\.[A-Za-z]{2,}")
+SEGREDO = re.compile(r"AIza[0-9A-Za-z_-]{20,}|gh[opsu]_[0-9A-Za-z]{20,}|sk-[0-9A-Za-z_-]{20,}")
+MAIL_OK = re.compile(r"noreply@anthropic\.com$|@users\.noreply\.github\.com$")
+
+for linha in diff.splitlines():
+    if linha.startswith("+++ "):
+        arquivo = linha[6:]
+        continue
+    if not linha.startswith("+") or arquivo is None:
+        continue
+    if arquivo.startswith(".githooks/"):
+        continue
+    for m in SEGREDO.finditer(linha):
+        achados.append((arquivo, "chave ou token", m.group()[:8] + "…"))
+    for m in MAIL.finditer(linha):
+        e = m.group().lower()
+        if not MAIL_OK.search(e) and e not in permitidos:
+            achados.append((arquivo, "e-mail", e))
+    for m in TEL.finditer(linha):
+        dig = re.sub(r"\D", "", m.group())
+        dig = dig[2:] if dig.startswith("55") and len(dig) > 11 else dig
+        if dig not in permitidos:
+            achados.append((arquivo, "telefone", m.group()))
+
+if achados:
+    print("pre-commit: possível dado pessoal ou segredo nas linhas novas:")
+    for a in achados[:20]:
+        print(f"  {a[0]}: {a[1]}: {a[2]}")
+    print("Se for contato público de estabelecimento, adicione em .githooks/contatos-permitidos.txt.")
+    sys.exit(1)

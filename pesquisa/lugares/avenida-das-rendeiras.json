@@ -1,0 +1,145 @@
+{
+  "id": "avenida-das-rendeiras",
+  "nome": "Avenida das Rendeiras",
+  "categoria": "passeio",
+  "regiao": "leste-lagoa",
+  "resumo": "Orla da Lagoa que vai do Centrinho ao Retiro, com calçada à beira da água, lojas de renda de bilro e a maior fila de restaurantes de frutos do mar da Lagoa. Serve de caminhada de fim de tarde, almoço com vista e início da trilha do Gravatá.",
+  "destaques": [
+    "Lojas e tendas de renda de bilro (vestidos, blusas, toalhas); em alguns pontos as rendeiras trabalham ao vivo",
+    "Casa das Rendas: mais de 40 anos no mesmo lugar, mas o endereço diverge (nº 732 ou nº 1134)",
+    "Restaurantes de frutos do mar à beira da Lagoa: Boka's (nº 1750, TripAdvisor 4,3/763), Casa do Chico (nº 1620, 4,0/827), O Barba Negra (nº 1628) e Marquês da Lagoa (buffet livre no almoço, com vista)",
+    "Bar do Boni, no fim da avenida (Retiro): pratos manezinhos e mesas na beira da Lagoa; é também o ponto de partida do Gravatá",
+    "Pôr do sol sobre a Lagoa, atrás dos morros a oeste"
+  ],
+  "coords": {
+    "lat": -27.6090744,
+    "lng": -48.4542454,
+    "fonte": "OSM Nominatim (place=neighbourhood 'Avenida das Rendeiras')",
+    "ponto": "meio da avenida, na orla"
+  },
+  "endereco": "Av. das Rendeiras, Lagoa da Conceição, 88062-400 (do Centrinho até o Retiro da Lagoa)",
+  "links": {
+    "google_maps": "https://www.google.com/maps/search/?api=1&query=Avenida%20das%20Rendeiras&query_place_id=ChIJbZJC6Zs-J5UR6PGE94D4V4U",
+    "waze": "https://waze.com/ul?ll=-27.6090744,-48.4542454&navigate=yes",
+    "site": null,
+    "instagram": null,
+    "ingressos": null,
+    "reserva": null
+  },
+  "nota_google": null,
+  "outras_notas": [
+    {
+      "fonte": "TripAdvisor (Boka's)",
+      "nota": 4.3,
+      "avaliacoes": 763,
+      "url": "https://www.tripadvisor.com/Restaurant_Review-g303576-d8164765-Reviews-Boka_s-Florianopolis_State_of_Santa_Catarina.html"
+    },
+    {
+      "fonte": "TripAdvisor (Casa do Chico)",
+      "nota": 4.0,
+      "avaliacoes": 827,
+      "url": "https://www.tripadvisor.com/Restaurant_Review-g303576-d2362926-Reviews-Casa_do_Chico-Florianopolis_State_of_Santa_Catarina.html"
+    },
+    {
+      "fonte": "TripAdvisor (Pizzaria das Rendeiras)",
+      "nota": 4.4,
+      "avaliacoes": 46,
+      "url": "https://www.tripadvisor.com/Restaurant_Review-g303576-d13270930-Reviews-Pizzaria_das_Rendeiras-Florianopolis_State_of_Santa_Catarina.html"
+    },
+    {
+      "fonte": "TripAdvisor (Boteco das Rendeiras)",
+      "nota": 4.0,
+      "avaliacoes": 125,
+      "url": "https://www.tripadvisor.com/Restaurant_Review-g303576-d9734392-Reviews-Boteco_Das_Rendeiras-Florianopolis_State_of_Santa_Catarina.html"
+    }
+  ],
+  "da_lagoa": {
+    "tempo_min": 3,
+    "km": 1.5,
+    "obs": "Começa no Centrinho; dá para fazer a pé. A orla tem cerca de 2 km até o Retiro (estimativa pelo mapa)"
+  },
+  "estacionamento": "Vagas na própria avenida, disputadas em fim de semana",
+  "horarios": "Avenida livre; lojas e restaurantes com horários variados (não confirmados)",
+  "precos": "Caminhada gratuita",
+  "melhor_horario": "17h30–19h: caminhada com pôr do sol e jantar em seguida",
+  "duracao": "1–2 h",
+  "trilha": {
+    "distancia_km": null,
+    "tempo_ida_min": null,
+    "desnivel_m": null,
+    "dificuldade": null,
+    "inicio": null,
+    "sinalizacao": null
+  },
+  "o_que_levar": [
+    "dinheiro ou Pix para as rendas"
+  ],
+  "cuidados": [
+    "Calçada estreita em alguns trechos e tráfego na avenida",
+    "Renda de bilro legítima tem selo oficial criado por lei municipal em 2025; pergunte"
+  ],
+  "clima": {
+    "sensivel_a": [
+      "chuva"
+    ],
+    "plano_b": "Restaurantes cobertos com vista da Lagoa"
+  },
+  "publico": "Turistas e moradores; jantar mais família e casal do que balada",
+  "combina_com": [
+    "sup-lagoa",
+    "centrinho-da-lagoa",
+    "trilha-do-gravata",
+    "joaquina-e-dunas",
+    "bar-do-boni",
+    "espartano-lagoa"
+  ],
+  "encaixe": [
+    "pos-expediente",
+    "almoco-dia-util",
+    "noite"
+  ],
+  "fotos": [
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/f/f1/Avdasrendeiras.jpg",
+      "pagina": "https://commons.wikimedia.org/wiki/File:Avdasrendeiras.jpg",
+      "autor": "Ben Tavener",
+      "licenca": "CC BY 2.0"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/d/d5/Lagoarendeiras.jpg",
+      "pagina": "https://commons.wikimedia.org/wiki/File:Lagoarendeiras.jpg",
+      "autor": "Ben Tavener",
+      "licenca": "CC BY 2.0"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/e/e7/Lagoa_da_Concei%C3%A7%C3%A3o_%283943843727%29.jpg",
+      "pagina": "https://commons.wikimedia.org/wiki/File:Lagoa_da_Concei%C3%A7%C3%A3o_%283943843727%29.jpg",
+      "autor": "Rodrigo Soldon",
+      "licenca": "CC BY 2.0"
+    }
+  ],
+  "dicas": [
+    "O Barba Negra é indicado para sequência de camarão e bolinho de siri (Viciada em Viajar; um leitor achou que a qualidade caiu)",
+    "Para ver renda sendo feita, procure o Casarão da Lagoa, Centro de Referência da Mulher Rendeira (Fundação Franklin Cascaes), com venda e oficinas; o endereço está a confirmar",
+    "Combina com SUP ao pôr do sol e jantar no mesmo trecho"
+  ],
+  "fontes": [
+    "https://ndmais.com.br/turismo/lagoa-da-conceicao-guia-completo-no-bairro-mais-mistico-de-florianopolis/",
+    "https://ndmais.com.br/turismo/renda-de-bilro-da-ilha-da-magia-tradicao-de-artesanato-feito-a-mao/",
+    "https://destinofloripa.com.br/renda-de-bilro-patrimonio-imaterial-de-florianopolis/",
+    "https://ibagy.com.br/blog/bem-estar/restaurantes-na-lagoa-da-conceicao-pontos-gastronomicos-para-conhecer-na-avenida-das-rendeiras/",
+    "https://www.viciadaemviajar.com/onde-comer-em-florianopolis/",
+    "https://www.tripadvisor.com/Restaurant_Review-g303576-d8164765-Reviews-Boka_s-Florianopolis_State_of_Santa_Catarina.html"
+  ],
+  "verificado_em": "2026-11-16",
+  "confianca": "media",
+  "pendencias": [
+    "Endereço da Casa das Rendas (732 x 1134) e do Casarão da Lagoa",
+    "Em quais lojas há rendeira trabalhando ao vivo em dia útil",
+    "Se o Marquês da Lagoa ainda serve buffet livre no almoço"
+  ],
+  "google": {
+    "place_id": "ChIJbZJC6Zs-J5UR6PGE94D4V4U",
+    "consultado_em": "2026-11-16"
+  }
+}

@@ -1,0 +1,103 @@
+{
+  "id": "praia-da-solidao",
+  "nome": "Praia da Solidão (e cachoeira)",
+  "categoria": "praia",
+  "regiao": "sul",
+  "resumo": "Praia de ondas fortes no fim da estrada do sul, com uma cachoeira de poço gelado a poucos minutos depois da ponte do Rio das Pacas. Opção tranquila para meio dia, perto do Arante.",
+  "destaques": [
+    "Cachoeira da Solidão com piscina natural de água bem gelada",
+    "Ondas altas, boa para surf",
+    "Início da trilha do Saquinho"
+  ],
+  "coords": {
+    "lat": -27.7942829,
+    "lng": -48.533581,
+    "fonte": "OSM Nominatim (OSM chama a praia de 'Praia do Rio das Pacas')",
+    "ponto": "praia, junto ao fim da estrada"
+  },
+  "endereco": "Fim da estrada da Solidão, Pântano do Sul",
+  "links": {
+    "google_maps": "https://www.google.com/maps/search/?api=1&query=Praia%20da%20Solid%C3%A3o%20%28e%20cachoeira%29&query_place_id=ChIJVaCsFpslJ5URW9-WZag1rTw",
+    "waze": "https://waze.com/ul?ll=-27.7942829,-48.533581&navigate=yes",
+    "site": null,
+    "instagram": null,
+    "ingressos": null,
+    "reserva": null
+  },
+  "nota_google": null,
+  "outras_notas": [],
+  "da_lagoa": {
+    "tempo_min": 50,
+    "km": 28,
+    "obs": "OSRM 40 min/27,6 km sem trânsito; conte 45–55 min."
+  },
+  "estacionamento": "Rua/estrada no fim; pequeno.",
+  "horarios": "Livre.",
+  "precos": "Grátis.",
+  "melhor_horario": "Manhã ou meio da tarde.",
+  "duracao": "2–3 h",
+  "trilha": {
+    "distancia_km": null,
+    "tempo_ida_min": null,
+    "desnivel_m": null,
+    "dificuldade": "curta e rústica",
+    "inicio": "Depois da ponte de madeira do Rio das Pacas, sobe à direita",
+    "sinalizacao": null
+  },
+  "o_que_levar": [
+    "água",
+    "comida",
+    "chinelo"
+  ],
+  "cuidados": [
+    "Mar com ondas altas",
+    "Pedras lisas na cachoeira"
+  ],
+  "clima": {
+    "sensivel_a": [
+      "mar agitado"
+    ],
+    "plano_b": "Cachoeira funciona mesmo com mar ruim."
+  },
+  "publico": "Surfistas e moradores; vazia fora do verão.",
+  "combina_com": [
+    "praia-do-saquinho",
+    "bar-do-arante",
+    "lagoinha-do-leste"
+  ],
+  "encaixe": [
+    "fim-de-semana"
+  ],
+  "fotos": [
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/d/d1/Praia_da_Solid%C3%A3o.jpg",
+      "pagina": "https://commons.wikimedia.org/wiki/File:Praia_da_Solid%C3%A3o.jpg",
+      "autor": "stummjr",
+      "licenca": "CC BY 2.0"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/9/94/Praia_da_Solid%C3%A3o_%2814134384812%29.jpg",
+      "pagina": "https://commons.wikimedia.org/wiki/File:Praia_da_Solid%C3%A3o_(14134384812).jpg",
+      "autor": "Otávio Nogueira from Fortaleza, BR",
+      "licenca": "CC BY 2.0"
+    }
+  ],
+  "dicas": [
+    "Bom 'dia leve' para o sábado 28: Solidão + cachoeira + Arante, pouco esforço antes da corrida"
+  ],
+  "fontes": [
+    "https://en.guiafloripa.com.br/tourism/beaches/solitude-beach",
+    "https://en.guiafloripa.com.br/tourism/florianopolis-trails/waterfall-of-solitude-trail",
+    "https://www.viciadaemviajar.com/praias-do-sul-de-florianopolis-melhores/"
+  ],
+  "verificado_em": "2026-11-16",
+  "confianca": "baixa",
+  "pendencias": [
+    "Tempo até a cachoeira",
+    "Se há bar/quiosque aberto em novembro"
+  ],
+  "google": {
+    "place_id": "ChIJVaCsFpslJ5URW9-WZag1rTw",
+    "consultado_em": "2026-11-16"
+  }
+}

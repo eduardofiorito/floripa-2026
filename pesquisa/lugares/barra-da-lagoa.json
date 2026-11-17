@@ -1,0 +1,149 @@
+{
+  "id": "barra-da-lagoa",
+  "nome": "Barra da Lagoa (almoço e sequência de camarão)",
+  "categoria": "comida",
+  "regiao": "leste-lagoa",
+  "resumo": "Vila de pescadores no canal que liga a Lagoa ao mar, com a maior concentração de restaurantes de frutos do mar do leste da Ilha. É o lugar da sequência de camarão. O Timoneiro, na rua do canal, é o mais bem avaliado.",
+  "destaques": [
+    "O Timoneiro (Rua Laurindo José de Souza, 205): TripAdvisor 4,8 com ~2.040 avaliações, $$–$$$; diz ter \"uma das melhores sequências de camarão da região\"",
+    "Ilha Formosa (pastelaria e petiscaria): TripAdvisor 4,5 (414); avaliação a chama de \"melhor sequência de camarão da Lagoa\"",
+    "Restaurante Dois Irmãos: TripAdvisor 4,2 (659); sequência elogiada, com queixas de preço e estacionamento",
+    "Deck 6 (Servidão João Januário do Nascimento, 52, Prainha do Leste): pé na areia, TripAdvisor 4,4 (78); a sequência serve 2 com sobra",
+    "Dá para chegar de barco pela Lagoa (Cooperbarco, linha Barra da Lagoa)"
+  ],
+  "coords": {
+    "lat": -27.5883237,
+    "lng": -48.4340936,
+    "fonte": "OSM Nominatim (amenity=restaurant 'O Timoneiro')",
+    "ponto": "Restaurante O Timoneiro, na rua do canal; a praia fica em -27.5713174, -48.4269664"
+  },
+  "endereco": "Rua Laurindo José de Souza (rua do canal), Fortaleza da Barra da Lagoa",
+  "links": {
+    "google_maps": "https://www.google.com/maps/search/?api=1&query=Barra%20da%20Lagoa%20%28almo%C3%A7o%20e%20sequ%C3%AAncia%20de%20camar%C3%A3o%29&query_place_id=ChIJlXla2Zc_J5UREVpUyRBJraI",
+    "waze": "https://waze.com/ul?ll=-27.5883237,-48.4340936&navigate=yes",
+    "site": "https://restauranteotimoneiro.com/",
+    "instagram": null,
+    "ingressos": null,
+    "reserva": null
+  },
+  "nota_google": null,
+  "outras_notas": [
+    {
+      "fonte": "TripAdvisor (O Timoneiro)",
+      "nota": 4.8,
+      "avaliacoes": 2044,
+      "url": "https://www.tripadvisor.com/Restaurants-g1113399-Barra_da_Lagoa_Florianopolis_State_of_Santa_Catarina.html"
+    },
+    {
+      "fonte": "TripAdvisor (Ilha Formosa)",
+      "nota": 4.5,
+      "avaliacoes": 414,
+      "url": "https://www.tripadvisor.com/RestaurantsNear-g303576-d2676353-Ilha_Formosa_Restaurante_Pastelaria_e_Petiscaria-Florianopolis_State_of_Santa_Catarina.html"
+    },
+    {
+      "fonte": "TripAdvisor (Dois Irmãos)",
+      "nota": 4.2,
+      "avaliacoes": 659,
+      "url": "https://www.tripadvisor.com.br/ShowUserReviews-g303576-d2626326-r664735147-Restaurante_Dois_Irmaos-Florianopolis_State_of_Santa_Catarina.html"
+    },
+    {
+      "fonte": "TripAdvisor (Deck 6)",
+      "nota": 4.4,
+      "avaliacoes": 78,
+      "url": "https://cardapio.menu/restaurants/florianopolis/deck6/reviews"
+    }
+  ],
+  "da_lagoa": {
+    "tempo_min": 13,
+    "km": 7,
+    "obs": "Pela SC-406, passando pela Praia Mole. Estimativa pelo mapa. De barco pela Lagoa leva mais (linha regular) ou ~15 min de lancha fretada"
+  },
+  "estacionamento": "Rua do canal estreita; há queixas de estacionamento no Dois Irmãos. Sem dados de preço",
+  "horarios": "Variam por restaurante; não confirmados",
+  "precos": "Sequência de camarão: preço atual não encontrado. Referências antigas: oferta de R$ 73 para 2 pessoas no Barra Beach Bar (Groupon, provavelmente expirada); camarão na moranga do Tamarutaca a R$ 84,80 (2015)",
+  "melhor_horario": "Almoço longo de sexta ou de sábado; jantar sem pressa. A sequência demora, então não cabe em 1 h de almoço",
+  "duracao": "1h30–2h para a sequência",
+  "trilha": {
+    "distancia_km": null,
+    "tempo_ida_min": null,
+    "desnivel_m": null,
+    "dificuldade": null,
+    "inicio": null,
+    "sinalizacao": null
+  },
+  "o_que_levar": [],
+  "cuidados": [
+    "Confira o preço da sequência por pessoa ou para dois antes de pedir",
+    "Rua do canal congestiona em fim de semana"
+  ],
+  "clima": {
+    "sensivel_a": [
+      "nenhum (programa coberto)"
+    ],
+    "plano_b": "Programa bom para dia de chuva"
+  },
+  "publico": "Famílias, turistas e grupos; ambiente de vila de pescadores",
+  "combina_com": [
+    "piscinas-naturais-barra-da-lagoa",
+    "praia-mole",
+    "praia-da-galheta",
+    "costa-da-lagoa"
+  ],
+  "encaixe": [
+    "almoco-dia-util",
+    "noite",
+    "fim-de-semana"
+  ],
+  "fotos": [
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/e/e2/Barra_da_Lagoa%2C_Florian%C3%B3polis%2C_SC.jpg",
+      "pagina": "https://commons.wikimedia.org/wiki/File:Barra_da_Lagoa%2C_Florian%C3%B3polis%2C_SC.jpg",
+      "autor": "Kobreq",
+      "licenca": "CC BY-SA 4.0"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/3/34/Barra_da_Lagoa_from_a_trail_nearby.jpg",
+      "pagina": "https://commons.wikimedia.org/wiki/File:Barra_da_Lagoa_from_a_trail_nearby.jpg",
+      "autor": "Mx. Granger",
+      "licenca": "CC0"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/4/4e/Barra_da_Lagoa_%284663928432%29.jpg",
+      "pagina": "https://commons.wikimedia.org/wiki/File:Barra_da_Lagoa_%284663928432%29.jpg",
+      "autor": "Otávio Nogueira",
+      "licenca": "CC BY 2.0"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/c/cd/Canal_da_Barra_da_Lagoa%2C_nas_proximidades_da_ponte._Seaway_Barra_da_Lagoa_nearby_the_Bridge._Florian%C3%B3polis_city._-_panoramio.jpg",
+      "pagina": "https://commons.wikimedia.org/wiki/File:Canal_da_Barra_da_Lagoa%2C_nas_proximidades_da_ponte._Seaway_Barra_da_Lagoa_nearby_the_Bridge._Florian%C3%B3polis_city._-_panoramio.jpg",
+      "autor": "Djalmo da Silva",
+      "licenca": "CC BY-SA 3.0"
+    }
+  ],
+  "dicas": [
+    "Combinação de sábado: Piscinas Naturais de manhã na maré baixa, depois sequência no Timoneiro ou no Deck 6",
+    "Uma sequência para dois costuma bastar para três pessoas com fome normal (relato do Deck 6)",
+    "Fedoca do Canal (Rua Laurindo José de Souza, 291) tem deck sobre o canal; dados de 2015",
+    "Ida de barco pela Lagoa: Cooperbarco, linha Barra da Lagoa, R$ 15 por trecho ou R$ 30 ida e volta, saindo do Terminal Lacustre do Centrinho"
+  ],
+  "fontes": [
+    "https://www.tripadvisor.com/Restaurants-g1113399-Barra_da_Lagoa_Florianopolis_State_of_Santa_Catarina.html",
+    "https://www.tripadvisor.com.br/RestaurantsNear-g303576-d312316-oa30-Barra_da_Lagoa_Beach-Florianopolis_State_of_Santa_Catarina.html",
+    "https://restauranteotimoneiro.com/",
+    "https://cardapio.menu/restaurants/florianopolis/deck6/reviews",
+    "https://www.groupon.com.br/florianopolis/restaurante-barra-beach-bar/sequencia-de-camarao-p-ate-4mgkw",
+    "https://www.meusroteirosdeviagem.com/restaurantes-florianopolis-lagoa/",
+    "https://cooperbarco.wordpress.com/"
+  ],
+  "verificado_em": "2026-11-16",
+  "confianca": "media",
+  "pendencias": [
+    "Preço atual da sequência de camarão no Timoneiro, Deck 6 e Ilha Formosa",
+    "Horário de funcionamento em dia útil de novembro e se precisa reservar",
+    "Endereço exato do Ilha Formosa"
+  ],
+  "google": {
+    "place_id": "ChIJlXla2Zc_J5UREVpUyRBJraI",
+    "consultado_em": "2026-11-16"
+  }
+}
