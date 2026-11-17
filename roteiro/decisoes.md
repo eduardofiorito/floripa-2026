@@ -36,19 +36,34 @@ Horário da travessia: Uber às 6h30 → trilha 7h15 → Lagoinha ~9h30 → Coro
 
 **Festa Campeira do Bar do Boni (1ª edição):** 22/11, 15h30–2h. Melizza, Maiara Coelho, Joni Lopes, Felipe & Kaynan e show nacional de Paulinho Mocelin. Pede "traje campeiro" (bota e chapéu). Classificação livre. Venda ainda não aberta na página (pensanoevento) em 16/11; acompanhar @bardoboni.
 
-## Sáb 28 — véspera da prova
+## Sáb 28 — terceiro dia livre (manhã na ilha, tarde e noite no continente)
+
+Check-out da Lagoa até 11h; check-in no continente a partir das 14h (check-out dom 29 até 12h). Malas no porta-malas desde a saída: em estacionamento de praia, só os com cuidador, e não abrir o porta-malas lá.
+
+**Manhã com sol — sul (recomendado):** trilha leve pela véspera da prova.
+
+| Hora | O quê | Carro |
+|---|---|---|
+| 7h30 | Check-out da Lagoa | → Armação ~35–40 min |
+| 8h15–11h30 | **Matadeiro**: trilha fácil de 20 min a partir da Armação, praia | → Ribeirão ~21 min |
+| 12h | Almoço no **Ribeirão da Ilha** (Ostradamus abre sábado; Rancho Açoriano). Corredores: grelhado, sem ostra crua | → continente ~27 min (+ margem) |
+| 14h30 | Check-in no continente | — |
+
+Variante mais "massa" se os corredores toparem: **Naufragados** (2,8 km e ~50 min de ida, começa com subida íngreme; farol, canhões e praia selvagem; estacionamento particular R$ 20 com ducha). Lagoa → Caieira ~51 min; sair às 7h; Ribeirão fica a 25 min. São ~6 km de trilha na véspera.
+
+**Manhã com sol — leste (mais perto):** Praia Mole + trilha curta até a Galheta (8h–11h30), almoço na Barra da Lagoa, Lagoa → continente ~24 min.
+
+**Manhã com chuva:** check-out tranquilo, Mercado Público e Centro histórico (lojas até 14h), check-in às 14h.
+
+**Tarde e noite no continente (todas as versões):**
 
 | Hora | O quê |
 |---|---|
-| até 9h | Malas no carro, check-out da Lagoa (limite 11h) |
-| 9h30 | Carro até o Estreito (~25 min); estacionar no Balneário Estreito |
-| 10h | Kit na arena (9h–19h): voucher, documento, 1 kg de alimento por corredor |
-| 10h30 | Ponte Hercílio Luz a pé (só pedestres no fim de semana) → Forte Santana → Parque da Luz |
-| 11h30 | Centro histórico e almoço no Mercado (lojas até 14h, Box 32 até 15h). Peixe grelhado, pouca bebida |
-| 13h30 | Volta a pé pela ponte até o carro |
-| 15h | Check-in no continente (horário a confirmar), descanso |
-| 18h15 | Pôr do sol nas Pedras de Itaguaçu, a pé da hospedagem |
-| 19h | Jantar de massa: Cantina Petrus (4,7, abre 18h30) ou Salumeria San Michele (4,8, abre 18h30), ambos na mesma rua da hospedagem |
+| 15h15 | Kit na arena (9h–19h), a ~5 min de carro: voucher, documento, 1 kg de alimento por corredor |
+| 15h45 | Ponte Hercílio Luz a pé ida e volta (só pedestres no fim de semana) + Forte Santana |
+| 17h30 | Descanso, hidratação |
+| 18h20 | Pôr do sol nas Pedras de Itaguaçu, a pé da hospedagem (sol às 18h50) |
+| 19h15 | Jantar de massa: Cantina Petrus (4,7, abre 18h30) ou Salumeria San Michele (4,8, abre 18h30), na mesma rua da hospedagem |
 | 21h30 | Cama |
 
 ## Dom 29 — prova
@@ -65,4 +80,4 @@ Horário da travessia: Uber às 6h30 → trilha 7h15 → Lagoinha ~9h30 → Coro
 - Mesa no Freguesia, qua 25 às 18h20.
 - Kart: confirmar bateria às 19h de terça.
 - Festa Campeira: ingresso quando abrir.
-- Check-in e check-out da hospedagem do continente.
+- Decidir a manhã do sábado 28 (sul leve, Naufragados ou leste) pela previsão.
