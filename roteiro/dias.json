@@ -1732,7 +1732,7 @@
       "tipo": "util",
       "exp": "8h–17h",
       "titulo": "Pôr do sol e ostras em Santo Antônio",
-      "resumo": "Festival de Ostras no Freguesia às quartas. Uber ida e volta.",
+      "resumo": "Mesa de frente para o mar em Santo Antônio, com ostras. Uber ida e volta.",
       "risco": "medio",
       "previsao": "Chuva 71% (5,5 mm): manhã 69%, tarde 53%, noite 36%. Máx 26°, rajadas até 56 km/h.",
       "sol": [
@@ -1840,7 +1840,7 @@
               {
                 "id": "sa-freguesia",
                 "t": "Freguesia",
-                "d": "Festival de Ostras às quartas e fazenda marinha própria. Reservar mesa de frente para o mar pelo WhatsApp.",
+                "d": "Ostras da fazenda marinha própria e, segundo o restaurante, Festival de Ostras às quartas: confirmar ao reservar pelo WhatsApp.",
                 "q": "Freguesia Bar Santo Antônio de Lisboa",
                 "g": "santo-antonio|Freguesia Oyster Bar Santo Antônio de Lisboa|0"
               },
@@ -1954,7 +1954,7 @@
               {
                 "id": "sa-freguesia",
                 "t": "Freguesia",
-                "d": "Festival de Ostras às quartas e fazenda marinha própria. Reservar mesa de frente para o mar pelo WhatsApp.",
+                "d": "Ostras da fazenda marinha própria e, segundo o restaurante, Festival de Ostras às quartas: confirmar ao reservar pelo WhatsApp.",
                 "q": "Freguesia Bar Santo Antônio de Lisboa",
                 "g": "santo-antonio|Freguesia Oyster Bar Santo Antônio de Lisboa|0"
               },
@@ -2385,7 +2385,7 @@
               {
                 "id": "sex-deraiz",
                 "t": "DeRaiz",
-                "d": "Pop Shots convida Bailafunk, 23h, R$ 15 no Shotgun. Funk, reggaeton e dub.",
+                "d": "Festa anunciada para sexta 27 (Pop Shots convida Bailafunk, 23h, R$ 15): conferir no Shotgun ou no @barderaiz perto da data. Funk, reggaeton e dub.",
                 "lugar": "bar-deraiz"
               },
               {
@@ -2514,7 +2514,7 @@
               {
                 "id": "sex-deraiz",
                 "t": "DeRaiz",
-                "d": "Pop Shots convida Bailafunk, 23h, R$ 15 no Shotgun. Funk, reggaeton e dub.",
+                "d": "Festa anunciada para sexta 27 (Pop Shots convida Bailafunk, 23h, R$ 15): conferir no Shotgun ou no @barderaiz perto da data. Funk, reggaeton e dub.",
                 "lugar": "bar-deraiz"
               },
               {

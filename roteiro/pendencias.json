@@ -1,5 +1,17 @@
 [
   {
+    "id": "sc21k-horarios",
+    "grupo": "agora",
+    "titulo": "Conferir no site da prova o horário do kit e da largada da SC21K",
+    "detalhe": "O roteiro usa kit no sáb 28, 9h–19h, e largada às 5h31, da pesquisa de 16/11. A página oficial de 2026 não estava acessível para conferir.",
+    "prazo": "até sex 27",
+    "ate": 28,
+    "acao": {
+      "t": "Site da prova",
+      "u": "https://www.vemcorrer.com/evento/358-meia-maratona-sc21k-2026"
+    }
+  },
+  {
     "id": "p12",
     "grupo": "agora",
     "titulo": "Comprar o ingresso do Pátio P12 Sunset",
