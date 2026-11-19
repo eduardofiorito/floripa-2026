@@ -1,0 +1,73 @@
+{
+  "id": "john-bull-lagoa",
+  "nome": "John Bull Floripa (Rendeiras)",
+  "categoria": "noite",
+  "regiao": "leste-lagoa",
+  "resumo": "Bar com palco e música ao vivo no começo das Rendeiras, a noite mais cheia da orla. Pub de rock e pop, bom para quem quer banda e pista sem ir longe.",
+  "destaques": [
+    "Música ao vivo quase toda noite de quinta a sábado",
+    "A ~1,5 km do Centrinho",
+    "Fica perto do Espartano e do Santa Club: dá para emendar"
+  ],
+  "coords": {
+    "lat": -27.608376,
+    "lng": -48.453926,
+    "fonte": "OSM Nominatim (amenity=bar)",
+    "ponto": "Av. das Rendeiras, 1046, Lagoa da Conceição"
+  },
+  "endereco": "Av. das Rendeiras, 1046, Lagoa da Conceição",
+  "links": {
+    "google_maps": null,
+    "waze": null,
+    "site": null,
+    "instagram": null,
+    "ingressos": null,
+    "reserva": null
+  },
+  "nota_google": null,
+  "outras_notas": [],
+  "da_lagoa": {
+    "tempo_min": 4,
+    "km": 1.5,
+    "obs": "Pelas Rendeiras; a pé dá uns 20 min"
+  },
+  "estacionamento": "Ir de Uber ou a pé: noite com bebida",
+  "horarios": "segunda: Fechado; terça: Fechado; quarta: Fechado; quinta: Fechado; sexta: 20:00 – 02:00; sábado: 20:00 – 02:00; domingo: Fechado",
+  "precos": "Entrada varia com a banda",
+  "melhor_horario": "Depois das 23h",
+  "duracao": "a noite",
+  "trilha": {
+    "distancia_km": null,
+    "tempo_ida_min": null,
+    "desnivel_m": null,
+    "dificuldade": null,
+    "inicio": null,
+    "sinalizacao": null
+  },
+  "o_que_levar": [
+    "documento original (18+)"
+  ],
+  "cuidados": [
+    "Na volta a pé pela orla, ir em grupo"
+  ],
+  "clima": {
+    "sensivel_a": [],
+    "plano_b": "Casa fechada"
+  },
+  "publico": "20–40, rock e pop",
+  "combina_com": [],
+  "encaixe": [
+    "noite"
+  ],
+  "fotos": [],
+  "dicas": [
+    "Ver a banda da noite no Instagram antes de ir"
+  ],
+  "fontes": [],
+  "verificado_em": "2026-11-17",
+  "confianca": "média",
+  "pendencias": [
+    "Programação da semana no Instagram da casa"
+  ],
+  "google_consulta": "John Bull Floripa Avenida das Rendeiras"
+}

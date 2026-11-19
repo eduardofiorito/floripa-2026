@@ -1,0 +1,93 @@
+{
+  "id": "ribeirao-da-ilha",
+  "videos": [
+    {
+      "titulo": "Ribeirão da Ilha - FLORIANÓPOLIS",
+      "canal": "Mundo em Conta - Mariana Oliveira Arantes",
+      "url": "https://www.youtube.com/watch?v=zSLiTExqX_M",
+      "plataforma": "youtube",
+      "publicado": "2025-10-19",
+      "duracao": "14:05",
+      "mostra": "Passeio pelo Ribeirão da Ilha",
+      "melhor_trecho": null
+    },
+    {
+      "titulo": "Florianópolis. Visitamos dois bairros portugueses na ilha.",
+      "canal": "Brothers Mamede",
+      "url": "https://www.youtube.com/watch?v=FQ5Axcfhva4",
+      "plataforma": "youtube",
+      "publicado": "2025-02-02",
+      "duracao": "7:05",
+      "mostra": "Santo Antônio de Lisboa e Ribeirão da Ilha",
+      "melhor_trecho": null
+    },
+    {
+      "titulo": "RIBEIRÃO da ILHA | Florianópolis SC  (Aéreas DRONE) © Todos os Direitos Reservados",
+      "canal": "Imagens Brasil Sul",
+      "url": "https://www.youtube.com/watch?v=8G8nVOOJ1Ig",
+      "plataforma": "youtube",
+      "publicado": "2021-06-04",
+      "duracao": "1:53",
+      "mostra": "Imagens aéreas de drone do Ribeirão",
+      "melhor_trecho": null
+    }
+  ],
+  "instagram": [
+    {
+      "tipo": "perfil",
+      "url": "https://www.instagram.com/paroquianossasenhoradalapa/",
+      "nota": "Paróquia N. S. da Lapa (1809): a igreja e a pracinha da Freguesia"
+    },
+    {
+      "tipo": "perfil",
+      "url": "https://www.instagram.com/ranchoacoriano/",
+      "nota": "Rancho Açoriano, restaurante de ostras com casa no Ribeirão"
+    }
+  ],
+  "fotos_commons_recentes": [
+    {
+      "pagina": "https://commons.wikimedia.org/wiki/File:Conjunto_do_Centro_Hist%C3%B3rico_-_Florian%C3%B3polis_-_20230324172958.jpg",
+      "arquivo_url": "https://upload.wikimedia.org/wikipedia/commons/6/63/Conjunto_do_Centro_Hist%C3%B3rico_-_Florian%C3%B3polis_-_20230324172958.jpg",
+      "data": "2023-03-24",
+      "autor": "Joalpe",
+      "licenca": "CC BY-SA 4.0",
+      "mostra": "Igreja de N. S. da Lapa, branca e amarela, no alto da escadaria da Freguesia, com céu azul",
+      "arq": "img/recentes/ribeirao-da-ilha-1.jpg"
+    },
+    {
+      "pagina": "https://commons.wikimedia.org/wiki/File:Igreja_de_Nossa_Senhora_da_Lapa_do_Ribeir%C3%A3o_-_Florian%C3%B3polis_-_20231229130012.jpg",
+      "arquivo_url": "https://upload.wikimedia.org/wikipedia/commons/7/76/Igreja_de_Nossa_Senhora_da_Lapa_do_Ribeir%C3%A3o_-_Florian%C3%B3polis_-_20231229130012.jpg",
+      "data": "2023-12-29",
+      "autor": "Agnaldo Servo",
+      "licenca": "CC BY-SA 4.0",
+      "mostra": "Igreja de N. S. da Lapa do Ribeirão vista em dez/2023",
+      "arq": "img/recentes/ribeirao-da-ilha-2.jpg"
+    },
+    {
+      "pagina": "https://commons.wikimedia.org/wiki/File:Caio_Vilela_Ribeirao_da_Ilha_Florianopolis_SC._(40864731091).jpg",
+      "arquivo_url": "https://upload.wikimedia.org/wikipedia/commons/f/f0/Caio_Vilela_Ribeirao_da_Ilha_Florianopolis_SC._%2840864731091%29.jpg",
+      "data": "2018-03-03",
+      "autor": "MTur Destinos",
+      "licenca": "Public domain",
+      "mostra": "Igreja da Lapa e o casario iluminados à noite, na hora azul",
+      "arq": "img/recentes/ribeirao-da-ilha-3.jpg"
+    }
+  ],
+  "pontos_de_vista": [
+    "Deck/pracinha ao lado do Ostradamus: pôr do sol sobre a Baía Sul com as fazendas de ostra",
+    "Largo da Igreja N. S. da Lapa e o casario colorido da Freguesia",
+    "Estrada à beira da baía (Rod. Baldicero Filomeno): as fazendas de ostra e as pequenas praias de água calma"
+  ],
+  "vibe": "Vila açoriana mais isolada e calma que Santo Antônio, voltada para o oeste: pôr do sol com ostra fresca. Domingo os restaurantes fecham cedo.",
+  "fontes": [
+    "https://www.youtube.com/watch?v=zSLiTExqX_M",
+    "https://www.youtube.com/watch?v=FQ5Axcfhva4",
+    "https://www.youtube.com/watch?v=8G8nVOOJ1Ig",
+    "https://www.instagram.com/paroquianossasenhoradalapa/",
+    "https://www.instagram.com/ranchoacoriano/",
+    "https://commons.wikimedia.org/wiki/File:Conjunto_do_Centro_Hist%C3%B3rico_-_Florian%C3%B3polis_-_20230324172958.jpg",
+    "https://commons.wikimedia.org/wiki/File:Caio_Vilela_Ribeirao_da_Ilha_Florianopolis_SC._(40864731091).jpg",
+    "https://commons.wikimedia.org/wiki/File:Igreja_de_Nossa_Senhora_da_Lapa_do_Ribeir%C3%A3o_-_Florian%C3%B3polis_-_20231229130012.jpg"
+  ],
+  "verificado_em": "2026-11-17"
+}

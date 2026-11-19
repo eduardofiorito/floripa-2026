@@ -1,0 +1,88 @@
+{
+  "id": "barra-da-lagoa",
+  "videos": [
+    {
+      "titulo": "BARRA da LAGOA da CONCEIÇÃO | Florianópolis | SC (Aéreas Drone)",
+      "canal": "Imagens Brasil Sul",
+      "url": "https://www.youtube.com/watch?v=BJRBV_zQBnU",
+      "plataforma": "youtube",
+      "publicado": "2025-05-11",
+      "duracao": "2:45",
+      "mostra": "Imagens aéreas de drone da Barra da Lagoa: canal, vila e praia (mai/2025)",
+      "melhor_trecho": null
+    },
+    {
+      "titulo": "Floripa em 4K: Descendo o Morro da Lagoa rumo ao paraíso",
+      "canal": "Motos com Juliano",
+      "url": "https://www.youtube.com/watch?v=V1vQDwYv6tI",
+      "plataforma": "youtube",
+      "publicado": "2026-01-17",
+      "duracao": "17:02",
+      "mostra": "Descida do Morro da Lagoa rumo à Barra em 4K, de moto (jan/2026)",
+      "melhor_trecho": null
+    },
+    {
+      "titulo": "BARRA da LAGOA até a LAGOA da CONCEIÇÃO | Florianópolis | SC (Aéreas Drone)",
+      "canal": "Imagens Brasil Sul",
+      "url": "https://www.youtube.com/watch?v=ftoqZ02r8Pc",
+      "plataforma": "youtube",
+      "publicado": "2023-06-30",
+      "duracao": "3:44",
+      "mostra": "Drone da Barra da Lagoa até a Lagoa da Conceição, seguindo o canal (2023)",
+      "melhor_trecho": null
+    }
+  ],
+  "instagram": [
+    {
+      "tipo": "perfil",
+      "url": "https://www.instagram.com/barradalagoaoficial/",
+      "nota": "Agência e portal 'Barra da Lagoa Oficial': fotos do canal, da praia e da vila"
+    }
+  ],
+  "fotos_commons_recentes": [
+    {
+      "pagina": "https://commons.wikimedia.org/wiki/File:Barra_da_Lagoa,_Florian%C3%B3polis,_SC.jpg",
+      "arquivo_url": "https://upload.wikimedia.org/wikipedia/commons/e/e2/Barra_da_Lagoa%2C_Florian%C3%B3polis%2C_SC.jpg",
+      "data": "2023-04-15",
+      "autor": "Kobreq",
+      "licenca": "CC BY-SA 4.0",
+      "mostra": "Canal da Barra visto de cima: água azul-turquesa e restaurante com deck e guarda-sóis amarelos na beira",
+      "arq": "img/recentes/barra-da-lagoa-1.jpg"
+    },
+    {
+      "pagina": "https://commons.wikimedia.org/wiki/File:Cliff_jumping_near_Barra_da_Lagoa.jpg",
+      "arquivo_url": "https://upload.wikimedia.org/wikipedia/commons/4/4a/Cliff_jumping_near_Barra_da_Lagoa.jpg",
+      "data": "2026-03-07",
+      "autor": "Kurdish.ice.spice",
+      "licenca": "CC BY 4.0",
+      "mostra": "Pessoas saltando das pedras na água perto da Barra da Lagoa ao entardecer, com raios de sol entre as nuvens",
+      "arq": "img/recentes/barra-da-lagoa-2.jpg"
+    },
+    {
+      "pagina": "https://commons.wikimedia.org/wiki/File:Trilha_Boa_Vista.jpg",
+      "arquivo_url": "https://upload.wikimedia.org/wikipedia/commons/8/80/Trilha_Boa_Vista.jpg",
+      "data": "2024-06-02",
+      "autor": "Canalphf",
+      "licenca": "CC BY-SA 4.0",
+      "mostra": "Do Morro da Boa Vista (trilha Barra–Galheta): Praia Mole à esquerda e a Lagoa da Conceição à direita",
+      "arq": "img/recentes/barra-da-lagoa-3.jpg"
+    }
+  ],
+  "pontos_de_vista": [
+    "Rua do canal, no fim da tarde: barcos de pesca coloridos e os restaurantes de frente para a água",
+    "Ponte pênsil sobre o canal: o encontro da Lagoa com o mar",
+    "Mirante da Boa Vista (trilha para a Galheta): a Praia Mole e a Galheta de cima, saindo da Barra",
+    "Areia da praia da Barra: praia longa e calma, com o costão e a vila no canto"
+  ],
+  "vibe": "Vila de pescadores com praia de mar mais manso que a Mole e a Joaquina, famílias e surf de iniciante. É o lugar da sequência de camarão. Em novembro, restaurantes abertos e sem fila de verão.",
+  "fontes": [
+    "https://www.youtube.com/watch?v=BJRBV_zQBnU",
+    "https://www.youtube.com/watch?v=V1vQDwYv6tI",
+    "https://www.youtube.com/watch?v=ftoqZ02r8Pc",
+    "https://www.instagram.com/barradalagoaoficial/",
+    "https://commons.wikimedia.org/wiki/File:Barra_da_Lagoa,_Florian%C3%B3polis,_SC.jpg",
+    "https://commons.wikimedia.org/wiki/File:Cliff_jumping_near_Barra_da_Lagoa.jpg",
+    "https://commons.wikimedia.org/wiki/File:Trilha_Boa_Vista.jpg"
+  ],
+  "verificado_em": "2026-11-17"
+}

@@ -15,6 +15,12 @@ __pycache__/
 
 # dados do Google (termos limitam guardar nota/horários; o place_id vai para as fichas)
 pesquisa/google.json
+pesquisa/opcoes_google.json
+pesquisa/area_google.json
+pesquisa/clima_atual.json
 
 # dados pessoais (endereços das hospedagens etc.)
 privado/
+
+# saídas de build com dados do Google ou imagens embutidas
+dist/

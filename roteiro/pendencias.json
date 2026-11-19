@@ -1,0 +1,102 @@
+[
+  {
+    "id": "p12",
+    "grupo": "agora",
+    "titulo": "Comprar o ingresso do Pátio P12 Sunset",
+    "detalhe": "Comprado.",
+    "prazo": "até qui 19",
+    "acao": {
+      "t": "Comprar no Ingresse",
+      "u": "https://p12.ingresse.com/"
+    },
+    "ate": 21,
+    "feito": true
+  },
+  {
+    "id": "freguesia",
+    "grupo": "agora",
+    "titulo": "Reservar mesa no Freguesia, quarta 25 às 18h20",
+    "detalhe": "Reserva pelo WhatsApp do restaurante. Confirmar que o Festival de Ostras acontece em 25/11.",
+    "prazo": "até sex 20",
+    "acao": {
+      "t": "Ver contato",
+      "l": "santo-antonio-de-lisboa"
+    },
+    "ate": 25
+  },
+  {
+    "id": "kart",
+    "grupo": "agora",
+    "titulo": "Confirmar o kart na terça 24 às 19h",
+    "detalhe": "Confirmado: ter 24, 19h–19h30.",
+    "prazo": "até sex 20",
+    "acao": {
+      "t": "Ver contato",
+      "l": "kart-ingleses"
+    },
+    "ate": 24,
+    "feito": true
+  },
+  {
+    "id": "campeira",
+    "grupo": "agora",
+    "titulo": "Festa Campeira do Boni (dom 22): pode ir sem traje campeiro?",
+    "detalhe": "O convite pede bota e chapéu; ninguém quer comprar. Perguntar no Instagram antes de decidir. Se não rolar, a noite fica no samba do O Araçá.",
+    "prazo": "quando abrir",
+    "acao": {
+      "t": "Perguntar no Instagram",
+      "u": "https://www.instagram.com/bardoboni/"
+    },
+    "ate": 22
+  },
+  {
+    "id": "boni-aberto",
+    "grupo": "agora",
+    "titulo": "Confirmar que o Bar do Boni segue aberto",
+    "detalhe": "Confirmado em 19/11: o Bar do Boni segue funcionando. Ir ou não fica em aberto.",
+    "prazo": "até qui 19",
+    "acao": {
+      "t": "Ver no Instagram",
+      "u": "https://www.instagram.com/bardoboni/"
+    },
+    "ate": 26,
+    "feito": true
+  },
+  {
+    "id": "lagoinha",
+    "grupo": "previsao",
+    "titulo": "Lagoinha no sábado 21: travessia ou pelo Pântano",
+    "detalhe": "Decidido: pelo Pântano do Sul, sábado de manhã.",
+    "prazo": "qui 19",
+    "ate": 21,
+    "feito": true
+  },
+  {
+    "id": "sab28",
+    "grupo": "previsao",
+    "titulo": "Manhã do sábado 28: Matadeiro, Naufragados ou leste",
+    "detalhe": "Os corredores decidem, véspera da prova.",
+    "prazo": "sex 27",
+    "ate": 28
+  },
+  {
+    "id": "dunas",
+    "grupo": "previsao",
+    "titulo": "Dunas na segunda 23 se o fim de semana molhar",
+    "detalhe": "Expediente da segunda vira 8h–17h para o sandboard às 17h30.",
+    "prazo": "dom 22",
+    "ate": 23
+  },
+  {
+    "id": "wellhub",
+    "grupo": "aberto",
+    "titulo": "Qual plano do Wellhub cada um tem",
+    "detalhe": "Silver usa a AktionPaz. Silver+ também usa a Forma Fitness. Basic fica sem academia na Lagoa.",
+    "prazo": "até qui 19",
+    "acao": {
+      "t": "Ver academia",
+      "l": "aktionpaz-lagoa"
+    },
+    "ate": 27
+  }
+]

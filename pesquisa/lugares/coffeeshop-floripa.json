@@ -1,0 +1,72 @@
+{
+  "id": "coffeeshop-floripa",
+  "nome": "Coffeeshop Floripa",
+  "categoria": "noite",
+  "regiao": "leste-lagoa",
+  "resumo": "Casa noturna pequena no Centrinho, na mesma rua do O Araçá e do Liffey. Dá para ir a pé e voltar a pé.",
+  "destaques": [
+    "A pé da casa",
+    "Na rua dos bares do Centrinho (Manoel Severino de Oliveira)"
+  ],
+  "coords": {
+    "lat": -27.6045482,
+    "lng": -48.4675925,
+    "fonte": "OSM Nominatim (building=retail)",
+    "ponto": "R. Manoel Severino de Oliveira, 592, Lagoa da Conceição"
+  },
+  "endereco": "R. Manoel Severino de Oliveira, 592, Lagoa da Conceição",
+  "links": {
+    "google_maps": null,
+    "waze": null,
+    "site": null,
+    "instagram": null,
+    "ingressos": null,
+    "reserva": null
+  },
+  "nota_google": null,
+  "outras_notas": [],
+  "da_lagoa": {
+    "tempo_min": 2,
+    "km": 0.4,
+    "obs": "A pé do Centrinho"
+  },
+  "estacionamento": "Ir de Uber ou a pé: noite com bebida",
+  "horarios": "segunda: Fechado; terça: Fechado; quarta: Fechado; quinta: 22:00 – 04:00; sexta: 22:00 – 04:00; sábado: 22:00 – 04:00; domingo: Fechado",
+  "precos": "Entrada varia",
+  "melhor_horario": "Depois das 23h",
+  "duracao": "a noite",
+  "trilha": {
+    "distancia_km": null,
+    "tempo_ida_min": null,
+    "desnivel_m": null,
+    "dificuldade": null,
+    "inicio": null,
+    "sinalizacao": null
+  },
+  "o_que_levar": [
+    "documento original (18+)"
+  ],
+  "cuidados": [
+    "Documento original"
+  ],
+  "clima": {
+    "sensivel_a": [],
+    "plano_b": "Casa fechada"
+  },
+  "publico": "20–30",
+  "combina_com": [],
+  "encaixe": [
+    "noite"
+  ],
+  "fotos": [],
+  "dicas": [
+    "Combina com esquenta no Liffey ou no Quintal, na mesma quadra"
+  ],
+  "fontes": [],
+  "verificado_em": "2026-11-17",
+  "confianca": "média",
+  "pendencias": [
+    "Programação da semana no Instagram da casa"
+  ],
+  "google_consulta": "Coffeeshop Floripa Lagoa da Conceição"
+}

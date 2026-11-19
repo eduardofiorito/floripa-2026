@@ -1,0 +1,19 @@
+{
+ "name": "Floripa 20–29 nov",
+ "short_name": "Floripa",
+ "lang": "pt-BR",
+ "start_url": ".",
+ "scope": ".",
+ "display": "standalone",
+ "background_color": "#F3F6EF",
+ "theme_color": "#F08A00",
+ "description": "Roteiro do grupo em Florianópolis, 20 a 29 de novembro de 2026: dia a dia com plano de sol e de chuva, lugares, mapa e trilhas com GPX.",
+ "icons": [
+  {
+   "src": "icone.svg",
+   "sizes": "any",
+   "type": "image/svg+xml",
+   "purpose": "any"
+  }
+ ]
+}

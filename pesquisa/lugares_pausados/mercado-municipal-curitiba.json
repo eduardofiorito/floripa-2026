@@ -1,0 +1,93 @@
+{
+  "id": "mercado-municipal-curitiba",
+  "nome": "Mercado Municipal de Curitiba",
+  "categoria": "comida",
+  "regiao": "estrada",
+  "cidade": "Curitiba",
+  "resumo": "Mercado coberto no Centro de Curitiba, com boxes de comida, empórios, café e a praça de alimentação no mezanino. Dá para cada um comer o que quiser e esticar as pernas antes da segunda metade da estrada.",
+  "destaques": [
+    "Praça de alimentação com várias cozinhas no mesmo lugar",
+    "Empórios de queijo, embutido e café para levar",
+    "Estacionamento próprio",
+    "A 3 km do Jardim Botânico"
+  ],
+  "coords": {
+    "lat": -25.434303,
+    "lng": -49.2575429,
+    "fonte": "OSM Nominatim (amenity=bicycle_rental)",
+    "ponto": "entrada pela Av. Sete de Setembro"
+  },
+  "endereco": "Av. Sete de Setembro, 1865, Centro, Curitiba (PR)",
+  "links": {
+    "google_maps": null,
+    "waze": "https://waze.com/ul?ll=-25.434303,-49.2575429&navigate=yes",
+    "site": null,
+    "instagram": null,
+    "ingressos": null,
+    "reserva": null
+  },
+  "nota_google": null,
+  "outras_notas": [],
+  "da_lagoa": null,
+  "estrada": {
+    "trecho": "ida",
+    "quando": "sex 20, almoço por volta das 12h30",
+    "desvio": "+25 min de carro",
+    "rota": "sai do Contorno Leste em direção ao Centro"
+  },
+  "estacionamento": "Estacionamento próprio (conferir preço na entrada)",
+  "horarios": "Ter a sáb 8h–18h, dom 8h–13h, fechado às segundas. No feriado de 2024 e 2025 abriu só até 13h",
+  "precos": "Preço de praça de alimentação; empórios variados",
+  "melhor_horario": "Até 13h, por causa do horário de feriado",
+  "duracao": "1h–1h30",
+  "trilha": {
+    "distancia_km": null,
+    "tempo_ida_min": null,
+    "desnivel_m": null,
+    "dificuldade": null,
+    "inicio": null,
+    "sinalizacao": null
+  },
+  "o_que_levar": [
+    "sacola para levar compras do empório"
+  ],
+  "cuidados": [
+    "Se chegarem depois das 13h, ele pode estar fechado: ter o plano B do Madalosso ou da estrada"
+  ],
+  "clima": {
+    "sensivel_a": [],
+    "plano_b": "É coberto"
+  },
+  "publico": "Moradores e turistas",
+  "combina_com": [],
+  "encaixe": [
+    "viagem-de-carro"
+  ],
+  "fotos": [
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/5/5d/Mercado_Municipal_de_Curitiba_PR_-_panoramio.jpg",
+      "pagina": "https://commons.wikimedia.org/wiki/File:Mercado_Municipal_de_Curitiba_PR_-_panoramio.jpg",
+      "autor": "Paulo JC Nogueira",
+      "licenca": "CC BY-SA 3.0"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/c/cc/RenatoSoares_MercadoMunicipal_Curitiba_PR_%2826275540647%29.jpg",
+      "pagina": "https://commons.wikimedia.org/wiki/File:RenatoSoares_MercadoMunicipal_Curitiba_PR_(26275540647).jpg",
+      "autor": "MTur Destinos",
+      "licenca": "Public domain"
+    }
+  ],
+  "dicas": [
+    "Combinar o almoço aqui com 30 min no Jardim Botânico custa ~30 min de carro a mais no total"
+  ],
+  "fontes": [
+    "https://www.bemparana.com.br/noticias/parana/veja-o-que-abre-e-fecha-e-os-horarios-de-funcionamento-dos-onibus-de-curitiba-no-feriado/",
+    "https://www.tribunapr.com.br/noticias/curitiba-regiao/feriado-em-curitiba-veja-o-que-abre-e-fecha-no-dia-da-consciencia-negra-nesta-quarta/"
+  ],
+  "verificado_em": "2026-11-17",
+  "confianca": "média",
+  "pendencias": [
+    "Horário no feriado de 20/11/2026 (sai perto da data no site da prefeitura)"
+  ],
+  "google_consulta": "Mercado Municipal de Curitiba"
+}

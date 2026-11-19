@@ -1,0 +1,55 @@
+{
+  "id": "bar-do-boni",
+  "videos": [
+    {
+      "titulo": "O melhor Pôr do sol da Lagoa da Conceição! Bar e restaurante do Boni",
+      "canal": "Navega Brasil Films",
+      "url": "https://www.youtube.com/watch?v=8Yev-2ynUDA",
+      "plataforma": "youtube",
+      "publicado": "2017-11-23",
+      "duracao": "2:03",
+      "mostra": "Pôr do sol na Lagoa visto do Bar do Boni (antigo, mas é exatamente a vista)",
+      "melhor_trecho": null
+    },
+    {
+      "titulo": "Justiça Federal determina demolição do Bar do Boni na Lagoa da Conceição",
+      "canal": "Balanço Geral Florianópolis",
+      "url": "https://www.youtube.com/watch?v=kPqShjx67Ek",
+      "plataforma": "youtube",
+      "publicado": "2025-08-25",
+      "duracao": "1:24",
+      "mostra": "Reportagem sobre a ordem de demolição do bar",
+      "melhor_trecho": null
+    }
+  ],
+  "instagram": [
+    {
+      "tipo": "perfil",
+      "url": "https://www.instagram.com/bardoboni/",
+      "nota": "Perfil oficial do Bar do Boni (Lagoa): agenda de música ao vivo e fotos do pôr do sol na Lagoa"
+    }
+  ],
+  "fotos_commons_recentes": [
+    {
+      "pagina": "https://commons.wikimedia.org/wiki/File:Boni_to_lago_(16744531310).jpg",
+      "arquivo_url": "https://upload.wikimedia.org/wikipedia/commons/9/90/Boni_to_lago_%2816744531310%29.jpg",
+      "data": "2015-03-18",
+      "autor": "Papa Pic from Eldorado, Argentina",
+      "licenca": "CC0",
+      "mostra": "Vista da Lagoa da Conceição a partir do Bar do Boni",
+      "arq": "img/recentes/bar-do-boni-1.jpg"
+    }
+  ],
+  "pontos_de_vista": [
+    "Mesas na beira da Lagoa, no Retiro: o sol caindo atrás do morro do outro lado da água (~18h50)",
+    "Palco à noite: o bar cheio com música ao vivo"
+  ],
+  "vibe": "Bar clássico de beira de Lagoa, mistura de turistas e locais, que lota no fim de tarde. Há decisão da Justiça Federal mandando demolir o bar (reportagens em vídeo); conferir se segue aberto antes de ir.",
+  "fontes": [
+    "https://www.youtube.com/watch?v=8Yev-2ynUDA",
+    "https://www.youtube.com/watch?v=kPqShjx67Ek",
+    "https://www.instagram.com/bardoboni/",
+    "https://commons.wikimedia.org/wiki/File:Boni_to_lago_(16744531310).jpg"
+  ],
+  "verificado_em": "2026-11-17"
+}

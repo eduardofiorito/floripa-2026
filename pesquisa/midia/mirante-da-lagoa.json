@@ -1,0 +1,77 @@
+{
+  "id": "mirante-da-lagoa",
+  "videos": [
+    {
+      "titulo": "SUBIMOS O MORRO DA LAGOA ATÉ O MIRANTE PELO LADO MAIS DIFÍCIL",
+      "canal": "Minha Bike Life Style",
+      "url": "https://www.youtube.com/watch?v=jaJ5kuCvJBU",
+      "plataforma": "youtube",
+      "publicado": "2026-05-03",
+      "duracao": "31:50",
+      "mostra": "Subida de bicicleta até o mirante do Morro da Lagoa (mai/2026)",
+      "melhor_trecho": null
+    },
+    {
+      "titulo": "MIRANTE DA LAGOA DA CONCEIÇÃO - TURISMO EM FLORIANÓPOLIS - SANTA CATARINA",
+      "canal": "Fabio de Aragão",
+      "url": "https://www.youtube.com/watch?v=ch9e1A2A3J8",
+      "plataforma": "youtube",
+      "publicado": "2023-12-15",
+      "duracao": "6:06",
+      "mostra": "O Mirante da Lagoa e a vista (dez/2023)",
+      "melhor_trecho": null
+    },
+    {
+      "titulo": "FIM de TADE MORRO da LAGOA/Florianópolis/SC.",
+      "canal": "MAGIA DRONE Imagens Aéreas",
+      "url": "https://www.youtube.com/watch?v=SPrMsvQPTRM",
+      "plataforma": "youtube",
+      "publicado": "2017-12-24",
+      "duracao": "1:51",
+      "mostra": "Fim de tarde no Morro da Lagoa filmado de drone (2017)",
+      "melhor_trecho": null
+    }
+  ],
+  "instagram": [
+    {
+      "tipo": "perfil",
+      "url": "https://www.instagram.com/mirantedomorrodalagoada/",
+      "nota": "Perfil pequeno dedicado ao mirante do Morro da Lagoa: mostra a vista em várias horas do dia"
+    }
+  ],
+  "fotos_commons_recentes": [
+    {
+      "pagina": "https://commons.wikimedia.org/wiki/File:Praias_e_Dunas_de_Florian%C3%B3pilis_01.jpg",
+      "arquivo_url": "https://upload.wikimedia.org/wikipedia/commons/f/fe/Praias_e_Dunas_de_Florian%C3%B3pilis_01.jpg",
+      "data": "2015-05-16",
+      "autor": "Maikon Almeida",
+      "licenca": "CC BY-SA 4.0",
+      "mostra": "Vista do mirante: a Lagoa da Conceição, o bairro embaixo, as dunas da Joaquina e o mar ao fundo",
+      "arq": "img/recentes/mirante-da-lagoa-1.jpg"
+    },
+    {
+      "pagina": "https://commons.wikimedia.org/wiki/File:Praias_e_Dunas_de_Florian%C3%B3pilis_04.jpg",
+      "arquivo_url": "https://upload.wikimedia.org/wikipedia/commons/e/ea/Praias_e_Dunas_de_Florian%C3%B3pilis_04.jpg",
+      "data": "2015-05-16",
+      "autor": "Maikon Almeida",
+      "licenca": "CC BY-SA 4.0",
+      "mostra": "Joaquina, Lagoa e dunas vistas do mirante (mesma série)",
+      "arq": "img/recentes/mirante-da-lagoa-2.jpg"
+    }
+  ],
+  "pontos_de_vista": [
+    "Deque do mirante (reformado em 2026): a Lagoa inteira, o Centrinho, as dunas da Joaquina e o mar ao fundo",
+    "Ao entardecer: luz dourada nas dunas e as luzes do Centrinho acendendo",
+    "Acesso às rampas de voo livre, atrás do mirante: a mesma vista mais alta, com parapentes"
+  ],
+  "vibe": "Parada de 15 min à beira da SC-404, de graça, a 5 min do Centrinho. Vista-cartão-postal da Lagoa; com o deque e a iluminação novos, dá para ir à noite.",
+  "fontes": [
+    "https://www.youtube.com/watch?v=jaJ5kuCvJBU",
+    "https://www.youtube.com/watch?v=ch9e1A2A3J8",
+    "https://www.youtube.com/watch?v=SPrMsvQPTRM",
+    "https://www.instagram.com/mirantedomorrodalagoada/",
+    "https://commons.wikimedia.org/wiki/File:Praias_e_Dunas_de_Florian%C3%B3pilis_01.jpg",
+    "https://commons.wikimedia.org/wiki/File:Praias_e_Dunas_de_Florian%C3%B3pilis_04.jpg"
+  ],
+  "verificado_em": "2026-11-17"
+}

@@ -1,0 +1,77 @@
+{
+  "id": "morro-das-pedras",
+  "videos": [
+    {
+      "titulo": "Morro das Pedras: uma praia pouco conhecida em Florianopolis",
+      "canal": "Viagens com Rossi",
+      "url": "https://www.youtube.com/watch?v=zI49fI9O_XU",
+      "plataforma": "youtube",
+      "publicado": "2024-02-02",
+      "duracao": "30:06",
+      "mostra": "Vlog longo na praia do Morro das Pedras",
+      "melhor_trecho": null
+    },
+    {
+      "titulo": "Conheça a praia do Morro das Pedras, sul da ilha de Floripa  (2023) - [4K]",
+      "canal": "Dale Tripz - Viagens by Mi & Rapha",
+      "url": "https://www.youtube.com/watch?v=eSkFgDrC16g",
+      "plataforma": "youtube",
+      "publicado": "2023-01-03",
+      "duracao": "3:37",
+      "mostra": "A praia do Morro das Pedras em 4K",
+      "melhor_trecho": null
+    },
+    {
+      "titulo": "Altas ondas no Morro das Pedras, Florianópolis (SC)",
+      "canal": "SURFE TV",
+      "url": "https://www.youtube.com/watch?v=S0QsmKYL-XA",
+      "plataforma": "youtube",
+      "publicado": "2023-09-03",
+      "duracao": "3:43",
+      "mostra": "Ondas grandes no Morro das Pedras",
+      "melhor_trecho": null
+    }
+  ],
+  "instagram": [
+    {
+      "tipo": "perfil",
+      "url": "https://www.instagram.com/praiadomorrodaspedras/",
+      "nota": "Perfil da Praia do Morro das Pedras: fotos do costão, das ondas e da região"
+    }
+  ],
+  "fotos_commons_recentes": [
+    {
+      "pagina": "https://commons.wikimedia.org/wiki/File:Praia_da_Arma%C3%A7%C3%A3o_-_Vista_do_Mirante_do_Morro_das_Pedras.jpg",
+      "arquivo_url": "https://upload.wikimedia.org/wikipedia/commons/8/8f/Praia_da_Arma%C3%A7%C3%A3o_-_Vista_do_Mirante_do_Morro_das_Pedras.jpg",
+      "data": "2017-06-10",
+      "autor": "AlexandreMachado",
+      "licenca": "CC BY-SA 4.0",
+      "mostra": "Do mirante do Morro das Pedras: a Praia da Armação, no limite do parque da Lagoa do Peri",
+      "arq": "img/recentes/morro-das-pedras-1.jpg"
+    },
+    {
+      "pagina": "https://commons.wikimedia.org/wiki/File:%C3%81rea_de_preserva%C3%A7%C3%A3o_da_Lagoa_do_Peri.jpg",
+      "arquivo_url": "https://upload.wikimedia.org/wikipedia/commons/7/74/%C3%81rea_de_preserva%C3%A7%C3%A3o_da_Lagoa_do_Peri.jpg",
+      "data": "2017-06-10",
+      "autor": "AlexandreMachado",
+      "licenca": "CC BY-SA 4.0",
+      "mostra": "Do mesmo mirante: a área de preservação da Lagoa do Peri",
+      "arq": "img/recentes/morro-das-pedras-2.jpg"
+    }
+  ],
+  "pontos_de_vista": [
+    "Mirante à beira da SC-406: Praia da Armação, Matadeiro e a mata da Lagoa do Peri, a vista mais ampla do sul",
+    "Do mesmo mirante, para o outro lado: a praia longa do Morro das Pedras e do Campeche",
+    "Costão de pedras na beira da rodovia: ondas grandes batendo, bom em dia de swell"
+  ],
+  "vibe": "Parada rápida de 20–30 min no caminho do sul, de graça. A praia é de mar forte e surf, sem muita estrutura.",
+  "fontes": [
+    "https://www.youtube.com/watch?v=zI49fI9O_XU",
+    "https://www.youtube.com/watch?v=eSkFgDrC16g",
+    "https://www.youtube.com/watch?v=S0QsmKYL-XA",
+    "https://www.instagram.com/praiadomorrodaspedras/",
+    "https://commons.wikimedia.org/wiki/File:Praia_da_Arma%C3%A7%C3%A3o_-_Vista_do_Mirante_do_Morro_das_Pedras.jpg",
+    "https://commons.wikimedia.org/wiki/File:%C3%81rea_de_preserva%C3%A7%C3%A3o_da_Lagoa_do_Peri.jpg"
+  ],
+  "verificado_em": "2026-11-17"
+}

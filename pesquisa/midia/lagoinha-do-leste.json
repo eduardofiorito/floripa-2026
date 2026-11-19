@@ -1,0 +1,94 @@
+{
+  "id": "lagoinha-do-leste",
+  "videos": [
+    {
+      "titulo": "LAGOINHA DO LESTE em Floripa (tudo que você precisa saber!)",
+      "canal": "Rolê Família",
+      "url": "https://www.youtube.com/watch?v=xtXzOpOQMcA",
+      "plataforma": "youtube",
+      "publicado": "2025-01-26",
+      "duracao": "15:37",
+      "mostra": "Guia completo da Lagoinha do Leste: trilha, praia e Morro da Coroa (jan/2025)",
+      "melhor_trecho": null
+    },
+    {
+      "titulo": "Trilha Matadeiro à Lagoinha do Leste - Florianópolis/SC - A trilha mais linda do Sul da Ilha.",
+      "canal": "Caminhos_Encontros e Encantos",
+      "url": "https://www.youtube.com/watch?v=qvnPlx4AwTM",
+      "plataforma": "youtube",
+      "publicado": "2025-01-19",
+      "duracao": "23:57",
+      "mostra": "Trilha costeira Matadeiro → Lagoinha do Leste completa (jan/2025)",
+      "melhor_trecho": null
+    },
+    {
+      "titulo": "Lagoinha do Leste: Guia Completo das Trilhas, Mirantes e Alertas (Florianópolis)",
+      "canal": "Danilo Santana (@casalviajanteuai)",
+      "url": "https://www.youtube.com/watch?v=cgYBE80hy7A",
+      "plataforma": "youtube",
+      "publicado": "2025-12-17",
+      "duracao": "6:10",
+      "mostra": "Guia rápido das trilhas, mirantes e alertas da Lagoinha (dez/2025)",
+      "melhor_trecho": null
+    }
+  ],
+  "instagram": [
+    {
+      "tipo": "perfil",
+      "url": "https://www.instagram.com/lagoinhadoleste/",
+      "nota": "Perfil da Lagoinha do Leste: fotos da lagoa, da praia e do Morro da Coroa, com dicas de trilha e barco"
+    },
+    {
+      "tipo": "perfil",
+      "url": "https://www.instagram.com/toatoalagoinha/",
+      "nota": "TOATOA Lagoinha do Leste: barco e surftrip para a praia, alternativa à trilha"
+    }
+  ],
+  "fotos_commons_recentes": [
+    {
+      "pagina": "https://commons.wikimedia.org/wiki/File:A_praia_de_cima.jpg",
+      "arquivo_url": "https://upload.wikimedia.org/wikipedia/commons/a/a7/A_praia_de_cima.jpg",
+      "data": "2017-01-14",
+      "autor": "Rodrigo de Pinho Franco",
+      "licenca": "CC BY-SA 4.0",
+      "mostra": "A vista clássica do Morro da Coroa: a praia da Lagoinha em arco, a lagoa atrás da areia e o mar azul",
+      "arq": "img/recentes/lagoinha-do-leste-1.jpg"
+    },
+    {
+      "pagina": "https://commons.wikimedia.org/wiki/File:Praia_Lagoinha_do_leste_SC.jpg",
+      "arquivo_url": "https://upload.wikimedia.org/wikipedia/commons/4/45/Praia_Lagoinha_do_leste_SC.jpg",
+      "data": "2019-01-01",
+      "autor": "Caleb Pedroso",
+      "licenca": "CC BY-SA 4.0",
+      "mostra": "Praia da Lagoinha do Leste em meio à Mata Atlântica",
+      "arq": "img/recentes/lagoinha-do-leste-2.jpg"
+    },
+    {
+      "pagina": "https://commons.wikimedia.org/wiki/File:Parque_Natural_Municipal_da_Lagoinha_do_Leste_(01).jpg",
+      "arquivo_url": "https://upload.wikimedia.org/wikipedia/commons/f/fb/Parque_Natural_Municipal_da_Lagoinha_do_Leste_%2801%29.jpg",
+      "data": "2018-09-22",
+      "autor": "DouglasSchifter",
+      "licenca": "CC BY-SA 4.0",
+      "mostra": "Parque Natural Municipal da Lagoinha do Leste",
+      "arq": "img/recentes/lagoinha-do-leste-3.jpg"
+    }
+  ],
+  "pontos_de_vista": [
+    "Topo do Morro da Coroa (Pedra do Surfista): a foto famosa, com a lagoa verde, a faixa de areia e o mar azul",
+    "Chegada pela trilha do Pântano do Sul: a praia aparece de repente lá embaixo, entre a mata",
+    "Costão na trilha pelo Matadeiro: o litoral recortado do sul",
+    "Beira da lagoa, atrás da praia: água calma e escura com o morro refletido"
+  ],
+  "vibe": "A praia mais bonita do sul que só se alcança a pé ou de barco: sem bar nem casa, mar aberto forte e uma lagoa calma atrás. Em novembro a trilha fica mais vazia que no verão; não ir sozinho e levar água.",
+  "fontes": [
+    "https://www.youtube.com/watch?v=xtXzOpOQMcA",
+    "https://www.youtube.com/watch?v=qvnPlx4AwTM",
+    "https://www.youtube.com/watch?v=cgYBE80hy7A",
+    "https://www.instagram.com/lagoinhadoleste/",
+    "https://www.instagram.com/toatoalagoinha/",
+    "https://commons.wikimedia.org/wiki/File:A_praia_de_cima.jpg",
+    "https://commons.wikimedia.org/wiki/File:Praia_Lagoinha_do_leste_SC.jpg",
+    "https://commons.wikimedia.org/wiki/File:Parque_Natural_Municipal_da_Lagoinha_do_Leste_(01).jpg"
+  ],
+  "verificado_em": "2026-11-17"
+}

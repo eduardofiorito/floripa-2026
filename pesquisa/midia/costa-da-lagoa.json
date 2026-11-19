@@ -1,0 +1,88 @@
+{
+  "id": "costa-da-lagoa",
+  "videos": [
+    {
+      "titulo": "Essa trilha em Florianópolis é INCRÍVEL Costa da Lagoa",
+      "canal": "Arthur e Lika na Viagem",
+      "url": "https://www.youtube.com/watch?v=AZ0qnX1vreE",
+      "plataforma": "youtube",
+      "publicado": "2025-07-24",
+      "duracao": "30:31",
+      "mostra": "Trilha da Costa da Lagoa completa (jul/2025)",
+      "melhor_trecho": null
+    },
+    {
+      "titulo": "COSTA DA LAGOA fomos de trilha e voltamos de barco",
+      "canal": "DNA RKF",
+      "url": "https://www.youtube.com/watch?v=-phH8MG17f4",
+      "plataforma": "youtube",
+      "publicado": "2025-03-18",
+      "duracao": "17:42",
+      "mostra": "Ida de trilha e volta de barco pela Costa da Lagoa (mar/2025)",
+      "melhor_trecho": null
+    },
+    {
+      "titulo": "COSTA DA LAGOA: passeio de barco IMPERDÍVEL em FLORIPA",
+      "canal": "Vou Levar Na Viagem",
+      "url": "https://www.youtube.com/watch?v=nZAcEI8rUFA",
+      "plataforma": "youtube",
+      "publicado": "2024-01-16",
+      "duracao": "13:08",
+      "mostra": "Passeio de barco pela Costa da Lagoa (jan/2024)",
+      "melhor_trecho": null
+    }
+  ],
+  "instagram": [
+    {
+      "tipo": "perfil",
+      "url": "https://www.instagram.com/cooperbarcofloripa/",
+      "nota": "Cooperbarco: horários e fotos da travessia de barco pela Lagoa"
+    }
+  ],
+  "fotos_commons_recentes": [
+    {
+      "pagina": "https://commons.wikimedia.org/wiki/File:Costa_da_lagoa_1.jpg",
+      "arquivo_url": "https://upload.wikimedia.org/wikipedia/commons/c/c8/Costa_da_lagoa_1.jpg",
+      "data": "2019-06-10",
+      "autor": "Andreacristinatrentini",
+      "licenca": "CC BY-SA 4.0",
+      "mostra": "Trapiche de madeira na Costa da Lagoa: a Lagoa azul e a mata descendo até a água",
+      "arq": "img/recentes/costa-da-lagoa-1.jpg"
+    },
+    {
+      "pagina": "https://commons.wikimedia.org/wiki/File:Canal_da_Barra_e_Costa_da_Lagoa.jpg",
+      "arquivo_url": "https://upload.wikimedia.org/wikipedia/commons/b/b9/Canal_da_Barra_e_Costa_da_Lagoa.jpg",
+      "data": "2019-01-12",
+      "autor": "Samii.jpeg",
+      "licenca": "CC BY-SA 4.0",
+      "mostra": "Canal da Barra da Lagoa e a Costa da Lagoa vistos do Campo Arqueoastronômico, no morro da Galheta",
+      "arq": "img/recentes/costa-da-lagoa-2.jpg"
+    },
+    {
+      "pagina": "https://commons.wikimedia.org/wiki/File:Vista_para_a_Lagoa_da_Concei%C3%A7ao_pela_trilha_da_Costa_da_Lagoa.jpg",
+      "arquivo_url": "https://upload.wikimedia.org/wikipedia/commons/e/e5/Vista_para_a_Lagoa_da_Concei%C3%A7ao_pela_trilha_da_Costa_da_Lagoa.jpg",
+      "data": "2014-04-20",
+      "autor": "Catarina Saito",
+      "licenca": "CC BY-SA 4.0",
+      "mostra": "A Lagoa vista da trilha da Costa da Lagoa",
+      "arq": "img/recentes/costa-da-lagoa-3.jpg"
+    }
+  ],
+  "pontos_de_vista": [
+    "Do barco, saindo do Terminal Lacustre: a Lagoa aberta com o Morro da Lagoa e as dunas atrás",
+    "Cachoeira da Costa da Lagoa, perto do Ponto 16: queda de 5–8 m na mata",
+    "Decks dos restaurantes na água ao entardecer",
+    "Trilha desde o Canto dos Araçás: a Lagoa entre as árvores e as casinhas de pescador"
+  ],
+  "vibe": "Comunidade sem carro, só barco ou trilha, com peixe fresco em deck na água. Passeio calmo de meio dia; confirmar o último barco de volta.",
+  "fontes": [
+    "https://www.youtube.com/watch?v=AZ0qnX1vreE",
+    "https://www.youtube.com/watch?v=-phH8MG17f4",
+    "https://www.youtube.com/watch?v=nZAcEI8rUFA",
+    "https://www.instagram.com/cooperbarcofloripa/",
+    "https://commons.wikimedia.org/wiki/File:Costa_da_lagoa_1.jpg",
+    "https://commons.wikimedia.org/wiki/File:Canal_da_Barra_e_Costa_da_Lagoa.jpg",
+    "https://commons.wikimedia.org/wiki/File:Vista_para_a_Lagoa_da_Concei%C3%A7ao_pela_trilha_da_Costa_da_Lagoa.jpg"
+  ],
+  "verificado_em": "2026-11-17"
+}

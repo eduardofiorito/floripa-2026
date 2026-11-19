@@ -1,0 +1,69 @@
+{
+  "id": "praia-do-campeche",
+  "videos": [
+    {
+      "titulo": "🇧🇷 Beach Walk👣【4K】Campeche 🌞 Florianópolis - Brazil - 2022",
+      "canal": "Enjoy the Walk!👣",
+      "url": "https://www.youtube.com/watch?v=pHl-VOCuhKw",
+      "plataforma": "youtube",
+      "publicado": "2022-03-04",
+      "duracao": "11:11",
+      "mostra": "Caminhada 4K pela areia da Praia do Campeche",
+      "melhor_trecho": null
+    },
+    {
+      "titulo": "PRAIA DO CAMPECHE | FLORIANÓPOLIS",
+      "canal": "Diego Floripano",
+      "url": "https://www.youtube.com/watch?v=BlDuAf6-kWc",
+      "plataforma": "youtube",
+      "publicado": "2022-01-04",
+      "duracao": "7:17",
+      "mostra": "Praia do Campeche",
+      "melhor_trecho": null
+    }
+  ],
+  "instagram": [],
+  "fotos_commons_recentes": [
+    {
+      "pagina": "https://commons.wikimedia.org/wiki/File:Ilhas_dos_Moleques_do_Sul.jpg",
+      "arquivo_url": "https://upload.wikimedia.org/wikipedia/commons/d/d8/Ilhas_dos_Moleques_do_Sul.jpg",
+      "data": "2026-01-25",
+      "autor": "Ricardosdag",
+      "licenca": "CC BY-SA 4.0",
+      "mostra": "Barcos de pesca na água verde-azulada da Praia do Campeche, com as Ilhas dos Moleques do Sul ao fundo",
+      "arq": "img/recentes/praia-do-campeche-1.jpg"
+    },
+    {
+      "pagina": "https://commons.wikimedia.org/wiki/File:Caio_Vilela_Campeche_Florianopolis_SC_(40823465522).jpg",
+      "arquivo_url": "https://upload.wikimedia.org/wikipedia/commons/5/53/Caio_Vilela_Campeche_Florianopolis_SC_%2840823465522%29.jpg",
+      "data": "2018-02-24",
+      "autor": "MTur Destinos",
+      "licenca": "Public domain",
+      "mostra": "Praia do Campeche (foto do Ministério do Turismo, fev/2018)",
+      "arq": "img/recentes/praia-do-campeche-2.jpg"
+    },
+    {
+      "pagina": "https://commons.wikimedia.org/wiki/File:Campeche-Floripa.jpg",
+      "arquivo_url": "https://upload.wikimedia.org/wikipedia/commons/7/77/Campeche-Floripa.jpg",
+      "data": "2019",
+      "autor": "SolangeZ",
+      "licenca": "CC BY-SA 4.0",
+      "mostra": "Praia do Campeche ao amanhecer",
+      "arq": "img/recentes/praia-do-campeche-3.jpg"
+    }
+  ],
+  "pontos_de_vista": [
+    "Areia em frente à Av. Pequeno Príncipe: a Ilha do Campeche bem à frente, a vista-assinatura",
+    "Amanhecer na praia: sol nascendo atrás da Ilha do Campeche",
+    "Para o sul, na areia: as Ilhas dos Moleques do Sul no horizonte"
+  ],
+  "vibe": "Praião urbano de areia branca e mar aberto bom de surf, com restaurantes na Av. Pequeno Príncipe. Em novembro tem gente de fim de semana mas muita areia livre; mar com correnteza.",
+  "fontes": [
+    "https://www.youtube.com/watch?v=pHl-VOCuhKw",
+    "https://www.youtube.com/watch?v=BlDuAf6-kWc",
+    "https://commons.wikimedia.org/wiki/File:Ilhas_dos_Moleques_do_Sul.jpg",
+    "https://commons.wikimedia.org/wiki/File:Caio_Vilela_Campeche_Florianopolis_SC_(40823465522).jpg",
+    "https://commons.wikimedia.org/wiki/File:Campeche-Floripa.jpg"
+  ],
+  "verificado_em": "2026-11-17"
+}

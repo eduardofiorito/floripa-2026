@@ -1,0 +1,73 @@
+{
+  "id": "santa-club-lagoa",
+  "nome": "Santa Club Lagoa",
+  "categoria": "noite",
+  "regiao": "leste-lagoa",
+  "resumo": "Balada no começo da Av. das Rendeiras, a poucos minutos do Centrinho. Abre tarde e vai até de manhã no fim de semana.",
+  "destaques": [
+    "Pista até 5h no sábado",
+    "A ~1 km do Centrinho",
+    "Perto do John Bull e do Espartano"
+  ],
+  "coords": {
+    "lat": -27.607503,
+    "lng": -48.4598634,
+    "fonte": "OSM Nominatim (amenity=nightclub)",
+    "ponto": "Av. das Rendeiras, 416, Lagoa da Conceição"
+  },
+  "endereco": "Av. das Rendeiras, 416, Lagoa da Conceição",
+  "links": {
+    "google_maps": null,
+    "waze": null,
+    "site": null,
+    "instagram": null,
+    "ingressos": null,
+    "reserva": null
+  },
+  "nota_google": null,
+  "outras_notas": [],
+  "da_lagoa": {
+    "tempo_min": 3,
+    "km": 1.0,
+    "obs": "Pelas Rendeiras"
+  },
+  "estacionamento": "Ir de Uber ou a pé: noite com bebida",
+  "horarios": "segunda: Fechado; terça: Fechado; quarta: Fechado; quinta: Fechado; sexta: 22:30 – 05:00; sábado: 22:30 – 05:00; domingo: 08:00 – 05:00",
+  "precos": "Lista e ingresso variam por festa",
+  "melhor_horario": "Depois das 23h",
+  "duracao": "a noite",
+  "trilha": {
+    "distancia_km": null,
+    "tempo_ida_min": null,
+    "desnivel_m": null,
+    "dificuldade": null,
+    "inicio": null,
+    "sinalizacao": null
+  },
+  "o_que_levar": [
+    "documento original (18+)"
+  ],
+  "cuidados": [
+    "Documento original"
+  ],
+  "clima": {
+    "sensivel_a": [],
+    "plano_b": "Casa fechada"
+  },
+  "publico": "20–30",
+  "combina_com": [],
+  "encaixe": [
+    "noite"
+  ],
+  "fotos": [],
+  "dicas": [
+    "Conferir a festa da semana e se tem lista no Instagram"
+  ],
+  "fontes": [],
+  "verificado_em": "2026-11-17",
+  "confianca": "média",
+  "pendencias": [
+    "Programação da semana no Instagram da casa"
+  ],
+  "google_consulta": "Santa Club Lagoa Avenida das Rendeiras"
+}

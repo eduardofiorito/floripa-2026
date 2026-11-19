@@ -7,7 +7,7 @@
   "destaques": [
     "Lojas e tendas de renda de bilro (vestidos, blusas, toalhas); em alguns pontos as rendeiras trabalham ao vivo",
     "Casa das Rendas: mais de 40 anos no mesmo lugar, mas o endereço diverge (nº 732 ou nº 1134)",
-    "Restaurantes de frutos do mar à beira da Lagoa: Boka's (nº 1750, TripAdvisor 4,3/763), Casa do Chico (nº 1620, 4,0/827), O Barba Negra (nº 1628) e Marquês da Lagoa (buffet livre no almoço, com vista)",
+    "Restaurantes na beira da Lagoa: Boka's, Ilha Formosa, Sabores da Lagoa, Tarrafada e mais 14 na lista completa abaixo, com prioridade",
     "Bar do Boni, no fim da avenida (Retiro): pratos manezinhos e mesas na beira da Lagoa; é também o ponto de partida do Gravatá",
     "Pôr do sol sobre a Lagoa, atrás dos morros a oeste"
   ],
@@ -119,9 +119,9 @@
     }
   ],
   "dicas": [
-    "O Barba Negra é indicado para sequência de camarão e bolinho de siri (Viciada em Viajar; um leitor achou que a qualidade caiu)",
     "Para ver renda sendo feita, procure o Casarão da Lagoa, Centro de Referência da Mulher Rendeira (Fundação Franklin Cascaes), com venda e oficinas; o endereço está a confirmar",
-    "Combina com SUP ao pôr do sol e jantar no mesmo trecho"
+    "Combina com SUP ao pôr do sol e jantar no mesmo trecho",
+    "O Barba Negra e a Casa do Chico, citados em guias antigos, aparecem como fechados no Google (17/11)"
   ],
   "fontes": [
     "https://ndmais.com.br/turismo/lagoa-da-conceicao-guia-completo-no-bairro-mais-mistico-de-florianopolis/",
@@ -141,5 +141,191 @@
   "google": {
     "place_id": "ChIJbZJC6Zs-J5UR6PGE94D4V4U",
     "consultado_em": "2026-11-16"
+  },
+  "lista": {
+    "titulo": "Todas as opções da orla",
+    "nota": "P1 = vale ir; P2 = boa alternativa; P3 = só se as outras estiverem cheias. Horários do Google em 17/11; feriado e baixa temporada podem mudar.",
+    "itens": [
+      {
+        "t": "Boka's Lagoa Restaurante",
+        "prio": "P1",
+        "d": "Frutos do mar na beira da Lagoa, o mais conhecido da orla.",
+        "q": "Boka's Lagoa Restaurante Avenida das Rendeiras",
+        "g": "pid:ChIJxdvb7oI-J5URmkUIQDLCrAo",
+        "num": "1750",
+        "seg": "11:00 – 23:00",
+        "sab": "11:00 – 23:00"
+      },
+      {
+        "t": "Ilha Formosa",
+        "prio": "P1",
+        "d": "Pastel, sequência de camarão e petisco, até tarde.",
+        "q": "Ilha Formosa - Pastéis, Pratos à La Carte, Sequência de Camarão e Petiscos Avenida das Rendeiras",
+        "g": "pid:ChIJQXtba4I-J5URkyVtcwIM77M",
+        "num": "1956",
+        "seg": "11:00 – 23:30",
+        "sab": "11:00 – 23:30"
+      },
+      {
+        "t": "Sabores da Lagoa",
+        "prio": "P1",
+        "d": "Nota alta e preço médio; à noite só no fim de semana.",
+        "q": "Sabores da Lagoa Avenida das Rendeiras",
+        "g": "pid:ChIJS2U83j0_J5URqlXkH2JCx_0",
+        "num": "1866",
+        "seg": "10:00 – 19:00",
+        "sab": "10:00 – 23:00"
+      },
+      {
+        "t": "Tarrafada",
+        "prio": "P1",
+        "d": "Bar pé na Lagoa, bom para o fim de tarde.",
+        "q": "Bar e Restaurante Tarrafada Avenida das Rendeiras",
+        "g": "pid:ChIJpeF96ts_J5URfJnHdcN6Wbw",
+        "num": "1796",
+        "seg": "11:00 – 19:00",
+        "sab": "11:00 – 22:00"
+      },
+      {
+        "t": "Marquês da Lagoa",
+        "prio": "P1",
+        "d": "Buffet de almoço com vista. Só almoço.",
+        "q": "Marquês da Lagoa Avenida das Rendeiras",
+        "g": "pid:ChIJbQPAu7w-J5URImKDFgmVcBw",
+        "num": "1818",
+        "seg": "11:30 – 15:00",
+        "sab": "11:30 – 15:30"
+      },
+      {
+        "t": "John Bull Floripa",
+        "prio": "P1",
+        "d": "Bar com música ao vivo, a noite mais animada da orla.",
+        "q": "John Bull Floripa Avenida das Rendeiras",
+        "g": "pid:ChIJRbuxRpk-J5UR9HdDq2-isws",
+        "num": "1046",
+        "seg": "Fechado",
+        "sab": "20:00 – 02:00"
+      },
+      {
+        "t": "Gela Guela",
+        "prio": "P2",
+        "d": "Mesa na beira da Lagoa, aberto toda noite.",
+        "q": "Bar e Restaurante Gela Guela Avenida das Rendeiras",
+        "g": "pid:ChIJ7eQ4uV8_J5URtDSZCj26U10",
+        "num": "2096",
+        "seg": "11:00 – 23:00",
+        "sab": "11:00 – 23:00"
+      },
+      {
+        "t": "Capitão da Lagoa Restaurante",
+        "prio": "P2",
+        "d": "Nota alta; fecha às segundas.",
+        "q": "Capitão da Lagoa Restaurante Avenida das Rendeiras",
+        "g": "pid:ChIJm4yEzYI_J5UR3DgXQyhhbhw",
+        "num": "2154",
+        "seg": "Fechado",
+        "sab": "10:00 – 00:00"
+      },
+      {
+        "t": "Recanto da Lagoa Gastro Bar",
+        "prio": "P2",
+        "d": "Gastrobar; fecha às segundas.",
+        "q": "Recanto da Lagoa Gastro Bar Avenida das Rendeiras",
+        "g": "pid:ChIJ9YFDdGI_J5UR9AUr7ezgTls",
+        "num": "2016",
+        "seg": "Fechado",
+        "sab": "11:00 – 22:00"
+      },
+      {
+        "t": "Parador 714",
+        "prio": "P2",
+        "d": "Fecha às segundas.",
+        "q": "Restaurante Parador 714 - Lagoa Avenida das Rendeiras",
+        "g": "pid:ChIJo3bzcXg9J5URvPDGFoWoAqY",
+        "num": "1908",
+        "seg": "Fechado",
+        "sab": "11:00 – 22:00"
+      },
+      {
+        "t": "A Baleeira na Lagoa da Conceição",
+        "prio": "P2",
+        "d": "Frutos do mar, preço médio.",
+        "q": "A Baleeira Restaurante na Lagoa da Conceição Avenida das Rendeiras",
+        "g": "pid:ChIJ2fsZ-YE-J5URwSNQd1RfRu4",
+        "num": "2136",
+        "seg": "10:00 – 22:00",
+        "sab": "10:00 – 22:00"
+      },
+      {
+        "t": "Zilá restaurante & eventos",
+        "prio": "P2",
+        "d": "Almoço e eventos; à noite só no fim de semana.",
+        "q": "Zilá restaurante & eventos Avenida das Rendeiras",
+        "g": "pid:ChIJjfSht64_J5URw5cUuRoTpg0",
+        "num": "1688",
+        "seg": "11:30 – 17:30",
+        "sab": "11:30 – 21:30"
+      },
+      {
+        "t": "Quiosque Lagoa",
+        "prio": "P2",
+        "d": "Lounge na ponta do Retiro, perto do Boni.",
+        "q": "Quiosque Lagoa - Lounge Bar | Restaurante Avenida das Rendeiras",
+        "g": "pid:ChIJVbiDCSo8J5URY3fgo7JRVeo",
+        "num": "2232",
+        "seg": "10:00 – 23:00",
+        "sab": "10:00 – 00:00"
+      },
+      {
+        "t": "Maria Bonita Sinuca e Bar",
+        "prio": "P2",
+        "d": "Sinuca e bar até de madrugada.",
+        "q": "Maria Bonita Sinuca e Bar Avenida das Rendeiras",
+        "g": "pid:ChIJE53D3oE-J5URISxYdChJGMs",
+        "num": "2242",
+        "seg": "19:30 – 03:00",
+        "sab": "19:30 – 03:00"
+      },
+      {
+        "t": "Santa Club Lagoa",
+        "prio": "P2",
+        "d": "Balada no começo da avenida.",
+        "q": "Santa Club Lagoa Avenida das Rendeiras",
+        "g": "pid:ChIJbzoElaI-J5URcljne48go2I",
+        "num": "416",
+        "seg": "Fechado",
+        "sab": "22:30 – 05:00"
+      },
+      {
+        "t": "The Family Restaurante",
+        "prio": "P3",
+        "d": "Frutos do mar, só almoço e tarde.",
+        "q": "The Family Restaurante Avenida das Rendeiras",
+        "g": "pid:ChIJzXLi-5s-J5URFNPWpbJ46Dc",
+        "num": "1480",
+        "seg": "11:00 – 17:30",
+        "sab": "11:00 – 17:30"
+      },
+      {
+        "t": "La Gula",
+        "prio": "P3",
+        "d": "Mesmo endereço do Capitão; nota menor.",
+        "q": "Restaurante - La Gula Avenida das Rendeiras",
+        "g": "pid:ChIJl9STWw8_J5URDbBJ97jEK4M",
+        "num": "2154",
+        "seg": "10:00 – 22:00",
+        "sab": "10:00 – 00:00"
+      },
+      {
+        "t": "O MUNDO DOS RUIVOS",
+        "prio": "P3",
+        "d": "Bar da madrugada (19h–3h), poucas avaliações.",
+        "q": "O MUNDO DOS RUIVOS Avenida das Rendeiras",
+        "g": "pid:ChIJvQ0BY6M_J5URnu8MoBvzX48",
+        "num": "2252",
+        "seg": "19:00 – 03:00",
+        "sab": "19:00 – 03:00"
+      }
+    ]
   }
 }

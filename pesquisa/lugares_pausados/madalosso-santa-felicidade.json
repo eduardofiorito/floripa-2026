@@ -1,0 +1,83 @@
+{
+  "id": "madalosso-santa-felicidade",
+  "nome": "Família Madalosso (Santa Felicidade)",
+  "categoria": "comida",
+  "regiao": "estrada",
+  "cidade": "Curitiba",
+  "resumo": "O rodízio italiano mais famoso de Curitiba, no bairro de imigração italiana de Santa Felicidade. Salão gigante, frango, polenta frita e massa sem parar. É o almoço mais caprichado da ida, mas é o maior desvio.",
+  "destaques": [
+    "Rodízio de massas, frango e polenta, servido na mesa",
+    "Um dos maiores restaurantes do país, com salões enormes",
+    "Santa Felicidade tem vinícolas e lojas de vinho na mesma avenida"
+  ],
+  "coords": {
+    "lat": -25.4055546,
+    "lng": -49.3282973,
+    "fonte": "OSM Nominatim (amenity=restaurant)",
+    "ponto": "restaurante na Av. Manoel Ribas"
+  },
+  "endereco": "Av. Manoel Ribas, 5875, Santa Felicidade, Curitiba (PR)",
+  "links": {
+    "google_maps": null,
+    "waze": "https://waze.com/ul?ll=-25.4055546,-49.3282973&navigate=yes",
+    "site": null,
+    "instagram": null,
+    "ingressos": null,
+    "reserva": null
+  },
+  "nota_google": null,
+  "outras_notas": [],
+  "da_lagoa": null,
+  "estrada": {
+    "trecho": "ida",
+    "quando": "sex 20, almoço",
+    "desvio": "+50 min de carro",
+    "rota": "atravessa Curitiba de leste a oeste; volta ao Contorno Sul"
+  },
+  "estacionamento": "Estacionamento próprio",
+  "horarios": "Almoço 11h30–15h (sexta e domingo)",
+  "precos": "Rodízio com preço fixo por pessoa",
+  "melhor_horario": "Chegar antes das 13h para pegar mesa no feriado",
+  "duracao": "1h30",
+  "trilha": {
+    "distancia_km": null,
+    "tempo_ida_min": null,
+    "desnivel_m": null,
+    "dificuldade": null,
+    "inicio": null,
+    "sinalizacao": null
+  },
+  "o_que_levar": [],
+  "cuidados": [
+    "Comida pesada para quem vai dirigir depois: o motorista da tarde pega leve"
+  ],
+  "clima": {
+    "sensivel_a": [],
+    "plano_b": "É coberto"
+  },
+  "publico": "Famílias e grupos grandes",
+  "combina_com": [],
+  "encaixe": [
+    "viagem-de-carro"
+  ],
+  "fotos": [
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/5/5d/Restaurate_Madalosso_-_Santa_Felicidade_-_panoramio.jpg",
+      "pagina": "https://commons.wikimedia.org/wiki/File:Restaurate_Madalosso_-_Santa_Felicidade_-_panoramio.jpg",
+      "autor": "Larissa Fraga",
+      "licenca": "CC BY 3.0"
+    }
+  ],
+  "dicas": [
+    "Existe também o Velho Madalosso, do outro lado da avenida, com o mesmo estilo"
+  ],
+  "fontes": [
+    "https://www.google.com/maps/search/?api=1&query=Fam%C3%ADlia%20Madalosso%20Santa%20Felicidade"
+  ],
+  "verificado_em": "2026-11-17",
+  "confianca": "média",
+  "pendencias": [
+    "Funcionamento no feriado de 20/11"
+  ],
+  "google_consulta": "Família Madalosso Santa Felicidade Curitiba"
+}

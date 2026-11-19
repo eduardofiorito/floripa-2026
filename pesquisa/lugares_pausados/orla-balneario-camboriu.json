@@ -1,0 +1,101 @@
+{
+  "id": "orla-balneario-camboriu",
+  "nome": "Orla de Balneário Camboriú (Av. Atlântica e Barra Sul)",
+  "categoria": "passeio",
+  "regiao": "estrada",
+  "cidade": "Balneário Camboriú",
+  "resumo": "A Praia Central de BC com a fileira de arranha-céus mais alta do Brasil, vista de carro pela Av. Atlântica ou com uma parada rápida na Barra Sul, perto do Molhe e do bondinho do Unipraias.",
+  "destaques": [
+    "Av. Atlântica: ~7 km de orla entre a Barra Norte e a Barra Sul",
+    "Molhe da Barra Sul: passarela sobre o mar com a vista dos prédios",
+    "Bondinho do Parque Unipraias sai da Barra Sul (9h30–17h30)",
+    "Prédios entre os mais altos do país, colados na areia"
+  ],
+  "coords": {
+    "lat": -27.0049997,
+    "lng": -48.6144621,
+    "fonte": "OSM Nominatim (highway=primary)",
+    "ponto": "Av. Atlântica na altura da Barra Sul"
+  },
+  "endereco": "Av. Atlântica, Centro, Balneário Camboriú (SC)",
+  "links": {
+    "google_maps": null,
+    "waze": "https://waze.com/ul?ll=-27.0049997,-48.6144621&navigate=yes",
+    "site": null,
+    "instagram": null,
+    "ingressos": null,
+    "reserva": null
+  },
+  "nota_google": null,
+  "outras_notas": [],
+  "da_lagoa": null,
+  "estrada": {
+    "trecho": "ida",
+    "quando": "sex 20, por volta das 16h",
+    "desvio": "+30 a 60 min no feriado (de carro, sem descer); +1h30 com parada",
+    "rota": "sai da BR-101 na entrada norte de BC e volta pela Barra Sul"
+  },
+  "estacionamento": "Rotativo pago na orla; no feriado é difícil achar vaga",
+  "horarios": "Livre",
+  "precos": "Gratuito",
+  "melhor_horario": "Fim de tarde, com o sol batendo nos prédios",
+  "duracao": "30 min de carro ou 1h–1h30 com parada",
+  "trilha": {
+    "distancia_km": null,
+    "tempo_ida_min": null,
+    "desnivel_m": null,
+    "dificuldade": null,
+    "inicio": null,
+    "sinalizacao": null
+  },
+  "o_que_levar": [
+    "chinelo no carro, se forem pôr o pé na areia"
+  ],
+  "cuidados": [
+    "Feriado: BR-101 com fila entre Itajaí e BC no sentido sul. Ver o Waze antes de sair da rodovia",
+    "Não deixar nada à vista no carro estacionado"
+  ],
+  "clima": {
+    "sensivel_a": [
+      "chuva"
+    ],
+    "plano_b": "Com chuva, seguir direto para a Lagoa"
+  },
+  "publico": "Turistas; passagem rápida de viagem",
+  "combina_com": [],
+  "encaixe": [
+    "viagem-de-carro"
+  ],
+  "fotos": [
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/a/a4/Orla_da_Praia_Central%2C_Balne%C3%A1rio_Cambori%C3%BA_SC.JPG",
+      "pagina": "https://commons.wikimedia.org/wiki/File:Orla_da_Praia_Central,_Balne%C3%A1rio_Cambori%C3%BA_SC.JPG",
+      "autor": "HVL",
+      "licenca": "CC BY 4.0"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/1/1c/Praia_Central_e_Barra_Norte_ao_fundo%2C_Balne%C3%A1rio_Cambori%C3%BA_SC.JPG",
+      "pagina": "https://commons.wikimedia.org/wiki/File:Praia_Central_e_Barra_Norte_ao_fundo,_Balne%C3%A1rio_Cambori%C3%BA_SC.JPG",
+      "autor": "HVL",
+      "licenca": "CC BY 4.0"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/9/90/Vista_panor%C3%A2mica_de_Balne%C3%A1rio_Cambori%C3%BA_SC_a_partir_do_Molhe_da_Barra_Sul.JPG",
+      "pagina": "https://commons.wikimedia.org/wiki/File:Vista_panor%C3%A2mica_de_Balne%C3%A1rio_Cambori%C3%BA_SC_a_partir_do_Molhe_da_Barra_Sul.JPG",
+      "autor": "HVL",
+      "licenca": "CC BY 4.0"
+    }
+  ],
+  "dicas": [
+    "Entrar pela Barra Norte e seguir a orla até a Barra Sul deixa o grupo já no caminho de Floripa; o Waze escolhe o sentido certo das ruas"
+  ],
+  "fontes": [
+    "https://www.nsctotal.com.br/cotidiano/ao-vivo-transito-rodovias-sc-feriado"
+  ],
+  "verificado_em": "2026-11-17",
+  "confianca": "média",
+  "pendencias": [
+    "Trânsito na BR-101 em 20/11"
+  ],
+  "google_consulta": "Avenida Atlântica Balneário Camboriú"
+}

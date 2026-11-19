@@ -1,0 +1,59 @@
+{
+  "id": "trilha-do-gravata",
+  "videos": [
+    {
+      "titulo": "TRILHA ATÉ A PRAIA DO GRAVATÁ EM FLORIANÓPOLIS",
+      "canal": "Além dos destinos",
+      "url": "https://www.youtube.com/watch?v=e0pR4T3c12Q",
+      "plataforma": "youtube",
+      "publicado": "2025-04-13",
+      "duracao": "15:27",
+      "mostra": "Trilha completa até a Praia do Gravatá (abr/2025)",
+      "melhor_trecho": null
+    },
+    {
+      "titulo": "ESSA É A TRILHA DO GRAVATA E É MUITO FÁCIL DE FAZER",
+      "canal": "Gabriel Patrick - Trip",
+      "url": "https://www.youtube.com/watch?v=4StZwZpWZJU",
+      "plataforma": "youtube",
+      "publicado": "2024-01-15",
+      "duracao": "34:39",
+      "mostra": "Trilha do Gravatá longa, com mirantes e a praia (jan/2024)",
+      "melhor_trecho": null
+    }
+  ],
+  "instagram": [],
+  "fotos_commons_recentes": [
+    {
+      "pagina": "https://commons.wikimedia.org/wiki/File:Trilha_do_Gravat%C3%A1.jpg",
+      "arquivo_url": "https://upload.wikimedia.org/wikipedia/commons/2/2b/Trilha_do_Gravat%C3%A1.jpg",
+      "data": "2017-05-18",
+      "autor": "Raphaela Duarte",
+      "licenca": "CC BY-SA 4.0",
+      "mostra": "Enseada do Gravatá vista do costão: água verde-clara, pedras arredondadas e o morro verde em volta",
+      "arq": "img/recentes/trilha-do-gravata-1.jpg"
+    },
+    {
+      "pagina": "https://commons.wikimedia.org/wiki/File:Trilha_do_Gravat%C3%A1_1.jpg",
+      "arquivo_url": "https://upload.wikimedia.org/wikipedia/commons/4/48/Trilha_do_Gravat%C3%A1_1.jpg",
+      "data": "2017-05-18",
+      "autor": "Raphaela Duarte",
+      "licenca": "CC BY-SA 4.0",
+      "mostra": "Vista na Trilha do Gravatá (mesmo autor e dia da foto anterior)",
+      "arq": "img/recentes/trilha-do-gravata-2.jpg"
+    }
+  ],
+  "pontos_de_vista": [
+    "Mirante da rampa de parapente (10–15 min do início): Praia Mole e Galheta de cima",
+    "Pedra do Urubu, desvio de ~200 m no alto do morro: 360° com Lagoa, Joaquina e Mole",
+    "Praia do Gravatá ao nascer do sol (~5h10): prainha de 75 m entre costões, sem nada construído"
+  ],
+  "vibe": "Trilha curta e fácil que dá o melhor nascer do sol perto da Lagoa. Sem estrutura nenhuma na praia, mar com correnteza. Bom para antes do expediente.",
+  "fontes": [
+    "https://www.youtube.com/watch?v=e0pR4T3c12Q",
+    "https://www.youtube.com/watch?v=4StZwZpWZJU",
+    "https://commons.wikimedia.org/wiki/File:Trilha_do_Gravat%C3%A1.jpg",
+    "https://commons.wikimedia.org/wiki/File:Trilha_do_Gravat%C3%A1_1.jpg"
+  ],
+  "verificado_em": "2026-11-17"
+}

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="floripa-roteiro" xmlns="http://www.topografix.com/GPX/1/1">
+<metadata><name>Trilha do Morro das Aranhas (Santinho)</name><desc>Rota calculada sobre caminhos do OpenStreetMap (© colaboradores do OpenStreetMap, ODbL). É uma estimativa: confira no local.</desc><time>2026-11-17T00:00:00Z</time></metadata>
+<wpt lat="-27.468370" lon="-48.376060"><name>Início</name></wpt>
+<wpt lat="-27.471490" lon="-48.379930"><name>Chegada</name></wpt>
+<trk><name>Trilha do Morro das Aranhas (Santinho)</name><trkseg>
+<trkpt lat="-27.468263" lon="-48.376012"/>
+<trkpt lat="-27.468504" lon="-48.376129"/>
+<trkpt lat="-27.468513" lon="-48.376375"/>
+<trkpt lat="-27.468545" lon="-48.376483"/>
+<trkpt lat="-27.468445" lon="-48.376682"/>
+<trkpt lat="-27.468487" lon="-48.377049"/>
+<trkpt lat="-27.468358" lon="-48.377397"/>
+<trkpt lat="-27.468371" lon="-48.377629"/>
+<trkpt lat="-27.468927" lon="-48.377762"/>
+<trkpt lat="-27.469191" lon="-48.377833"/>
+<trkpt lat="-27.470714" lon="-48.379729"/>
+<trkpt lat="-27.471004" lon="-48.379954"/>
+<trkpt lat="-27.471356" lon="-48.379870"/>
+<trkpt lat="-27.471499" lon="-48.379948"/>
+</trkseg></trk>
+</gpx>

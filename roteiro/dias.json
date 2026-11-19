@@ -1,0 +1,3003 @@
+{
+  "meta": {
+    "atualizado": "2026-11-16",
+    "sol": {
+      "nasce": "05:11",
+      "poe": "18:50"
+    },
+    "previsao_fonte": "Ciram/Epagri, BRA 1, Defesa Civil e MetSul, lidas em 16/11/2026. Confiança baixa; reavaliar na quinta 19 e na sexta 20."
+  },
+  "dias": [
+    {
+      "id": "20",
+      "dow": "Sex",
+      "num": 20,
+      "tipo": "feriado",
+      "exp": null,
+      "titulo": "Estrada e primeira noite na Lagoa",
+      "resumo": "Feriado da Consciência Negra. Saída de Poços às 4h para fugir do trânsito do feriadão.",
+      "risco": "alto",
+      "previsao": "INMET: manhã: muitas nuvens com pancadas de chuva e trovoadas isoladas; tarde: muitas nuvens com pancadas de chuva; noite: muitas nuvens com pancadas de chuva isoladas. Chuva 73% (8,1 mm): manhã 70%, tarde 65%, noite 73%. Máx 27°, rajadas até 32 km/h.",
+      "sol": [
+        {
+          "a": "04:00",
+          "b": "07:00",
+          "cat": "estrada",
+          "t": "Poços → Mogi Mirim → Campinas → Bandeirantes",
+          "nota": "~260 km até a Rodoanel. Primeiro motorista.",
+          "opcoes": {
+            "titulo": "Café da manhã na estrada",
+            "itens": [
+              {
+                "id": "ida-cafe-graal56",
+                "t": "Graal 56",
+                "d": "Bandeirantes km 56, em Jundiaí, sentido São Paulo. Por volta das 6h45, antes da Rodoanel. 24 h.",
+                "tempo": "sem desvio",
+                "quando": "~6h45",
+                "q": "Graal 56 Rodovia dos Bandeirantes Jundiaí",
+                "g": "ida-cafe2|Graal Rodovia dos Bandeirantes|0",
+                "cidade": "Jundiaí"
+              },
+              {
+                "id": "ida-cafe-cajamar",
+                "t": "Frango Assado Cajamar",
+                "d": "Bandeirantes km 44, logo depois do Graal. Coxinha, pão de queijo e banheiro limpo. 24 h.",
+                "tempo": "sem desvio",
+                "quando": "~6h50",
+                "q": "Frango Assado Cajamar Rodovia dos Bandeirantes km 44",
+                "g": "ida-cafe2|Frango Assado Rodovia dos Bandeirantes|1",
+                "cidade": "Cajamar"
+              },
+              {
+                "id": "ida-cafe-dionisio",
+                "t": "Dionísio 88",
+                "d": "Régis km 316, em Juquitiba, já depois de São Paulo. Café mais tarde, com a capital para trás. 24 h.",
+                "tempo": "sem desvio",
+                "quando": "~7h50",
+                "q": "Restaurante Dionisio 88 Juquitiba",
+                "g": "ida-cafe|restaurante café da manhã Régis Bittencourt Juquitiba|0",
+                "cidade": "Juquitiba"
+              },
+              {
+                "id": "ida-cafe-carro",
+                "t": "Café no carro",
+                "d": "Pão, fruta e café na garrafa térmica. Para só para banheiro e troca de motorista e ganha uns 30 min."
+              }
+            ]
+          }
+        },
+        {
+          "a": "07:00",
+          "b": "12:30",
+          "cat": "estrada",
+          "t": "Rodoanel e Régis Bittencourt até Curitiba",
+          "nota": "~400 km. Serra do Cafezal (já duplicada) e Vale do Ribeira. Trocar de motorista em Registro.",
+          "opcoes": {
+            "titulo": "Parada para troca de motorista",
+            "itens": [
+              {
+                "id": "ida-troca-buenos-aires",
+                "t": "Graal Buenos Aires",
+                "d": "Régis km 449, em Registro. 24 h.",
+                "tempo": "sem desvio",
+                "quando": "~9h30",
+                "q": "Graal Buenos Aires Registro",
+                "g": "ida-cafe|Graal Régis Bittencourt|2",
+                "cidade": "Registro"
+              },
+              {
+                "id": "ida-troca-petropen",
+                "t": "Graal Petropen",
+                "d": "Régis km 461, em Pariquera-Açu. O maior da Régis, com muita opção de lanche. 24 h.",
+                "tempo": "sem desvio",
+                "quando": "~9h40",
+                "q": "Graal Petropen Pariquera-Açu",
+                "g": "ida-cafe|Graal Régis Bittencourt|0",
+                "cidade": "Pariquera-Açu"
+              }
+            ]
+          }
+        },
+        {
+          "a": "12:30",
+          "b": "14:00",
+          "cat": "dia",
+          "t": "Almoço na estrada",
+          "opcoes": {
+            "titulo": "Onde almoçar",
+            "itens": [
+              {
+                "id": "ida-almoco-fogo-brasa",
+                "t": "Churrascaria Fogo e Brasa",
+                "d": "Na marginal da BR-376, em São José dos Pinhais. Rodízio sem sair da rota.",
+                "tempo": "sem desvio",
+                "q": "Churrascaria Fogo e Brasa São José dos Pinhais",
+                "g": "ida-almoco|restaurante buffet BR-376 Contorno Leste Curitiba São José dos Pinhais|1",
+                "cidade": "S. J. dos Pinhais",
+                "quando": "~12h30"
+              },
+              {
+                "id": "ida-almoco-costelao",
+                "t": "Costelão do Gaúcho",
+                "d": "Churrascaria na BR-376 em Tijucas do Sul, logo depois de Curitiba. 7h30–23h.",
+                "q": "Costelão do gaúcho BR 376 Tijucas do Sul",
+                "g": "pid:ChIJvVvEHKRF3JQRPddOrXcurdk",
+                "tempo": "sem desvio",
+                "quando": "~12h50",
+                "cidade": "Tijucas do Sul"
+              },
+              {
+                "id": "ida-almoco-garuva",
+                "t": "Paradouro 10, em Garuva",
+                "d": "BR-101 km 10, já em Santa Catarina. Almoço mais tarde, por volta das 14h, e chega mais cedo na Lagoa. 24 h.",
+                "tempo": "sem desvio",
+                "quando": "~14h",
+                "q": "Restaurante Paradouro 10 Garuva",
+                "g": "ida-almoco|Restaurante Graciosa Garuva BR-101|2",
+                "cidade": "Garuva"
+              },
+              {
+                "id": "ida-almoco-zandona",
+                "t": "Zandoná 2, em Joinville",
+                "d": "Restaurante grande de estrada na BR-101 km 47, aberto 24 h. Almoço mais tarde.",
+                "q": "Restaurante Zandoná 2 BR 101 Joinville",
+                "g": "pid:ChIJlVcr5smw3pQRsJ-JdlqMCIM",
+                "tempo": "sem desvio",
+                "quando": "~14h",
+                "cidade": "Joinville"
+              },
+              {
+                "id": "ida-almoco-sinuelo",
+                "t": "Sinuelo Sul, em Araquari",
+                "d": "Parada clássica da BR-101 no sentido sul, com buffet e lanchonete. 6h–22h.",
+                "q": "Sinuelo Sul Araquari BR-101",
+                "g": "pid:ChIJFXs4pmrN3pQRvvClJcWv9Vs",
+                "tempo": "sem desvio",
+                "quando": "~14h15",
+                "cidade": "Araquari"
+              }
+            ]
+          },
+          "nota": "Parada só para comer, sem desvio: na marginal da BR-376 ou já em SC, em Garuva."
+        },
+        {
+          "a": "14:00",
+          "b": "17:30",
+          "cat": "estrada",
+          "t": "Curitiba → Joinville → BR-101 → Florianópolis",
+          "nota": "~310 km direto, sem desvio por BC. Feriado: BR-101 cheia entre Itajaí e BC; ver o Waze antes de sair do almoço."
+        },
+        {
+          "a": "17:30",
+          "b": "18:00",
+          "cat": "dia",
+          "t": "Check-in na Lagoa (liberado depois das 15h) e descarregar o carro",
+          "flex": true
+        },
+        {
+          "a": "18:00",
+          "b": "18:40",
+          "cat": "dia",
+          "t": "Mercado perto de casa",
+          "flex": true,
+          "nota": "O grosso da lista, em 40 min. A lista por pessoa está no Guia › Mercado.",
+          "opcoes": {
+            "titulo": "Mercado perto de casa",
+            "link": {
+              "t": "Lista do mercado",
+              "h": "#guia-mercado"
+            },
+            "itens": [
+              {
+                "id": "mer-hiper-select",
+                "t": "Hiper Select Lagoa",
+                "d": "O maior da Lagoa, a 2 min de carro da casa. Sexta 7h–22h. Dá para fazer a lista inteira aqui.",
+                "q": "Hiper Select Supermercados Lagoa da Conceição",
+                "g": "pid:ChIJa0_q4VE5J5UR3kiEd-J2FL4"
+              },
+              {
+                "id": "mer-lagoa",
+                "t": "Mercado Lagoa",
+                "d": "Menor, na Rua Rita Lourenço da Silveira, perto da ponte. Sexta 7h30–21h.",
+                "q": "Mercado Lagoa Rua Rita Lourenço da Silveira Florianópolis",
+                "g": "pid:ChIJP_k6r3E_J5UR1oTRzCyI5Wc"
+              },
+              {
+                "id": "mer-chico",
+                "t": "Supermercado Chico",
+                "d": "No Centrinho, a pé, 6h40–23h. Pão fresco e o que faltar.",
+                "q": "Supermercado Chico Lagoa da Conceição"
+              },
+              {
+                "id": "mer-angeloni-sm",
+                "t": "Angeloni Santa Mônica",
+                "d": "Se preferirem parar antes de chegar: supermercado grande a 2 min da rota, 12 min da casa. 7h–22h; feriado pode mudar.",
+                "tempo": "+2 min",
+                "q": "Angeloni Supermercado Santa Monica Florianópolis",
+                "g": "pid:ChIJkYTPWfk4J5URYhQ6wKgunFs"
+              },
+              {
+                "id": "mer-atacadao",
+                "t": "Atacadão JK (Capoeiras)",
+                "d": "Água e cerveja em fardo, ainda no continente, antes da ponte. 7h–22h.",
+                "tempo": "+5 min",
+                "q": "Atacadão Florianópolis JK Capoeiras",
+                "g": "pid:ChIJzV0S0IQ3J5UR3aNeN1W740k"
+              }
+            ]
+          }
+        },
+        {
+          "a": "18:40",
+          "b": "19:30",
+          "cat": "sunset",
+          "t": "Pôr do sol na Lagoa",
+          "flex": true,
+          "nota": "Sol às 18h50. Se o mercado atrasar, vai direto para as Rendeiras a pé.",
+          "opcoes": {
+            "titulo": "Pôr do sol na Lagoa (18h50)",
+            "itens": [
+              {
+                "id": "pds-rendeiras",
+                "t": "Orla das Rendeiras a pé",
+                "d": "Caminhar na beira da Lagoa com o sol caindo atrás dos morros. Dá para emendar o jantar ali mesmo.",
+                "lugar": "avenida-das-rendeiras"
+              },
+              {
+                "id": "pds-tarrafada",
+                "t": "Tarrafada",
+                "d": "Bar com mesa na beira da Lagoa, nas Rendeiras. Sexta 11h–22h.",
+                "q": "Bar e Restaurante Tarrafada Avenida das Rendeiras",
+                "g": "pid:ChIJpeF96ts_J5URfJnHdcN6Wbw"
+              },
+              {
+                "id": "pds-gela-guela",
+                "t": "Gela Guela",
+                "d": "Bar e restaurante na orla, aberto até 23h. Bom para ficar para o jantar.",
+                "q": "Bar e Restaurante Gela Guela Avenida das Rendeiras",
+                "g": "pid:ChIJ7eQ4uV8_J5URtDSZCj26U10"
+              },
+              {
+                "id": "pds-boni",
+                "t": "Bar do Boni",
+                "d": "No fim das Rendeiras, mesa na beira da Lagoa. Confirmar antes que segue aberto.",
+                "lugar": "bar-do-boni"
+              },
+              {
+                "id": "pds-mirante",
+                "t": "Mirante da Lagoa",
+                "d": "A Lagoa inteira de cima, a 5 min de carro.",
+                "lugar": "mirante-da-lagoa"
+              }
+            ]
+          }
+        },
+        {
+          "a": "19:45",
+          "b": "21:15",
+          "cat": "noite",
+          "t": "Jantar na Lagoa",
+          "opcoes": {
+            "titulo": "Onde jantar na Lagoa",
+            "itens": [
+              {
+                "id": "lagoa-thai-thai",
+                "t": "Thai Thai",
+                "d": "Tailandês no Centrinho, prato bem servido e preço médio. 11h30–23h.",
+                "q": "Thai Thai Gastronomia Thailandesa Lagoa da Conceição",
+                "g": "centrinho-jantar|Thai Thai Lagoa da Conceição|0"
+              },
+              {
+                "id": "rend-bokas",
+                "t": "Boka's",
+                "d": "Nas Rendeiras, na beira da Lagoa: frutos do mar. 4 min de carro ou 20 min a pé pela orla.",
+                "q": "Boka's Lagoa Restaurante Avenida das Rendeiras",
+                "g": "pid:ChIJxdvb7oI-J5URmkUIQDLCrAo"
+              },
+              {
+                "id": "lagoa-artesano",
+                "t": "Artesano Pizza Bar",
+                "d": "Pizza de fermentação natural e drinks. Mais caro. Abre às 18h.",
+                "q": "Artesano Pizza Bar Lagoa da Conceição",
+                "g": "centrinho-jantar|Artesano Pizza Bar Lagoa da Conceição|0"
+              },
+              {
+                "id": "lagoa-liffey",
+                "t": "Liffey Lagoa",
+                "d": "Pub irlandês: hambúrguer, fish and chips e cerveja. Serve de esquenta. 17h–0h.",
+                "q": "Liffey Lagoa da Conceição",
+                "g": "centrinho-jantar|The Black Swan Lagoa da Conceição|1"
+              },
+              {
+                "id": "rend-ilha-formosa",
+                "t": "Ilha Formosa",
+                "d": "Pastel e sequência nas Rendeiras, até 23h30.",
+                "q": "Ilha Formosa Avenida das Rendeiras",
+                "g": "pid:ChIJQXtba4I-J5URkyVtcwIM77M"
+              }
+            ]
+          },
+          "nota": "Quem ficou nas Rendeiras janta lá mesmo (Boka's, Ilha Formosa); o Centrinho é a 4 min."
+        },
+        {
+          "a": "21:15",
+          "b": "23:00",
+          "cat": "noite",
+          "t": "Esquenta a pé no",
+          "lugar": "rufus",
+          "nota": "Sem pressa: sábado começa às 6h30. O que faltar do mercado, no Chico (até 23h)."
+        }
+      ],
+      "chuva": [
+        {
+          "a": "04:00",
+          "b": "12:30",
+          "cat": "estrada",
+          "t": "Estrada com chuva até Curitiba",
+          "nota": "Sair às 4h do mesmo jeito, sem acelerar. Se o temporal for forte, parar num Graal.",
+          "opcoes": {
+            "titulo": "Café da manhã na estrada",
+            "itens": [
+              {
+                "id": "ida-cafe-graal56",
+                "t": "Graal 56",
+                "d": "Bandeirantes km 56, em Jundiaí, sentido São Paulo. Por volta das 6h45, antes da Rodoanel. 24 h.",
+                "tempo": "sem desvio",
+                "quando": "~6h45",
+                "q": "Graal 56 Rodovia dos Bandeirantes Jundiaí",
+                "g": "ida-cafe2|Graal Rodovia dos Bandeirantes|0",
+                "cidade": "Jundiaí"
+              },
+              {
+                "id": "ida-cafe-cajamar",
+                "t": "Frango Assado Cajamar",
+                "d": "Bandeirantes km 44, logo depois do Graal. Coxinha, pão de queijo e banheiro limpo. 24 h.",
+                "tempo": "sem desvio",
+                "quando": "~6h50",
+                "q": "Frango Assado Cajamar Rodovia dos Bandeirantes km 44",
+                "g": "ida-cafe2|Frango Assado Rodovia dos Bandeirantes|1",
+                "cidade": "Cajamar"
+              },
+              {
+                "id": "ida-cafe-dionisio",
+                "t": "Dionísio 88",
+                "d": "Régis km 316, em Juquitiba, já depois de São Paulo. Café mais tarde, com a capital para trás. 24 h.",
+                "tempo": "sem desvio",
+                "quando": "~7h50",
+                "q": "Restaurante Dionisio 88 Juquitiba",
+                "g": "ida-cafe|restaurante café da manhã Régis Bittencourt Juquitiba|0",
+                "cidade": "Juquitiba"
+              },
+              {
+                "id": "ida-cafe-carro",
+                "t": "Café no carro",
+                "d": "Pão, fruta e café na garrafa térmica. Para só para banheiro e troca de motorista e ganha uns 30 min."
+              }
+            ]
+          }
+        },
+        {
+          "a": "12:30",
+          "b": "14:00",
+          "cat": "dia",
+          "t": "Almoço na estrada",
+          "opcoes": {
+            "titulo": "Onde almoçar",
+            "itens": [
+              {
+                "id": "ida-almoco-fogo-brasa",
+                "t": "Churrascaria Fogo e Brasa",
+                "d": "Na marginal da BR-376, em São José dos Pinhais. Rodízio sem sair da rota.",
+                "tempo": "sem desvio",
+                "q": "Churrascaria Fogo e Brasa São José dos Pinhais",
+                "g": "ida-almoco|restaurante buffet BR-376 Contorno Leste Curitiba São José dos Pinhais|1",
+                "cidade": "S. J. dos Pinhais",
+                "quando": "~12h30"
+              },
+              {
+                "id": "ida-almoco-costelao",
+                "t": "Costelão do Gaúcho",
+                "d": "Churrascaria na BR-376 em Tijucas do Sul, logo depois de Curitiba. 7h30–23h.",
+                "q": "Costelão do gaúcho BR 376 Tijucas do Sul",
+                "g": "pid:ChIJvVvEHKRF3JQRPddOrXcurdk",
+                "tempo": "sem desvio",
+                "quando": "~12h50",
+                "cidade": "Tijucas do Sul"
+              },
+              {
+                "id": "ida-almoco-garuva",
+                "t": "Paradouro 10, em Garuva",
+                "d": "BR-101 km 10, já em Santa Catarina. Almoço mais tarde, por volta das 14h, e chega mais cedo na Lagoa. 24 h.",
+                "tempo": "sem desvio",
+                "quando": "~14h",
+                "q": "Restaurante Paradouro 10 Garuva",
+                "g": "ida-almoco|Restaurante Graciosa Garuva BR-101|2",
+                "cidade": "Garuva"
+              },
+              {
+                "id": "ida-almoco-zandona",
+                "t": "Zandoná 2, em Joinville",
+                "d": "Restaurante grande de estrada na BR-101 km 47, aberto 24 h. Almoço mais tarde.",
+                "q": "Restaurante Zandoná 2 BR 101 Joinville",
+                "g": "pid:ChIJlVcr5smw3pQRsJ-JdlqMCIM",
+                "tempo": "sem desvio",
+                "quando": "~14h",
+                "cidade": "Joinville"
+              },
+              {
+                "id": "ida-almoco-sinuelo",
+                "t": "Sinuelo Sul, em Araquari",
+                "d": "Parada clássica da BR-101 no sentido sul, com buffet e lanchonete. 6h–22h.",
+                "q": "Sinuelo Sul Araquari BR-101",
+                "g": "pid:ChIJFXs4pmrN3pQRvvClJcWv9Vs",
+                "tempo": "sem desvio",
+                "quando": "~14h15",
+                "cidade": "Araquari"
+              }
+            ]
+          },
+          "nota": "Parada só para comer, sem desvio: na marginal da BR-376 ou já em SC, em Garuva."
+        },
+        {
+          "a": "14:00",
+          "b": "18:45",
+          "cat": "estrada",
+          "t": "Curitiba → Florianópolis, sem desvio",
+          "nota": "Com chuva, nada de passar por BC. A chegada pode ir para 19h."
+        },
+        {
+          "a": "18:45",
+          "b": "19:15",
+          "cat": "dia",
+          "t": "Check-in na Lagoa e descarregar o carro",
+          "flex": true
+        },
+        {
+          "a": "19:15",
+          "b": "20:00",
+          "cat": "dia",
+          "t": "Mercado perto de casa",
+          "flex": true,
+          "nota": "Coberto e a 2 min: o grosso da lista. Guia › Mercado.",
+          "opcoes": {
+            "titulo": "Mercado perto de casa",
+            "link": {
+              "t": "Lista do mercado",
+              "h": "#guia-mercado"
+            },
+            "itens": [
+              {
+                "id": "mer-hiper-select",
+                "t": "Hiper Select Lagoa",
+                "d": "O maior da Lagoa, a 2 min de carro da casa. Sexta 7h–22h. Dá para fazer a lista inteira aqui.",
+                "q": "Hiper Select Supermercados Lagoa da Conceição",
+                "g": "pid:ChIJa0_q4VE5J5UR3kiEd-J2FL4"
+              },
+              {
+                "id": "mer-lagoa",
+                "t": "Mercado Lagoa",
+                "d": "Menor, na Rua Rita Lourenço da Silveira, perto da ponte. Sexta 7h30–21h.",
+                "q": "Mercado Lagoa Rua Rita Lourenço da Silveira Florianópolis",
+                "g": "pid:ChIJP_k6r3E_J5UR1oTRzCyI5Wc"
+              },
+              {
+                "id": "mer-chico",
+                "t": "Supermercado Chico",
+                "d": "No Centrinho, a pé, 6h40–23h. Pão fresco e o que faltar.",
+                "q": "Supermercado Chico Lagoa da Conceição"
+              },
+              {
+                "id": "mer-angeloni-sm",
+                "t": "Angeloni Santa Mônica",
+                "d": "Se preferirem parar antes de chegar: supermercado grande a 2 min da rota, 12 min da casa. 7h–22h; feriado pode mudar.",
+                "tempo": "+2 min",
+                "q": "Angeloni Supermercado Santa Monica Florianópolis",
+                "g": "pid:ChIJkYTPWfk4J5URYhQ6wKgunFs"
+              },
+              {
+                "id": "mer-atacadao",
+                "t": "Atacadão JK (Capoeiras)",
+                "d": "Água e cerveja em fardo, ainda no continente, antes da ponte. 7h–22h.",
+                "tempo": "+5 min",
+                "q": "Atacadão Florianópolis JK Capoeiras",
+                "g": "pid:ChIJzV0S0IQ3J5UR3aNeN1W740k"
+              }
+            ]
+          }
+        },
+        {
+          "a": "20:00",
+          "b": "22:00",
+          "cat": "noite",
+          "t": "Jantar no Centrinho e cerveja no Liffey ou no Rufus, a pé",
+          "nota": "Sinuca no Snooker Bar Lagoa Azul é o plano B. Mercado no Chico até 23h. Cama cedo.",
+          "opcoes": {
+            "titulo": "Onde jantar na Lagoa",
+            "itens": [
+              {
+                "id": "lagoa-thai-thai",
+                "t": "Thai Thai",
+                "d": "Tailandês no Centrinho, prato bem servido e preço médio. 11h30–23h.",
+                "q": "Thai Thai Gastronomia Thailandesa Lagoa da Conceição",
+                "g": "centrinho-jantar|Thai Thai Lagoa da Conceição|0"
+              },
+              {
+                "id": "rend-bokas",
+                "t": "Boka's",
+                "d": "Nas Rendeiras, na beira da Lagoa: frutos do mar. 4 min de carro ou 20 min a pé pela orla.",
+                "q": "Boka's Lagoa Restaurante Avenida das Rendeiras",
+                "g": "pid:ChIJxdvb7oI-J5URmkUIQDLCrAo"
+              },
+              {
+                "id": "lagoa-artesano",
+                "t": "Artesano Pizza Bar",
+                "d": "Pizza de fermentação natural e drinks. Mais caro. Abre às 18h.",
+                "q": "Artesano Pizza Bar Lagoa da Conceição",
+                "g": "centrinho-jantar|Artesano Pizza Bar Lagoa da Conceição|0"
+              },
+              {
+                "id": "lagoa-liffey",
+                "t": "Liffey Lagoa",
+                "d": "Pub irlandês: hambúrguer, fish and chips e cerveja. Serve de esquenta. 17h–0h.",
+                "q": "Liffey Lagoa da Conceição",
+                "g": "centrinho-jantar|The Black Swan Lagoa da Conceição|1"
+              },
+              {
+                "id": "rend-ilha-formosa",
+                "t": "Ilha Formosa",
+                "d": "Pastel e sequência nas Rendeiras, até 23h30.",
+                "q": "Ilha Formosa Avenida das Rendeiras",
+                "g": "pid:ChIJQXtba4I-J5URkyVtcwIM77M"
+              }
+            ]
+          }
+        }
+      ],
+      "solto": "Horários de estrada são estimativas: com feriado, paradas e desvios, tudo pode deslizar 1 a 2 horas. O Waze manda.",
+      "titulo_chuva": "Estrada com chuva e primeira noite na Lagoa",
+      "resumo_chuva": "Saída às 4h do mesmo jeito, sem pressa e sem desvio por BC. Jantar perto de casa.",
+      "levar": [
+        "RG ou CNH original e CNH/CRLV de quem dirige",
+        "Carregador de celular no carro e cabo extra",
+        "Lanche e água para a estrada",
+        "Óculos de sol para quem dirige",
+        "Playlist e podcast baixados (sinal some na Régis)",
+        "Tag ou dinheiro para pedágio"
+      ]
+    },
+    {
+      "id": "21",
+      "dow": "Sáb",
+      "num": 21,
+      "tipo": "fds",
+      "exp": null,
+      "titulo": "Lagoinha do Leste e P12 Sunset",
+      "resumo": "O dia mais cheio da viagem: trilha de manhã, almoço no sul, pôr do sol em Jurerê e noite na Lagoa.",
+      "risco": "medio",
+      "previsao": "INMET: Muitas nuvens com possibilidade de chuva isolada. Chuva 63% (12,6 mm): manhã 35%, tarde 50%, noite 49%. Máx 30°, rajadas até 53 km/h.",
+      "sol": [
+        {
+          "a": "06:30",
+          "b": "07:05",
+          "cat": "cedo",
+          "t": "Carro Lagoa → Pântano do Sul",
+          "nota": "~35 min. Estacionar perto do Bar do Arante, no começo da trilha (Rua Manoel Pedro de Oliveira)."
+        },
+        {
+          "a": "07:05",
+          "b": "08:10",
+          "cat": "dia",
+          "t": "Trilha do Pântano do Sul até a",
+          "lugar": "lagoinha-do-leste",
+          "nota": "2,2 km, ~1 h, curta e íngreme. A manhã é a janela mais seca do sábado. Se choveu de madrugada, pedra e barro escorregam: ir com calma e de tênis. Se estiver chovendo forte às 6h30, troque pelo plano chuva."
+        },
+        {
+          "a": "08:10",
+          "b": "10:30",
+          "cat": "dia",
+          "t": "Praia da Lagoinha e Morro da Coroa (opcional)",
+          "nota": "A Coroa é ~30 min de subida muito íngreme, quase escalada: só com tempo seco. Sem sinal de celular na trilha."
+        },
+        {
+          "a": "10:30",
+          "b": "11:30",
+          "cat": "dia",
+          "t": "Volta pela mesma trilha até o Pântano"
+        },
+        {
+          "a": "11:30",
+          "b": "13:00",
+          "cat": "dia",
+          "t": "Almoço no",
+          "lugar": "bar-do-arante",
+          "nota": "Abre 11h30 e o carro está ali do lado. Motorista da vez não bebe."
+        },
+        {
+          "a": "13:00",
+          "b": "13:45",
+          "cat": "dia",
+          "t": "Volta à Lagoa"
+        },
+        {
+          "a": "13:45",
+          "b": "16:15",
+          "cat": "dia",
+          "t": "Banho e descanso antes do P12",
+          "flex": true,
+          "nota": "Cochilo vale ouro: a tarde e a noite são longas."
+        },
+        {
+          "a": "16:30",
+          "b": "21:30",
+          "cat": "sunset",
+          "t": "De carro para o Pátio P12 Sunset, em",
+          "lugar": "p12-jurere",
+          "nota": "Ingresso já comprado. Chegada ~17h15 (sábado conte 45–60 min). Motorista da vez fica no zero; estacionar na rua ou pago em Jurerê. Pôr do sol 18h50."
+        },
+        {
+          "a": "22:00",
+          "b": "26:00",
+          "cat": "noite",
+          "t": "Opcional: carro em casa e balada no",
+          "lugar": "espartano-lagoa",
+          "nota": "Só se sobrar energia depois do P12.",
+          "flex": true
+        }
+      ],
+      "chuva": [
+        {
+          "a": "07:30",
+          "b": "10:30",
+          "cat": "dia",
+          "t": "Café longo na Lagoa",
+          "nota": "Sem trilha: com raio ou chuva forte, pedra lisa e pouca saída.",
+          "opcoes": {
+            "titulo": "Café da manhã sem pressa",
+            "itens": [
+              {
+                "id": "cafe-friday",
+                "t": "The Friday Club",
+                "d": "Cafeteria no começo da Afonso Delambert. Sábado 8h–13h.",
+                "q": "The Friday Club Lagoa da Conceição Florianópolis",
+                "g": "pid:ChIJCZGc4jg_J5URuq801Moxq-w"
+              },
+              {
+                "id": "cafe-cravo",
+                "t": "Armazém Cravo e Canela",
+                "d": "Café e empório perto da ponte da Lagoa. Sábado 8h–17h.",
+                "q": "Armazém Cravo e Canela Lagoa da Conceição Florianópolis",
+                "g": "pid:ChIJFYpne6w_J5URmpwkwELEmRc"
+              },
+              {
+                "id": "cafe-casa",
+                "t": "Café em casa",
+                "d": "Com o mercado de sexta feito, é o mais rápido e o mais barato."
+              }
+            ]
+          }
+        },
+        {
+          "a": "10:30",
+          "b": "13:30",
+          "cat": "dia",
+          "t": "Centro histórico e almoço de boteco no",
+          "lugar": "mercado-publico"
+        },
+        {
+          "a": "14:00",
+          "b": "16:00",
+          "cat": "dia",
+          "t": "Tarde coberta",
+          "nota": "Reservar na sexta à noite, olhando a previsão.",
+          "opcoes": {
+            "titulo": "Tarde coberta",
+            "itens": [
+              {
+                "id": "chuva-escape-master",
+                "t": "Escape Master",
+                "d": "Escape room na Trindade, nota máxima. Só com reserva: escolher sala para 4.",
+                "quando": "reserva",
+                "q": "Escape Master Escape Game Florianópolis",
+                "g": "pid:ChIJp7ngLuA5J5URITijtDduyw0"
+              },
+              {
+                "id": "chuva-escapeone",
+                "t": "EscapeOne",
+                "d": "Escape room no Córrego Grande. Sáb e dom 14h–22h.",
+                "q": "EscapeOne Córrego Grande Florianópolis",
+                "g": "pid:ChIJd_LpVCE5J5URwaNhjdU8a8A"
+              },
+              {
+                "id": "chuva-vr",
+                "t": "VR Parque",
+                "d": "Realidade virtual em grupo, em Santa Mônica. Sáb e dom 13h–22h.",
+                "q": "VR Parque Florianópolis",
+                "g": "pid:ChIJ04omD5c5J5URqf-mCiKwfKg"
+              },
+              {
+                "id": "chuva-wow",
+                "t": "Wow Park",
+                "d": "Parque de trampolim no Saco Grande. Sáb e dom 12h–21h.",
+                "q": "Wow Park Saco Grande Florianópolis",
+                "g": "pid:ChIJzxa3ji5HJ5URs8WzxbtamQ4"
+              },
+              {
+                "id": "chuva-cinema",
+                "t": "Cinema no Floripa Shopping",
+                "d": "Cinemark no Saco Grande, a caminho do norte. Sáb 11h–23h.",
+                "q": "Cinemark Floripa Shopping",
+                "g": "pid:ChIJ2ws1yaE4J5URXsOJjm03eSk"
+              },
+              {
+                "id": "chuva-spa",
+                "t": "Massagem no Shambala",
+                "d": "Spa na Lagoa, a pé. Sáb 9h–20h, dom 14h–20h. Bom depois de trilha.",
+                "q": "Shambala Spa Lagoa da Conceição Florianópolis",
+                "g": "pid:ChIJz6WjALo-J5URLKWyXVBWWnU"
+              },
+              {
+                "id": "chuva-museu",
+                "t": "Museu Histórico de SC",
+                "d": "No Palácio Cruz e Sousa, na Praça XV. Sáb 10h–16h30. Combina com o Mercado Público.",
+                "q": "Museu Histórico de Santa Catarina Palácio Cruz e Sousa",
+                "g": "pid:ChIJr7EvSTA4J5URBFe9tFuM7As"
+              }
+            ]
+          }
+        },
+        {
+          "a": "16:30",
+          "b": "21:30",
+          "cat": "sunset",
+          "t": "De carro para o",
+          "lugar": "p12-jurere",
+          "nota": "Ingresso já comprado: ver no Instagram do P12 se mantém com chuva."
+        },
+        {
+          "a": "22:00",
+          "b": "26:00",
+          "cat": "noite",
+          "t": "Se o P12 cair: balbúrdia coberta",
+          "nota": "Casa fechada, não depende do tempo.",
+          "opcoes": {
+            "titulo": "Balbúrdia com chuva (tudo coberto)",
+            "itens": [
+              {
+                "id": "chuva-karaoke",
+                "t": "Vocal Club Karaokê",
+                "d": "Karaokê com salas na Afonso Delambert, a pé. 20h–2h.",
+                "q": "Vocal Club Karaokê Lagoa da Conceição Florianópolis",
+                "g": "pid:ChIJB5tWRFE_J5URAErF-TEXwT8"
+              },
+              {
+                "id": "chuva-maria-bonita",
+                "t": "Maria Bonita Sinuca",
+                "d": "Sinuca e bar no fim das Rendeiras. Sáb 19h30–3h.",
+                "q": "Maria Bonita Sinuca e Bar Lagoa da Conceição Florianópolis",
+                "g": "pid:ChIJE53D3oE-J5URISxYdChJGMs"
+              },
+              {
+                "id": "chuva-santa-club",
+                "t": "Santa Club Lagoa",
+                "d": "Balada no começo das Rendeiras. Sáb 22h30–5h.",
+                "q": "Santa Club Lagoa Lagoa da Conceição Florianópolis",
+                "g": "pid:ChIJbzoElaI-J5URcljne48go2I",
+                "lugar": "santa-club-lagoa"
+              },
+              {
+                "id": "chuva-coffeeshop",
+                "t": "Coffeeshop Floripa",
+                "d": "Casa noturna no Centrinho. Sáb 22h–4h.",
+                "q": "Coffeeshop Floripa Lagoa da Conceição Florianópolis",
+                "g": "pid:ChIJFYaxeR0_J5URtD1nvf9GKKQ",
+                "lugar": "coffeeshop-floripa"
+              },
+              {
+                "id": "chuva-boho",
+                "t": "Bohô Bar & Pista",
+                "d": "Bar com pista no Centro, nota máxima. Sáb 20h–2h. Uber.",
+                "q": "Bohô Bar & Pista Florianópolis",
+                "g": "pid:ChIJ78rgi505J5UR8d8FQjHXUU8",
+                "lugar": "boho-bar-pista"
+              },
+              {
+                "id": "chuva-espartano",
+                "t": "Espartano",
+                "d": "Balada mais perto de casa, das 21h às 4h.",
+                "lugar": "espartano-lagoa"
+              }
+            ]
+          }
+        }
+      ],
+      "alt": "Chuva fraca sem raio: dá para a Lagoinha pelo Pântano do Sul (ida e volta, ~2h). Mata protege, mas fica lama.",
+      "titulo_chuva": "Sábado coberto (ou P12, se mantiver)",
+      "resumo_chuva": "Sem trilha. Café sem pressa, Centro e Mercado Público, tarde coberta e noite de balbúrdia coberta.",
+      "levar": [
+        "1,5 L de água por pessoa e lanche da trilha",
+        "Tênis de sola boa (nada de chinelo)",
+        "Protetor solar e boné",
+        "Saco para trazer o lixo",
+        "GPX e mapa offline no celular",
+        "Ingresso do P12 no celular e documento original",
+        "Roupa para o P12 no carro"
+      ]
+    },
+    {
+      "id": "22",
+      "dow": "Dom",
+      "num": 22,
+      "tipo": "fds",
+      "exp": null,
+      "titulo": "Dia premium no leste",
+      "resumo": "Mole, camarão, Dunas e uma noite leve perto de casa. Tudo a 5 a 15 min, então dá para esperar a chuva passar.",
+      "risco": "alto",
+      "previsao": "INMET: Nublado com pancadas de chuva e trovoadas isoladas. Chuva 73% (17,0 mm): manhã 70%, tarde 73%, noite 57%. Máx 26°, rajadas até 43 km/h.",
+      "sol": [
+        {
+          "a": "08:30",
+          "b": "12:00",
+          "cat": "dia",
+          "t": "Manhã na",
+          "lugar": "praia-mole",
+          "nota": "Trilha de 20 min até a Galheta, opcional. Opção: academia 10h–11h (Forma Fitness, só Silver+), Mole às 11h30."
+        },
+        {
+          "a": "12:30",
+          "b": "14:30",
+          "cat": "dia",
+          "t": "Sequência de camarão na",
+          "lugar": "barra-da-lagoa",
+          "opcoes": {
+            "titulo": "Onde comer a sequência",
+            "itens": [
+              {
+                "id": "barra-rancho-canoa",
+                "t": "Rancho de Canoa",
+                "d": "Na rua do canal. O mais bem avaliado da Barra: pedir a sequência para dividir.",
+                "q": "Restaurante Rancho de Canoa Barra da Lagoa",
+                "g": "barra-almoco|Rancho de Canoa Barra da Lagoa|0"
+              },
+              {
+                "id": "barra-timoneiro",
+                "t": "O Timoneiro",
+                "d": "Na mesma rua, de frente para o canal. Sequência famosa. Domingo 11h–22h.",
+                "q": "Restaurante O Timoneiro Barra da Lagoa",
+                "g": "barra-almoco|O Timoneiro Barra da Lagoa|0"
+              },
+              {
+                "id": "barra-2-irmaos",
+                "t": "2 Irmãos",
+                "d": "Clássico da Barra, mais barato. Domingo até 19h.",
+                "q": "Restaurante 2 Irmãos Barra da Lagoa",
+                "g": "barra-almoco|Restaurante Dois Irmãos Barra da Lagoa|0"
+              },
+              {
+                "id": "barra-deck6",
+                "t": "Deck 6",
+                "d": "Pé na areia na Prainha, do outro lado da ponte pênsil. A sequência dá para 3. Domingo até 17h.",
+                "q": "Deck6 Restaurante Barra da Lagoa",
+                "g": "barra-almoco|Deck 6 Barra da Lagoa|0"
+              }
+            ]
+          }
+        },
+        {
+          "a": "14:30",
+          "b": "16:00",
+          "cat": "dia",
+          "t": "Mergulho nas",
+          "lugar": "piscinas-naturais-barra-da-lagoa",
+          "nota": "Só com maré baixa e mar calmo."
+        },
+        {
+          "a": "16:30",
+          "b": "19:00",
+          "cat": "sunset",
+          "t": "Sandboard nas",
+          "lugar": "joaquina-e-dunas",
+          "nota": "Sandboard 17h30–18h30. Pôr do sol do alto da duna às 18h50, com a Lagoa ao fundo."
+        },
+        {
+          "a": "19:30",
+          "b": "23:00",
+          "cat": "noite",
+          "t": "Noite leve de domingo, perto de casa",
+          "nota": "Segunda tem expediente: voltar até ~23h.",
+          "opcoes": {
+            "titulo": "Noite de domingo",
+            "itens": [
+              {
+                "id": "dom-araca",
+                "t": "Samba no O Araçá",
+                "d": "Roda de domingo num boteco a 8 min a pé. Confirmar no Instagram se tem samba nesse dia.",
+                "lugar": "o-araca-botequim"
+              },
+              {
+                "id": "dom-campeira",
+                "t": "Festa Campeira do Boni",
+                "d": "O convite pede traje campeiro. Perguntar no @bardoboni se dá para ir de roupa normal antes de contar com ela.",
+                "lugar": "bar-do-boni"
+              },
+              {
+                "id": "dom-comedy",
+                "t": "Stand-up no Comedy Club",
+                "d": "Para domingo sem balada ou com chuva. Ver a sessão de domingo no site.",
+                "lugar": "floripa-comedy-club"
+              }
+            ]
+          }
+        }
+      ],
+      "chuva": [
+        {
+          "a": "09:30",
+          "b": "12:00",
+          "cat": "dia",
+          "t": "Café sem pressa. Academia opcional na Forma Fitness (10h–13h)",
+          "opcoes": {
+            "titulo": "Café sem pressa",
+            "itens": [
+              {
+                "id": "cafe-casa",
+                "t": "Café em casa",
+                "d": "Com o mercado de sexta feito, é o mais rápido."
+              },
+              {
+                "id": "cafe-cravo",
+                "t": "Armazém Cravo e Canela",
+                "d": "Café e empório perto da ponte da Lagoa. Conferir se abre no domingo.",
+                "q": "Armazém Cravo e Canela Lagoa da Conceição Florianópolis",
+                "g": "pid:ChIJFYpne6w_J5URmpwkwELEmRc"
+              }
+            ]
+          }
+        },
+        {
+          "a": "12:30",
+          "b": "14:30",
+          "cat": "dia",
+          "t": "Sequência de camarão na",
+          "lugar": "barra-da-lagoa",
+          "opcoes": {
+            "titulo": "Onde comer a sequência",
+            "itens": [
+              {
+                "id": "barra-rancho-canoa",
+                "t": "Rancho de Canoa",
+                "d": "Na rua do canal. O mais bem avaliado da Barra: pedir a sequência para dividir.",
+                "q": "Restaurante Rancho de Canoa Barra da Lagoa",
+                "g": "barra-almoco|Rancho de Canoa Barra da Lagoa|0"
+              },
+              {
+                "id": "barra-timoneiro",
+                "t": "O Timoneiro",
+                "d": "Na mesma rua, de frente para o canal. Sequência famosa. Domingo 11h–22h.",
+                "q": "Restaurante O Timoneiro Barra da Lagoa",
+                "g": "barra-almoco|O Timoneiro Barra da Lagoa|0"
+              },
+              {
+                "id": "barra-2-irmaos",
+                "t": "2 Irmãos",
+                "d": "Clássico da Barra, mais barato. Domingo até 19h.",
+                "q": "Restaurante 2 Irmãos Barra da Lagoa",
+                "g": "barra-almoco|Restaurante Dois Irmãos Barra da Lagoa|0"
+              },
+              {
+                "id": "barra-deck6",
+                "t": "Deck 6",
+                "d": "Pé na areia na Prainha, do outro lado da ponte pênsil. A sequência dá para 3. Domingo até 17h.",
+                "q": "Deck6 Restaurante Barra da Lagoa",
+                "g": "barra-almoco|Deck 6 Barra da Lagoa|0"
+              }
+            ]
+          }
+        },
+        {
+          "a": "14:30",
+          "b": "18:00",
+          "cat": "dia",
+          "t": "Tarde coberta",
+          "nota": "A Festa Campeira do Boni começa às 15h30, se o grupo topar.",
+          "opcoes": {
+            "titulo": "Domingo coberto",
+            "itens": [
+              {
+                "id": "chuva-escapeone",
+                "t": "EscapeOne",
+                "d": "Escape room no Córrego Grande. Domingo 14h–22h.",
+                "q": "EscapeOne Córrego Grande Florianópolis",
+                "g": "pid:ChIJd_LpVCE5J5URwaNhjdU8a8A"
+              },
+              {
+                "id": "chuva-vr",
+                "t": "VR Parque",
+                "d": "Realidade virtual em grupo. Domingo 13h–22h.",
+                "q": "VR Parque Florianópolis",
+                "g": "pid:ChIJ04omD5c5J5URqf-mCiKwfKg"
+              },
+              {
+                "id": "chuva-wow",
+                "t": "Wow Park",
+                "d": "Trampolim no Saco Grande. Domingo 12h–21h.",
+                "q": "Wow Park Saco Grande Florianópolis",
+                "g": "pid:ChIJzxa3ji5HJ5URs8WzxbtamQ4"
+              },
+              {
+                "id": "chuva-cinema",
+                "t": "Cinema no Floripa Shopping",
+                "d": "Cinemark, com shopping para almoçar e andar.",
+                "q": "Cinemark Floripa Shopping",
+                "g": "pid:ChIJ2ws1yaE4J5URXsOJjm03eSk"
+              },
+              {
+                "id": "chuva-spa",
+                "t": "Massagem no Shambala",
+                "d": "Spa na Lagoa, a pé. Domingo 14h–20h.",
+                "q": "Shambala Spa Lagoa da Conceição Florianópolis",
+                "g": "pid:ChIJz6WjALo-J5URLKWyXVBWWnU"
+              }
+            ]
+          }
+        },
+        {
+          "a": "18:30",
+          "b": "23:00",
+          "cat": "noite",
+          "t": "Noite de domingo coberta",
+          "nota": "A Festa Campeira começa às 15h30. Segunda tem expediente: voltar até ~23h.",
+          "opcoes": {
+            "titulo": "Noite de domingo",
+            "itens": [
+              {
+                "id": "dom-araca",
+                "t": "Samba no O Araçá",
+                "d": "Roda de domingo num boteco a 8 min a pé. Confirmar no Instagram se tem samba nesse dia.",
+                "lugar": "o-araca-botequim"
+              },
+              {
+                "id": "dom-campeira",
+                "t": "Festa Campeira do Boni",
+                "d": "O convite pede traje campeiro. Perguntar no @bardoboni se dá para ir de roupa normal antes de contar com ela.",
+                "lugar": "bar-do-boni"
+              },
+              {
+                "id": "dom-comedy",
+                "t": "Stand-up no Comedy Club",
+                "d": "Para domingo sem balada ou com chuva. Ver a sessão de domingo no site.",
+                "lugar": "floripa-comedy-club"
+              }
+            ]
+          }
+        }
+      ],
+      "alt": "Se chover, as Dunas passam para a segunda 23, com o expediente de 8h às 17h.",
+      "titulo_chuva": "Domingo coberto",
+      "resumo_chuva": "Sequência na Barra, tarde de escape room, cinema ou trampolim, e noite leve perto de casa.",
+      "levar": [
+        "Toalha, canga e protetor",
+        "R$ 50 por prancha para o sandboard",
+        "Roupa de banho e chinelo",
+        "Casaco leve para o fim de tarde na duna",
+        "Roupa para a noite"
+      ]
+    },
+    {
+      "id": "23",
+      "dow": "Seg",
+      "num": 23,
+      "tipo": "util",
+      "exp": "9h–18h",
+      "titulo": "Nascer do sol no Gravatá",
+      "resumo": "Primeiro dia útil e o mais seco da previsão. A manhã é do Gravatá, a noite perto de casa.",
+      "risco": "baixo",
+      "previsao": "INMET: Nublado com pancadas de chuva e trovoadas isoladas. Chuva 31% (0,3 mm): manhã 31%, tarde 31%, noite 27%. Máx 24°, rajadas até 41 km/h.",
+      "sol": [
+        {
+          "a": "04:45",
+          "b": "07:00",
+          "cat": "cedo",
+          "t": "Nascer do sol na",
+          "lugar": "trilha-do-gravata",
+          "nota": "Sol às 5h11. Deixar o carro no fim da Av. das Rendeiras, nunca na SC-404. Lanterna de cabeça."
+        },
+        {
+          "a": "09:00",
+          "b": "18:00",
+          "cat": "trabalho",
+          "t": "Expediente",
+          "nota": "Proposta: 8h–17h para as Dunas às 17h30, se o fim de semana molhar."
+        },
+        {
+          "a": "12:00",
+          "b": "13:00",
+          "cat": "academia",
+          "t": "Almoço do intervalo: marmita, restaurante ou academia",
+          "nota": "Escolha do dia: cada dia tem seu Curti. Quem treina sai às 12h e come a marmita na volta.",
+          "opcoes": {
+            "titulo": "Almoço do intervalo (e academia)",
+            "itens": [
+              {
+                "id": "sem-marmita@23",
+                "t": "Marmita em casa",
+                "d": "Cozinhar no domingo e na quarta à noite, em dupla. Mais barato e sobra tempo no intervalo. Os itens estão na lista do mercado, no Guia."
+              },
+              {
+                "id": "sem-academia@23",
+                "t": "Academia + marmita",
+                "d": "AktionPaz 12h–12h40 (13 min a pé, Wellhub Silver) e marmita em casa na volta. Nada de treino pesado na sexta 27, véspera da véspera da prova.",
+                "lugar": "aktionpaz-lagoa"
+              },
+              {
+                "id": "sem-colibri@23",
+                "t": "Colibri (marmita entregue)",
+                "d": "Delivery de almoço na Lagoa, 11h–14h. Pedir às 11h30 para chegar no intervalo.",
+                "q": "Restaurante Colibri Lagoa da Conceição Florianópolis",
+                "g": "pid:ChIJAciTVLc-J5URjyc-E9pCfEQ"
+              },
+              {
+                "id": "sem-marques@23",
+                "t": "Marquês da Lagoa",
+                "d": "Buffet com vista para a Lagoa, nas Rendeiras. 11h30–15h. De carro, 4 min.",
+                "q": "Marquês da Lagoa Lagoa da Conceição Florianópolis",
+                "g": "pid:ChIJbQPAu7w-J5URImKDFgmVcBw"
+              },
+              {
+                "id": "sem-grillo@23",
+                "t": "Grillo",
+                "d": "Buffet livre ou por quilo na Afonso Delambert, a pé do Centrinho. 11h30–15h.",
+                "q": "Restaurante Grillo Lagoa da Conceição Florianópolis",
+                "g": "pid:ChIJ712pVrc-J5URRA7IUCIopg4"
+              },
+              {
+                "id": "sem-querubim@23",
+                "t": "Querubim",
+                "d": "Prato do dia no Centrinho, a pé. Abre 11h15.",
+                "q": "Restaurante Querubim Lagoa da Conceição Florianópolis",
+                "g": "pid:ChIJI9U4TLo-J5URSCI2v2mbB8M"
+              },
+              {
+                "id": "sem-nutrir@23",
+                "t": "Espaço Nutrir",
+                "d": "Vegano e leve, bom antes ou depois da academia. 11h30–15h.",
+                "q": "Espaço Nutrir Lagoa da Conceição Florianópolis",
+                "g": "pid:ChIJJc_yEbc-J5URWcY5jCRfAJE"
+              },
+              {
+                "id": "sem-oriental@23",
+                "t": "Lagoa Oriental",
+                "d": "Japonês no Shopping Via Lagoa, no Centrinho. 11h30–15h.",
+                "q": "Restaurante Lagoa Oriental Lagoa da Conceição Florianópolis",
+                "g": "pid:ChIJEW91hrs-J5URwuNVlbMkqA8"
+              }
+            ]
+          }
+        },
+        {
+          "a": "18:10",
+          "b": "19:15",
+          "cat": "sunset",
+          "t": "Pôr do sol na",
+          "lugar": "avenida-das-rendeiras"
+        },
+        {
+          "a": "19:30",
+          "b": "22:00",
+          "cat": "noite",
+          "t": "Jantar nas Rendeiras",
+          "opcoes": {
+            "titulo": "Onde jantar nas Rendeiras",
+            "itens": [
+              {
+                "id": "rend-bokas",
+                "t": "Boka's",
+                "d": "Frutos do mar na beira da Lagoa, o mais conhecido da orla. Segunda 11h–23h.",
+                "q": "Boka's Lagoa Restaurante Avenida das Rendeiras",
+                "g": "pid:ChIJxdvb7oI-J5URmkUIQDLCrAo"
+              },
+              {
+                "id": "rend-ilha-formosa",
+                "t": "Ilha Formosa",
+                "d": "Pastel, sequência de camarão e petisco. Segunda até 23h30.",
+                "q": "Ilha Formosa Avenida das Rendeiras",
+                "g": "pid:ChIJQXtba4I-J5URkyVtcwIM77M"
+              },
+              {
+                "id": "rend-gela-guela",
+                "t": "Gela Guela",
+                "d": "Bar e restaurante com mesa na beira da Lagoa. Segunda até 23h.",
+                "q": "Bar e Restaurante Gela Guela Avenida das Rendeiras",
+                "g": "pid:ChIJ7eQ4uV8_J5URtDSZCj26U10"
+              },
+              {
+                "id": "rend-baleeira",
+                "t": "A Baleeira",
+                "d": "Frutos do mar, preço médio. Segunda até 22h.",
+                "q": "A Baleeira Restaurante Avenida das Rendeiras",
+                "g": "pid:ChIJ2fsZ-YE-J5URwSNQd1RfRu4"
+              }
+            ]
+          }
+        }
+      ],
+      "chuva": [
+        {
+          "a": "07:00",
+          "b": "09:00",
+          "cat": "cedo",
+          "t": "Sem Gravatá: pedra lisa no escuro. Dormir mais."
+        },
+        {
+          "a": "09:00",
+          "b": "18:00",
+          "cat": "trabalho",
+          "t": "Expediente"
+        },
+        {
+          "a": "12:00",
+          "b": "13:00",
+          "cat": "academia",
+          "t": "Almoço do intervalo: marmita, restaurante ou academia",
+          "nota": "Escolha do dia: cada dia tem seu Curti. Quem treina sai às 12h e come a marmita na volta.",
+          "opcoes": {
+            "titulo": "Almoço do intervalo (e academia)",
+            "itens": [
+              {
+                "id": "sem-marmita@23",
+                "t": "Marmita em casa",
+                "d": "Cozinhar no domingo e na quarta à noite, em dupla. Mais barato e sobra tempo no intervalo. Os itens estão na lista do mercado, no Guia."
+              },
+              {
+                "id": "sem-academia@23",
+                "t": "Academia + marmita",
+                "d": "AktionPaz 12h–12h40 (13 min a pé, Wellhub Silver) e marmita em casa na volta. Nada de treino pesado na sexta 27, véspera da véspera da prova.",
+                "lugar": "aktionpaz-lagoa"
+              },
+              {
+                "id": "sem-colibri@23",
+                "t": "Colibri (marmita entregue)",
+                "d": "Delivery de almoço na Lagoa, 11h–14h. Pedir às 11h30 para chegar no intervalo.",
+                "q": "Restaurante Colibri Lagoa da Conceição Florianópolis",
+                "g": "pid:ChIJAciTVLc-J5URjyc-E9pCfEQ"
+              },
+              {
+                "id": "sem-marques@23",
+                "t": "Marquês da Lagoa",
+                "d": "Buffet com vista para a Lagoa, nas Rendeiras. 11h30–15h. De carro, 4 min.",
+                "q": "Marquês da Lagoa Lagoa da Conceição Florianópolis",
+                "g": "pid:ChIJbQPAu7w-J5URImKDFgmVcBw"
+              },
+              {
+                "id": "sem-grillo@23",
+                "t": "Grillo",
+                "d": "Buffet livre ou por quilo na Afonso Delambert, a pé do Centrinho. 11h30–15h.",
+                "q": "Restaurante Grillo Lagoa da Conceição Florianópolis",
+                "g": "pid:ChIJ712pVrc-J5URRA7IUCIopg4"
+              },
+              {
+                "id": "sem-querubim@23",
+                "t": "Querubim",
+                "d": "Prato do dia no Centrinho, a pé. Abre 11h15.",
+                "q": "Restaurante Querubim Lagoa da Conceição Florianópolis",
+                "g": "pid:ChIJI9U4TLo-J5URSCI2v2mbB8M"
+              },
+              {
+                "id": "sem-nutrir@23",
+                "t": "Espaço Nutrir",
+                "d": "Vegano e leve, bom antes ou depois da academia. 11h30–15h.",
+                "q": "Espaço Nutrir Lagoa da Conceição Florianópolis",
+                "g": "pid:ChIJJc_yEbc-J5URWcY5jCRfAJE"
+              },
+              {
+                "id": "sem-oriental@23",
+                "t": "Lagoa Oriental",
+                "d": "Japonês no Shopping Via Lagoa, no Centrinho. 11h30–15h.",
+                "q": "Restaurante Lagoa Oriental Lagoa da Conceição Florianópolis",
+                "g": "pid:ChIJEW91hrs-J5URwuNVlbMkqA8"
+              }
+            ]
+          }
+        },
+        {
+          "a": "18:10",
+          "b": "22:00",
+          "cat": "noite",
+          "t": "Sinuca ou pub, e jantar na Lagoa",
+          "opcoes": {
+            "titulo": "Noite de segunda com chuva",
+            "itens": [
+              {
+                "id": "chuva-maria-bonita",
+                "t": "Maria Bonita Sinuca",
+                "d": "Sinuca e bar no fim das Rendeiras.",
+                "q": "Maria Bonita Sinuca e Bar Lagoa da Conceição Florianópolis",
+                "g": "pid:ChIJE53D3oE-J5URISxYdChJGMs"
+              },
+              {
+                "id": "lagoa-liffey",
+                "t": "Liffey Lagoa",
+                "d": "Pub irlandês no Centrinho. Segunda 17h–0h.",
+                "q": "Liffey Lagoa da Conceição",
+                "g": "centrinho-jantar|The Black Swan Lagoa da Conceição|1"
+              },
+              {
+                "id": "chuva-karaoke",
+                "t": "Vocal Club Karaokê",
+                "d": "Karaokê a pé, se abrir na segunda: conferir no Instagram.",
+                "q": "Vocal Club Karaokê Lagoa da Conceição Florianópolis",
+                "g": "pid:ChIJB5tWRFE_J5URAErF-TEXwT8"
+              }
+            ]
+          }
+        }
+      ],
+      "titulo_chuva": "Segunda sem Gravatá",
+      "resumo_chuva": "Pedra lisa no escuro: dormir mais. Noite de sinuca ou pub e jantar na Lagoa.",
+      "levar": [
+        "Lanterna de cabeça (sai às 4h45)",
+        "Tênis e casaco (venta no alto)",
+        "Celular carregado para o nascer do sol",
+        "Roupa de academia, se for ao meio-dia"
+      ]
+    },
+    {
+      "id": "24",
+      "dow": "Ter",
+      "num": 24,
+      "tipo": "util",
+      "exp": "8h–17h",
+      "titulo": "Kart nos Ingleses",
+      "resumo": "Kart às 19h, jantar no norte e Uber nos dois sentidos, porque vão beber.",
+      "risco": "alto",
+      "previsao": "Chuva 80% (18,8 mm): manhã 73%, tarde 78%, noite 80%. Máx 24°, rajadas até 40 km/h.",
+      "sol": [
+        {
+          "a": "05:30",
+          "b": "07:00",
+          "cat": "cedo",
+          "t": "Nascer do sol na Praia Mole, opcional",
+          "lugar": "praia-mole"
+        },
+        {
+          "a": "08:00",
+          "b": "17:00",
+          "cat": "trabalho",
+          "t": "Expediente"
+        },
+        {
+          "a": "12:00",
+          "b": "13:00",
+          "cat": "academia",
+          "t": "Almoço do intervalo: marmita, restaurante ou academia",
+          "nota": "Escolha do dia: cada dia tem seu Curti. Quem treina sai às 12h e come a marmita na volta.",
+          "opcoes": {
+            "titulo": "Almoço do intervalo (e academia)",
+            "itens": [
+              {
+                "id": "sem-marmita@24",
+                "t": "Marmita em casa",
+                "d": "Cozinhar no domingo e na quarta à noite, em dupla. Mais barato e sobra tempo no intervalo. Os itens estão na lista do mercado, no Guia."
+              },
+              {
+                "id": "sem-academia@24",
+                "t": "Academia + marmita",
+                "d": "AktionPaz 12h–12h40 (13 min a pé, Wellhub Silver) e marmita em casa na volta. Nada de treino pesado na sexta 27, véspera da véspera da prova.",
+                "lugar": "aktionpaz-lagoa"
+              },
+              {
+                "id": "sem-colibri@24",
+                "t": "Colibri (marmita entregue)",
+                "d": "Delivery de almoço na Lagoa, 11h–14h. Pedir às 11h30 para chegar no intervalo.",
+                "q": "Restaurante Colibri Lagoa da Conceição Florianópolis",
+                "g": "pid:ChIJAciTVLc-J5URjyc-E9pCfEQ"
+              },
+              {
+                "id": "sem-marques@24",
+                "t": "Marquês da Lagoa",
+                "d": "Buffet com vista para a Lagoa, nas Rendeiras. 11h30–15h. De carro, 4 min.",
+                "q": "Marquês da Lagoa Lagoa da Conceição Florianópolis",
+                "g": "pid:ChIJbQPAu7w-J5URImKDFgmVcBw"
+              },
+              {
+                "id": "sem-grillo@24",
+                "t": "Grillo",
+                "d": "Buffet livre ou por quilo na Afonso Delambert, a pé do Centrinho. 11h30–15h.",
+                "q": "Restaurante Grillo Lagoa da Conceição Florianópolis",
+                "g": "pid:ChIJ712pVrc-J5URRA7IUCIopg4"
+              },
+              {
+                "id": "sem-querubim@24",
+                "t": "Querubim",
+                "d": "Prato do dia no Centrinho, a pé. Abre 11h15.",
+                "q": "Restaurante Querubim Lagoa da Conceição Florianópolis",
+                "g": "pid:ChIJI9U4TLo-J5URSCI2v2mbB8M"
+              },
+              {
+                "id": "sem-nutrir@24",
+                "t": "Espaço Nutrir",
+                "d": "Vegano e leve, bom antes ou depois da academia. 11h30–15h.",
+                "q": "Espaço Nutrir Lagoa da Conceição Florianópolis",
+                "g": "pid:ChIJJc_yEbc-J5URWcY5jCRfAJE"
+              },
+              {
+                "id": "sem-oriental@24",
+                "t": "Lagoa Oriental",
+                "d": "Japonês no Shopping Via Lagoa, no Centrinho. 11h30–15h.",
+                "q": "Restaurante Lagoa Oriental Lagoa da Conceição Florianópolis",
+                "g": "pid:ChIJEW91hrs-J5URwuNVlbMkqA8"
+              }
+            ]
+          }
+        },
+        {
+          "a": "17:50",
+          "b": "18:40",
+          "cat": "dia",
+          "t": "Uber Lagoa → Ingleses (27 km)",
+          "nota": "~45 min no fim de tarde. R$ 60–90 por trecho, estimativa. Chegar às 18h40 para o kart das 19h."
+        },
+        {
+          "a": "19:00",
+          "b": "19:30",
+          "cat": "noite",
+          "t": "Kart no",
+          "lugar": "kart-ingleses",
+          "nota": "Confirmado: 19h–19h30. Chegar às 18h40. Sapato fechado obrigatório (chinelo e sandália não entram). Calça comprida e camisa manga longa, senão macacão de R$ 20. Por pessoa: 15 min R$ 130 no Pix/dinheiro (R$ 150 no cartão); 20 min R$ 150 (R$ 170); 35 min R$ 230 (R$ 250). Altura mínima 1,55 m."
+        },
+        {
+          "a": "19:45",
+          "b": "21:15",
+          "cat": "noite",
+          "t": "Jantar no norte",
+          "opcoes": {
+            "titulo": "Onde jantar no norte",
+            "itens": [
+              {
+                "id": "ing-arriba",
+                "t": "Arriba",
+                "d": "Mexicano perto da pista, rápido e com preço médio. Terça até 0h.",
+                "q": "Restaurante Arriba Ingleses",
+                "g": "ingleses|Guacamole Taqueria Ingleses|0"
+              },
+              {
+                "id": "ing-seghetto",
+                "t": "Camarão Chef Seghetto",
+                "d": "Frutos do mar nos Ingleses, o mais avaliado da região. Terça até 23h.",
+                "q": "Camarão Chef Seghetto Ingleses",
+                "g": "pid:ChIJg2klMLhrJ5URHvZoC1vP5vM"
+              },
+              {
+                "id": "ing-cadiquim",
+                "t": "Cadiquim de Minas",
+                "d": "Comida mineira e petisco, pratos grandes. Terça até 23h30.",
+                "q": "Cadiquim de Minas Ingleses",
+                "g": "pid:ChIJA0RnmR9pJ5URVc9GnQ26JjY"
+              },
+              {
+                "id": "ing-koniko",
+                "t": "Koniko",
+                "d": "Temakeria e sushi na SC-406, no caminho de volta. Terça 19h–0h.",
+                "q": "Koniko Temakeria e Sushi Bar Ingleses",
+                "g": "ingleses|Koniko Temakeria Ingleses|0"
+              }
+            ]
+          }
+        },
+        {
+          "a": "21:15",
+          "b": "24:00",
+          "cat": "noite",
+          "t": "Esticar no norte ou voltar",
+          "nota": "Quarta tem expediente às 8h: Uber de volta até ~0h.",
+          "opcoes": {
+            "titulo": "Depois do jantar: conhecer o norte à noite",
+            "itens": [
+              {
+                "id": "norte-capetaria",
+                "t": "Capetaria Porto Seguro",
+                "d": "Bar e grill no meio da Av. das Nações, em Canasvieiras, o centro da noite do norte. Terça 18h30–2h.",
+                "q": "Capetaria Porto Seguro Canasvieiras",
+                "g": "pid:ChIJX0Qrd6JDJ5UREDddiiHVOOo"
+              },
+              {
+                "id": "norte-bola8",
+                "t": "Bola 8 Snooker Bar",
+                "d": "Sinuca e cerveja nos Ingleses, a 5 min do kart. Terça 19h–2h.",
+                "q": "Bola 8 Snooker Bar Ingleses",
+                "g": "pid:ChIJJfvd9QBCJ5URPtgaiscfj5Y"
+              },
+              {
+                "id": "norte-templar",
+                "t": "Templar Bier",
+                "d": "Cervejaria nos Ingleses, com chope da casa. Terça até 0h.",
+                "q": "Templar Bier Ingleses",
+                "g": "pid:ChIJp4bPqgFCJ5URld1lzM8mCjw"
+              },
+              {
+                "id": "norte-cris",
+                "t": "Bar do Cris, Jurerê",
+                "d": "Bar de Jurerê Internacional para ver o bairro dos beach clubs à noite. Terça 18h–0h.",
+                "q": "Bar do Cris Jurerê",
+                "g": "pid:ChIJ-WCchWREJ5URscOAuJ3c3rw"
+              },
+              {
+                "id": "norte-voltar",
+                "t": "Voltar direto",
+                "d": "Quarta tem expediente às 8h. Uber de volta leva ~45 min: pedir com 15 min de antecedência, com o 99 como segundo app."
+              }
+            ]
+          }
+        }
+      ],
+      "chuva": [
+        {
+          "a": "12:00",
+          "b": "13:00",
+          "cat": "academia",
+          "t": "Almoço do intervalo: marmita, restaurante ou academia",
+          "nota": "Escolha do dia: cada dia tem seu Curti. Quem treina sai às 12h e come a marmita na volta.",
+          "opcoes": {
+            "titulo": "Almoço do intervalo (e academia)",
+            "itens": [
+              {
+                "id": "sem-marmita@24",
+                "t": "Marmita em casa",
+                "d": "Cozinhar no domingo e na quarta à noite, em dupla. Mais barato e sobra tempo no intervalo. Os itens estão na lista do mercado, no Guia."
+              },
+              {
+                "id": "sem-academia@24",
+                "t": "Academia + marmita",
+                "d": "AktionPaz 12h–12h40 (13 min a pé, Wellhub Silver) e marmita em casa na volta. Nada de treino pesado na sexta 27, véspera da véspera da prova.",
+                "lugar": "aktionpaz-lagoa"
+              },
+              {
+                "id": "sem-colibri@24",
+                "t": "Colibri (marmita entregue)",
+                "d": "Delivery de almoço na Lagoa, 11h–14h. Pedir às 11h30 para chegar no intervalo.",
+                "q": "Restaurante Colibri Lagoa da Conceição Florianópolis",
+                "g": "pid:ChIJAciTVLc-J5URjyc-E9pCfEQ"
+              },
+              {
+                "id": "sem-marques@24",
+                "t": "Marquês da Lagoa",
+                "d": "Buffet com vista para a Lagoa, nas Rendeiras. 11h30–15h. De carro, 4 min.",
+                "q": "Marquês da Lagoa Lagoa da Conceição Florianópolis",
+                "g": "pid:ChIJbQPAu7w-J5URImKDFgmVcBw"
+              },
+              {
+                "id": "sem-grillo@24",
+                "t": "Grillo",
+                "d": "Buffet livre ou por quilo na Afonso Delambert, a pé do Centrinho. 11h30–15h.",
+                "q": "Restaurante Grillo Lagoa da Conceição Florianópolis",
+                "g": "pid:ChIJ712pVrc-J5URRA7IUCIopg4"
+              },
+              {
+                "id": "sem-querubim@24",
+                "t": "Querubim",
+                "d": "Prato do dia no Centrinho, a pé. Abre 11h15.",
+                "q": "Restaurante Querubim Lagoa da Conceição Florianópolis",
+                "g": "pid:ChIJI9U4TLo-J5URSCI2v2mbB8M"
+              },
+              {
+                "id": "sem-nutrir@24",
+                "t": "Espaço Nutrir",
+                "d": "Vegano e leve, bom antes ou depois da academia. 11h30–15h.",
+                "q": "Espaço Nutrir Lagoa da Conceição Florianópolis",
+                "g": "pid:ChIJJc_yEbc-J5URWcY5jCRfAJE"
+              },
+              {
+                "id": "sem-oriental@24",
+                "t": "Lagoa Oriental",
+                "d": "Japonês no Shopping Via Lagoa, no Centrinho. 11h30–15h.",
+                "q": "Restaurante Lagoa Oriental Lagoa da Conceição Florianópolis",
+                "g": "pid:ChIJEW91hrs-J5URwuNVlbMkqA8"
+              }
+            ]
+          }
+        },
+        {
+          "a": "17:50",
+          "b": "18:40",
+          "cat": "dia",
+          "t": "Uber Lagoa → Ingleses",
+          "nota": "Perguntar ao kartódromo se a pista roda com chuva. Chegar às 18h40 para o kart das 19h."
+        },
+        {
+          "a": "19:00",
+          "b": "19:30",
+          "cat": "noite",
+          "t": "Kart no",
+          "lugar": "kart-ingleses",
+          "nota": "Confirmado: 19h–19h30. Chegar às 18h40. Sapato fechado obrigatório (chinelo e sandália não entram). Calça comprida e camisa manga longa, senão macacão de R$ 20. Por pessoa: 15 min R$ 130 no Pix/dinheiro (R$ 150 no cartão); 20 min R$ 150 (R$ 170); 35 min R$ 230 (R$ 250). Altura mínima 1,55 m. Com chuva: ligar antes para saber se a pista roda; se não rodar, plano B abaixo.",
+          "opcoes": {
+            "titulo": "Se a pista não rodar com chuva",
+            "itens": [
+              {
+                "id": "b-tche",
+                "t": "Boliche do Tchê",
+                "d": "Boliche nos próprios Ingleses, 18h–1h.",
+                "q": "Boliche do Tchê Ingleses Florianópolis",
+                "g": "pid:ChIJ-XxYqwRCJ5URGRmRvZ6TUM8"
+              },
+              {
+                "id": "norte-bola8",
+                "t": "Bola 8 Snooker Bar",
+                "d": "Sinuca e cerveja nos Ingleses. Terça 19h–2h.",
+                "q": "Bola 8 Snooker Bar Ingleses",
+                "g": "pid:ChIJJfvd9QBCJ5URPtgaiscfj5Y"
+              }
+            ]
+          }
+        },
+        {
+          "a": "19:45",
+          "b": "21:15",
+          "cat": "noite",
+          "t": "Jantar no norte",
+          "opcoes": {
+            "titulo": "Onde jantar no norte",
+            "itens": [
+              {
+                "id": "ing-arriba",
+                "t": "Arriba",
+                "d": "Mexicano perto da pista, rápido e com preço médio. Terça até 0h.",
+                "q": "Restaurante Arriba Ingleses",
+                "g": "ingleses|Guacamole Taqueria Ingleses|0"
+              },
+              {
+                "id": "ing-seghetto",
+                "t": "Camarão Chef Seghetto",
+                "d": "Frutos do mar nos Ingleses, o mais avaliado da região. Terça até 23h.",
+                "q": "Camarão Chef Seghetto Ingleses",
+                "g": "pid:ChIJg2klMLhrJ5URHvZoC1vP5vM"
+              },
+              {
+                "id": "ing-cadiquim",
+                "t": "Cadiquim de Minas",
+                "d": "Comida mineira e petisco, pratos grandes. Terça até 23h30.",
+                "q": "Cadiquim de Minas Ingleses",
+                "g": "pid:ChIJA0RnmR9pJ5URVc9GnQ26JjY"
+              },
+              {
+                "id": "ing-koniko",
+                "t": "Koniko",
+                "d": "Temakeria e sushi na SC-406, no caminho de volta. Terça 19h–0h.",
+                "q": "Koniko Temakeria e Sushi Bar Ingleses",
+                "g": "ingleses|Koniko Temakeria Ingleses|0"
+              }
+            ]
+          }
+        },
+        {
+          "a": "21:15",
+          "b": "24:00",
+          "cat": "noite",
+          "t": "Esticar no norte ou voltar",
+          "nota": "Quarta tem expediente às 8h: Uber de volta até ~0h.",
+          "opcoes": {
+            "titulo": "Depois do jantar: conhecer o norte à noite",
+            "itens": [
+              {
+                "id": "norte-capetaria",
+                "t": "Capetaria Porto Seguro",
+                "d": "Bar e grill no meio da Av. das Nações, em Canasvieiras, o centro da noite do norte. Terça 18h30–2h.",
+                "q": "Capetaria Porto Seguro Canasvieiras",
+                "g": "pid:ChIJX0Qrd6JDJ5UREDddiiHVOOo"
+              },
+              {
+                "id": "norte-bola8",
+                "t": "Bola 8 Snooker Bar",
+                "d": "Sinuca e cerveja nos Ingleses, a 5 min do kart. Terça 19h–2h.",
+                "q": "Bola 8 Snooker Bar Ingleses",
+                "g": "pid:ChIJJfvd9QBCJ5URPtgaiscfj5Y"
+              },
+              {
+                "id": "norte-templar",
+                "t": "Templar Bier",
+                "d": "Cervejaria nos Ingleses, com chope da casa. Terça até 0h.",
+                "q": "Templar Bier Ingleses",
+                "g": "pid:ChIJp4bPqgFCJ5URld1lzM8mCjw"
+              },
+              {
+                "id": "norte-cris",
+                "t": "Bar do Cris, Jurerê",
+                "d": "Bar de Jurerê Internacional para ver o bairro dos beach clubs à noite. Terça 18h–0h.",
+                "q": "Bar do Cris Jurerê",
+                "g": "pid:ChIJ-WCchWREJ5URscOAuJ3c3rw"
+              },
+              {
+                "id": "norte-voltar",
+                "t": "Voltar direto",
+                "d": "Quarta tem expediente às 8h. Uber de volta leva ~45 min: pedir com 15 min de antecedência, com o 99 como segundo app."
+              }
+            ]
+          }
+        }
+      ],
+      "titulo_chuva": "Kart nos Ingleses (se a pista rodar)",
+      "resumo_chuva": "Perguntar ao kartódromo se roda com chuva; plano B é o boliche nos Ingleses.",
+      "levar": [
+        "Tênis ou sapato fechado (obrigatório no kart)",
+        "Calça comprida e camisa manga longa (senão macacão R$ 20)",
+        "Pix ou dinheiro: sai R$ 20 mais barato por pessoa",
+        "Muda de roupa para o jantar e para esticar no norte",
+        "Documento",
+        "Celular com bateria para o Uber de volta"
+      ]
+    },
+    {
+      "id": "25",
+      "dow": "Qua",
+      "num": 25,
+      "tipo": "util",
+      "exp": "8h–17h",
+      "titulo": "Pôr do sol e ostras em Santo Antônio",
+      "resumo": "Festival de Ostras no Freguesia às quartas. Uber ida e volta.",
+      "risco": "medio",
+      "previsao": "Chuva 71% (5,5 mm): manhã 69%, tarde 53%, noite 36%. Máx 26°, rajadas até 56 km/h.",
+      "sol": [
+        {
+          "a": "05:30",
+          "b": "07:00",
+          "cat": "cedo",
+          "t": "Piscinas Naturais, só se a maré baixa cair cedo",
+          "lugar": "piscinas-naturais-barra-da-lagoa"
+        },
+        {
+          "a": "08:00",
+          "b": "17:00",
+          "cat": "trabalho",
+          "t": "Expediente"
+        },
+        {
+          "a": "12:00",
+          "b": "13:00",
+          "cat": "academia",
+          "t": "Almoço do intervalo: marmita, restaurante ou academia",
+          "nota": "Escolha do dia: cada dia tem seu Curti. Quem treina sai às 12h e come a marmita na volta.",
+          "opcoes": {
+            "titulo": "Almoço do intervalo (e academia)",
+            "itens": [
+              {
+                "id": "sem-marmita@25",
+                "t": "Marmita em casa",
+                "d": "Cozinhar no domingo e na quarta à noite, em dupla. Mais barato e sobra tempo no intervalo. Os itens estão na lista do mercado, no Guia."
+              },
+              {
+                "id": "sem-academia@25",
+                "t": "Academia + marmita",
+                "d": "AktionPaz 12h–12h40 (13 min a pé, Wellhub Silver) e marmita em casa na volta. Nada de treino pesado na sexta 27, véspera da véspera da prova.",
+                "lugar": "aktionpaz-lagoa"
+              },
+              {
+                "id": "sem-colibri@25",
+                "t": "Colibri (marmita entregue)",
+                "d": "Delivery de almoço na Lagoa, 11h–14h. Pedir às 11h30 para chegar no intervalo.",
+                "q": "Restaurante Colibri Lagoa da Conceição Florianópolis",
+                "g": "pid:ChIJAciTVLc-J5URjyc-E9pCfEQ"
+              },
+              {
+                "id": "sem-marques@25",
+                "t": "Marquês da Lagoa",
+                "d": "Buffet com vista para a Lagoa, nas Rendeiras. 11h30–15h. De carro, 4 min.",
+                "q": "Marquês da Lagoa Lagoa da Conceição Florianópolis",
+                "g": "pid:ChIJbQPAu7w-J5URImKDFgmVcBw"
+              },
+              {
+                "id": "sem-grillo@25",
+                "t": "Grillo",
+                "d": "Buffet livre ou por quilo na Afonso Delambert, a pé do Centrinho. 11h30–15h.",
+                "q": "Restaurante Grillo Lagoa da Conceição Florianópolis",
+                "g": "pid:ChIJ712pVrc-J5URRA7IUCIopg4"
+              },
+              {
+                "id": "sem-querubim@25",
+                "t": "Querubim",
+                "d": "Prato do dia no Centrinho, a pé. Abre 11h15.",
+                "q": "Restaurante Querubim Lagoa da Conceição Florianópolis",
+                "g": "pid:ChIJI9U4TLo-J5URSCI2v2mbB8M"
+              },
+              {
+                "id": "sem-nutrir@25",
+                "t": "Espaço Nutrir",
+                "d": "Vegano e leve, bom antes ou depois da academia. 11h30–15h.",
+                "q": "Espaço Nutrir Lagoa da Conceição Florianópolis",
+                "g": "pid:ChIJJc_yEbc-J5URWcY5jCRfAJE"
+              },
+              {
+                "id": "sem-oriental@25",
+                "t": "Lagoa Oriental",
+                "d": "Japonês no Shopping Via Lagoa, no Centrinho. 11h30–15h.",
+                "q": "Restaurante Lagoa Oriental Lagoa da Conceição Florianópolis",
+                "g": "pid:ChIJEW91hrs-J5URwuNVlbMkqA8"
+              }
+            ]
+          }
+        },
+        {
+          "a": "17:15",
+          "b": "18:00",
+          "cat": "dia",
+          "t": "Uber Lagoa → Santo Antônio (18 km)",
+          "nota": "Sair às 17h15, logo depois do expediente: ~40 min no pico da SC-401. R$ 45–60 por trecho, estimativa."
+        },
+        {
+          "a": "18:00",
+          "b": "18:25",
+          "cat": "dia",
+          "t": "Passeio pelo casario e pela Igreja de N. Sra. das Necessidades (1756)"
+        },
+        {
+          "a": "18:25",
+          "b": "21:00",
+          "cat": "sunset",
+          "t": "Mesa de frente para o mar em",
+          "lugar": "santo-antonio-de-lisboa",
+          "nota": "Pôr do sol 18h50. Plano B: Sambaqui.",
+          "opcoes": {
+            "titulo": "Qual mesa",
+            "itens": [
+              {
+                "id": "sa-freguesia",
+                "t": "Freguesia",
+                "d": "Festival de Ostras às quartas e fazenda marinha própria. Reservar mesa de frente para o mar pelo WhatsApp.",
+                "q": "Freguesia Bar Santo Antônio de Lisboa",
+                "g": "santo-antonio|Freguesia Oyster Bar Santo Antônio de Lisboa|0"
+              },
+              {
+                "id": "sa-sintra",
+                "t": "Marisqueira Sintra",
+                "d": "Cozinha portuguesa ao lado do Freguesia. Bom para quem não come ostra.",
+                "q": "Marisqueira Sintra Santo Antônio de Lisboa",
+                "g": "santo-antonio|Marisqueira Sintra Santo Antônio de Lisboa|0"
+              },
+              {
+                "id": "sa-rosso",
+                "t": "Rosso",
+                "d": "O mais elegante e o mais caro da orla. Polvo da casa.",
+                "q": "Rosso Santo Antônio de Lisboa",
+                "g": "santo-antonio|Rosso Cozinha do Mar Santo Antônio de Lisboa|0"
+              }
+            ]
+          }
+        },
+        {
+          "a": "21:15",
+          "b": "22:00",
+          "cat": "noite",
+          "t": "Uber de volta"
+        }
+      ],
+      "chuva": [
+        {
+          "a": "12:00",
+          "b": "13:00",
+          "cat": "academia",
+          "t": "Almoço do intervalo: marmita, restaurante ou academia",
+          "nota": "Escolha do dia: cada dia tem seu Curti. Quem treina sai às 12h e come a marmita na volta.",
+          "opcoes": {
+            "titulo": "Almoço do intervalo (e academia)",
+            "itens": [
+              {
+                "id": "sem-marmita@25",
+                "t": "Marmita em casa",
+                "d": "Cozinhar no domingo e na quarta à noite, em dupla. Mais barato e sobra tempo no intervalo. Os itens estão na lista do mercado, no Guia."
+              },
+              {
+                "id": "sem-academia@25",
+                "t": "Academia + marmita",
+                "d": "AktionPaz 12h–12h40 (13 min a pé, Wellhub Silver) e marmita em casa na volta. Nada de treino pesado na sexta 27, véspera da véspera da prova.",
+                "lugar": "aktionpaz-lagoa"
+              },
+              {
+                "id": "sem-colibri@25",
+                "t": "Colibri (marmita entregue)",
+                "d": "Delivery de almoço na Lagoa, 11h–14h. Pedir às 11h30 para chegar no intervalo.",
+                "q": "Restaurante Colibri Lagoa da Conceição Florianópolis",
+                "g": "pid:ChIJAciTVLc-J5URjyc-E9pCfEQ"
+              },
+              {
+                "id": "sem-marques@25",
+                "t": "Marquês da Lagoa",
+                "d": "Buffet com vista para a Lagoa, nas Rendeiras. 11h30–15h. De carro, 4 min.",
+                "q": "Marquês da Lagoa Lagoa da Conceição Florianópolis",
+                "g": "pid:ChIJbQPAu7w-J5URImKDFgmVcBw"
+              },
+              {
+                "id": "sem-grillo@25",
+                "t": "Grillo",
+                "d": "Buffet livre ou por quilo na Afonso Delambert, a pé do Centrinho. 11h30–15h.",
+                "q": "Restaurante Grillo Lagoa da Conceição Florianópolis",
+                "g": "pid:ChIJ712pVrc-J5URRA7IUCIopg4"
+              },
+              {
+                "id": "sem-querubim@25",
+                "t": "Querubim",
+                "d": "Prato do dia no Centrinho, a pé. Abre 11h15.",
+                "q": "Restaurante Querubim Lagoa da Conceição Florianópolis",
+                "g": "pid:ChIJI9U4TLo-J5URSCI2v2mbB8M"
+              },
+              {
+                "id": "sem-nutrir@25",
+                "t": "Espaço Nutrir",
+                "d": "Vegano e leve, bom antes ou depois da academia. 11h30–15h.",
+                "q": "Espaço Nutrir Lagoa da Conceição Florianópolis",
+                "g": "pid:ChIJJc_yEbc-J5URWcY5jCRfAJE"
+              },
+              {
+                "id": "sem-oriental@25",
+                "t": "Lagoa Oriental",
+                "d": "Japonês no Shopping Via Lagoa, no Centrinho. 11h30–15h.",
+                "q": "Restaurante Lagoa Oriental Lagoa da Conceição Florianópolis",
+                "g": "pid:ChIJEW91hrs-J5URwuNVlbMkqA8"
+              }
+            ]
+          }
+        },
+        {
+          "a": "17:15",
+          "b": "18:00",
+          "cat": "dia",
+          "t": "Uber Lagoa → Santo Antônio",
+          "nota": "Sair às 17h15, logo depois do expediente: ~40 min no pico da SC-401. R$ 45–60 por trecho, estimativa."
+        },
+        {
+          "a": "18:25",
+          "b": "21:00",
+          "cat": "noite",
+          "t": "As mesmas ostras no",
+          "lugar": "santo-antonio-de-lisboa",
+          "nota": "Só perde o pôr do sol.",
+          "opcoes": {
+            "titulo": "Qual mesa",
+            "itens": [
+              {
+                "id": "sa-freguesia",
+                "t": "Freguesia",
+                "d": "Festival de Ostras às quartas e fazenda marinha própria. Reservar mesa de frente para o mar pelo WhatsApp.",
+                "q": "Freguesia Bar Santo Antônio de Lisboa",
+                "g": "santo-antonio|Freguesia Oyster Bar Santo Antônio de Lisboa|0"
+              },
+              {
+                "id": "sa-sintra",
+                "t": "Marisqueira Sintra",
+                "d": "Cozinha portuguesa ao lado do Freguesia. Bom para quem não come ostra.",
+                "q": "Marisqueira Sintra Santo Antônio de Lisboa",
+                "g": "santo-antonio|Marisqueira Sintra Santo Antônio de Lisboa|0"
+              },
+              {
+                "id": "sa-rosso",
+                "t": "Rosso",
+                "d": "O mais elegante e o mais caro da orla. Polvo da casa.",
+                "q": "Rosso Santo Antônio de Lisboa",
+                "g": "santo-antonio|Rosso Cozinha do Mar Santo Antônio de Lisboa|0"
+              }
+            ]
+          }
+        },
+        {
+          "a": "21:15",
+          "b": "22:00",
+          "cat": "noite",
+          "t": "Alternativa no caminho: Floripa Comedy Club, no Saco Grande (confirmar sessão de quarta)"
+        }
+      ],
+      "titulo_chuva": "Ostras em Santo Antônio, sem pôr do sol",
+      "resumo_chuva": "As mesmas mesas, só perde o pôr do sol.",
+      "levar": [
+        "Casaco (venta na baía à noite)",
+        "Confirmação da mesa no Freguesia",
+        "Celular com bateria para o Uber de volta"
+      ]
+    },
+    {
+      "id": "26",
+      "dow": "Qui",
+      "num": 26,
+      "tipo": "util",
+      "exp": "8h–17h",
+      "titulo": "Pôr do sol na Lagoa",
+      "resumo": "Fim de tarde na beira da Lagoa (Boni ou outro bar das Rendeiras) e festa no Espartano, a 1,2 km a pé.",
+      "risco": "baixo",
+      "previsao": "Chuva 15% (0,0 mm): manhã 5%, tarde 2%, noite 0%. Máx 24°, rajadas até 77 km/h.",
+      "sol": [
+        {
+          "a": "05:30",
+          "b": "06:45",
+          "cat": "cedo",
+          "t": "Corrida leve de 5 km na orla da Lagoa",
+          "nota": "Quem corre a SC21K."
+        },
+        {
+          "a": "08:00",
+          "b": "17:00",
+          "cat": "trabalho",
+          "t": "Expediente"
+        },
+        {
+          "a": "12:00",
+          "b": "13:00",
+          "cat": "academia",
+          "t": "Almoço do intervalo: marmita, restaurante ou academia",
+          "nota": "Escolha do dia: cada dia tem seu Curti. Quem treina sai às 12h e come a marmita na volta.",
+          "opcoes": {
+            "titulo": "Almoço do intervalo (e academia)",
+            "itens": [
+              {
+                "id": "sem-marmita@26",
+                "t": "Marmita em casa",
+                "d": "Cozinhar no domingo e na quarta à noite, em dupla. Mais barato e sobra tempo no intervalo. Os itens estão na lista do mercado, no Guia."
+              },
+              {
+                "id": "sem-academia@26",
+                "t": "Academia + marmita",
+                "d": "AktionPaz 12h–12h40 (13 min a pé, Wellhub Silver) e marmita em casa na volta. Nada de treino pesado na sexta 27, véspera da véspera da prova.",
+                "lugar": "aktionpaz-lagoa"
+              },
+              {
+                "id": "sem-colibri@26",
+                "t": "Colibri (marmita entregue)",
+                "d": "Delivery de almoço na Lagoa, 11h–14h. Pedir às 11h30 para chegar no intervalo.",
+                "q": "Restaurante Colibri Lagoa da Conceição Florianópolis",
+                "g": "pid:ChIJAciTVLc-J5URjyc-E9pCfEQ"
+              },
+              {
+                "id": "sem-marques@26",
+                "t": "Marquês da Lagoa",
+                "d": "Buffet com vista para a Lagoa, nas Rendeiras. 11h30–15h. De carro, 4 min.",
+                "q": "Marquês da Lagoa Lagoa da Conceição Florianópolis",
+                "g": "pid:ChIJbQPAu7w-J5URImKDFgmVcBw"
+              },
+              {
+                "id": "sem-grillo@26",
+                "t": "Grillo",
+                "d": "Buffet livre ou por quilo na Afonso Delambert, a pé do Centrinho. 11h30–15h.",
+                "q": "Restaurante Grillo Lagoa da Conceição Florianópolis",
+                "g": "pid:ChIJ712pVrc-J5URRA7IUCIopg4"
+              },
+              {
+                "id": "sem-querubim@26",
+                "t": "Querubim",
+                "d": "Prato do dia no Centrinho, a pé. Abre 11h15.",
+                "q": "Restaurante Querubim Lagoa da Conceição Florianópolis",
+                "g": "pid:ChIJI9U4TLo-J5URSCI2v2mbB8M"
+              },
+              {
+                "id": "sem-nutrir@26",
+                "t": "Espaço Nutrir",
+                "d": "Vegano e leve, bom antes ou depois da academia. 11h30–15h.",
+                "q": "Espaço Nutrir Lagoa da Conceição Florianópolis",
+                "g": "pid:ChIJJc_yEbc-J5URWcY5jCRfAJE"
+              },
+              {
+                "id": "sem-oriental@26",
+                "t": "Lagoa Oriental",
+                "d": "Japonês no Shopping Via Lagoa, no Centrinho. 11h30–15h.",
+                "q": "Restaurante Lagoa Oriental Lagoa da Conceição Florianópolis",
+                "g": "pid:ChIJEW91hrs-J5URwuNVlbMkqA8"
+              }
+            ]
+          }
+        },
+        {
+          "a": "17:30",
+          "b": "20:30",
+          "cat": "sunset",
+          "t": "Pôr do sol na Lagoa",
+          "nota": "Ainda em aberto: o Boni segue funcionando, mas o grupo decide na hora. Sol às 18h50.",
+          "opcoes": {
+            "titulo": "Onde ver o pôr do sol (18h50)",
+            "itens": [
+              {
+                "id": "pds26-boni",
+                "t": "Bar do Boni",
+                "d": "No fim das Rendeiras, mesa na beira da Lagoa e música ao vivo. Segue funcionando. Pegar mesa às 17h30.",
+                "lugar": "bar-do-boni"
+              },
+              {
+                "id": "pds26-tarrafada",
+                "t": "Tarrafada",
+                "d": "Bar com mesa na beira da Lagoa, nas Rendeiras. Até 22h.",
+                "q": "Bar e Restaurante Tarrafada Avenida das Rendeiras",
+                "g": "pid:ChIJpeF96ts_J5URfJnHdcN6Wbw"
+              },
+              {
+                "id": "pds26-gela-guela",
+                "t": "Gela Guela",
+                "d": "Bar e restaurante na orla, aberto até 23h.",
+                "q": "Bar e Restaurante Gela Guela Avenida das Rendeiras",
+                "g": "pid:ChIJ7eQ4uV8_J5URtDSZCj26U10"
+              },
+              {
+                "id": "pds26-rendeiras",
+                "t": "Orla das Rendeiras a pé",
+                "d": "Sem mesa e sem conta: caminhar na beira da Lagoa e jantar depois no Centrinho.",
+                "lugar": "avenida-das-rendeiras"
+              },
+              {
+                "id": "pds26-mirante",
+                "t": "Mirante da Lagoa",
+                "d": "A Lagoa inteira de cima, a 5 min de carro.",
+                "lugar": "mirante-da-lagoa"
+              }
+            ]
+          }
+        },
+        {
+          "a": "21:00",
+          "b": "26:00",
+          "cat": "noite",
+          "t": "A pé até o",
+          "lugar": "espartano-lagoa",
+          "nota": "1,2 km, 16 min. Festa \"Close Friends\" ainda a confirmar."
+        }
+      ],
+      "chuva": [
+        {
+          "a": "08:00",
+          "b": "17:00",
+          "cat": "trabalho",
+          "t": "Expediente. Sem corrida."
+        },
+        {
+          "a": "12:00",
+          "b": "13:00",
+          "cat": "academia",
+          "t": "Almoço do intervalo: marmita, restaurante ou academia",
+          "nota": "Escolha do dia: cada dia tem seu Curti. Quem treina sai às 12h e come a marmita na volta.",
+          "opcoes": {
+            "titulo": "Almoço do intervalo (e academia)",
+            "itens": [
+              {
+                "id": "sem-marmita@26",
+                "t": "Marmita em casa",
+                "d": "Cozinhar no domingo e na quarta à noite, em dupla. Mais barato e sobra tempo no intervalo. Os itens estão na lista do mercado, no Guia."
+              },
+              {
+                "id": "sem-academia@26",
+                "t": "Academia + marmita",
+                "d": "AktionPaz 12h–12h40 (13 min a pé, Wellhub Silver) e marmita em casa na volta. Nada de treino pesado na sexta 27, véspera da véspera da prova.",
+                "lugar": "aktionpaz-lagoa"
+              },
+              {
+                "id": "sem-colibri@26",
+                "t": "Colibri (marmita entregue)",
+                "d": "Delivery de almoço na Lagoa, 11h–14h. Pedir às 11h30 para chegar no intervalo.",
+                "q": "Restaurante Colibri Lagoa da Conceição Florianópolis",
+                "g": "pid:ChIJAciTVLc-J5URjyc-E9pCfEQ"
+              },
+              {
+                "id": "sem-marques@26",
+                "t": "Marquês da Lagoa",
+                "d": "Buffet com vista para a Lagoa, nas Rendeiras. 11h30–15h. De carro, 4 min.",
+                "q": "Marquês da Lagoa Lagoa da Conceição Florianópolis",
+                "g": "pid:ChIJbQPAu7w-J5URImKDFgmVcBw"
+              },
+              {
+                "id": "sem-grillo@26",
+                "t": "Grillo",
+                "d": "Buffet livre ou por quilo na Afonso Delambert, a pé do Centrinho. 11h30–15h.",
+                "q": "Restaurante Grillo Lagoa da Conceição Florianópolis",
+                "g": "pid:ChIJ712pVrc-J5URRA7IUCIopg4"
+              },
+              {
+                "id": "sem-querubim@26",
+                "t": "Querubim",
+                "d": "Prato do dia no Centrinho, a pé. Abre 11h15.",
+                "q": "Restaurante Querubim Lagoa da Conceição Florianópolis",
+                "g": "pid:ChIJI9U4TLo-J5URSCI2v2mbB8M"
+              },
+              {
+                "id": "sem-nutrir@26",
+                "t": "Espaço Nutrir",
+                "d": "Vegano e leve, bom antes ou depois da academia. 11h30–15h.",
+                "q": "Espaço Nutrir Lagoa da Conceição Florianópolis",
+                "g": "pid:ChIJJc_yEbc-J5URWcY5jCRfAJE"
+              },
+              {
+                "id": "sem-oriental@26",
+                "t": "Lagoa Oriental",
+                "d": "Japonês no Shopping Via Lagoa, no Centrinho. 11h30–15h.",
+                "q": "Restaurante Lagoa Oriental Lagoa da Conceição Florianópolis",
+                "g": "pid:ChIJEW91hrs-J5URwuNVlbMkqA8"
+              }
+            ]
+          }
+        },
+        {
+          "a": "17:30",
+          "b": "20:30",
+          "cat": "noite",
+          "t": "Pôr do sol coberto",
+          "nota": "Ainda em aberto: o Boni segue funcionando, mas o grupo decide na hora. Sol às 18h50.",
+          "opcoes": {
+            "titulo": "Pôr do sol coberto",
+            "itens": [
+              {
+                "id": "pds26-boni",
+                "t": "Bar do Boni",
+                "d": "Coberto, na beira da Lagoa. Segue funcionando.",
+                "lugar": "bar-do-boni"
+              },
+              {
+                "id": "rend-bokas",
+                "t": "Boka's",
+                "d": "Frutos do mar com salão na beira da Lagoa, nas Rendeiras. Até 23h.",
+                "q": "Boka's Lagoa Restaurante Avenida das Rendeiras",
+                "g": "pid:ChIJxdvb7oI-J5URmkUIQDLCrAo"
+              },
+              {
+                "id": "rend-ilha-formosa",
+                "t": "Ilha Formosa",
+                "d": "Pastel e sequência nas Rendeiras, até 23h30.",
+                "q": "Ilha Formosa Avenida das Rendeiras",
+                "g": "pid:ChIJQXtba4I-J5URkyVtcwIM77M"
+              }
+            ]
+          }
+        },
+        {
+          "a": "21:00",
+          "b": "26:00",
+          "cat": "noite",
+          "t": "Espartano, casa fechada. Plano B a pé no",
+          "lugar": "rufus"
+        }
+      ],
+      "titulo_chuva": "Fim de tarde coberto",
+      "resumo_chuva": "Bar coberto nas Rendeiras; depois Espartano ou Rufus.",
+      "levar": [
+        "Roupa e tênis de corrida (5 km às 5h30)",
+        "Água depois da corrida",
+        "Casaco para o pôr do sol no Boni"
+      ]
+    },
+    {
+      "id": "27",
+      "dow": "Sex",
+      "num": 27,
+      "tipo": "util",
+      "exp": "9h–18h",
+      "titulo": "Noite grande",
+      "resumo": "Última noite livre de verdade: sábado tem kit e domingo tem largada.",
+      "risco": "baixo",
+      "previsao": "Chuva 25% (1,2 mm): manhã 20%, tarde 25%, noite 22%. Máx 21°, rajadas até 62 km/h.",
+      "sol": [
+        {
+          "a": "09:00",
+          "b": "18:00",
+          "cat": "trabalho",
+          "t": "Expediente 9h–18h: dá para dormir até 8h30"
+        },
+        {
+          "a": "12:00",
+          "b": "13:00",
+          "cat": "academia",
+          "t": "Almoço do intervalo: marmita, restaurante ou academia",
+          "nota": "Escolha do dia: cada dia tem seu Curti. Quem treina sai às 12h e come a marmita na volta.",
+          "opcoes": {
+            "titulo": "Almoço do intervalo (e academia)",
+            "itens": [
+              {
+                "id": "sem-marmita@27",
+                "t": "Marmita em casa",
+                "d": "Cozinhar no domingo e na quarta à noite, em dupla. Mais barato e sobra tempo no intervalo. Os itens estão na lista do mercado, no Guia."
+              },
+              {
+                "id": "sem-academia@27",
+                "t": "Academia + marmita",
+                "d": "AktionPaz 12h–12h40 (13 min a pé, Wellhub Silver) e marmita em casa na volta. Nada de treino pesado na sexta 27, véspera da véspera da prova.",
+                "lugar": "aktionpaz-lagoa"
+              },
+              {
+                "id": "sem-colibri@27",
+                "t": "Colibri (marmita entregue)",
+                "d": "Delivery de almoço na Lagoa, 11h–14h. Pedir às 11h30 para chegar no intervalo.",
+                "q": "Restaurante Colibri Lagoa da Conceição Florianópolis",
+                "g": "pid:ChIJAciTVLc-J5URjyc-E9pCfEQ"
+              },
+              {
+                "id": "sem-marques@27",
+                "t": "Marquês da Lagoa",
+                "d": "Buffet com vista para a Lagoa, nas Rendeiras. 11h30–15h. De carro, 4 min.",
+                "q": "Marquês da Lagoa Lagoa da Conceição Florianópolis",
+                "g": "pid:ChIJbQPAu7w-J5URImKDFgmVcBw"
+              },
+              {
+                "id": "sem-grillo@27",
+                "t": "Grillo",
+                "d": "Buffet livre ou por quilo na Afonso Delambert, a pé do Centrinho. 11h30–15h.",
+                "q": "Restaurante Grillo Lagoa da Conceição Florianópolis",
+                "g": "pid:ChIJ712pVrc-J5URRA7IUCIopg4"
+              },
+              {
+                "id": "sem-querubim@27",
+                "t": "Querubim",
+                "d": "Prato do dia no Centrinho, a pé. Abre 11h15.",
+                "q": "Restaurante Querubim Lagoa da Conceição Florianópolis",
+                "g": "pid:ChIJI9U4TLo-J5URSCI2v2mbB8M"
+              },
+              {
+                "id": "sem-nutrir@27",
+                "t": "Espaço Nutrir",
+                "d": "Vegano e leve, bom antes ou depois da academia. 11h30–15h.",
+                "q": "Espaço Nutrir Lagoa da Conceição Florianópolis",
+                "g": "pid:ChIJJc_yEbc-J5URWcY5jCRfAJE"
+              },
+              {
+                "id": "sem-oriental@27",
+                "t": "Lagoa Oriental",
+                "d": "Japonês no Shopping Via Lagoa, no Centrinho. 11h30–15h.",
+                "q": "Restaurante Lagoa Oriental Lagoa da Conceição Florianópolis",
+                "g": "pid:ChIJEW91hrs-J5URwuNVlbMkqA8"
+              }
+            ]
+          }
+        },
+        {
+          "a": "18:15",
+          "b": "19:10",
+          "cat": "sunset",
+          "t": "Segunda rodada de sandboard nas",
+          "lugar": "joaquina-e-dunas",
+          "nota": "Opcional, se não tiver feito na segunda."
+        },
+        {
+          "a": "20:00",
+          "b": "22:30",
+          "cat": "noite",
+          "t": "Esquenta na Lagoa",
+          "opcoes": {
+            "titulo": "Esquenta",
+            "itens": [
+              {
+                "id": "esq-rufus",
+                "t": "Rufus",
+                "d": "Cerveja experimental a 9 min a pé.",
+                "lugar": "rufus"
+              },
+              {
+                "id": "lagoa-liffey",
+                "t": "Liffey Lagoa",
+                "d": "Pub irlandês no Centrinho. 17h–0h.",
+                "q": "Liffey Lagoa da Conceição",
+                "g": "centrinho-jantar|The Black Swan Lagoa da Conceição|1"
+              },
+              {
+                "id": "esq-quintal",
+                "t": "Quintal Lagoa",
+                "d": "Bar com quintal no Centrinho, ao lado do Liffey. 17h–0h.",
+                "q": "Quintal Lagoa Lagoa da Conceição Florianópolis",
+                "g": "pid:ChIJcVKE2zw_J5UR1MFk2akqhPA"
+              }
+            ]
+          }
+        },
+        {
+          "a": "23:30",
+          "b": "27:00",
+          "cat": "noite",
+          "t": "Uber para a balbúrdia",
+          "nota": "Combinar antes a hora de ir embora (até ~2h) e dormir bem: sábado é véspera da prova e o check-out é cedo.",
+          "opcoes": {
+            "titulo": "Balbúrdia de sexta",
+            "itens": [
+              {
+                "id": "sex-deraiz",
+                "t": "DeRaiz",
+                "d": "Pop Shots convida Bailafunk, 23h, R$ 15 no Shotgun. Funk, reggaeton e dub.",
+                "lugar": "bar-deraiz"
+              },
+              {
+                "id": "sex-centro",
+                "t": "Samba no Centro",
+                "d": "Roda de samba no Bar do Noel e bares a pé. Uber dos dois lados.",
+                "lugar": "centro-noite"
+              },
+              {
+                "id": "sex-espartano",
+                "t": "Espartano",
+                "d": "A balada mais perto de casa, das 21h às 4h.",
+                "lugar": "espartano-lagoa"
+              },
+              {
+                "id": "sex-johnbull",
+                "t": "John Bull",
+                "d": "Banda ao vivo nas Rendeiras, 20h–2h. Dá para emendar no Santa Club.",
+                "lugar": "john-bull-lagoa"
+              },
+              {
+                "id": "sex-coffeeshop",
+                "t": "Coffeeshop Floripa",
+                "d": "Casa noturna no Centrinho, ida e volta a pé.",
+                "lugar": "coffeeshop-floripa"
+              },
+              {
+                "id": "sex-essencial",
+                "t": "Essencial Samba Raiz",
+                "d": "Pagode e samba em casa fechada, em Santo Antônio de Lisboa. Abre 22h. Uber ~35 min.",
+                "q": "Essencial Samba Raiz Florianópolis",
+                "g": "pid:ChIJtXpCqWtHJ5UR51U5ronVUYk"
+              },
+              {
+                "id": "sex-celula",
+                "t": "Célula Showcase",
+                "d": "Casa noturna de shows e pista no João Paulo. Ver a agenda da sexta antes.",
+                "q": "Célula Showcase Florianópolis",
+                "g": "pid:ChIJoT305YA4J5URY-B8LVtFaNc"
+              }
+            ]
+          }
+        }
+      ],
+      "chuva": [
+        {
+          "a": "12:00",
+          "b": "13:00",
+          "cat": "academia",
+          "t": "Almoço do intervalo: marmita, restaurante ou academia",
+          "nota": "Escolha do dia: cada dia tem seu Curti. Quem treina sai às 12h e come a marmita na volta.",
+          "opcoes": {
+            "titulo": "Almoço do intervalo (e academia)",
+            "itens": [
+              {
+                "id": "sem-marmita@27",
+                "t": "Marmita em casa",
+                "d": "Cozinhar no domingo e na quarta à noite, em dupla. Mais barato e sobra tempo no intervalo. Os itens estão na lista do mercado, no Guia."
+              },
+              {
+                "id": "sem-academia@27",
+                "t": "Academia + marmita",
+                "d": "AktionPaz 12h–12h40 (13 min a pé, Wellhub Silver) e marmita em casa na volta. Nada de treino pesado na sexta 27, véspera da véspera da prova.",
+                "lugar": "aktionpaz-lagoa"
+              },
+              {
+                "id": "sem-colibri@27",
+                "t": "Colibri (marmita entregue)",
+                "d": "Delivery de almoço na Lagoa, 11h–14h. Pedir às 11h30 para chegar no intervalo.",
+                "q": "Restaurante Colibri Lagoa da Conceição Florianópolis",
+                "g": "pid:ChIJAciTVLc-J5URjyc-E9pCfEQ"
+              },
+              {
+                "id": "sem-marques@27",
+                "t": "Marquês da Lagoa",
+                "d": "Buffet com vista para a Lagoa, nas Rendeiras. 11h30–15h. De carro, 4 min.",
+                "q": "Marquês da Lagoa Lagoa da Conceição Florianópolis",
+                "g": "pid:ChIJbQPAu7w-J5URImKDFgmVcBw"
+              },
+              {
+                "id": "sem-grillo@27",
+                "t": "Grillo",
+                "d": "Buffet livre ou por quilo na Afonso Delambert, a pé do Centrinho. 11h30–15h.",
+                "q": "Restaurante Grillo Lagoa da Conceição Florianópolis",
+                "g": "pid:ChIJ712pVrc-J5URRA7IUCIopg4"
+              },
+              {
+                "id": "sem-querubim@27",
+                "t": "Querubim",
+                "d": "Prato do dia no Centrinho, a pé. Abre 11h15.",
+                "q": "Restaurante Querubim Lagoa da Conceição Florianópolis",
+                "g": "pid:ChIJI9U4TLo-J5URSCI2v2mbB8M"
+              },
+              {
+                "id": "sem-nutrir@27",
+                "t": "Espaço Nutrir",
+                "d": "Vegano e leve, bom antes ou depois da academia. 11h30–15h.",
+                "q": "Espaço Nutrir Lagoa da Conceição Florianópolis",
+                "g": "pid:ChIJJc_yEbc-J5URWcY5jCRfAJE"
+              },
+              {
+                "id": "sem-oriental@27",
+                "t": "Lagoa Oriental",
+                "d": "Japonês no Shopping Via Lagoa, no Centrinho. 11h30–15h.",
+                "q": "Restaurante Lagoa Oriental Lagoa da Conceição Florianópolis",
+                "g": "pid:ChIJEW91hrs-J5URwuNVlbMkqA8"
+              }
+            ]
+          }
+        },
+        {
+          "a": "18:30",
+          "b": "20:30",
+          "cat": "noite",
+          "t": "Escape Master, na Trindade"
+        },
+        {
+          "a": "21:00",
+          "b": "27:00",
+          "cat": "noite",
+          "t": "Cervejaria ARMADA e roda de samba no Bar do Noel, no Centro",
+          "nota": "Combinar a hora de ir embora (até ~2h): sábado é véspera da prova.",
+          "opcoes": {
+            "titulo": "Balbúrdia de sexta",
+            "itens": [
+              {
+                "id": "sex-deraiz",
+                "t": "DeRaiz",
+                "d": "Pop Shots convida Bailafunk, 23h, R$ 15 no Shotgun. Funk, reggaeton e dub.",
+                "lugar": "bar-deraiz"
+              },
+              {
+                "id": "sex-centro",
+                "t": "Samba no Centro",
+                "d": "Roda de samba no Bar do Noel e bares a pé. Uber dos dois lados.",
+                "lugar": "centro-noite"
+              },
+              {
+                "id": "sex-espartano",
+                "t": "Espartano",
+                "d": "A balada mais perto de casa, das 21h às 4h.",
+                "lugar": "espartano-lagoa"
+              }
+            ]
+          }
+        }
+      ],
+      "titulo_chuva": "Noite grande coberta",
+      "resumo_chuva": "Escape room depois do expediente e balbúrdia em casa fechada.",
+      "levar": [
+        "Documento original (baladas são 18+)",
+        "Carregador portátil",
+        "Hora combinada para ir embora (até ~2h)"
+      ]
+    },
+    {
+      "id": "28",
+      "dow": "Sáb",
+      "num": 28,
+      "tipo": "fds",
+      "exp": null,
+      "titulo": "Terceiro dia livre e mudança de casa",
+      "resumo": "Manhã na ilha, tarde no continente, jantar de massa e cama cedo para a prova.",
+      "risco": "baixo",
+      "previsao": "Chuva 33% (0,6 mm): manhã 32%, tarde 33%, noite 25%. Máx 24°, rajadas até 39 km/h.",
+      "sol": [
+        {
+          "a": "07:30",
+          "b": "08:15",
+          "cat": "dia",
+          "t": "Check-out da Lagoa (até 11h), malas no porta-malas",
+          "nota": "Parar só em estacionamento com cuidador e não abrir o porta-malas na praia."
+        },
+        {
+          "a": "08:15",
+          "b": "11:30",
+          "cat": "dia",
+          "t": "Trilha leve e",
+          "lugar": "praia-do-matadeiro",
+          "nota": "20 min de trilha saindo da Armação. Variante: Naufragados (~6 km na véspera, os corredores decidem). Trilha do Matadeiro: houve um crime na trilha em nov/2025. Vão os quatro juntos e não se separem."
+        },
+        {
+          "a": "12:00",
+          "b": "14:00",
+          "cat": "dia",
+          "t": "Almoço no",
+          "lugar": "ribeirao-da-ilha",
+          "nota": "Corredores: grelhado, sem ostra crua.",
+          "opcoes": {
+            "titulo": "Qual restaurante",
+            "itens": [
+              {
+                "id": "rib-rancho",
+                "t": "Rancho Açoriano",
+                "d": "Casa açoriana com ostra e grelhado. O mais bem avaliado do Ribeirão.",
+                "q": "Rancho Açoriano Ribeirão da Ilha",
+                "g": "ribeirao|Rancho Açoriano Ribeirão da Ilha|0"
+              },
+              {
+                "id": "rib-ostradamus",
+                "t": "Ostradamus",
+                "d": "O mais famoso, com deck na baía. Mais caro.",
+                "q": "Ostradamus Ribeirão da Ilha",
+                "g": "ribeirao|Ostradamus Ribeirão da Ilha|0"
+              },
+              {
+                "id": "rib-nacanoa",
+                "t": "Nacanoa",
+                "d": "O dono cultiva as próprias ostras. Prato no Comida di Buteco 2025.",
+                "q": "Nacanoa restaurante Ribeirão da Ilha",
+                "g": "ribeirao|Nacanoa Oyster Bar Ribeirão da Ilha|0"
+              }
+            ]
+          }
+        },
+        {
+          "a": "14:30",
+          "b": "15:15",
+          "cat": "dia",
+          "t": "Check-in no continente (a partir das 14h)"
+        },
+        {
+          "a": "15:15",
+          "b": "15:45",
+          "cat": "prova",
+          "t": "Retirada do kit na arena",
+          "lugar": "sc21k-2026",
+          "nota": "Das 9h às 19h. Voucher, documento e 1 kg de alimento por corredor."
+        },
+        {
+          "a": "15:45",
+          "b": "17:30",
+          "cat": "dia",
+          "t": "Travessia a pé da",
+          "lugar": "ponte-hercilio-luz",
+          "nota": "Fim de semana só pedestres. Depois o Forte Santana."
+        },
+        {
+          "a": "18:20",
+          "b": "19:00",
+          "cat": "sunset",
+          "t": "Pôr do sol nas Pedras de Itaguaçu, a pé da casa"
+        },
+        {
+          "a": "19:15",
+          "b": "21:00",
+          "cat": "noite",
+          "t": "Jantar de massa perto do apê",
+          "opcoes": {
+            "titulo": "Jantar de massa perto do apê",
+            "itens": [
+              {
+                "id": "cont-petrus",
+                "t": "Cantina Petrus",
+                "d": "Cantina italiana. Sábado 18h30–0h.",
+                "q": "Cantina Petrus Coqueiros",
+                "g": "continente|Cantina Petrus Coqueiros|0"
+              },
+              {
+                "id": "cont-salumeria",
+                "t": "Salumeria San Michele",
+                "d": "Empório e restaurante italiano. Sábado 18h30–23h.",
+                "q": "Salumeria San Michele Coqueiros",
+                "g": "continente|Salumeria San Michele Coqueiros|0"
+              }
+            ]
+          }
+        },
+        {
+          "a": "21:30",
+          "b": "22:00",
+          "cat": "noite",
+          "t": "Cama"
+        }
+      ],
+      "chuva": [
+        {
+          "a": "09:00",
+          "b": "11:00",
+          "cat": "dia",
+          "t": "Check-out calmo (até 11h)"
+        },
+        {
+          "a": "11:00",
+          "b": "14:00",
+          "cat": "dia",
+          "t": "Mercado Público e Centro Histórico",
+          "nota": "As lojas fecham às 14h.",
+          "opcoes": {
+            "titulo": "No Centro",
+            "itens": [
+              {
+                "id": "centro-mercado-publico",
+                "t": "Mercado Público",
+                "d": "Box 32 e bancas de peixe, coberto. Sábado 7h–17h; as lojas fecham às 14h.",
+                "q": "Mercado Público de Florianópolis",
+                "g": "pid:ChIJKQXXEyQ4J5URmhxOBg8l7QU"
+              },
+              {
+                "id": "chuva-museu",
+                "t": "Museu Histórico de SC",
+                "d": "No Palácio Cruz e Sousa, na Praça XV. Sáb 10h–16h30.",
+                "q": "Museu Histórico de Santa Catarina Palácio Cruz e Sousa",
+                "g": "pid:ChIJr7EvSTA4J5URBFe9tFuM7As"
+              },
+              {
+                "id": "centro-historico-ficha",
+                "t": "Centro Histórico a pé",
+                "d": "Praça XV, Catedral e Rua Tiradentes, perto do Mercado.",
+                "lugar": "centro-historico"
+              }
+            ]
+          }
+        },
+        {
+          "a": "14:30",
+          "b": "15:15",
+          "cat": "dia",
+          "t": "Check-in no continente"
+        },
+        {
+          "a": "15:15",
+          "b": "15:45",
+          "cat": "prova",
+          "t": "Retirada do kit na arena",
+          "lugar": "sc21k-2026",
+          "nota": "A arena tem tenda."
+        },
+        {
+          "a": "16:00",
+          "b": "18:30",
+          "cat": "dia",
+          "t": "Tarde leve",
+          "opcoes": {
+            "titulo": "Tarde leve na véspera (corredores poupando as pernas)",
+            "itens": [
+              {
+                "id": "v28-cinepolis",
+                "t": "Cinépolis Continente",
+                "d": "Cinema no Continente Shopping, a ~10 min do apê.",
+                "q": "Cinépolis Continente Park",
+                "g": "pid:ChIJjw3jFfs1J5URRRaBoc8RVj4"
+              },
+              {
+                "id": "v28-shopping",
+                "t": "Continente Shopping",
+                "d": "Passeio coberto e jantar cedo, se o grupo quiser.",
+                "q": "Continente Shopping São José",
+                "g": "pid:ChIJv3kvQ_s1J5URbmzITC7USpw"
+              },
+              {
+                "id": "v28-descanso",
+                "t": "Descanso no apê",
+                "d": "Pernas para cima, separar roupa e chip da prova, dormir cedo."
+              }
+            ]
+          }
+        },
+        {
+          "a": "19:15",
+          "b": "21:00",
+          "cat": "noite",
+          "t": "Jantar de massa perto do apê",
+          "opcoes": {
+            "titulo": "Jantar de massa perto do apê",
+            "itens": [
+              {
+                "id": "cont-petrus",
+                "t": "Cantina Petrus",
+                "d": "Cantina italiana. Sábado 18h30–0h.",
+                "q": "Cantina Petrus Coqueiros",
+                "g": "continente|Cantina Petrus Coqueiros|0"
+              },
+              {
+                "id": "cont-salumeria",
+                "t": "Salumeria San Michele",
+                "d": "Empório e restaurante italiano. Sábado 18h30–23h.",
+                "q": "Salumeria San Michele Coqueiros",
+                "g": "continente|Salumeria San Michele Coqueiros|0"
+              }
+            ]
+          }
+        },
+        {
+          "a": "21:30",
+          "b": "22:00",
+          "cat": "noite",
+          "t": "Cama"
+        }
+      ],
+      "titulo_chuva": "Mudança de casa e véspera leve",
+      "resumo_chuva": "Centro e Mercado Público de manhã, kit da prova e tarde de cinema ou descanso.",
+      "levar": [
+        "Malas fechadas até 11h (check-out)",
+        "Voucher da SC21K, documento e 1 kg de alimento por corredor",
+        "Roupa da prova separada para domingo",
+        "Nada no porta-malas à vista na praia"
+      ]
+    },
+    {
+      "id": "29",
+      "dow": "Dom",
+      "num": 29,
+      "tipo": "volta",
+      "exp": null,
+      "titulo": "SC21K e estrada",
+      "resumo": "21K e 15K largam às 5h31 e o 5K às 6h. Depois, banho, check-out até 12h e estrada.",
+      "risco": "medio",
+      "previsao": "Chuva 40% (3,2 mm): manhã 39%, tarde 40%, noite 29%. Máx 25°, rajadas até 44 km/h.",
+      "sol": [
+        {
+          "a": "04:15",
+          "b": "04:45",
+          "cat": "prova",
+          "t": "Acordar e café"
+        },
+        {
+          "a": "04:45",
+          "b": "05:15",
+          "cat": "prova",
+          "t": "Carro até a Beira-Mar Continental (5 min)",
+          "lugar": "sc21k-2026",
+          "nota": "A Av. Cláudio Alvim Barbosa fechou às 5h30 em edições anteriores. Estacionar nas ruas do Balneário Estreito. Chip no dia só das 4h30 às 5h."
+        },
+        {
+          "a": "05:31",
+          "b": "08:00",
+          "cat": "prova",
+          "t": "Largada: 21K e 15K às 5h31, 5K às 6h"
+        },
+        {
+          "a": "08:30",
+          "b": "11:00",
+          "cat": "dia",
+          "t": "Banho e check-out"
+        },
+        {
+          "a": "11:00",
+          "b": "12:00",
+          "cat": "dia",
+          "t": "Almoço antes da estrada",
+          "opcoes": {
+            "titulo": "Almoço depois da prova",
+            "itens": [
+              {
+                "id": "dom-rancho-coqueiros",
+                "t": "Rancho Açoriano Coqueiros",
+                "d": "Frutos do mar perto do apê. Abre 11h30.",
+                "q": "Rancho Açoriano Coqueiros",
+                "g": "continente|restaurante almoço domingo Coqueiros Florianópolis|1"
+              },
+              {
+                "id": "dom-riosulense",
+                "t": "Churrascaria Riosulense",
+                "d": "Rodízio no Balneário Estreito, para repor a energia. Abre 11h.",
+                "q": "Churrascaria Riosulense Florianópolis",
+                "g": "continente|churrascaria Estreito Florianópolis|0"
+              },
+              {
+                "id": "dom-lisboa48",
+                "t": "Lisboa 48",
+                "d": "Cozinha portuguesa em Coqueiros. Mais caro. Abre 11h.",
+                "q": "Lisboa 48 Coqueiros",
+                "g": "continente|restaurante frutos do mar Coqueiros Florianópolis|1"
+              }
+            ]
+          },
+          "nota": "Almoço cedo e perto do apê: a saída é até 12h, no máximo."
+        },
+        {
+          "a": "12:00",
+          "b": "25:00",
+          "cat": "estrada",
+          "t": "Florianópolis → Poços de Caldas, pela BR-101 e Régis",
+          "nota": "Saída até 12h, no máximo. ~930 km: chegada por volta de 0h–1h de segunda. Quem correu a 21K não dirige no primeiro trecho; trocar a cada parada.",
+          "opcoes": {
+            "titulo": "Paradas na volta",
+            "itens": [
+              {
+                "id": "volta-rudnick",
+                "t": "Rudnick, em Joinville",
+                "d": "BR-101 km 25. Lanche da tarde e troca de motorista. Domingo até 22h30.",
+                "tempo": "sem desvio",
+                "quando": "~14h30",
+                "q": "Restaurante Rudnick Joinville",
+                "g": "volta|restaurante BR-101 Joinville jantar|0",
+                "cidade": "Joinville"
+              },
+              {
+                "id": "volta-petropen",
+                "t": "Graal Petropen",
+                "d": "Régis km 461. Jantar e troca de motorista. 24 h.",
+                "tempo": "sem desvio",
+                "quando": "~18h45",
+                "q": "Graal Petropen Pariquera-Açu",
+                "g": "volta|Graal Petropen|0",
+                "cidade": "Pariquera-Açu"
+              },
+              {
+                "id": "volta-caieiras",
+                "t": "Frango Assado Caieiras",
+                "d": "Bandeirantes km 34, sentido interior. Café para o último trecho. 24 h.",
+                "tempo": "sem desvio",
+                "quando": "~21h20",
+                "q": "Frango Assado Caieiras Rodovia dos Bandeirantes",
+                "g": "ida-cafe2|Frango Assado Rodovia dos Bandeirantes|0",
+                "cidade": "Caieiras"
+              }
+            ]
+          }
+        }
+      ],
+      "chuva": [
+        {
+          "a": "04:15",
+          "b": "05:15",
+          "cat": "prova",
+          "t": "A prova acontece com chuva",
+          "nota": "Capa descartável ou saco de lixo até a largada. Roupa seca e toalha no carro."
+        },
+        {
+          "a": "05:31",
+          "b": "08:00",
+          "cat": "prova",
+          "t": "Largada: 21K e 15K às 5h31, 5K às 6h"
+        },
+        {
+          "a": "08:30",
+          "b": "12:00",
+          "cat": "dia",
+          "t": "Banho, check-out e almoço",
+          "opcoes": {
+            "titulo": "Almoço depois da prova",
+            "itens": [
+              {
+                "id": "dom-rancho-coqueiros",
+                "t": "Rancho Açoriano Coqueiros",
+                "d": "Frutos do mar perto do apê. Abre 11h30.",
+                "q": "Rancho Açoriano Coqueiros",
+                "g": "continente|restaurante almoço domingo Coqueiros Florianópolis|1"
+              },
+              {
+                "id": "dom-riosulense",
+                "t": "Churrascaria Riosulense",
+                "d": "Rodízio no Balneário Estreito, para repor a energia. Abre 11h.",
+                "q": "Churrascaria Riosulense Florianópolis",
+                "g": "continente|churrascaria Estreito Florianópolis|0"
+              },
+              {
+                "id": "dom-lisboa48",
+                "t": "Lisboa 48",
+                "d": "Cozinha portuguesa em Coqueiros. Mais caro. Abre 11h.",
+                "q": "Lisboa 48 Coqueiros",
+                "g": "continente|restaurante frutos do mar Coqueiros Florianópolis|1"
+              }
+            ]
+          },
+          "nota": "Saída até 12h, no máximo."
+        },
+        {
+          "a": "12:00",
+          "b": "25:00",
+          "cat": "estrada",
+          "t": "Estrada mais lenta com chuva. Sair logo depois do almoço.",
+          "opcoes": {
+            "titulo": "Paradas na volta",
+            "itens": [
+              {
+                "id": "volta-rudnick",
+                "t": "Rudnick, em Joinville",
+                "d": "BR-101 km 25. Lanche da tarde e troca de motorista. Domingo até 22h30.",
+                "tempo": "sem desvio",
+                "quando": "~14h30",
+                "q": "Restaurante Rudnick Joinville",
+                "g": "volta|restaurante BR-101 Joinville jantar|0",
+                "cidade": "Joinville"
+              },
+              {
+                "id": "volta-petropen",
+                "t": "Graal Petropen",
+                "d": "Régis km 461. Jantar e troca de motorista. 24 h.",
+                "tempo": "sem desvio",
+                "quando": "~18h45",
+                "q": "Graal Petropen Pariquera-Açu",
+                "g": "volta|Graal Petropen|0",
+                "cidade": "Pariquera-Açu"
+              },
+              {
+                "id": "volta-caieiras",
+                "t": "Frango Assado Caieiras",
+                "d": "Bandeirantes km 34, sentido interior. Café para o último trecho. 24 h.",
+                "tempo": "sem desvio",
+                "quando": "~21h20",
+                "q": "Frango Assado Caieiras Rodovia dos Bandeirantes",
+                "g": "ida-cafe2|Frango Assado Rodovia dos Bandeirantes|0",
+                "cidade": "Caieiras"
+              }
+            ]
+          },
+          "nota": "Saída até 12h, no máximo. ~930 km: chegada por volta de 0h–1h de segunda. Quem correu a 21K não dirige no primeiro trecho; trocar a cada parada."
+        }
+      ],
+      "solto": "Horários da volta são estimativas: dependem de quando sair do almoço e do trânsito de domingo.",
+      "titulo_chuva": "SC21K com chuva e estrada",
+      "resumo_chuva": "A prova acontece com chuva; estrada mais lenta.",
+      "levar": [
+        "Número de peito e chip",
+        "Gel ou banana para antes da largada",
+        "Capa descartável se chover",
+        "Roupa seca e toalha no carro",
+        "Tudo do apê no carro antes de sair para a prova"
+      ]
+    }
+  ]
+}

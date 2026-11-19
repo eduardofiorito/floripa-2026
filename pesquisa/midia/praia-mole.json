@@ -1,0 +1,100 @@
+{
+  "id": "praia-mole",
+  "videos": [
+    {
+      "titulo": "Praia Mole Floripa",
+      "canal": "CAV07",
+      "url": "https://www.youtube.com/watch?v=QUnsN85NgoM",
+      "plataforma": "youtube",
+      "publicado": "2025-01-16",
+      "duracao": "4:44",
+      "mostra": "Praia Mole em 2025 (vídeo curto); conteúdo não conferido além do título",
+      "melhor_trecho": null
+    },
+    {
+      "titulo": "Mole Beach- Praia Mole- Galheta Beach - Praia da Galheta - Florianópolis - Santa Catarina - DRONE 4K",
+      "canal": "PantarTrip FLORIANÓPOLIS",
+      "url": "https://www.youtube.com/watch?v=1dzeOguUzfU",
+      "plataforma": "youtube",
+      "publicado": "2024-08-23",
+      "duracao": "0:29",
+      "mostra": "Drone 4K curto passando pela Praia Mole e pela Galheta",
+      "melhor_trecho": null
+    },
+    {
+      "titulo": "O portal secreto da Praia Mole? Conheça o Mirante do Ahau!",
+      "canal": "Elvis pelo Mundo",
+      "url": "https://www.youtube.com/watch?v=RU26iGo-QKo",
+      "plataforma": "youtube",
+      "publicado": "2026-04-27",
+      "duracao": "0:11",
+      "mostra": "Short do Mirante do Ahau, no alto da Praia Mole",
+      "melhor_trecho": null
+    }
+  ],
+  "instagram": [
+    {
+      "tipo": "perfil",
+      "url": "https://www.instagram.com/miranteahau/",
+      "nota": "Mirante Ahau, no alto da Praia Mole: fotos do mirante e do pôr/nascer do sol sobre a Mole"
+    },
+    {
+      "tipo": "perfil",
+      "url": "https://www.instagram.com/aspmpraiamole/",
+      "nota": "Associação de surf da Praia Mole: fotos de ondas e campeonatos, dá ideia do mar no dia"
+    },
+    {
+      "tipo": "perfil",
+      "url": "https://www.instagram.com/bardobonipraiamole/",
+      "nota": "Bar do Boni da Praia Mole (unidade de praia, distinta do Boni da Lagoa): a faixa de areia com cadeiras e barracas"
+    }
+  ],
+  "fotos_commons_recentes": [
+    {
+      "pagina": "https://commons.wikimedia.org/wiki/File:Mole_beach_from_above.png",
+      "arquivo_url": "https://upload.wikimedia.org/wikipedia/commons/5/59/Mole_beach_from_above.png",
+      "data": "2026-03-09",
+      "autor": "Kurdish.ice.spice",
+      "licenca": "CC BY 4.0",
+      "mostra": "Praia Mole inteira vista de cima, do Mirante da Boa Vista (trilha Barra–Galheta), com a Lagoa da Conceição à direita",
+      "arq": "img/recentes/praia-mole-1.jpg"
+    },
+    {
+      "pagina": "https://commons.wikimedia.org/wiki/File:Pedra_da_Boa_Vista.jpg",
+      "arquivo_url": "https://upload.wikimedia.org/wikipedia/commons/a/a5/Pedra_da_Boa_Vista.jpg",
+      "data": "2018-04-21",
+      "autor": "Samii.jpeg",
+      "licenca": "CC BY-SA 4.0",
+      "mostra": "Galheta e Praia Mole vistas da Pedra da Boa Vista, no morro entre a Galheta e a Barra",
+      "arq": "img/recentes/praia-mole-2.jpg"
+    },
+    {
+      "pagina": "https://commons.wikimedia.org/wiki/File:DanielVianna_PraiaMole_Florianopolis_SC_(39760913040).jpg",
+      "arquivo_url": "https://upload.wikimedia.org/wikipedia/commons/2/2d/DanielVianna_PraiaMole_Florianopolis_SC_%2839760913040%29.jpg",
+      "data": "2018-04-08",
+      "autor": "MTur Destinos",
+      "licenca": "Public domain",
+      "mostra": "Praia Mole (foto do Ministério do Turismo, abr/2018)",
+      "arq": "img/recentes/praia-mole-3.jpg"
+    }
+  ],
+  "pontos_de_vista": [
+    "Mirante da rampa de parapente / Mirante Ahau, no alto da SC-406 antes de descer para a praia: a Mole inteira de cima, com a Galheta ao fundo",
+    "Canto norte, no começo da trilha da Galheta: as pedras grandes de diabásio com a praia em curva atrás",
+    "Pedra da Boa Vista (trilha entre Galheta e Barra): Galheta e Mole juntas, vistas do norte",
+    "Areia do canto sul ao amanhecer (~5h10 em novembro): sol nascendo no mar e os parapentes pousando à tarde"
+  ],
+  "vibe": "Praia jovem e animada, de surfistas e público LGBT+, com barracas e mar de tombo forte. Em fim de novembro já tem movimento de fim de semana, mas é pré-temporada: areia folgada nos dias úteis.",
+  "fontes": [
+    "https://www.youtube.com/watch?v=QUnsN85NgoM",
+    "https://www.youtube.com/watch?v=1dzeOguUzfU",
+    "https://www.youtube.com/watch?v=RU26iGo-QKo",
+    "https://www.instagram.com/miranteahau/",
+    "https://www.instagram.com/aspmpraiamole/",
+    "https://www.instagram.com/bardobonipraiamole/",
+    "https://commons.wikimedia.org/wiki/File:Mole_beach_from_above.png",
+    "https://commons.wikimedia.org/wiki/File:Pedra_da_Boa_Vista.jpg",
+    "https://commons.wikimedia.org/wiki/File:DanielVianna_PraiaMole_Florianopolis_SC_(39760913040).jpg"
+  ],
+  "verificado_em": "2026-11-17"
+}

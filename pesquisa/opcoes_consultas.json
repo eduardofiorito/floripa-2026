@@ -1,0 +1,296 @@
+{
+ "ida-cafe": [
+  [
+   "Graal Fernão Dias",
+   -22.9,
+   -46.5
+  ],
+  [
+   "Frango Assado Fernão Dias",
+   -23.1,
+   -46.55
+  ],
+  [
+   "restaurante café da manhã Régis Bittencourt Juquitiba",
+   -23.93,
+   -47.07
+  ],
+  [
+   "Graal Régis Bittencourt",
+   -24.2,
+   -47.4
+  ]
+ ],
+ "ida-almoco": [
+  [
+   "Mercado Municipal de Curitiba",
+   -25.4356,
+   -49.26
+  ],
+  [
+   "Madalosso Santa Felicidade",
+   -25.396,
+   -49.333
+  ],
+  [
+   "Restaurante Família Fadanelli Santa Felicidade",
+   -25.396,
+   -49.333
+  ],
+  [
+   "Barbaquá Curitiba",
+   -25.44,
+   -49.27
+  ],
+  [
+   "restaurante buffet BR-376 Contorno Leste Curitiba São José dos Pinhais",
+   -25.53,
+   -49.2
+  ],
+  [
+   "Restaurante Graciosa Garuva BR-101",
+   -26.03,
+   -48.85
+  ]
+ ],
+ "ida-bc": [
+  [
+   "Avenida Atlântica Balneário Camboriú",
+   -26.99,
+   -48.63
+  ],
+  [
+   "Molhe da Barra Sul Balneário Camboriú",
+   -27.004,
+   -48.629
+  ],
+  [
+   "FG Big Wheel Balneário Camboriú",
+   -26.997,
+   -48.627
+  ],
+  [
+   "Parque Unipraias Balneário Camboriú",
+   -27.0,
+   -48.62
+  ]
+ ],
+ "centrinho-jantar": [
+  [
+   "Artesano Pizza Bar Lagoa da Conceição",
+   -27.603,
+   -48.468
+  ],
+  [
+   "Paixão Restaurante Lagoa da Conceição",
+   -27.603,
+   -48.468
+  ],
+  [
+   "Dolce Vita Lagoa da Conceição",
+   -27.603,
+   -48.468
+  ],
+  [
+   "Thai Thai Lagoa da Conceição",
+   -27.603,
+   -48.468
+  ],
+  [
+   "Guacamole Taqueria Lagoa da Conceição",
+   -27.603,
+   -48.468
+  ],
+  [
+   "The Black Swan Lagoa da Conceição",
+   -27.603,
+   -48.468
+  ],
+  [
+   "Books & Beers Lagoa da Conceição",
+   -27.603,
+   -48.468
+  ]
+ ],
+ "rendeiras-jantar": [
+  [
+   "Boka's Avenida das Rendeiras",
+   -27.615,
+   -48.47
+  ],
+  [
+   "Casa do Chico Avenida das Rendeiras",
+   -27.615,
+   -48.47
+  ],
+  [
+   "O Barba Negra Avenida das Rendeiras",
+   -27.615,
+   -48.47
+  ],
+  [
+   "Marquês da Lagoa restaurante",
+   -27.615,
+   -48.47
+  ]
+ ],
+ "barra-almoco": [
+  [
+   "O Timoneiro Barra da Lagoa",
+   -27.574,
+   -48.423
+  ],
+  [
+   "Ilha Formosa Barra da Lagoa",
+   -27.574,
+   -48.423
+  ],
+  [
+   "Restaurante Dois Irmãos Barra da Lagoa",
+   -27.574,
+   -48.423
+  ],
+  [
+   "Deck 6 Barra da Lagoa",
+   -27.574,
+   -48.423
+  ],
+  [
+   "Rancho de Canoa Barra da Lagoa",
+   -27.574,
+   -48.423
+  ]
+ ],
+ "santo-antonio": [
+  [
+   "Freguesia Oyster Bar Santo Antônio de Lisboa",
+   -27.507,
+   -48.519
+  ],
+  [
+   "Rosso Cozinha do Mar Santo Antônio de Lisboa",
+   -27.507,
+   -48.519
+  ],
+  [
+   "Marisqueira Sintra Santo Antônio de Lisboa",
+   -27.507,
+   -48.519
+  ]
+ ],
+ "ribeirao": [
+  [
+   "Ostradamus Ribeirão da Ilha",
+   -27.715,
+   -48.565
+  ],
+  [
+   "Rancho Açoriano Ribeirão da Ilha",
+   -27.715,
+   -48.565
+  ],
+  [
+   "Nacanoa Oyster Bar Ribeirão da Ilha",
+   -27.715,
+   -48.565
+  ],
+  [
+   "Restaurante Umas e Ostras Ribeirão da Ilha",
+   -27.715,
+   -48.565
+  ]
+ ],
+ "ingleses": [
+  [
+   "Guacamole Taqueria Ingleses",
+   -27.435,
+   -48.395
+  ],
+  [
+   "Koniko Temakeria Ingleses",
+   -27.435,
+   -48.395
+  ],
+  [
+   "Orlando Restaurante Ingleses",
+   -27.435,
+   -48.395
+  ]
+ ],
+ "continente": [
+  [
+   "Cantina Petrus Coqueiros",
+   -27.598,
+   -48.585
+  ],
+  [
+   "Salumeria San Michele Coqueiros",
+   -27.598,
+   -48.585
+  ],
+  [
+   "restaurante almoço domingo Coqueiros Florianópolis",
+   -27.598,
+   -48.585
+  ],
+  [
+   "restaurante frutos do mar Coqueiros Florianópolis",
+   -27.598,
+   -48.585
+  ],
+  [
+   "churrascaria Estreito Florianópolis",
+   -27.598,
+   -48.585
+  ]
+ ],
+ "volta": [
+  [
+   "Graal Petropen",
+   -24.7,
+   -47.88
+  ],
+  [
+   "Restaurante Dionisio 88 Juquitiba",
+   -23.93,
+   -47.07
+  ],
+  [
+   "Família Madalosso",
+   -25.396,
+   -49.333
+  ],
+  [
+   "restaurante BR-101 Joinville jantar",
+   -26.3,
+   -48.85
+  ],
+  [
+   "Graal Rancho Português",
+   -23.3,
+   -46.58
+  ]
+ ],
+ "ida-cafe2": [
+  [
+   "Frango Assado Rodovia dos Bandeirantes",
+   -23.1,
+   -46.95
+  ],
+  [
+   "Graal Rodovia dos Bandeirantes",
+   -23.0,
+   -47.0
+  ],
+  [
+   "Rodovia SP-340 posto restaurante 24 horas Mogi Mirim",
+   -22.45,
+   -46.95
+  ],
+  [
+   "padaria café da manhã Rodovia dos Bandeirantes Jundiaí",
+   -23.2,
+   -46.9
+  ]
+ ]
+}

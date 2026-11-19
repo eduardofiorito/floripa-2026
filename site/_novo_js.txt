@@ -1,0 +1,146 @@
+/* ---------- mapa esquemático (SVG, sem tiles) ---------- */
+const NS = "http://www.w3.org/2000/svg";
+const sv = (tag, attrs = {}, ...kids) => { const n = document.createElementNS(NS, tag); for (const [k, v] of Object.entries(attrs)) if (v != null && v !== false) n.setAttribute(k, v); for (const c of kids.flat()) if (c) n.append(c); return n; };
+const MCOL = { trilha: "var(--c-academia)", praia: "var(--c-dia)", mirante: "var(--c-cedo)", noite: "var(--c-noite)", comida: "var(--c-sunset)", atividade: "var(--c-prova)", passeio: "var(--c-estrada)", evento: "var(--c-prova)", "bate-volta": "var(--c-estrada)" };
+const comCoord = l => l.coords && l.coords.lat != null;
+const hav = (a, b) => { const R = 6371000, r = Math.PI / 180, dp = (b[0] - a[0]) * r, dl = (b[1] - a[1]) * r; const h = Math.sin(dp / 2) ** 2 + Math.cos(a[0] * r) * Math.cos(b[0] * r) * Math.sin(dl / 2) ** 2; return 2 * R * Math.asin(Math.sqrt(h)); };
+const dtxt = m => m < 950 ? `${Math.round(m / 50) * 50 || 50} m` : `${(m / 1000).toFixed(m < 10000 ? 1 : 0).replace(".", ",")} km`;
+function bboxDe(pts, pad = 0.1, minKm = 0) {
+  let w = 1e9, e = -1e9, s = 1e9, n = -1e9;
+  for (const [lng, lat] of pts) { w = Math.min(w, lng); e = Math.max(e, lng); s = Math.min(s, lat); n = Math.max(n, lat); }
+  const cl = (n + s) / 2, cg = (e + w) / 2, minLat = minKm / 111.32, minLng = minKm / (111.32 * Math.cos(cl * Math.PI / 180));
+  const hl = Math.max((n - s) / 2 * (1 + pad), minLat / 2), hg = Math.max((e - w) / 2 * (1 + pad), minLng / 2);
+  return { w: cg - hg, e: cg + hg, s: cl - hl, n: cl + hl };
+}
+const ILHA_BB = bboxDe(D.ilha, 0.03);
+function proj(bb, W, H) {
+  const c = Math.cos((bb.s + bb.n) / 2 * Math.PI / 180), dx = (bb.e - bb.w) * c, dy = bb.n - bb.s, k = Math.min(W / dx, H / dy), ox = (W - dx * k) / 2, oy = (H - dy * k) / 2;
+  return { x: lng => ox + (lng - bb.w) * c * k, y: lat => oy + (bb.n - lat) * k, k };
+}
+const caminho = (pts, P, fechar) => "M" + pts.map(p => `${P.x(p[0]).toFixed(1)},${P.y(p[1]).toFixed(1)}`).join("L") + (fechar ? "Z" : "");
+function mapaSvg({ bb, W, H, marcas, trilhas, destaque, selecionado, rotulos, onSel, rotuloAria }) {
+  const P = proj(bb, W, H), s = sv("svg", { viewBox: `0 0 ${W} ${H}`, role: "img", "aria-label": rotuloAria || "Mapa esquemático", class: "map" });
+  s.append(sv("rect", { width: W, height: H, class: "m-mar" }), sv("path", { d: caminho(D.ilha, P, true), class: "m-terra" }));
+  if (trilhas) for (const t of trilhas) for (const ln of t.linhas) s.append(sv("path", { d: caminho(ln, P), class: "m-trilha" + (t._d ? " m-trilha-d" : "") }));
+  const lab = [];
+  for (const l of marcas) {
+    const x = P.x(l.coords.lng), y = P.y(l.coords.lat); if (x < -10 || y < -10 || x > W + 10 || y > H + 10) continue;
+    const d = l.id === destaque, sel = l.id === selecionado;
+    const g = sv("g", { class: "m-pt" + (d || sel ? " on" : ""), tabindex: "0", role: "link", "aria-label": l.nome, style: "cursor:pointer" });
+    g.append(sv("circle", { cx: x, cy: y, r: 15, fill: "transparent" }), sv("circle", { cx: x, cy: y, r: d || sel ? 8 : 5.5, fill: MCOL[l.categoria] || "var(--sea)", class: "m-c" }));
+    const go = () => { if (onSel) onSel(l.id); else location.hash = "lugar-" + l.id; };
+    g.addEventListener("click", go); g.addEventListener("keydown", e => { if (e.key === "Enter" || e.key === " ") { e.preventDefault(); go(); } });
+    g.append(sv("title", {}, document.createTextNode(l.nome)));
+    s.append(g);
+    if (rotulos || d || sel) lab.push([x, y, l.nome.replace(/\s*\(.*\)$/, ""), d || sel]);
+  }
+  for (const [x, y, t, forte] of lab) { const right = x < W * 0.62; const tx = sv("text", { x: x + (right ? 11 : -11), y: y + 4, "text-anchor": right ? "start" : "end", class: "m-lab" + (forte ? " forte" : "") }); tx.textContent = t.length > 26 ? t.slice(0, 25) + "…" : t; s.append(tx); }
+  return s;
+}
+function trilhasDe(id) { return D.trilhas.filter(t => t.lugar === id); }
+
+/* ---------- ficha (modelo: página de pousada do Peregrino) ---------- */
+function fact(k, val) { return val ? el("div", {}, el("dt", {}, k), el("dd", {}, val)) : null; }
+function list(arr) { return arr && arr.length ? el("ul", {}, arr.map(x => el("li", {}, x))) : null; }
+function sec(t, ...c) { const k = c.flat().filter(Boolean); return k.length ? el("section", { class: "sec" }, el("h2", {}, t), k) : null; }
+function Fato(t, txt) { return txt ? el("div", { class: "fato" }, el("strong", {}, t), el("span", {}, txt)) : null; }
+const LOCTXT = {
+  A: "Ponto conferido: o Google e o OpenStreetMap concordam, a menos de 300 m.",
+  B: "Ponto provável: o Google e o OpenStreetMap divergem em até 1,5 km. Confira no mapa ao chegar.",
+  C: "Ponto aproximado: só uma fonte, ou fontes distantes entre si. Para trilha, é o início ou o ponto de referência."
+};
+function noLugar(l) { return [...(noRoteiro[l.id] || [])].sort(); }
+function renderLugar(v, id) {
+  const l = P[id];
+  if (!l) { v.replaceChildren(el("a", { class: "back", href: "#lugares" }, "← Lugares"), el("div", { class: "empty" }, "Lugar não encontrado.")); return; }
+  const dias = noLugar(l), g = G[l.id], tr = l.trilha, trs = trilhasDe(l.id), ext = D.links[l.id] || [];
+  const url = k => l.links && l.links[k] && /^https?:/.test(l.links[k]) ? l.links[k] : null;
+  const fotoP = foto(l), temPt = comCoord(l);
+  // mapa do hero: o lugar, as trilhas dele e o que tem em volta
+  let mapa = null, perto = [];
+  if (temPt) {
+    const pts = [[l.coords.lng, l.coords.lat]]; for (const t of trs) for (const ln of t.linhas) pts.push(...ln);
+    const bb = bboxDe(pts, 0.25, 2.4), centro = [l.coords.lat, l.coords.lng];
+    perto = D.lugares.filter(o => o.id !== l.id && comCoord(o)).map(o => ({ o, m: hav(centro, [o.coords.lat, o.coords.lng]) })).filter(x => x.m <= 6000).sort((a, b) => a.m - b.m);
+    const marcasMapa = [l, ...perto.filter(x => x.o.coords.lng > bb.w && x.o.coords.lng < bb.e && x.o.coords.lat > bb.s && x.o.coords.lat < bb.n).slice(0, 7).map(x => x.o)];
+    mapa = mapaSvg({ bb, W: 520, H: 340, marcas: marcasMapa, trilhas: trs.map(t => ({ ...t, _d: true })), destaque: l.id, rotulos: true, rotuloAria: `Mapa esquemático de ${l.nome} e do que há em volta` });
+  }
+  const loc = l.loc ? LOCTXT[l.loc.classe] : (temPt ? "Ponto do OpenStreetMap, aproximado. Confira no mapa ao chegar." : "Sem ponto no mapa: use o endereço.");
+  const botoesMapa = el("div", { class: "links" }, mapsUrl(l) ? el("a", { class: "btn pri", href: mapsUrl(l), target: "_blank", rel: "noopener" }, "Abrir no Google Maps") : null,
+    wazeUrl(l) ? el("a", { class: "btn", href: wazeUrl(l), target: "_blank", rel: "noopener" }, "Abrir no Waze") : null);
+  const porque = (l.destaques || []).slice(0, 3);
+  const dl = l.da_lagoa;
+  const passos = [
+    dl && dl.tempo_min != null ? `Da casa da Lagoa são ${dl.tempo_min} min de carro${dl.km != null ? ` (${dl.km} km)` : ""}.${dl.obs ? " " + dl.obs : ""}` : null,
+    l.estacionamento ? "Estacionamento: " + l.estacionamento : null,
+    tr && tr.inicio ? "Início da trilha: " + tr.inicio : null,
+    l.endereco ? "Endereço: " + l.endereco : null
+  ].filter(Boolean);
+  const aside = el("aside", { class: "side", "aria-label": "Contato e opinião" },
+    el("div", { class: "box" }, el("div", { class: "eyebrow" }, "Reserva e contato"),
+      ...["ingressos", "reserva", "site", "instagram"].map(k => { const u = url(k); const t = l.links && l.links[k]; if (u) return el("a", { class: "btn", href: u, target: "_blank", rel: "noopener" }, { ingressos: "Ingressos", reserva: "Reservar", site: "Site", instagram: "Instagram" }[k]); if (t && k === "reserva") return el("p", { class: "muted", style: "margin:0;overflow-wrap:anywhere" }, t); return null; }),
+      el("p", { class: "muted", style: "margin:0;font-size:13px" }, url("site") || url("instagram") || url("ingressos") || (l.links && l.links.reserva) ? "O app não envia nada: só abre a página ou mostra o contato." : "A pesquisa não achou contato público.")),
+    el("div", { class: "box" }, el("div", { class: "eyebrow" }, "Sua opinião"), voteBox(l)),
+    el("div", { class: "box when" }, el("div", { class: "eyebrow" }, "No roteiro"), dias.length ? dias.map(i => { const d = D.dias.find(x => x.id === i); return el("a", { class: "btn", href: "#dia-" + i }, `${d.dow} ${d.num}`); }) : el("span", { class: "muted" }, "Ainda fora do roteiro")),
+    el("div", { class: "box" }, el("div", { class: "eyebrow" }, "Confiança dos dados"), el("div", {}, (l.confianca || "n/d") + (l.verificado_em ? " · verificado em " + l.verificado_em.split("-").reverse().join("/") : ""))));
+  v.replaceChildren(
+    el("section", { class: "fh", "aria-label": "Onde fica" },
+      el("div", { class: "fh-txt" },
+        el("nav", { class: "crumbs", "aria-label": "Caminho até aqui" }, el("a", { href: "#roteiro" }, "Roteiro"), " / ", el("a", { href: "#lugares" }, "Lugares"), " / ", el("span", { "aria-current": "page" }, l.nome)),
+        el("div", { class: "eyebrow" }, (CATN[l.categoria] || l.categoria) + " · " + (REG[l.regiao] || l.regiao)),
+        el("h1", {}, l.nome),
+        el("p", { class: "lede" }, l.resumo),
+        el("div", { class: "selos" }, dias.length ? el("span", { class: "selo on" }, "no roteiro · " + dias.map(i => { const d = D.dias.find(x => x.id === i); return d.dow.toLowerCase() + " " + d.num; }).join(", ")) : null,
+          stars(l) ? el("span", { class: "selo" }, stars(l)) : null, l.da_lagoa && l.da_lagoa.tempo_min != null ? el("span", { class: "selo" }, `${l.da_lagoa.tempo_min} min da Lagoa`) : null),
+        botoesMapa),
+      el("div", { class: "fh-mapa" },
+        mapa ? el("div", { class: "mapbox" }, mapa) : el("div", { class: "fphoto" }, fotoP ? el("img", { src: fotoP, alt: l.nome }) : glyph(l.categoria)),
+        el("p", { class: "mapnota" }, loc, mapa ? " O mapa é um esquema, sem ruas." : ""))),
+    el("div", { class: "fcorpo" },
+      el("div", { class: "fmain" },
+        fotoP && mapa ? el("div", { class: "fphoto wide" }, el("img", { src: fotoP, alt: l.nome })) : null,
+        el("section", { class: "resumo", "aria-label": "Resumo" },
+          Fato("Da Lagoa", dl && dl.tempo_min != null ? `${dl.tempo_min} min de carro` : null), Fato("Duração", l.duracao), Fato("Melhor horário", l.melhor_horario),
+          Fato("Quando abre", l.horarios && l.horarios.length < 70 ? l.horarios : null), Fato("Quanto custa", l.precos && l.precos.length < 70 ? l.precos : null)),
+        porque.length ? sec("Por que ir", el("ul", { class: "porque" }, porque.map(t => el("li", {}, el("span", { class: "ic" }, glyph(l.categoria)), el("span", {}, t))))) : null,
+        passos.length ? sec("Como chegar", el("ol", { class: "passos" }, passos.map((t, i) => el("li", {}, el("span", { class: "n" }, String(i + 1)), el("span", {}, t)))), botoesMapa.cloneNode(true)) : null,
+        trs.length || (tr && (tr.distancia_km != null || tr.tempo_ida_min != null || tr.dificuldade)) ? sec("Trilha",
+          tr && (tr.distancia_km != null || tr.tempo_ida_min != null || tr.dificuldade) ? el("dl", { class: "facts2" }, fact("Distância", tr.distancia_km != null ? `${String(tr.distancia_km).replace(".", ",")} km` : null), fact("Tempo de ida", tr.tempo_ida_min != null ? `${tr.tempo_ida_min} min` : null), fact("Desnível", tr.desnivel_m != null ? `${tr.desnivel_m} m` : null), fact("Dificuldade", tr.dificuldade), fact("Sinalização", tr.sinalizacao)) : null,
+          ...trs.map(t => el("div", { class: "trk" }, el("div", {}, el("strong", {}, t.nome), el("div", { class: "muted", style: "font-size:13px" }, `${String(t.km).replace(".", ",")} km no mapa do OpenStreetMap${t.trechos > 1 ? `, em ${t.trechos} trechos` : ""}`)),
+            el("div", { class: "acts" }, el("a", { class: "btn pri", href: t.gpx, target: "_blank", rel: "noopener" }, "Arquivo GPX"),
+              el("a", { class: "btn", href: `https://www.google.com/maps/search/?api=1&query=${t.inicio[0]},${t.inicio[1]}`, target: "_blank", rel: "noopener" }, "Início no Maps"),
+              el("a", { class: "btn", href: `https://waze.com/ul?ll=${t.inicio[0]},${t.inicio[1]}&navigate=yes`, target: "_blank", rel: "noopener" }, "Início no Waze")))),
+          trs.length ? el("p", { class: "muted", style: "margin:0;font-size:13px" }, "O GPX vem do OpenStreetMap e pode estar incompleto ou fora de ordem. Importe no app de trilhas (Komoot, Wikiloc, OsmAnd, Maps.me) e confira no local. Baixe antes: no meio da mata o sinal some.") : null,
+          ext.length ? el("div", { class: "extl" }, el("strong", {}, "Mais mapas e relatos"), ...ext.map(e => el("a", { href: e.u, target: "_blank", rel: "noopener" }, e.t)), el("span", { class: "muted", style: "font-size:12px" }, "Links indicados pela busca; alguns pedem login para baixar o GPX.")) : null) : null,
+        l.cuidados && l.cuidados.length ? el("section", { class: "sec" }, el("div", { class: "warnbox" }, el("b", {}, "Cuidados"), list(l.cuidados))) : null,
+        sec("Chuva e vento", l.clima && l.clima.sensivel_a && l.clima.sensivel_a.length ? el("p", { style: "margin:0" }, el("b", {}, "Sensível a: "), l.clima.sensivel_a.join(", ")) : null, l.clima && l.clima.plano_b ? el("p", { style: "margin:0" }, el("b", {}, "Plano B: "), l.clima.plano_b) : null),
+        sec("Antes de ir", el("dl", { class: "facts2" }, fact("Horários", l.horarios), fact("Preços", l.precos), fact("Público", l.publico), fact("Endereço", l.endereco)), list(l.o_que_levar) ? el("div", {}, el("b", {}, "O que levar"), list(l.o_que_levar)) : null),
+        sec("Dicas", list(l.dicas)),
+        sec("Ainda a confirmar", list(l.pendencias)),
+        perto.length ? sec("Perto daqui", el("ul", { class: "perto" }, perto.slice(0, 8).map(x => el("li", {}, el("a", { href: "#lugar-" + x.o.id }, x.o.nome), el("span", { class: "muted" }, " · " + (CATN[x.o.categoria] || x.o.categoria) + " · " + dtxt(x.m)))))) : null,
+        (l.combina_com || []).filter(i => P[i]).length ? sec("Combina com", el("div", { class: "when" }, (l.combina_com || []).filter(i => P[i]).map(i => el("a", { class: "btn", href: "#lugar-" + i }, P[i].nome)))) : null,
+        (l.fotos || []).length ? sec("Fotos", el("div", { class: "gal" }, l.fotos.map(f => el("figure", {}, el("a", { href: f.pagina || f.arq, target: "_blank", rel: "noopener" }, el("img", { src: f.arq, alt: l.nome, loading: "lazy" })), "Foto: " + (f.autor || "autor não informado") + (f.licenca ? ", " + f.licenca : ""))))) : null,
+        sec("Fontes", l.fontes && l.fontes.length ? el("ul", {}, l.fontes.filter(u => /^https?:/.test(u)).map(u => el("li", {}, el("a", { href: u, target: "_blank", rel: "noopener" }, u.replace(/^https?:\/\/(www\.)?/, "").slice(0, 70))))) : null)),
+      aside));
+}
+
+/* ---------- mapa geral ---------- */
+let mReg = null, mCat = null, mSel = null;
+function renderMapa(v) {
+  const regs = [...new Set(D.lugares.filter(comCoord).map(l => l.regiao))].filter(r => r !== "fora-da-ilha"), cats = [...new Set(D.lugares.filter(comCoord).map(l => l.categoria))];
+  const ls = D.lugares.filter(l => comCoord(l) && (!mReg || l.regiao === mReg) && (!mCat || l.categoria === mCat) && l.regiao !== "fora-da-ilha");
+  const bb = mReg && ls.length ? bboxDe(ls.map(l => [l.coords.lng, l.coords.lat]), 0.25, 3) : ILHA_BB, W = 560, H = mReg ? 460 : 820;
+  const sel = mSel && P[mSel] ? P[mSel] : null;
+  const card = sel ? el("div", { class: "mini selcard" }, el("div", { class: "ph" }, thumb(sel)), el("div", {}, el("h4", {}, el("a", { href: "#lugar-" + sel.id }, sel.nome)),
+    el("div", { class: "meta" }, el("span", {}, (CATN[sel.categoria] || sel.categoria) + " · " + (REG[sel.regiao] || sel.regiao)), stars(sel), sel.da_lagoa && sel.da_lagoa.tempo_min != null ? el("span", {}, `${sel.da_lagoa.tempo_min} min da Lagoa`) : null),
+    el("p", { class: "muted", style: "margin:4px 0 0;font-size:13.5px" }, sel.resumo), acts(sel, el("a", { class: "btn", href: "#lugar-" + sel.id }, "Ver ficha completa")))) : el("div", { class: "empty" }, "Toque num ponto do mapa para ver o lugar.");
+  v.replaceChildren(
+    el("div", { class: "eyebrow", style: "margin-bottom:8px" }, `${ls.length} lugares no mapa · esquema da ilha, sem ruas`),
+    el("div", { class: "chips" }, el("button", { class: "chip", "aria-pressed": String(mReg == null), onclick: () => { mReg = null; renderMapa(v); } }, "Ilha toda"), regs.map(r => el("button", { class: "chip", "aria-pressed": String(mReg === r), onclick: () => { mReg = r; renderMapa(v); } }, REG[r] || r))),
+    el("div", { style: "height:8px" }),
+    el("div", { class: "chips" }, el("button", { class: "chip", "aria-pressed": String(mCat == null), onclick: () => { mCat = null; renderMapa(v); } }, "Tudo"), cats.map(c => el("button", { class: "chip", "aria-pressed": String(mCat === c), onclick: () => { mCat = c; renderMapa(v); } }, (CATN[c] || c)))),
+    el("div", { class: "mapage" },
+      el("div", { class: "mapbox big" }, mapaSvg({ bb, W, H, marcas: ls, trilhas: D.trilhas.map(t => ({ ...t, _d: false })), selecionado: mSel, rotulos: !!mReg, onSel: id => { mSel = id; renderMapa(v); }, rotuloAria: "Mapa esquemático da Ilha de Santa Catarina com os lugares do roteiro" })),
+      el("div", { class: "maplist" }, card,
+        el("ul", { class: "perto" }, ls.slice().sort((a, b) => a.nome.localeCompare(b.nome, "pt-BR")).map(l => el("li", {}, el("button", { class: "lnk", onclick: () => { mSel = l.id; renderMapa(v); } }, l.nome), el("span", { class: "muted" }, " · " + (CATN[l.categoria] || l.categoria))))))));
+}

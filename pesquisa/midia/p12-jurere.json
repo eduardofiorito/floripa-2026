@@ -1,0 +1,82 @@
+{
+  "id": "p12-jurere",
+  "videos": [
+    {
+      "titulo": "Aftermovie Hernan Cattaneo At Meet Day P12, Jurerê Internacional, Florianopolis 24.01.25",
+      "canal": "Floripa Summer Music",
+      "url": "https://www.youtube.com/watch?v=xF0LRfDMk3E",
+      "plataforma": "youtube",
+      "publicado": "2025-02-08",
+      "duracao": "1:00",
+      "mostra": "Aftermovie de 1 min de festa no P12 (jan/2025)",
+      "melhor_trecho": null
+    },
+    {
+      "titulo": "Virada de Ano no P12: Leo Santana agita Jurerê com sua Máquina de Hits",
+      "canal": "Balanço Geral Florianópolis",
+      "url": "https://www.youtube.com/watch?v=kTzlpOOTsUw",
+      "plataforma": "youtube",
+      "publicado": "2025-01-02",
+      "duracao": "9:56",
+      "mostra": "Reportagem da virada 2024/25 no P12",
+      "melhor_trecho": null
+    },
+    {
+      "titulo": "Set Funk Choppada 2026 - Dks, Marlon Mattos (P12 - Florianópolis / SC)",
+      "canal": "DKS DJ",
+      "url": "https://www.youtube.com/watch?v=-Zbl6PkMoNk",
+      "plataforma": "youtube",
+      "publicado": "2026-10-03",
+      "duracao": "48:19",
+      "mostra": "Set gravado no P12 em 2026; não é o Pátio Sunset",
+      "melhor_trecho": null
+    }
+  ],
+  "instagram": [
+    {
+      "tipo": "perfil",
+      "url": "https://www.instagram.com/p12jurere/",
+      "nota": "Perfil oficial do P12: agenda e fotos do Pátio P12 Sunset"
+    },
+    {
+      "tipo": "local",
+      "url": "https://www.instagram.com/explore/locations/1027313775/p12-jurere-internacional/",
+      "nota": "Local 'P12 Jurerê Internacional': fotos recentes marcadas pelo público"
+    }
+  ],
+  "fotos_commons_recentes": [
+    {
+      "pagina": "https://commons.wikimedia.org/wiki/File:DanielVianna_PraiadeJurere_Florianopolis_SC_(41569416821).jpg",
+      "arquivo_url": "https://upload.wikimedia.org/wikipedia/commons/0/05/DanielVianna_PraiadeJurere_Florianopolis_SC_%2841569416821%29.jpg",
+      "data": "2018-04-08",
+      "autor": "MTur Destinos",
+      "licenca": "Public domain",
+      "mostra": "Praia de Jurerê (foto do Ministério do Turismo, abr/2018)",
+      "arq": "img/recentes/p12-jurere-1.jpg"
+    },
+    {
+      "pagina": "https://commons.wikimedia.org/wiki/File:DanielVianna_PraiadeJurere_Florianopolis_SC_(40858212364).jpg",
+      "arquivo_url": "https://upload.wikimedia.org/wikipedia/commons/d/db/DanielVianna_PraiadeJurere_Florianopolis_SC_%2840858212364%29.jpg",
+      "data": "2018-04-08",
+      "autor": "MTur Destinos",
+      "licenca": "Public domain",
+      "mostra": "Praia de Jurerê (mesma série)",
+      "arq": "img/recentes/p12-jurere-2.jpg"
+    }
+  ],
+  "pontos_de_vista": [
+    "Deck do P12 de frente para a praia de Jurerê: o pôr do sol caindo sobre o mar da Baía Norte",
+    "Areia de Jurerê Internacional: mar calmo e a orla de beach clubs"
+  ],
+  "vibe": "Beach club mais famoso de Jurerê; fora da temporada faz o 'Pátio P12 Sunset' com pagode e sertanejo e ingresso barato. Mar calmo de baía.",
+  "fontes": [
+    "https://www.youtube.com/watch?v=xF0LRfDMk3E",
+    "https://www.youtube.com/watch?v=kTzlpOOTsUw",
+    "https://www.youtube.com/watch?v=-Zbl6PkMoNk",
+    "https://www.instagram.com/p12jurere/",
+    "https://www.instagram.com/explore/locations/1027313775/p12-jurere-internacional/",
+    "https://commons.wikimedia.org/wiki/File:DanielVianna_PraiadeJurere_Florianopolis_SC_(41569416821).jpg",
+    "https://commons.wikimedia.org/wiki/File:DanielVianna_PraiadeJurere_Florianopolis_SC_(40858212364).jpg"
+  ],
+  "verificado_em": "2026-11-17"
+}

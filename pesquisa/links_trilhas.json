@@ -1,0 +1,36 @@
+{
+  "lagoinha-do-leste": [
+    {"t": "Komoot: trilha do Pântano do Sul (2,2 km)", "u": "https://www.komoot.com/pt-br/highlight/524262"},
+    {"t": "Komoot: roteiro de 13,9 km com GPX, saindo da Armação", "u": "https://www.komoot.com/smarttour/20099591"},
+    {"t": "Komoot: travessia pelo Matadeiro (17,9 km, difícil)", "u": "https://www.komoot.com/smarttour/34229337"},
+    {"t": "Guia da trilha (Viagens e Caminhos)", "u": "https://www.viagensecaminhos.com/trilha-da-lagoinha-do-leste-florianopolis/"}
+  ],
+  "trilha-do-gravata": [
+    {"t": "Komoot: trilha dos pescadores, da Lagoa ao Gravatá", "u": "https://www.komoot.com/highlight/7274232"},
+    {"t": "Wikiloc: ponto da Praia do Gravatá", "u": "https://www.wikiloc.com/waypoints/PkoaVZ/praia-do-gravata"},
+    {"t": "Descrição e acesso (LOC Wiki)", "u": "https://www.loc.wiki/hiking-trails/trilha-do-gravata-florianopolis-96785156"},
+    {"t": "Guia da trilha (Viagens e Caminhos)", "u": "https://www.viagensecaminhos.com/trilha-do-gravata-florianopolis/"}
+  ],
+  "naufragados": [
+    {"t": "Komoot: farol de Naufragados", "u": "https://www.komoot.com/highlight/1066189"},
+    {"t": "Wikiloc: canhões de Naufragados", "u": "https://www.wikiloc.com/waypoints/ZXuumA/canhoes"}
+  ],
+  "morro-das-aranhas": [
+    {"t": "Wikiloc: topo do Morro das Aranhas", "u": "https://www.wikiloc.com/waypoints/RatMVN/morro-das-aranhas"},
+    {"t": "Komoot: Morro das Aranhas (8,5 km)", "u": "https://www.komoot.com/smarttour/34302018"},
+    {"t": "Visite Floripa: trilha do Morro das Aranhas", "u": "https://visitefloripa.com.br/en/?p=4561"}
+  ],
+  "praia-da-galheta": [
+    {"t": "Wikiloc: Barra da Lagoa → Praia Mole", "u": "https://no.wikiloc.com/hiking-trails/trilha-barra-da-lagoa-praia-da-mole-97120077"},
+    {"t": "Guia Floripa: Barra da Lagoa → Galheta", "u": "https://en.guiafloripa.com.br/turismo/trilhas-florianopolis/trilha-barra-da-lagoa-ate-galheta"}
+  ],
+  "piscinas-naturais-barra-da-lagoa": [
+    {"t": "Wikiloc: Barra da Lagoa → Praia Mole (passa pelas piscinas)", "u": "https://no.wikiloc.com/hiking-trails/trilha-barra-da-lagoa-praia-da-mole-97120077"}
+  ],
+  "guarda-do-embau": [
+    {"t": "Guia da Pedra do Urubu e da Prainha (Viagens e Caminhos)", "u": "https://www.viagensecaminhos.com/pedra-do-urubu-guarda-do-embau/"}
+  ],
+  "costa-da-lagoa": [
+    {"t": "Civitatis: trilha da Costa da Lagoa com barco", "u": "https://www.civitatis.com/pt/florianopolis/trilha-costa-lagoa-passeio-barco/"}
+  ]
+}

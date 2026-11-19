@@ -1,0 +1,103 @@
+{
+  "id": "santo-antonio-de-lisboa",
+  "videos": [
+    {
+      "titulo": "Vimos o pôr do sol mais lindo de Floripa - Santo Antônio de Lisboa",
+      "canal": "Diário de Aventuras",
+      "url": "https://www.youtube.com/watch?v=wEnSt_IHQJo",
+      "plataforma": "youtube",
+      "publicado": "2025-09-08",
+      "duracao": "12:25",
+      "mostra": "Pôr do sol em Santo Antônio de Lisboa (set/2025)",
+      "melhor_trecho": null
+    },
+    {
+      "titulo": "Santo Antônio de Lisboa, un paseo diferente 4K",
+      "canal": "Mundo Floripa",
+      "url": "https://www.youtube.com/watch?v=kyedVy-26uM",
+      "plataforma": "youtube",
+      "publicado": "2025-07-04",
+      "duracao": "9:30",
+      "mostra": "Passeio 4K pela vila, casario e orla (jul/2025, em espanhol)",
+      "melhor_trecho": null
+    },
+    {
+      "titulo": "🏖️ Santo Antônio de Lisboa: charme e história ",
+      "canal": "Bianca Vai Viajar",
+      "url": "https://www.youtube.com/watch?v=DdIjla6zl4A",
+      "plataforma": "youtube",
+      "publicado": "2025-08-03",
+      "duracao": "6:00",
+      "mostra": "Santo Antônio de Lisboa: charme e história (ago/2025)",
+      "melhor_trecho": null
+    }
+  ],
+  "instagram": [
+    {
+      "tipo": "perfil",
+      "url": "https://www.instagram.com/santoantoniofloripa/",
+      "nota": "Perfil de turismo de Santo Antônio de Lisboa: o pôr do sol na baía e o casario"
+    },
+    {
+      "tipo": "perfil",
+      "url": "https://www.instagram.com/vivasantoantonio/",
+      "nota": "'Viva Santo Antônio': gastronomia, passeios e artistas locais"
+    }
+  ],
+  "fotos_commons_recentes": [
+    {
+      "pagina": "https://commons.wikimedia.org/wiki/File:Santo_Ant%C3%B4nio_de_Lisboa_(Floripa)_by_K%C3%A1tiia_C._Oliveira_-_06.jpg",
+      "arquivo_url": "https://upload.wikimedia.org/wikipedia/commons/d/d0/Santo_Ant%C3%B4nio_de_Lisboa_%28Floripa%29_by_K%C3%A1tiia_C._Oliveira_-_06.jpg",
+      "data": "2023-12-10",
+      "autor": "Ajmcbarreto",
+      "licenca": "CC BY-SA 4.0",
+      "mostra": "Casarão açoriano de esquina na rua calçada de Santo Antônio de Lisboa",
+      "arq": "img/recentes/santo-antonio-de-lisboa-1.jpg"
+    },
+    {
+      "pagina": "https://commons.wikimedia.org/wiki/File:Santo_Ant%C3%B4nio_de_Lisboa_(Floripa)_by_K%C3%A1tiia_C._Oliveira_-_09.jpg",
+      "arquivo_url": "https://upload.wikimedia.org/wikipedia/commons/8/8a/Santo_Ant%C3%B4nio_de_Lisboa_%28Floripa%29_by_K%C3%A1tiia_C._Oliveira_-_09.jpg",
+      "data": "2023-12-10",
+      "autor": "Ajmcbarreto",
+      "licenca": "CC BY-SA 4.0",
+      "mostra": "Praia de Santo Antônio em dia nublado: canoas e as fazendas de ostra na Baía Norte",
+      "arq": "img/recentes/santo-antonio-de-lisboa-2.jpg"
+    },
+    {
+      "pagina": "https://commons.wikimedia.org/wiki/File:Santo_Ant%C3%B4nio_de_Lisboa_(Floripa)_by_K%C3%A1tiia_C._Oliveira_-_08.jpg",
+      "arquivo_url": "https://upload.wikimedia.org/wikipedia/commons/d/da/Santo_Ant%C3%B4nio_de_Lisboa_%28Floripa%29_by_K%C3%A1tiia_C._Oliveira_-_08.jpg",
+      "data": "2023-12-10",
+      "autor": "Ajmcbarreto",
+      "licenca": "CC BY-SA 4.0",
+      "mostra": "Veleiros ancorados na Baía Norte, vistos da areia sob as árvores",
+      "arq": "img/recentes/santo-antonio-de-lisboa-3.jpg"
+    },
+    {
+      "pagina": "https://commons.wikimedia.org/wiki/File:Santo_Ant%C3%B4nio_de_Lisboa_-_Florian%C3%B3polis_-_20250524134007.jpg",
+      "arquivo_url": "https://upload.wikimedia.org/wikipedia/commons/1/1e/Santo_Ant%C3%B4nio_de_Lisboa_-_Florian%C3%B3polis_-_20250524134007.jpg",
+      "data": "2025-05-24",
+      "autor": "Thaismay",
+      "licenca": "CC BY-SA 4.0",
+      "mostra": "Pracinha com feirinha de artesanato e casario no centro histórico (maio/2025)",
+      "arq": "img/recentes/santo-antonio-de-lisboa-4.jpg"
+    }
+  ],
+  "pontos_de_vista": [
+    "Trapiche e orla em frente à igreja: o sol descendo atrás do continente, do outro lado da Baía Norte (~18h50)",
+    "Rua calçada com casario açoriano e a Igreja de N. S. das Necessidades (1756)",
+    "Mesas pé na areia dos restaurantes de ostra ao entardecer"
+  ],
+  "vibe": "Vila açoriana tranquila, de casais e famílias, com ostras e o pôr do sol mais famoso da Ilha. Quarta-feira tem festival de ostras. Novembro é bom: céu mais limpo e sem a fila de verão.",
+  "fontes": [
+    "https://www.youtube.com/watch?v=wEnSt_IHQJo",
+    "https://www.youtube.com/watch?v=kyedVy-26uM",
+    "https://www.youtube.com/watch?v=DdIjla6zl4A",
+    "https://www.instagram.com/santoantoniofloripa/",
+    "https://www.instagram.com/vivasantoantonio/",
+    "https://commons.wikimedia.org/wiki/File:Santo_Ant%C3%B4nio_de_Lisboa_(Floripa)_by_K%C3%A1tiia_C._Oliveira_-_06.jpg",
+    "https://commons.wikimedia.org/wiki/File:Santo_Ant%C3%B4nio_de_Lisboa_(Floripa)_by_K%C3%A1tiia_C._Oliveira_-_09.jpg",
+    "https://commons.wikimedia.org/wiki/File:Santo_Ant%C3%B4nio_de_Lisboa_(Floripa)_by_K%C3%A1tiia_C._Oliveira_-_08.jpg",
+    "https://commons.wikimedia.org/wiki/File:Santo_Ant%C3%B4nio_de_Lisboa_-_Florian%C3%B3polis_-_20250524134007.jpg"
+  ],
+  "verificado_em": "2026-11-17"
+}

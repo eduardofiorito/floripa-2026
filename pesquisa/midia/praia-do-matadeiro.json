@@ -1,0 +1,69 @@
+{
+  "id": "praia-do-matadeiro",
+  "videos": [
+    {
+      "titulo": "Trilha Matadeiro à Lagoinha do Leste - Florianópolis/SC - A trilha mais linda do Sul da Ilha.",
+      "canal": "Caminhos_Encontros e Encantos",
+      "url": "https://www.youtube.com/watch?v=qvnPlx4AwTM",
+      "plataforma": "youtube",
+      "publicado": "2025-01-19",
+      "duracao": "23:57",
+      "mostra": "Trilha Matadeiro → Lagoinha do Leste: começa na praia do Matadeiro e segue pelo costão (jan/2025)",
+      "melhor_trecho": null
+    },
+    {
+      "titulo": "Praia da ARMAÇÃO e MATADEIRO | Florianópolis SC (Aéreas Drone) © Todos os Direitos Reservados",
+      "canal": "Imagens Brasil Sul",
+      "url": "https://www.youtube.com/watch?v=wb7Hz5BzWvc",
+      "plataforma": "youtube",
+      "publicado": "2021-06-03",
+      "duracao": "2:36",
+      "mostra": "Imagens aéreas de drone da Armação e do Matadeiro (2021)",
+      "melhor_trecho": null
+    }
+  ],
+  "instagram": [
+    {
+      "tipo": "local",
+      "url": "https://www.instagram.com/explore/locations/744482812371626/florianopolis-santa-catarina/praia-do-matadeiro-florianopolis-sc/",
+      "nota": "Local 'Praia do Matadeiro' no Instagram: fotos recentes marcadas na praia"
+    },
+    {
+      "tipo": "perfil",
+      "url": "https://www.instagram.com/borinellibarerestaurante/",
+      "nota": "Bar Borinelli, na praia desde 1976: mostra a estrutura que existe lá"
+    },
+    {
+      "tipo": "perfil",
+      "url": "https://www.instagram.com/asm_matadeiro/",
+      "nota": "Associação de surf do Matadeiro: ondas e o rio encontrando o mar"
+    }
+  ],
+  "fotos_commons_recentes": [
+    {
+      "pagina": "https://commons.wikimedia.org/wiki/File:Praia_Matadeiro.jpg",
+      "arquivo_url": "https://upload.wikimedia.org/wikipedia/commons/4/40/Praia_Matadeiro.jpg",
+      "data": "2016-03-26",
+      "autor": "Marcusvco",
+      "licenca": "CC BY-SA 4.0",
+      "mostra": "Praia do Matadeiro",
+      "arq": "img/recentes/praia-do-matadeiro-1.jpg"
+    }
+  ],
+  "pontos_de_vista": [
+    "Fim da trilha desde a Armação: a prainha inteira com o rio da Lagoa do Peri desaguando",
+    "Costão do canto sul, onde começa a trilha para a Lagoinha: vista de volta para o Matadeiro e a Armação",
+    "Mirante do Morro das Pedras (SC-406): Armação e Matadeiro juntos, de longe"
+  ],
+  "vibe": "Prainha pequena e verde, de surf, com uma ou duas barracas e acesso só a pé (15–20 min fácil). Em novembro de 2025 houve um feminicídio na trilha de acesso (noticiado pelo UOL); prefiram ir em grupo e de dia.",
+  "fontes": [
+    "https://www.youtube.com/watch?v=qvnPlx4AwTM",
+    "https://www.youtube.com/watch?v=wb7Hz5BzWvc",
+    "https://www.instagram.com/explore/locations/744482812371626/florianopolis-santa-catarina/praia-do-matadeiro-florianopolis-sc/",
+    "https://www.instagram.com/borinellibarerestaurante/",
+    "https://www.instagram.com/asm_matadeiro/",
+    "https://commons.wikimedia.org/wiki/File:Praia_Matadeiro.jpg",
+    "https://www.youtube.com/watch?v=N2ynFnjcxVg"
+  ],
+  "verificado_em": "2026-11-17"
+}

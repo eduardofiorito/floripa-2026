@@ -1,0 +1,103 @@
+{
+  "id": "guarda-do-embau",
+  "videos": [
+    {
+      "titulo": "GUARDA DO EMBAÚ - A melhor praia de Santa Catarina",
+      "canal": "Minha Pequena Revolução",
+      "url": "https://www.youtube.com/watch?v=MW144ao65PU",
+      "plataforma": "youtube",
+      "publicado": "2025-12-14",
+      "duracao": "46:48",
+      "mostra": "Vlog longo da Guarda do Embaú: vila, rio e praia",
+      "melhor_trecho": null
+    },
+    {
+      "titulo": "Guarda do Embaú: ¿El Pueblo de Playa Más Bonito de Brasil? (VLOG de VIAJE a Santa Catarina)",
+      "canal": "Fredy Viajero",
+      "url": "https://www.youtube.com/watch?v=lKGiH6sk_fM",
+      "plataforma": "youtube",
+      "publicado": "2025-10-18",
+      "duracao": "10:57",
+      "mostra": "Vlog com a travessia do Rio da Madre (em espanhol)",
+      "melhor_trecho": null
+    },
+    {
+      "titulo": "Trilha da Pedra do Urubu - Guarda do Embaú - Santa Catarina",
+      "canal": "Bora Sem Sinal",
+      "url": "https://www.youtube.com/watch?v=dDB1Glk2HcM",
+      "plataforma": "youtube",
+      "publicado": "2024-11-03",
+      "duracao": "4:48",
+      "mostra": "Trilha da Pedra do Urubu",
+      "melhor_trecho": null
+    }
+  ],
+  "instagram": [
+    {
+      "tipo": "perfil",
+      "url": "https://www.instagram.com/guardaoficial/",
+      "nota": "Perfil 'Guarda do Embaú' (Reserva Mundial de Surf): fotos do rio, da praia e da Pedra do Urubu"
+    },
+    {
+      "tipo": "perfil",
+      "url": "https://www.instagram.com/guardadoembaurms/",
+      "nota": "Perfil da Reserva Mundial de Surf da Guarda: ondas e condições"
+    }
+  ],
+  "fotos_commons_recentes": [
+    {
+      "pagina": "https://commons.wikimedia.org/wiki/File:Rio_da_Madre_desde_a_Pedra_do_Urubu.jpg",
+      "arquivo_url": "https://upload.wikimedia.org/wikipedia/commons/a/ab/Rio_da_Madre_desde_a_Pedra_do_Urubu.jpg",
+      "data": "2017-02-24",
+      "autor": "Gigena74",
+      "licenca": "CC BY-SA 4.0",
+      "mostra": "Do alto da Pedra do Urubu: o Rio da Madre azul serpenteando entre as dunas brancas e a mata, com a serra ao fundo",
+      "arq": "img/recentes/guarda-do-embau-1.jpg"
+    },
+    {
+      "pagina": "https://commons.wikimedia.org/wiki/File:Da_Pedra_do_Urubu.jpg",
+      "arquivo_url": "https://upload.wikimedia.org/wikipedia/commons/8/86/Da_Pedra_do_Urubu.jpg",
+      "data": "2017-02-25",
+      "autor": "Gigena74",
+      "licenca": "CC BY-SA 4.0",
+      "mostra": "Vista do alto da Pedra do Urubu, no alto da Guarda",
+      "arq": "img/recentes/guarda-do-embau-2.jpg"
+    },
+    {
+      "pagina": "https://commons.wikimedia.org/wiki/File:Sunset_light_Guarda_do_Emba%C3%BA.jpg",
+      "arquivo_url": "https://upload.wikimedia.org/wikipedia/commons/0/0e/Sunset_light_Guarda_do_Emba%C3%BA.jpg",
+      "data": "2016-09-07",
+      "autor": "Lcsheerdt",
+      "licenca": "CC BY-SA 4.0",
+      "mostra": "Praia da Guarda do Embaú na luz do fim de tarde",
+      "arq": "img/recentes/guarda-do-embau-3.jpg"
+    },
+    {
+      "pagina": "https://commons.wikimedia.org/wiki/File:Guarda_do_Emba%C3%BA_02.jpg",
+      "arquivo_url": "https://upload.wikimedia.org/wikipedia/commons/9/98/Guarda_do_Emba%C3%BA_02.jpg",
+      "data": "2012-01-28",
+      "autor": "Ulisses Job",
+      "licenca": "CC BY-SA 3.0",
+      "mostra": "Travessia do Rio da Madre de barco até a praia",
+      "arq": "img/recentes/guarda-do-embau-4.jpg"
+    }
+  ],
+  "pontos_de_vista": [
+    "Pedra do Urubu (20–30 min de subida): o Rio da Madre encontrando o mar, a praia e a Pinheira",
+    "Travessia do Rio da Madre de bateira: água verde e cristalina com a duna em frente",
+    "Prainha, pela trilha do morro ou do costão: enseada com piscinas naturais"
+  ],
+  "vibe": "Vila de surfistas fora da Ilha (Palhoça), no Parque da Serra do Tabuleiro, com travessia de rio e vibe alternativa. Em novembro, pré-temporada: vila tranquila, bares abertos no fim de semana.",
+  "fontes": [
+    "https://www.youtube.com/watch?v=MW144ao65PU",
+    "https://www.youtube.com/watch?v=lKGiH6sk_fM",
+    "https://www.youtube.com/watch?v=dDB1Glk2HcM",
+    "https://www.instagram.com/guardaoficial/",
+    "https://www.instagram.com/guardadoembaurms/",
+    "https://commons.wikimedia.org/wiki/File:Rio_da_Madre_desde_a_Pedra_do_Urubu.jpg",
+    "https://commons.wikimedia.org/wiki/File:Da_Pedra_do_Urubu.jpg",
+    "https://commons.wikimedia.org/wiki/File:Sunset_light_Guarda_do_Emba%C3%BA.jpg",
+    "https://commons.wikimedia.org/wiki/File:Guarda_do_Emba%C3%BA_02.jpg"
+  ],
+  "verificado_em": "2026-11-17"
+}

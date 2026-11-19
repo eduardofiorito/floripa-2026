@@ -1,0 +1,97 @@
+{
+  "id": "jardim-botanico-curitiba",
+  "nome": "Jardim Botânico de Curitiba",
+  "categoria": "passeio",
+  "regiao": "estrada",
+  "cidade": "Curitiba",
+  "resumo": "O cartão-postal de Curitiba: a estufa de vidro e ferro no fim do jardim francês. Parada de 30 a 45 minutos para esticar as pernas e tirar a foto, a 3 km do Mercado Municipal.",
+  "destaques": [
+    "Estufa principal em art nouveau, inspirada no Palácio de Cristal de Londres",
+    "Jardim geométrico na frente da estufa, a foto clássica da cidade",
+    "Entrada gratuita",
+    "Combina com o almoço no Mercado Municipal, a 3 km"
+  ],
+  "coords": {
+    "lat": -25.4417091,
+    "lng": -49.2386647,
+    "fonte": "OSM Nominatim (leisure=park)",
+    "ponto": "entrada principal pela Rua Engenheiro Ostoja Roguski"
+  },
+  "endereco": "Rua Engenheiro Ostoja Roguski, Jardim Botânico, Curitiba (PR)",
+  "links": {
+    "google_maps": null,
+    "waze": "https://waze.com/ul?ll=-25.4417091,-49.2386647&navigate=yes",
+    "site": null,
+    "instagram": null,
+    "ingressos": null,
+    "reserva": null
+  },
+  "nota_google": null,
+  "outras_notas": [],
+  "da_lagoa": null,
+  "estrada": {
+    "trecho": "ida",
+    "quando": "sex 20, depois do almoço",
+    "desvio": "+20 min de carro, mais 30–45 min de visita",
+    "rota": "sai do Contorno pela Linha Verde ou pela BR-277"
+  },
+  "estacionamento": "Vagas de rua com cobrança (Smart Park) em volta do parque; cobram também em feriado",
+  "horarios": "Todos os dias, 6h–19h30. Em feriados a prefeitura às vezes reduz para 9h–18h: conferir o aviso de 20/11",
+  "precos": "Gratuito",
+  "melhor_horario": "Qualquer hora com sol; o jardim fica mais bonito no começo da tarde",
+  "duracao": "30–45 min",
+  "trilha": {
+    "distancia_km": null,
+    "tempo_ida_min": null,
+    "desnivel_m": null,
+    "dificuldade": null,
+    "inicio": null,
+    "sinalizacao": null
+  },
+  "o_que_levar": [
+    "óculos de sol",
+    "água"
+  ],
+  "cuidados": [
+    "Não deixar nada à vista no carro",
+    "No feriado o parque enche: estacionar e ir direto à estufa"
+  ],
+  "clima": {
+    "sensivel_a": [
+      "chuva"
+    ],
+    "plano_b": "Com chuva, ficar só no Mercado Municipal, que é coberto"
+  },
+  "publico": "Turistas e famílias; parada rápida de viagem",
+  "combina_com": [],
+  "encaixe": [
+    "viagem-de-carro"
+  ],
+  "fotos": [
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/2/2f/Estufa_principal_do_Jardim_Bot%C3%A2nico_de_Curitiba_02.jpg",
+      "pagina": "https://commons.wikimedia.org/wiki/File:Estufa_principal_do_Jardim_Bot%C3%A2nico_de_Curitiba_02.jpg",
+      "autor": "Rodrigo.Argenton",
+      "licenca": "CC BY-SA 4.0"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/9/93/Jardim_Bot%C3%A2nico_de_Curitiba_2323_02.jpg",
+      "pagina": "https://commons.wikimedia.org/wiki/File:Jardim_Bot%C3%A2nico_de_Curitiba_2323_02.jpg",
+      "autor": "Wilfredor",
+      "licenca": "CC0"
+    }
+  ],
+  "dicas": [
+    "Se o grupo já estiver atrasado, pular: o Mercado já vale a parada em Curitiba"
+  ],
+  "fontes": [
+    "https://www.curitiba.pr.gov.br/noticias/cupula-do-jardim-botanico-passa-por-limpeza-geral-dos-vidros-e-servicos-de-manutencao/82517",
+    "https://www.curitiba.pr.gov.br/noticias/saiba-como-vao-funcionar-os-servicos-da-prefeitura-de-curitiba-no-feriado-de-nossa-senhora-aparecida/85290"
+  ],
+  "verificado_em": "2026-11-17",
+  "confianca": "média",
+  "pendencias": [
+    "Horário no feriado de 20/11/2026"
+  ],
+  "google_consulta": "Jardim Botânico Fanchette Rischbieter Curitiba"
+}

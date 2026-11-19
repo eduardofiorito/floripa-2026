@@ -1,0 +1,54 @@
+{
+  "id": "o-araca-botequim",
+  "nome": "O Araçá Botequim",
+  "categoria": "noite",
+  "regiao": "leste-lagoa",
+  "resumo": "Boteco da Lagoa com roda de samba aos domingos, a uns 600 m da casa. Plano de domingo sem fantasia e sem pegar carro.",
+  "destaques": [
+    "Roda de samba aos domingos (guia de 2025; confirmar a programação de 22/11 no Instagram)",
+    "Aberto domingo das 12h à 0h, segundo o Google",
+    "Dá para ir a pé da casa"
+  ],
+  "endereco": "R. Manoel Severino de Oliveira, 19, Lagoa da Conceição",
+  "links": {
+    "instagram": "https://www.instagram.com/oaracabotequim"
+  },
+  "da_lagoa": {
+    "tempo_min": 2,
+    "km": 0.6,
+    "obs": "a pé, uns 8 min"
+  },
+  "horarios": "Domingo 12h–0h (Google, nov/2026)",
+  "precos": null,
+  "publico": "Moradores e turistas, samba e pagode",
+  "duracao": "tarde ou noite",
+  "cuidados": [
+    "Confirmar no Instagram se a roda acontece em 22/11 e a que horas"
+  ],
+  "clima": {
+    "sensivel_a": [],
+    "plano_b": "Bar coberto"
+  },
+  "fontes": [
+    "https://ndmais.com.br/turismo/11-lugares-para-curtir-roda-de-samba-em-florianopolis/",
+    "https://floripa.com/o-que-fazer/guia-para-curtir-samba-pagode-e-chorinho-em-floripa/"
+  ],
+  "coords": {
+    "lat": -27.6046654,
+    "lng": -48.4672715,
+    "fonte": "OSM Nominatim",
+    "ponto": "endereço"
+  },
+  "estacionamento": null,
+  "melhor_horario": null,
+  "trilha": null,
+  "o_que_levar": [],
+  "combina_com": [],
+  "dicas": [],
+  "pendencias": [
+    "Programação de 22/11"
+  ],
+  "verificado_em": "2026-11-17",
+  "confianca": "media",
+  "fotos": []
+}

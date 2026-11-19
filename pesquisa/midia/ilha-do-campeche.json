@@ -1,0 +1,89 @@
+{
+  "id": "ilha-do-campeche",
+  "videos": [
+    {
+      "titulo": "PARAÍSO MISTERIOSO: A Ilha do Campeche e o Homem de Sambaqui | Florianópolis / SC",
+      "canal": "Aliens Viajantes - Bia e Vitor",
+      "url": "https://www.youtube.com/watch?v=BxFqjGU3qSI",
+      "plataforma": "youtube",
+      "publicado": "2025-02-01",
+      "duracao": "20:51",
+      "mostra": "Visita à Ilha do Campeche e à sua história arqueológica",
+      "melhor_trecho": null
+    },
+    {
+      "titulo": "ILHA DO CAMPECHE - o que você PRECISA saber pra NÃO errar no CARIBE de Florianópolis",
+      "canal": "Beatriz Fontana",
+      "url": "https://www.youtube.com/watch?v=txdlG5qX-3c",
+      "plataforma": "youtube",
+      "publicado": "2024-10-04",
+      "duracao": "5:45",
+      "mostra": "O que saber antes de ir à Ilha do Campeche",
+      "melhor_trecho": null
+    },
+    {
+      "titulo": "Te llevamos al CARIBE de Brasil en Florianopolis | Isla de Campeche",
+      "canal": "Churiel",
+      "url": "https://www.youtube.com/watch?v=vt_wvozbnw0",
+      "plataforma": "youtube",
+      "publicado": "2024-03-09",
+      "duracao": "11:08",
+      "mostra": "Dia na Ilha do Campeche (em espanhol)",
+      "melhor_trecho": null
+    }
+  ],
+  "instagram": [
+    {
+      "tipo": "perfil",
+      "url": "https://www.instagram.com/patrimonioilhadocampeche/",
+      "nota": "Perfil que se apresenta como oficial do patrimônio da Ilha do Campeche, com avisos diários de visitação: útil para saber se a ilha abriu no dia"
+    },
+    {
+      "tipo": "perfil",
+      "url": "https://www.instagram.com/lagomarcampeche/",
+      "nota": "Lagomar Passeios Marítimos: fotos da travessia e da água transparente"
+    },
+    {
+      "tipo": "perfil",
+      "url": "https://www.instagram.com/zizi_tour/",
+      "nota": "Zizi Tour Ilha do Campeche: outra operadora, posts da praia e do mergulho"
+    }
+  ],
+  "fotos_commons_recentes": [
+    {
+      "pagina": "https://commons.wikimedia.org/wiki/File:IlhaCampeche.jpg",
+      "arquivo_url": "https://upload.wikimedia.org/wikipedia/commons/4/4a/IlhaCampeche.jpg",
+      "data": "2020-10-31",
+      "autor": "Mariane C Galvao",
+      "licenca": "CC BY-SA 4.0",
+      "mostra": "Ilha do Campeche no horizonte vista de um costão da Ilha, com ondas quebrando nas pedras",
+      "arq": "img/recentes/ilha-do-campeche-1.jpg"
+    },
+    {
+      "pagina": "https://commons.wikimedia.org/wiki/File:IlhaCampecheFloripa.jpg",
+      "arquivo_url": "https://upload.wikimedia.org/wikipedia/commons/4/40/IlhaCampecheFloripa.jpg",
+      "data": "2020-10-31",
+      "autor": "Mariane C Galvao",
+      "licenca": "CC BY-SA 4.0",
+      "mostra": "Ilha do Campeche vista da costa (panorâmica, mesmo autor e dia)",
+      "arq": "img/recentes/ilha-do-campeche-2.jpg"
+    }
+  ],
+  "pontos_de_vista": [
+    "Chegada de barco na praia de desembarque: água azul-turquesa e areia branca, o 'Caribe catarinense'",
+    "Trilha guiada até as gravuras rupestres, no costão: o mar aberto e a costa da Ilha de Santa Catarina",
+    "Da Praia do Campeche, em frente: a ilha inteira no horizonte, com o sol nascendo atrás"
+  ],
+  "vibe": "Ilha tombada pelo IPHAN com a água mais clara de Floripa; exige autorização online da Prefeitura e barco credenciado, 4 h por visita. Fim de novembro é baixa temporada: barco mais barato e ilha vazia, mas fecha com mar agitado.",
+  "fontes": [
+    "https://www.youtube.com/watch?v=BxFqjGU3qSI",
+    "https://www.youtube.com/watch?v=txdlG5qX-3c",
+    "https://www.youtube.com/watch?v=vt_wvozbnw0",
+    "https://www.instagram.com/patrimonioilhadocampeche/",
+    "https://www.instagram.com/lagomarcampeche/",
+    "https://www.instagram.com/zizi_tour/",
+    "https://commons.wikimedia.org/wiki/File:IlhaCampeche.jpg",
+    "https://commons.wikimedia.org/wiki/File:IlhaCampecheFloripa.jpg"
+  ],
+  "verificado_em": "2026-11-17"
+}

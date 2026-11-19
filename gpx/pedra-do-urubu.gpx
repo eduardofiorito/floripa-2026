@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="floripa-roteiro" xmlns="http://www.topografix.com/GPX/1/1">
+<metadata><name>Pedra do Urubu (Guarda do Embaú)</name><desc>Rota calculada sobre caminhos do OpenStreetMap (© colaboradores do OpenStreetMap, ODbL). É uma estimativa: confira no local.</desc><time>2026-11-17T00:00:00Z</time></metadata>
+<wpt lat="-27.903330" lon="-48.589770"><name>Início</name></wpt>
+<wpt lat="-27.901350" lon="-48.587050"><name>Chegada</name></wpt>
+<trk><name>Pedra do Urubu (Guarda do Embaú)</name><trkseg>
+<trkpt lat="-27.903401" lon="-48.589509"/>
+<trkpt lat="-27.903257" lon="-48.588995"/>
+<trkpt lat="-27.903009" lon="-48.588722"/>
+<trkpt lat="-27.902997" lon="-48.588446"/>
+<trkpt lat="-27.902954" lon="-48.588463"/>
+<trkpt lat="-27.902917" lon="-48.588470"/>
+<trkpt lat="-27.902781" lon="-48.588591"/>
+<trkpt lat="-27.902708" lon="-48.588649"/>
+<trkpt lat="-27.902607" lon="-48.588714"/>
+<trkpt lat="-27.902493" lon="-48.588777"/>
+<trkpt lat="-27.902413" lon="-48.588785"/>
+<trkpt lat="-27.902339" lon="-48.588770"/>
+<trkpt lat="-27.902276" lon="-48.588723"/>
+<trkpt lat="-27.902213" lon="-48.588652"/>
+<trkpt lat="-27.902112" lon="-48.588415"/>
+<trkpt lat="-27.902056" lon="-48.588365"/>
+<trkpt lat="-27.901993" lon="-48.588314"/>
+<trkpt lat="-27.901921" lon="-48.588294"/>
+<trkpt lat="-27.901813" lon="-48.588256"/>
+<trkpt lat="-27.901675" lon="-48.588238"/>
+<trkpt lat="-27.901476" lon="-48.588206"/>
+<trkpt lat="-27.901393" lon="-48.588187"/>
+<trkpt lat="-27.901314" lon="-48.588159"/>
+<trkpt lat="-27.901226" lon="-48.588122"/>
+<trkpt lat="-27.901096" lon="-48.588020"/>
+<trkpt lat="-27.900925" lon="-48.587878"/>
+<trkpt lat="-27.900925" lon="-48.587811"/>
+<trkpt lat="-27.900956" lon="-48.587740"/>
+<trkpt lat="-27.901112" lon="-48.587260"/>
+<trkpt lat="-27.901234" lon="-48.587007"/>
+<trkpt lat="-27.901306" lon="-48.586922"/>
+</trkseg></trk>
+</gpx>

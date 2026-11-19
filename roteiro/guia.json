@@ -1,0 +1,702 @@
+{
+  "hospedagem": [
+    {
+      "nome": "Casa da Lagoa",
+      "bairro": "Lagoa da Conceição, a ~100 m do Centrinho",
+      "noites": "sex 20 → sáb 28",
+      "checkin": "sex 20, depois das 15h",
+      "checkout": "sáb 28, até 11h",
+      "nota": "Endereço e código de entrada no app do Airbnb e no grupo do WhatsApp. Não ficam nesta página."
+    },
+    {
+      "nome": "Apê do continente",
+      "bairro": "Coqueiros, a ~3 km da largada da SC21K",
+      "noites": "sáb 28 → dom 29",
+      "checkin": "sáb 28, a partir das 14h",
+      "checkout": "dom 29, até 12h",
+      "nota": "Endereço no app do Airbnb e no grupo. Jantar de massa perto do apê: Cantina Petrus ou Salumeria San Michele."
+    }
+  ],
+  "emergencia": [
+    {
+      "t": "SAMU",
+      "n": "192",
+      "d": "Ambulância"
+    },
+    {
+      "t": "Bombeiros",
+      "n": "193",
+      "d": "Resgate no mar, afogamento e acidente em trilha"
+    },
+    {
+      "t": "Polícia Militar",
+      "n": "190",
+      "d": "Assalto, briga, emergência policial"
+    },
+    {
+      "t": "Defesa Civil",
+      "n": "199",
+      "d": "Temporal, alagamento, deslizamento"
+    }
+  ],
+  "saude": [
+    {
+      "t": "Baía Sul Hospital",
+      "d": "Particular, pronto-socorro 24 h. Centro, ~8 km da Lagoa. Nota 4,4 no Google.",
+      "q": "Baía Sul Hospital Florianópolis"
+    },
+    {
+      "t": "Imperial Hospital de Caridade",
+      "d": "Pronto-socorro 24 h. Centro, ~8 km da Lagoa.",
+      "q": "Imperial Hospital de Caridade Florianópolis"
+    },
+    {
+      "t": "UPA Continente",
+      "d": "Pública, 24 h. ~4 km do apê do continente (noite da prova).",
+      "q": "UPA Continente Florianópolis"
+    },
+    {
+      "t": "UPA Norte da Ilha",
+      "d": "Pública, 24 h. Vargem Grande, perto do kart nos Ingleses.",
+      "q": "UPA Norte da Ilha Florianópolis"
+    }
+  ],
+  "farmacia": [
+    {
+      "t": "Farmácia Kefarma",
+      "d": "Centrinho da Lagoa, 7h–0h. A ~200 m da casa.",
+      "q": "Farmácia Kefarma Lagoa da Conceição"
+    },
+    {
+      "t": "Droga Raia Lagoa",
+      "d": "Av. Afonso Delambert Neto, 7h–23h.",
+      "q": "Droga Raia Lagoa da Conceição"
+    },
+    {
+      "t": "Biopharma Farmácia 24h",
+      "d": "Trindade, 24 h. ~5 km da Lagoa.",
+      "q": "Biopharma Farmácia 24h Trindade Florianópolis"
+    },
+    {
+      "t": "Farmácia Saúde Vital",
+      "d": "Coqueiros, 24 h. Perto do apê do continente.",
+      "q": "Farmácia Saúde Vital Coqueiros Florianópolis"
+    }
+  ],
+  "servicos": [
+    {
+      "t": "Supermercado Chico",
+      "d": "Centrinho da Lagoa, 6h40–23h.",
+      "q": "Supermercado Chico Lagoa da Conceição"
+    },
+    {
+      "t": "Posto Galo Centrinho",
+      "d": "Combustível 24 h, no Centrinho.",
+      "q": "Posto Galo Centrinho Lagoa da Conceição"
+    },
+    {
+      "t": "Lavanderia BeeLav",
+      "d": "Autosserviço 24 h, Av. Afonso Delambert Neto.",
+      "q": "BeeLav Lavanderia Lagoa da Conceição"
+    }
+  ],
+  "tempo": [
+    {
+      "t": "Previsão Ciram/Epagri (15 dias)",
+      "u": "https://ciram.epagri.sc.gov.br/index.php/previsao-municipio-15-dias/"
+    },
+    {
+      "t": "Windy: vento e chuva no mapa",
+      "u": "https://www.windy.com/-27.603/-48.467?-27.70,-48.47,10"
+    },
+    {
+      "t": "Tábua de marés de Florianópolis",
+      "u": "https://tabuademares.com/br/santa-catarina/florianopolis"
+    },
+    {
+      "t": "Tábuas de maré da Marinha (oficial)",
+      "u": "https://www.marinha.mil.br/chm/tabuas-de-mare"
+    },
+    {
+      "t": "Climatempo: Florianópolis",
+      "u": "https://www.climatempo.com.br/previsao-do-tempo/15-dias/cidade/377/florianopolis-sc"
+    }
+  ],
+  "malas": [
+    {
+      "g": "Documentos",
+      "itens": [
+        "RG ou CNH (as baladas são 18+ e pedem documento original)",
+        "CNH e CRLV de quem dirige",
+        "Comprovante de inscrição da SC21K no celular",
+        "Carteirinha do plano de saúde",
+        "App do Wellhub com o plano ativo"
+      ]
+    },
+    {
+      "g": "Praia",
+      "itens": [
+        "Protetor solar e labial",
+        "Toalha e canga",
+        "Chinelo e roupa de banho",
+        "Garrafa de água",
+        "Corta-vento (vento sul gela no fim da tarde)",
+        "Guarda-chuva pequeno ou capa de chuva (fim de semana com risco alto)",
+        "Casaco leve (à noite esfria e venta)",
+        "Repelente"
+      ]
+    },
+    {
+      "g": "Trilha",
+      "itens": [
+        "Tênis com sola boa (nada de chinelo)",
+        "Lanterna de cabeça (Gravatá de madrugada)",
+        "Mochila pequena, 1,5 L de água por pessoa e lanche",
+        "Saco para trazer o lixo",
+        "GPX e mapa offline baixados no wi-fi"
+      ]
+    },
+    {
+      "g": "Noite",
+      "itens": [
+        "Roupa para P12 e balada",
+        "Carregador portátil",
+        "Muda de roupa para depois do kart (terça)",
+        "Calça comprida e camisa manga longa para o kart (ou macacão R$ 20)"
+      ]
+    },
+    {
+      "g": "SC21K",
+      "itens": [
+        "1 kg de alimento não perecível por corredor (kit)",
+        "Roupa e tênis de prova, meia de corrida",
+        "Capa descartável ou saco de lixo se chover",
+        "Roupa seca e toalha para depois",
+        "Gel ou lanche pré-prova"
+      ]
+    },
+    {
+      "g": "Casa e trabalho",
+      "itens": [
+        "Notebook e carregador",
+        "Fone com microfone",
+        "Adaptador de tomada e extensão"
+      ]
+    }
+  ],
+  "sc21k": [
+    "Retirada do kit: sábado 28, das 9h às 19h, na arena (Beira-Mar Continental). Voucher no celular, documento e 1 kg de alimento por corredor.",
+    "Chip no dia só das 4h30 às 5h. Melhor retirar tudo no sábado.",
+    "Largada: 21K e 15K às 5h31 (elite 5h30); 5K às 6h.",
+    "Do apê do continente: 3,7 km e ~5 min de carro, ou 3,2 km a pé (~42 min). Sair às 4h45 e estacionar nas ruas do Balneário Estreito.",
+    "Com chuva a prova acontece: capa descartável até a largada, roupa seca no carro."
+  ],
+  "dinheiro": [
+    {
+      "t": "Combustível ida e volta",
+      "v": "~R$ 260",
+      "d": "~1.900 km a 11 km/l e R$ 6,30/l, dividido por 4",
+      "min": 240,
+      "max": 280
+    },
+    {
+      "t": "Pedágios ida e volta",
+      "v": "R$ 40–60",
+      "d": "SP-340, Bandeirantes, Régis e BR-376/101, dividido por 4. Estimativa: o Waze mostra o valor na rota",
+      "min": 40,
+      "max": 60
+    },
+    {
+      "t": "Mercado da semana",
+      "v": "R$ 250–350",
+      "d": "A lista do Guia › Mercado, dividida por 4",
+      "min": 250,
+      "max": 350
+    },
+    {
+      "t": "Comer fora",
+      "v": "R$ 700–1.000",
+      "d": "Almoços de fim de semana, estrada e ~7 jantares, a R$ 70–110 por refeição",
+      "min": 700,
+      "max": 1000
+    },
+    {
+      "t": "Pátio P12 Sunset",
+      "v": "R$ 33,60",
+      "d": "Pista, com taxa",
+      "min": 34,
+      "max": 34
+    },
+    {
+      "t": "Kart nos Ingleses",
+      "v": "R$ 130–170",
+      "d": "Por pessoa: 15 min R$ 130 ou 20 min R$ 150 no Pix/dinheiro (cartão +R$ 20); macacão R$ 20 se precisar",
+      "min": 130,
+      "max": 190
+    },
+    {
+      "t": "Uber terça (Lagoa ↔ Ingleses)",
+      "v": "R$ 30–45",
+      "d": "Ida e volta, dividido por 4",
+      "min": 30,
+      "max": 45
+    },
+    {
+      "t": "Uber quarta (Lagoa ↔ Santo Antônio)",
+      "v": "R$ 25–30",
+      "d": "Ida e volta, dividido por 4",
+      "min": 25,
+      "max": 30
+    },
+    {
+      "t": "Baladas, bares e Uber da noite",
+      "v": "R$ 150–300",
+      "d": "Entradas (DeRaiz R$ 15) e consumo de 3 a 4 noites",
+      "min": 150,
+      "max": 300
+    },
+    {
+      "t": "Sandboard",
+      "v": "R$ 25–50",
+      "d": "R$ 50/h por prancha (abril/2026), dividindo prancha",
+      "min": 25,
+      "max": 50
+    },
+    {
+      "t": "Academia",
+      "v": "R$ 0",
+      "d": "Pelo Wellhub de cada um",
+      "min": 0,
+      "max": 0
+    }
+  ],
+  "rachar": [
+    {
+      "t": "Splitwise",
+      "u": "https://www.splitwise.com"
+    },
+    {
+      "t": "Tricount",
+      "u": "https://www.tricount.com"
+    }
+  ],
+  "regras": [
+    {
+      "i": "car",
+      "t": "Transporte",
+      "d": "Trilha, praia, kart e passeio no carro do grupo, com motorista da vez sem beber. P12 também de carro, com motorista da vez no zero. Uber só com bebida: Festa Campeira, balbúrdia e jantares de terça e quarta."
+    },
+    {
+      "i": "rain",
+      "t": "Chuva",
+      "d": "Com raio, nada de trilha, duna, praia ou barco. Todo dia tem plano de chuva: troque no botão do topo."
+    },
+    {
+      "i": "run",
+      "t": "Corrida",
+      "d": "Sábado 28 é leve: sem academia, sem trilha pesada e pouca bebida."
+    },
+    {
+      "i": "briefcase",
+      "t": "Expediente",
+      "d": "Seg e sex 9h–18h; ter, qua e qui 8h–17h. Silêncio nas calls."
+    },
+    {
+      "i": "mountain",
+      "t": "Trilha",
+      "d": "Ninguém entra sozinho, avisa no grupo a hora de volta e traz o lixo de volta."
+    }
+  ],
+  "mercado": {
+    "intro": "Lista sugerida para 4 pessoas, de sexta 20 a sábado 28 de manhã, com onde comprar cada grupo e o custo aproximado total (dividir por 4). Toque no item: 1º toque = eu pego; 2º = comprado; 3º = limpa.",
+    "onde": [
+      {
+        "t": "Hiper Select Lagoa",
+        "d": "O principal: o maior da Lagoa, a 2 min da casa. Sexta 7h–22h. Ir logo depois do check-in.",
+        "q": "Hiper Select Supermercados Lagoa da Conceição"
+      },
+      {
+        "t": "Atacadão JK (Capoeiras)",
+        "d": "Água e cerveja em fardo, ainda no continente, antes da ponte (+5 min). 7h–22h.",
+        "q": "Atacadão Florianópolis JK Capoeiras"
+      },
+      {
+        "t": "Angeloni Santa Mônica",
+        "d": "Opcional, se preferirem comprar no caminho antes de chegar (+2 min na rota).",
+        "q": "Angeloni Supermercado Santa Monica Florianópolis"
+      },
+      {
+        "t": "Supermercado Chico",
+        "d": "No Centrinho, a pé, 6h40–23h. Pão fresco e o que faltar.",
+        "q": "Supermercado Chico Lagoa da Conceição"
+      },
+      {
+        "t": "Feira livre da Praça Bento Silvério",
+        "d": "Frutas e verduras na quarta 25 e no sábado 28, 6h–12h.",
+        "q": "Praça Bento Silvério Lagoa da Conceição"
+      }
+    ],
+    "grupos": [
+      {
+        "g": "Café da manhã (8 dias)",
+        "itens": [
+          {
+            "id": "cafe-0",
+            "t": "Café em pó",
+            "q": "1 kg"
+          },
+          {
+            "id": "cafe-1",
+            "t": "Leite",
+            "q": "8 L"
+          },
+          {
+            "id": "cafe-2",
+            "t": "Pão de forma",
+            "q": "4 pacotes (pão fresco no Chico)"
+          },
+          {
+            "id": "cafe-3",
+            "t": "Manteiga",
+            "q": "2 potes"
+          },
+          {
+            "id": "cafe-4",
+            "t": "Queijo e presunto",
+            "q": "1 kg, comprar em 2 vezes"
+          },
+          {
+            "id": "cafe-5",
+            "t": "Ovos",
+            "q": "30"
+          },
+          {
+            "id": "cafe-6",
+            "t": "Frutas: banana, mamão, maçã",
+            "q": "para a semana"
+          },
+          {
+            "id": "cafe-7",
+            "t": "Iogurte ou granola",
+            "q": "8 + 1 pacote"
+          },
+          {
+            "id": "cafe-8",
+            "t": "Suco ou achocolatado",
+            "q": "4 L"
+          }
+        ],
+        "onde": "sexta, Hiper Select Lagoa",
+        "custo": "~R$ 350"
+      },
+      {
+        "g": "Marmitas da semana (cozinhar dom e qua)",
+        "itens": [
+          {
+            "id": "marm-0",
+            "t": "Arroz",
+            "q": "5 kg"
+          },
+          {
+            "id": "marm-1",
+            "t": "Feijão",
+            "q": "2 kg ou 4 latas"
+          },
+          {
+            "id": "marm-2",
+            "t": "Frango",
+            "q": "3 kg"
+          },
+          {
+            "id": "marm-3",
+            "t": "Carne moída",
+            "q": "2 kg"
+          },
+          {
+            "id": "marm-4",
+            "t": "Macarrão e molho",
+            "q": "2 kg + 4 molhos"
+          },
+          {
+            "id": "marm-5",
+            "t": "Legumes congelados",
+            "q": "4 pacotes"
+          },
+          {
+            "id": "marm-6",
+            "t": "Potes de marmita com tampa",
+            "q": "20"
+          },
+          {
+            "id": "marm-7",
+            "t": "Sal, óleo e temperos",
+            "q": "ver o que a casa tem"
+          }
+        ],
+        "onde": "sexta, Hiper Select Lagoa",
+        "custo": "~R$ 300"
+      },
+      {
+        "g": "Trilha e praia",
+        "itens": [
+          {
+            "id": "tri-0",
+            "t": "Água",
+            "q": "24 L (fardos)"
+          },
+          {
+            "id": "tri-1",
+            "t": "Barra de cereal",
+            "q": "24"
+          },
+          {
+            "id": "tri-2",
+            "t": "Castanhas ou amendoim",
+            "q": "4 pacotes"
+          },
+          {
+            "id": "tri-3",
+            "t": "Isotônico",
+            "q": "8"
+          },
+          {
+            "id": "tri-4",
+            "t": "Pão, queijo e peito de peru para sanduíche",
+            "q": "para 2 trilhas"
+          },
+          {
+            "id": "tri-5",
+            "t": "Sacos para o lixo da trilha",
+            "q": "1 rolo"
+          }
+        ],
+        "onde": "sexta, Atacadão ou Hiper Select Lagoa",
+        "custo": "~R$ 180"
+      },
+      {
+        "g": "Bebida",
+        "itens": [
+          {
+            "id": "beb-0",
+            "t": "Cerveja",
+            "q": "o grupo decide no WhatsApp"
+          },
+          {
+            "id": "beb-1",
+            "t": "Gelo",
+            "q": "2 sacos na sexta"
+          },
+          {
+            "id": "beb-2",
+            "t": "Refrigerante e água com gás",
+            "q": "6 L"
+          },
+          {
+            "id": "beb-3",
+            "t": "Água de coco",
+            "q": "para depois da trilha"
+          }
+        ],
+        "onde": "sexta, Atacadão",
+        "custo": "conforme o grupo"
+      },
+      {
+        "g": "Esquenta em casa",
+        "onde": "sexta, Atacadão ou Hiper Select Lagoa",
+        "custo": "conforme o grupo",
+        "itens": [
+          {
+            "id": "esq-0",
+            "t": "Gelo",
+            "q": "2 sacos por noite de esquenta"
+          },
+          {
+            "id": "esq-1",
+            "t": "Energético",
+            "q": "8 latas"
+          },
+          {
+            "id": "esq-2",
+            "t": "Limão",
+            "q": "1 kg"
+          },
+          {
+            "id": "esq-3",
+            "t": "Destilado do esquenta",
+            "q": "o grupo decide"
+          },
+          {
+            "id": "esq-4",
+            "t": "Copos descartáveis",
+            "q": "1 pacote"
+          },
+          {
+            "id": "esq-5",
+            "t": "Salgadinho e amendoim",
+            "q": "4 pacotes"
+          }
+        ]
+      },
+      {
+        "g": "Casa",
+        "itens": [
+          {
+            "id": "casa-0",
+            "t": "Papel higiênico",
+            "q": "12 rolos"
+          },
+          {
+            "id": "casa-1",
+            "t": "Detergente e esponja",
+            "q": "2 + 4"
+          },
+          {
+            "id": "casa-2",
+            "t": "Sacos de lixo",
+            "q": "1 pacote"
+          },
+          {
+            "id": "casa-3",
+            "t": "Papel toalha",
+            "q": "4 rolos"
+          },
+          {
+            "id": "casa-4",
+            "t": "Sabão de roupa",
+            "q": "1 (ou a lavanderia BeeLav)"
+          }
+        ],
+        "onde": "sexta, Hiper Select Lagoa",
+        "custo": "~R$ 80"
+      },
+      {
+        "g": "Véspera da prova (sáb 28)",
+        "itens": [
+          {
+            "id": "prova-0",
+            "t": "Massa para o jantar, se jantarem no apê",
+            "q": "1 kg"
+          },
+          {
+            "id": "prova-1",
+            "t": "Banana e pão para o café das 4h15",
+            "q": "1 dúzia + 1 pacote"
+          },
+          {
+            "id": "prova-2",
+            "t": "Gel ou mel",
+            "q": "por corredor"
+          }
+        ],
+        "onde": "sáb 28, mercado perto do apê",
+        "custo": "~R$ 60"
+      }
+    ],
+    "levar": {
+      "g": "Do grupo: quem leva de casa",
+      "itens": [
+        {
+          "id": "leva-0",
+          "t": "Caixa de som",
+          "q": ""
+        },
+        {
+          "id": "leva-1",
+          "t": "Cooler ou isopor",
+          "q": ""
+        },
+        {
+          "id": "leva-2",
+          "t": "Garrafa térmica de café",
+          "q": ""
+        },
+        {
+          "id": "leva-3",
+          "t": "Extensão e adaptador de tomada",
+          "q": ""
+        },
+        {
+          "id": "leva-4",
+          "t": "Guarda-chuva ou capa extra",
+          "q": "fim de semana com risco alto"
+        },
+        {
+          "id": "leva-5",
+          "t": "Kit de primeiros socorros",
+          "q": "curativo, analgésico, antialérgico"
+        },
+        {
+          "id": "leva-6",
+          "t": "Baralho ou jogo de tabuleiro",
+          "q": "noite de chuva"
+        },
+        {
+          "id": "leva-7",
+          "t": "Protetor solar grande",
+          "q": "dividir"
+        },
+        {
+          "id": "leva-8",
+          "t": "Repelente",
+          "q": "trilha e Lagoa ao entardecer"
+        }
+      ]
+    }
+  },
+  "dinheiro_nota": "Sem as duas hospedagens: o valor está no Airbnb e no grupo, não nesta página.",
+  "reservas": [
+    {
+      "t": "Casa da Lagoa (Airbnb)",
+      "quando": "check-in sex 20, depois das 15h",
+      "d": "Código e endereço no app e no grupo",
+      "pend": "res-lagoa"
+    },
+    {
+      "t": "Apê do continente (Airbnb)",
+      "quando": "check-in sáb 28, a partir das 14h",
+      "d": "Endereço no app e no grupo",
+      "pend": "res-continente"
+    },
+    {
+      "t": "SC21K: inscrição e kit",
+      "quando": "kit sáb 28, 9h–19h",
+      "d": "Voucher no celular, documento e 1 kg de alimento por corredor",
+      "pend": "res-sc21k",
+      "lugar": "sc21k-2026"
+    },
+    {
+      "t": "Pátio P12 Sunset",
+      "quando": "sáb 21, 16h–21h30",
+      "d": "Ingresso no Ingresse",
+      "pend": "p12",
+      "u": "https://p12.ingresse.com/"
+    },
+    {
+      "t": "Kart nos Ingleses",
+      "quando": "ter 24, 19h–19h30 (chegar 18h40)",
+      "d": "Confirmado. Sapato fechado, calça e manga longa (ou macacão R$ 20); Pix ou dinheiro é R$ 20 mais barato",
+      "pend": "kart",
+      "lugar": "kart-ingleses"
+    },
+    {
+      "t": "Mesa no Freguesia",
+      "quando": "qua 25, 18h20",
+      "d": "De frente para o mar, pelo WhatsApp do restaurante (na ficha de Santo Antônio)",
+      "pend": "freguesia",
+      "lugar": "santo-antonio-de-lisboa"
+    },
+    {
+      "t": "Escape room, se chover",
+      "quando": "sáb 21 ou dom 22",
+      "d": "Reservar na sexta à noite, olhando a previsão",
+      "pend": "res-escape"
+    },
+    {
+      "t": "Festa Campeira do Boni",
+      "quando": "dom 22",
+      "d": "Perguntar se dá para ir sem traje campeiro",
+      "pend": "campeira",
+      "u": "https://www.instagram.com/bardoboni/"
+    }
+  ]
+}

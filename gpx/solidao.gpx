@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="floripa-roteiro" xmlns="http://www.topografix.com/GPX/1/1">
+<metadata><name>Trilha da Cachoeira da Solidão</name><desc>Traçado do OpenStreetMap (© colaboradores do OpenStreetMap, ODbL). Pode estar incompleto ou fora de ordem: confira no local.</desc><time>2026-11-17T00:00:00Z</time></metadata>
+<wpt lat="-27.795059" lon="-48.535438"><name>Início provável</name></wpt>
+<trk><name>Trilha da Cachoeira da Solidão</name>
+<trkseg><trkpt lat="-27.795059" lon="-48.535438"/><trkpt lat="-27.794969" lon="-48.535771"/><trkpt lat="-27.794883" lon="-48.535959"/><trkpt lat="-27.794810" lon="-48.536127"/><trkpt lat="-27.794745" lon="-48.536338"/><trkpt lat="-27.794674" lon="-48.536645"/><trkpt lat="-27.794606" lon="-48.536922"/><trkpt lat="-27.794570" lon="-48.537083"/><trkpt lat="-27.794572" lon="-48.537236"/><trkpt lat="-27.794505" lon="-48.537520"/><trkpt lat="-27.794451" lon="-48.537587"/><trkpt lat="-27.794373" lon="-48.537678"/><trkpt lat="-27.794270" lon="-48.537824"/><trkpt lat="-27.794165" lon="-48.537987"/></trkseg>
+</trk>
+</gpx>

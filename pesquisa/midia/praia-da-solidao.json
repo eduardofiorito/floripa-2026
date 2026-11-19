@@ -1,0 +1,67 @@
+{
+  "id": "praia-da-solidao",
+  "videos": [
+    {
+      "titulo": "Cachoeira da Solidão - Florianópolis/SC",
+      "canal": "Caminhos_Encontros e Encantos",
+      "url": "https://www.youtube.com/watch?v=Qh1v0LvrAUo",
+      "plataforma": "youtube",
+      "publicado": "2025-02-23",
+      "duracao": "9:04",
+      "mostra": "Trilha e poço da Cachoeira da Solidão",
+      "melhor_trecho": null
+    },
+    {
+      "titulo": "Três praias incríveis no Sul da Ilha de Florianópolis.",
+      "canal": "Caminhos_Encontros e Encantos",
+      "url": "https://www.youtube.com/watch?v=Bm4arVNZYHY",
+      "plataforma": "youtube",
+      "publicado": "2025-03-02",
+      "duracao": "19:48",
+      "mostra": "Três praias do sul da Ilha (título; não conferido se a Solidão aparece)",
+      "melhor_trecho": null
+    },
+    {
+      "titulo": "Praia + Cachoeira SOLIDÃO em FLORIPA:  Sul da Ilha",
+      "canal": "Vai viajar Darly",
+      "url": "https://www.youtube.com/watch?v=z7NiCq_CKKw",
+      "plataforma": "youtube",
+      "publicado": "2023-01-21",
+      "duracao": "11:58",
+      "mostra": "Praia e Cachoeira da Solidão",
+      "melhor_trecho": null
+    }
+  ],
+  "instagram": [
+    {
+      "tipo": "perfil",
+      "url": "https://www.instagram.com/praiadasolidaofpolis/",
+      "nota": "Perfil sobre a Praia da Solidão: fotos da praia e do Rio das Pacas"
+    }
+  ],
+  "fotos_commons_recentes": [
+    {
+      "pagina": "https://commons.wikimedia.org/wiki/File:Praia_da_Solid%C3%A3o_(13950652887).jpg",
+      "arquivo_url": "https://upload.wikimedia.org/wikipedia/commons/1/15/Praia_da_Solid%C3%A3o_%2813950652887%29.jpg",
+      "data": "2014-04-26",
+      "autor": "Otávio Nogueira from Fortaleza, BR",
+      "licenca": "CC BY 2.0",
+      "mostra": "Praia da Solidão",
+      "arq": "img/recentes/praia-da-solidao-1.jpg"
+    }
+  ],
+  "pontos_de_vista": [
+    "Poço da Cachoeira da Solidão, poucos minutos depois da ponte do Rio das Pacas",
+    "Areia da Solidão olhando para o norte: Açores e Pântano do Sul formando uma faixa só",
+    "Início da trilha do Saquinho, no canto sul: vista do costão sobre a praia"
+  ],
+  "vibe": "Praia de ondas fortes no fim da estrada do sul, com cachoeira de poço gelado perto. Tranquila e pouco estruturada; boa para meio dia junto com o Arante.",
+  "fontes": [
+    "https://www.youtube.com/watch?v=Qh1v0LvrAUo",
+    "https://www.youtube.com/watch?v=Bm4arVNZYHY",
+    "https://www.youtube.com/watch?v=z7NiCq_CKKw",
+    "https://www.instagram.com/praiadasolidaofpolis/",
+    "https://commons.wikimedia.org/wiki/File:Praia_da_Solid%C3%A3o_(13950652887).jpg"
+  ],
+  "verificado_em": "2026-11-17"
+}

@@ -1,0 +1,72 @@
+{
+  "id": "boho-bar-pista",
+  "nome": "Bohô Bar & Pista",
+  "categoria": "noite",
+  "regiao": "centro",
+  "resumo": "Bar com pista no Centro de Florianópolis, perto da Praça XV. Opção de noite fora da Lagoa, de Uber.",
+  "destaques": [
+    "Bar e pista no mesmo lugar",
+    "Perto dos bares do Centro e da roda de samba"
+  ],
+  "coords": {
+    "lat": -27.5992791,
+    "lng": -48.5480676,
+    "fonte": "OSM Nominatim (building=yes)",
+    "ponto": "R. Victor Meirelles, 226, Centro, Florianópolis"
+  },
+  "endereco": "R. Victor Meirelles, 226, Centro, Florianópolis",
+  "links": {
+    "google_maps": null,
+    "waze": null,
+    "site": null,
+    "instagram": null,
+    "ingressos": null,
+    "reserva": null
+  },
+  "nota_google": null,
+  "outras_notas": [],
+  "da_lagoa": {
+    "tempo_min": 20,
+    "km": 12,
+    "obs": "De Uber pela SC-404 e Beira-Mar"
+  },
+  "estacionamento": "Ir de Uber ou a pé: noite com bebida",
+  "horarios": "segunda: Fechado; terça: Fechado; quarta: Fechado; quinta: 20:00 – 00:00; sexta: 20:00 – 02:00; sábado: 20:00 – 02:00; domingo: Fechado",
+  "precos": "Entrada varia",
+  "melhor_horario": "Depois das 23h",
+  "duracao": "a noite",
+  "trilha": {
+    "distancia_km": null,
+    "tempo_ida_min": null,
+    "desnivel_m": null,
+    "dificuldade": null,
+    "inicio": null,
+    "sinalizacao": null
+  },
+  "o_que_levar": [
+    "documento original (18+)"
+  ],
+  "cuidados": [
+    "Uber de ida e volta"
+  ],
+  "clima": {
+    "sensivel_a": [],
+    "plano_b": "Casa fechada"
+  },
+  "publico": "20–35",
+  "combina_com": [],
+  "encaixe": [
+    "noite"
+  ],
+  "fotos": [],
+  "dicas": [
+    "Combina com o samba do Centro na sexta"
+  ],
+  "fontes": [],
+  "verificado_em": "2026-11-17",
+  "confianca": "média",
+  "pendencias": [
+    "Programação da semana no Instagram da casa"
+  ],
+  "google_consulta": "Bohô Bar & Pista Florianópolis"
+}

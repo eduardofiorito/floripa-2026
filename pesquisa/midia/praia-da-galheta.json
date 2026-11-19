@@ -1,0 +1,91 @@
+{
+  "id": "praia-da-galheta",
+  "videos": [
+    {
+      "titulo": "O que está acontecendo na Praia da Galheta em Florianópolis?",
+      "canal": "Arthur e Lika na Viagem",
+      "url": "https://www.youtube.com/watch?v=ffKWVZcuvi8",
+      "plataforma": "youtube",
+      "publicado": "2025-02-27",
+      "duracao": "22:36",
+      "mostra": "Vlog na Praia da Galheta com a trilha a pé",
+      "melhor_trecho": null
+    },
+    {
+      "titulo": "Drone 4K - Praia da Galheta",
+      "canal": "Aldeia Radical",
+      "url": "https://www.youtube.com/watch?v=GORH5vNGtVo",
+      "plataforma": "youtube",
+      "publicado": "2023-01-12",
+      "duracao": "2:53",
+      "mostra": "Drone 4K da Praia da Galheta",
+      "melhor_trecho": null
+    },
+    {
+      "titulo": "DÓLMEN DA ORAÇÃO via PRAIA MOLE - GALHETA / UM dos LOCAIS mais MÍSTICOS de FLORIPA 🇧🇷",
+      "canal": "Além Da Trip",
+      "url": "https://www.youtube.com/watch?v=jLTEZqNEBv8",
+      "plataforma": "youtube",
+      "publicado": "2023-04-18",
+      "duracao": "10:59",
+      "mostra": "Trilha do Dólmen da Oração via Mole e Galheta, até o mirante",
+      "melhor_trecho": null
+    }
+  ],
+  "instagram": [],
+  "fotos_commons_recentes": [
+    {
+      "pagina": "https://commons.wikimedia.org/wiki/File:Monumento_Natural_Municipal_da_Galheta_-_Rosange_Sena_(_02)_jpg.jpg",
+      "arquivo_url": "https://upload.wikimedia.org/wikipedia/commons/2/22/Monumento_Natural_Municipal_da_Galheta_-_Rosange_Sena_%28_02%29_jpg.jpg",
+      "data": "2024",
+      "autor": "Rosange Sena",
+      "licenca": "CC BY-SA 4.0",
+      "mostra": "Galheta de cima: a faixa de areia branca vazia, a ponta de pedras e o mar azul, sem nenhuma construção",
+      "arq": "img/recentes/praia-da-galheta-1.jpg"
+    },
+    {
+      "pagina": "https://commons.wikimedia.org/wiki/File:Monumento_Natural_Municipal_da_Galheta.jpg",
+      "arquivo_url": "https://upload.wikimedia.org/wikipedia/commons/8/8e/Monumento_Natural_Municipal_da_Galheta.jpg",
+      "data": "2024-07-31",
+      "autor": "Rosange Sena",
+      "licenca": "CC BY-SA 4.0",
+      "mostra": "Do alto do morro do Monumento Natural da Galheta: o litoral leste com costões, praias desertas e mar aberto",
+      "arq": "img/recentes/praia-da-galheta-2.jpg"
+    },
+    {
+      "pagina": "https://commons.wikimedia.org/wiki/File:D%C3%B3lmen_da_Ora%C3%A7%C3%A3o.jpg",
+      "arquivo_url": "https://upload.wikimedia.org/wikipedia/commons/a/af/D%C3%B3lmen_da_Ora%C3%A7%C3%A3o.jpg",
+      "data": "2019-01-12",
+      "autor": "Samii.jpeg",
+      "licenca": "CC BY-SA 4.0",
+      "mostra": "Praia da Galheta vista do Campo Arqueoastronômico, na Trilha da Oração (Dólmen)",
+      "arq": "img/recentes/praia-da-galheta-3.jpg"
+    },
+    {
+      "pagina": "https://commons.wikimedia.org/wiki/File:Pedra_da_Boa_Vista.jpg",
+      "arquivo_url": "https://upload.wikimedia.org/wikipedia/commons/a/a5/Pedra_da_Boa_Vista.jpg",
+      "data": "2018-04-21",
+      "autor": "Samii.jpeg",
+      "licenca": "CC BY-SA 4.0",
+      "mostra": "Galheta e Praia Mole juntas, vistas da Pedra da Boa Vista",
+      "arq": "img/recentes/praia-da-galheta-4.jpg"
+    }
+  ],
+  "pontos_de_vista": [
+    "Alto da trilha que sai do canto norte da Praia Mole: a Galheta aparece inteira, sem nenhuma construção",
+    "Trilha do Dólmen da Oração (Campo Arqueoastronômico), no morro entre a Galheta e a Barra: a praia vista de cima, com o mar azul",
+    "Pedra da Boa Vista, na trilha para a Barra da Lagoa: Galheta e Mole juntas",
+    "Costões do canto sul, na chegada: prainhas de pedra e piscininhas"
+  ],
+  "vibe": "Praia selvagem dentro do Monumento Natural Municipal da Galheta, sem barraca nem banheiro, só a pé. Naturismo opcional e público discreto; em novembro, dia útil é quase vazia. Não fotografar pessoas.",
+  "fontes": [
+    "https://www.youtube.com/watch?v=ffKWVZcuvi8",
+    "https://www.youtube.com/watch?v=GORH5vNGtVo",
+    "https://www.youtube.com/watch?v=jLTEZqNEBv8",
+    "https://commons.wikimedia.org/wiki/File:Monumento_Natural_Municipal_da_Galheta_-_Rosange_Sena_(_02)_jpg.jpg",
+    "https://commons.wikimedia.org/wiki/File:Monumento_Natural_Municipal_da_Galheta.jpg",
+    "https://commons.wikimedia.org/wiki/File:D%C3%B3lmen_da_Ora%C3%A7%C3%A3o.jpg",
+    "https://commons.wikimedia.org/wiki/File:Pedra_da_Boa_Vista.jpg"
+  ],
+  "verificado_em": "2026-11-17"
+}

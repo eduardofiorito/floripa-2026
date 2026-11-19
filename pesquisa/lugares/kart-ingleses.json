@@ -46,8 +46,8 @@
     "obs": "OSRM dá 29 min sem trânsito, pela SC-406 (Rio Vermelho, Rod. João Gualberto Soares) e Estrada Anarolina. Numa terça às 17h40, conte de 40 a 50 min. A SC-406 costuma ser melhor que a SC-401 no fim da tarde. Saindo às 17h40, a chegada fica perto das 18h25: apertado para uma bateria às 18h30."
   },
   "estacionamento": "Os guias citam estacionamento próprio, sem custo informado.",
-  "horarios": "Não confirmados; as fontes divergem. Guia Mais Perto (nov/2025): terça a sexta, 14h às 22h; fins de semana e feriados, 10h às 23h. Planeta Brasileiro: terça a domingo, 8h às 16h e 16h às 22h. Buser: sábado e domingo, 16h às 22h. Segunda parece fechado em todas.",
-  "precos": "Estimativas: R$ 80 a 120 por bateria de 20 a 25 min, com capacete, balaclava e luvas (guia Mais Perto, nov/2025). Um evento de grupo no próprio kartódromo cobrou R$ 140 por pessoa por bateria de 20 min no kart rental de 12 HP e R$ 220 no kart com câmbio de 24 HP, pagos na pista (Luma, Founder Haus, sem data). Outro guia dá R$ 100 a 140 por bateria de grupo de 20 min.",
+  "horarios": "Terça a domingo, 16h–22h, só com horário agendado. Reserva do grupo: ter 24/11, 19h–19h30.",
+  "precos": "Por pessoa: 15 min R$ 150 no cartão ou R$ 130 no Pix/dinheiro; 20 min R$ 170 ou R$ 150; 35 min R$ 250 ou R$ 230. Macacão R$ 20.",
   "melhor_horario": "Ao anoitecer (sol se põe por volta das 18h50); a pista é iluminada.",
   "duracao": "Bateria de 20 a 25 min mais briefing e equipamento; conte de 1h a 1h15 no local.",
   "trilha": {
@@ -59,17 +59,15 @@
     "sinalizacao": null
   },
   "o_que_levar": [
-    "tênis fechado (obrigatório)",
-    "calça e camiseta",
-    "documento com foto",
-    "dinheiro ou Pix (pagamento na pista)",
-    "casaco leve para depois"
+    "Tênis ou sapato fechado",
+    "Calça comprida e camisa manga longa",
+    "Pix ou dinheiro (R$ 20 mais barato por pessoa)"
   ],
   "cuidados": [
-    "Não há confirmação pública de que a pista aluga kart avulso numa terça à noite: confirme antes de sair",
-    "Regras de idade e altura: um guia cita mínimo de 13 ou 14 anos e cerca de 1,50 m; adultos não têm problema",
-    "Com chuva a pista pode fechar ou trocar o horário",
-    "Campeonatos e escolinha (FAUESC) usam a pista em algumas datas; a 3ª etapa da Copa Ingleses é em 19/12/2026, fora da viagem"
+    "Sapato fechado obrigatório: sandália e chinelo não entram, e eles não fornecem calçado",
+    "Sem calça comprida e camisa manga longa, é preciso alugar macacão (R$ 20)",
+    "Altura mínima 1,55 m",
+    "Bateria fechada e classificação só com 10 pessoas do mesmo grupo; máximo de 10 por bateria"
   ],
   "clima": {
     "sensivel_a": [
@@ -107,12 +105,7 @@
   ],
   "verificado_em": "2026-11-16",
   "confianca": "baixa",
-  "pendencias": [
-    "CRÍTICO: confirmar se há kart de aluguel aberto ao público na terça 24/11 às 18h30, o preço por bateria e se fazem bateria só para 4 pessoas",
-    "Telefone e WhatsApp: as fontes divergem. Hagah dá (48) 9972-1230 e o Kart Directory (48) 99972-1230, que parece a mesma linha com o 9 na frente. Diretórios citam ainda (48) 99125-1188 e (48) 99608-1128. Não achei Instagram oficial; há uma página no Facebook (facebook.com/kartodromofkc)",
-    "Endereço exato da portaria (Estrada Anarolina Silveira Santos, 691 ou Rua Quadra H, 2)",
-    "Sem foto do kartódromo no Wikimedia Commons"
-  ],
+  "pendencias": [],
   "google": {
     "place_id": "ChIJSySDWyRCJ5URFYO9GZWdq5I",
     "consultado_em": "2026-11-16"

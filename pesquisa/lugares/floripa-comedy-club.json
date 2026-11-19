@@ -1,0 +1,53 @@
+{
+  "id": "floripa-comedy-club",
+  "nome": "Floripa Comedy Club",
+  "categoria": "noite",
+  "regiao": "norte",
+  "resumo": "Casa de stand-up no Saco Grande, a uns 25 min da Lagoa. Programação quase diária; plano B de chuva ou de domingo leve.",
+  "destaques": [
+    "Nota 4,8 no Google com mais de 3 mil avaliações",
+    "Domingo abre 19h–0h",
+    "Agenda de novembro com shows quase todo dia"
+  ],
+  "endereco": "Rod. José Carlos Daux, 5500, loja 18, Saco Grande",
+  "links": {
+    "site": "https://floripacomedyclub.com/agenda-shows"
+  },
+  "da_lagoa": {
+    "tempo_min": 25,
+    "km": 13,
+    "obs": "pela SC-401"
+  },
+  "horarios": "Domingo 19h–0h (Google)",
+  "precos": "Ver no site",
+  "publico": "Grupos e casais",
+  "duracao": "1h30",
+  "cuidados": [
+    "Conferir no site a sessão de 22/11 antes de sair"
+  ],
+  "clima": {
+    "sensivel_a": [],
+    "plano_b": "Coberto"
+  },
+  "fontes": [
+    "https://floripacomedyclub.com/agenda-shows"
+  ],
+  "coords": {
+    "lat": -27.5342791,
+    "lng": -48.509985,
+    "fonte": "OSM Nominatim",
+    "ponto": "endereço"
+  },
+  "estacionamento": null,
+  "melhor_horario": null,
+  "trilha": null,
+  "o_que_levar": [],
+  "combina_com": [],
+  "dicas": [],
+  "pendencias": [
+    "Programação de 22/11"
+  ],
+  "verificado_em": "2026-11-17",
+  "confianca": "media",
+  "fotos": []
+}

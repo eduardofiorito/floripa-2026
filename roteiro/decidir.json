@@ -1,0 +1,209 @@
+{
+  "praias": {
+    "titulo": "Qual praia?",
+    "itens": [
+      {
+        "id": "praia-mole",
+        "gancho": "A praia jovem do leste: surf, barracas e galera de 20 e poucos.",
+        "publico": "jovem, surf",
+        "mar": "ondas fortes",
+        "estrutura": "barracas, bares",
+        "hora": "manhã até o fim da tarde"
+      },
+      {
+        "id": "joaquina-e-dunas",
+        "gancho": "Pedras no canto esquerdo, mar de surf e duna para sandboard no pôr do sol.",
+        "publico": "surf, turistas",
+        "mar": "ondas fortes",
+        "estrutura": "bares, ducha, aluguel de prancha",
+        "hora": "fim da tarde (dunas)"
+      },
+      {
+        "id": "praia-da-galheta",
+        "gancho": "Deserta, sem construção, a 20 min a pé da Mole.",
+        "publico": "pouca gente, naturismo",
+        "mar": "ondas médias",
+        "estrutura": "nada",
+        "hora": "manhã"
+      },
+      {
+        "id": "piscinas-naturais-barra-da-lagoa",
+        "gancho": "Água parada entre as pedras do canal, com almoço de camarão do lado.",
+        "publico": "famílias, turistas",
+        "mar": "calmo na maré baixa",
+        "estrutura": "restaurantes na Barra",
+        "hora": "maré baixa"
+      },
+      {
+        "id": "praia-do-campeche",
+        "gancho": "Areia larga e mar azul de frente para a Ilha do Campeche.",
+        "publico": "moradores, surf",
+        "mar": "ondas médias",
+        "estrutura": "quiosques, Novo Campeche perto",
+        "hora": "manhã"
+      },
+      {
+        "id": "praia-do-matadeiro",
+        "gancho": "Prainha escondida a 20 min a pé da Armação, com rio e surf.",
+        "publico": "surf, mochileiros",
+        "mar": "ondas fortes",
+        "estrutura": "1 ou 2 bares",
+        "hora": "manhã"
+      },
+      {
+        "id": "lagoinha-do-leste",
+        "gancho": "Só se chega a pé: mar aberto de um lado, lagoa do outro.",
+        "publico": "quem faz trilha",
+        "mar": "ondas fortes",
+        "estrutura": "nada, levar tudo",
+        "hora": "dia inteiro"
+      }
+    ]
+  },
+  "por-do-sol": {
+    "titulo": "Onde ver o pôr do sol?",
+    "itens": [
+      {
+        "id": "joaquina-e-dunas",
+        "gancho": "Do alto da duna, com a Lagoa ao fundo.",
+        "publico": "galera do sandboard",
+        "mar": "—",
+        "estrutura": "nada na duna",
+        "hora": "17h30–18h50"
+      },
+      {
+        "id": "santo-antonio-de-lisboa",
+        "gancho": "O pôr do sol clássico, sobre a baía, com ostra na mesa.",
+        "publico": "casais, turistas",
+        "mar": "baía calma",
+        "estrutura": "restaurantes",
+        "hora": "18h20 em diante"
+      },
+      {
+        "id": "bar-do-boni",
+        "gancho": "Mesa na beira da Lagoa e música ao vivo depois.",
+        "publico": "20–40, grupos",
+        "mar": "lagoa",
+        "estrutura": "bar completo",
+        "hora": "17h30 em diante"
+      },
+      {
+        "id": "mirante-da-lagoa",
+        "gancho": "A Lagoa inteira de cima, a 5 min de casa.",
+        "publico": "rápido, de passagem",
+        "mar": "—",
+        "estrutura": "estacionamento",
+        "hora": "18h–19h"
+      },
+      {
+        "id": "avenida-das-rendeiras",
+        "gancho": "Caminhada na orla com o sol caindo atrás dos morros.",
+        "publico": "todo mundo",
+        "mar": "lagoa",
+        "estrutura": "restaurantes",
+        "hora": "18h–19h"
+      }
+    ]
+  },
+  "noite": {
+    "titulo": "Balbúrdia de hoje?",
+    "itens": [
+      {
+        "id": "p12-jurere",
+        "gancho": "Beach club de Jurerê: pagode e sertanejo no Pátio Sunset.",
+        "publico": "20–35, playboy",
+        "mar": "—",
+        "estrutura": "beach club",
+        "hora": "sáb 21, 16h–21h30"
+      },
+      {
+        "id": "espartano-lagoa",
+        "gancho": "A balada mais perto de casa, das 21h às 4h.",
+        "publico": "20–30",
+        "mar": "—",
+        "estrutura": "pista",
+        "hora": "sex e sáb"
+      },
+      {
+        "id": "bar-deraiz",
+        "gancho": "Pista alternativa e barata: funk, reggaeton e dub.",
+        "publico": "20–30, alternativo",
+        "mar": "—",
+        "estrutura": "pista",
+        "hora": "sex 27, 23h"
+      },
+      {
+        "id": "o-araca-botequim",
+        "gancho": "Roda de samba de domingo num boteco a 8 min a pé de casa.",
+        "publico": "20–40, samba",
+        "mar": "—",
+        "estrutura": "boteco",
+        "hora": "dom 22, tarde e noite"
+      },
+      {
+        "id": "bar-do-boni",
+        "gancho": "Começa no pôr do sol e vira noite com música ao vivo.",
+        "publico": "20–40",
+        "mar": "—",
+        "estrutura": "bar",
+        "hora": "qui 26 (pôr do sol); dom 22 é a Festa Campeira, com traje campeiro"
+      },
+      {
+        "id": "rufus",
+        "gancho": "Cerveja experimental a 9 min a pé: o esquenta oficial.",
+        "publico": "cervejeiros",
+        "mar": "—",
+        "estrutura": "bar",
+        "hora": "qualquer noite"
+      },
+      {
+        "id": "centro-noite",
+        "gancho": "Roda de samba e bares a pé no Centro.",
+        "publico": "samba, 20–40",
+        "mar": "—",
+        "estrutura": "vários bares",
+        "hora": "qui a sáb"
+      },
+      {
+        "id": "floripa-comedy-club",
+        "gancho": "Stand-up para noite de chuva ou de domingo sem balada.",
+        "publico": "grupos",
+        "mar": "—",
+        "estrutura": "casa de shows",
+        "hora": "quase todo dia"
+      },
+      {
+        "id": "john-bull-lagoa",
+        "gancho": "Banda ao vivo nas Rendeiras, a noite mais cheia da orla.",
+        "publico": "20–40, rock e pop",
+        "mar": "—",
+        "estrutura": "bar e palco",
+        "hora": "qui a sáb, 20h–2h"
+      },
+      {
+        "id": "santa-club-lagoa",
+        "gancho": "Balada nas Rendeiras que vai até de manhã.",
+        "publico": "20–30",
+        "mar": "—",
+        "estrutura": "pista",
+        "hora": "sáb 22h30–5h"
+      },
+      {
+        "id": "coffeeshop-floripa",
+        "gancho": "Casa noturna no Centrinho, ida e volta a pé.",
+        "publico": "20–30",
+        "mar": "—",
+        "estrutura": "pista",
+        "hora": "fim de semana, 22h–4h"
+      },
+      {
+        "id": "boho-bar-pista",
+        "gancho": "Bar com pista no Centro, nota alta, de Uber.",
+        "publico": "20–35",
+        "mar": "—",
+        "estrutura": "bar e pista",
+        "hora": "sáb 20h–2h"
+      }
+    ]
+  }
+}

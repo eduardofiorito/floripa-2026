@@ -1,0 +1,82 @@
+{
+  "id": "roda-gigante-bc",
+  "nome": "Roda gigante de Balneário Camboriú (FG Big Wheel)",
+  "categoria": "atividade",
+  "regiao": "estrada",
+  "cidade": "Balneário Camboriú",
+  "resumo": "Roda gigante no alto da Barra Norte, na Estrada da Rainha, com a orla inteira de BC lá embaixo. É a parada mais longa possível no caminho: compensa se o grupo topar chegar mais tarde na Lagoa.",
+  "destaques": [
+    "Vista da Praia Central e dos prédios de cima",
+    "Fica na saída para a Interpraias"
+  ],
+  "coords": {
+    "lat": -26.9714906,
+    "lng": -48.6313758,
+    "fonte": "OSM Nominatim (tourism=attraction)",
+    "ponto": "bilheteria na Estrada da Rainha"
+  },
+  "endereco": "Estrada da Rainha, Pioneiros, Balneário Camboriú (SC)",
+  "links": {
+    "google_maps": null,
+    "waze": "https://waze.com/ul?ll=-26.9714906,-48.6313758&navigate=yes",
+    "site": null,
+    "instagram": null,
+    "ingressos": null,
+    "reserva": null
+  },
+  "nota_google": null,
+  "outras_notas": [],
+  "da_lagoa": null,
+  "estrada": {
+    "trecho": "ida",
+    "quando": "sex 20, por volta das 16h",
+    "desvio": "+1h30 a 2h com a volta",
+    "rota": "sai da BR-101 pela Barra Norte"
+  },
+  "estacionamento": "Estacionamento no local",
+  "horarios": "9h–21h",
+  "precos": "Ingresso pago: ver o preço no site antes",
+  "melhor_horario": "Fim de tarde",
+  "duracao": "20–30 min de volta, mais a fila",
+  "trilha": {
+    "distancia_km": null,
+    "tempo_ida_min": null,
+    "desnivel_m": null,
+    "dificuldade": null,
+    "inicio": null,
+    "sinalizacao": null
+  },
+  "o_que_levar": [],
+  "cuidados": [
+    "No feriado a fila pode passar de 1h"
+  ],
+  "clima": {
+    "sensivel_a": [
+      "chuva",
+      "vento"
+    ],
+    "plano_b": "Com vento forte ela para"
+  },
+  "publico": "Turistas, casais",
+  "combina_com": [],
+  "encaixe": [
+    "viagem-de-carro"
+  ],
+  "fotos": [
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/1/13/Balne%C3%A1rio_Cambori%C3%BA_SC_Roda_Gigante.jpg",
+      "pagina": "https://commons.wikimedia.org/wiki/File:Balne%C3%A1rio_Cambori%C3%BA_SC_Roda_Gigante.jpg",
+      "autor": "Daniel Barreto",
+      "licenca": "CC BY-SA 4.0"
+    }
+  ],
+  "dicas": [],
+  "fontes": [],
+  "verificado_em": "2026-11-17",
+  "confianca": "média",
+  "pendencias": [
+    "Preço do ingresso",
+    "Fila no feriado"
+  ],
+  "google_consulta": "Roda Gigante Balneário Camboriú"
+}

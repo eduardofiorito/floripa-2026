@@ -1,0 +1,69 @@
+{
+  "id": "naufragados",
+  "videos": [
+    {
+      "titulo": "Tudo sobre a trilha para a PRAIA de NAUFRAGADOS em Florianópolis",
+      "canal": "Arthur e Lika na Viagem",
+      "url": "https://www.youtube.com/watch?v=Cji-HIKZjfI",
+      "plataforma": "youtube",
+      "publicado": "2025-05-08",
+      "duracao": "32:16",
+      "mostra": "Trilha completa para Naufragados, praia, farol e canhões (mai/2025)",
+      "melhor_trecho": null
+    },
+    {
+      "titulo": "A melhor trilha de Floripa! Naufragados! Florianópolis- SC",
+      "canal": "Kigoi Bike",
+      "url": "https://www.youtube.com/watch?v=jlJBk97QF4c",
+      "plataforma": "youtube",
+      "publicado": "2025-12-07",
+      "duracao": "15:15",
+      "mostra": "Trilha de Naufragados (dez/2025)",
+      "melhor_trecho": null
+    }
+  ],
+  "instagram": [],
+  "fotos_commons_recentes": [
+    {
+      "pagina": "https://commons.wikimedia.org/wiki/File:Barco_en_Naufragados_(24681081821).jpg",
+      "arquivo_url": "https://upload.wikimedia.org/wikipedia/commons/4/49/Barco_en_Naufragados_%2824681081821%29.jpg",
+      "data": "2016-01-28",
+      "autor": "Papa Pic from Eldorado, Argentina",
+      "licenca": "CC0",
+      "mostra": "Barco ancorado na Praia de Naufragados",
+      "arq": "img/recentes/naufragados-1.jpg"
+    },
+    {
+      "pagina": "https://commons.wikimedia.org/wiki/File:Farol_de_Naufragados,_2015.jpg",
+      "arquivo_url": "https://upload.wikimedia.org/wikipedia/commons/8/80/Farol_de_Naufragados%2C_2015.jpg",
+      "data": "2015-08-01",
+      "autor": "Pedro Soares de Oliveira Neto",
+      "licenca": "CC BY-SA 4.0",
+      "mostra": "Farol de Naufragados",
+      "arq": "img/recentes/naufragados-2.jpg"
+    },
+    {
+      "pagina": "https://commons.wikimedia.org/wiki/File:Naufragados,_Florian%C3%B3polis.jpg",
+      "arquivo_url": "https://upload.wikimedia.org/wikipedia/commons/4/46/Naufragados%2C_Florian%C3%B3polis.jpg",
+      "data": "2015-08-01",
+      "autor": "Pedro Soares de Oliveira Neto",
+      "licenca": "CC BY-SA 4.0",
+      "mostra": "Vista da Praia de Naufragados",
+      "arq": "img/recentes/naufragados-3.jpg"
+    }
+  ],
+  "pontos_de_vista": [
+    "Chegada na praia depois de ~50 min de mata: faixa de areia selvagem e mar de água gelada",
+    "Canto direito, junto ao Farol de Naufragados e aos canhões: a ponta sul da Ilha com o continente em frente",
+    "Dos canhões: a Fortaleza de Araçatuba na ilhota, do outro lado do canal"
+  ],
+  "vibe": "Praia selvagem na ponta sul, só por trilha (2,5–3 km) ou barco de pescador. Pouco movimento, quase nada de estrutura. Combina com almoço de ostras no Ribeirão. Água gelada mesmo no verão.",
+  "fontes": [
+    "https://www.youtube.com/watch?v=Cji-HIKZjfI",
+    "https://www.youtube.com/watch?v=jlJBk97QF4c",
+    "https://commons.wikimedia.org/wiki/File:Barco_en_Naufragados_(24681081821).jpg",
+    "https://commons.wikimedia.org/wiki/File:Farol_de_Naufragados,_2015.jpg",
+    "https://commons.wikimedia.org/wiki/File:Naufragados,_Florian%C3%B3polis.jpg"
+  ],
+  "verificado_em": "2026-11-17"
+}

@@ -1,14 +1,15 @@
 {
   "id": "ingleses-santinho-jantar",
-  "nome": "Jantar em Ingleses depois do kart (Guacamole, Koniko, Orlando)",
+  "nome": "Jantar nos Ingleses depois do kart",
   "categoria": "comida",
   "regiao": "norte",
-  "resumo": "Três opções bem avaliadas, perto do kartódromo, que abrem numa terça à noite ou provavelmente abrem. O mexicano Guacamole fica a 5 min da pista; o sushi Koniko e o Orlando, de frutos do mar, ficam na SC-406, no caminho de volta para a Lagoa. Atenção: o Aladym, o mais bem avaliado de Ingleses, fecha às terças.",
+  "resumo": "Opções perto do kartódromo que abrem numa terça à noite. O mexicano Arriba (no endereço do antigo Guacamole) fica a 5 min da pista; Seghetto e Cadiquim ficam nos Ingleses; o Koniko fica na SC-406, no caminho de volta. O Aladym e o Orlando fecham às terças.",
   "destaques": [
-    "Guacamole Taqueria Ingleses: mexicano, nota 4,9 com cerca de 230 avaliações no TripAdvisor; abre às 18h e fecha entre 0h e 1h",
     "Koniko Temakeria e Sushi Bar: japonês, nota 4,7 com cerca de 472 avaliações no TripAdvisor; terça a domingo, das 19h à meia-noite",
-    "Orlando Restaurante: frutos do mar, nota 4,7 com cerca de 40 avaliações no TripAdvisor; os pratos de camarão são elogiados; horário não confirmado",
-    "Descartados para terça: Aladym (fecha seg e ter), Via Santinho (só quinta a sábado), Porto 45 (fecha por volta das 20h30)"
+    "Descartados para terça: Aladym (fecha seg e ter), Via Santinho (só quinta a sábado), Porto 45 (fecha por volta das 20h30)",
+    "Arriba: mexicano na R. Intendente João Nunes Vieira, 801, o mesmo ponto do antigo Guacamole Taqueria",
+    "Camarão Chef Seghetto: frutos do mar nos Ingleses, aberto até 23h na terça",
+    "Cadiquim de Minas: comida mineira e petisco, até 23h30"
   ],
   "coords": {
     "lat": -27.4395346,
@@ -16,7 +17,7 @@
     "fonte": "OSM Nominatim",
     "ponto": "Rua Intendente João Nunes Vieira, perto da SC-403, rua do Guacamole; o número 801 não está no OSM, então o ponto é aproximado"
   },
-  "endereco": "Guacamole: R. Intendente João Nunes Vieira, 801, sala 01, Ingleses, CEP 88058-154. Koniko: Rod. João Gualberto Soares (SC-406), 874, Ingleses, CEP 88058-300. Orlando: Rod. João Gualberto Soares, 1592, Ingleses.",
+  "endereco": "Arriba: R. Intendente João Nunes Vieira, 801, Ingleses. Koniko: Rod. João Gualberto Soares (SC-406), 874, Ingleses.",
   "links": {
     "google_maps": "https://www.google.com/maps/search/?api=1&query=Guacamole+Taqueria+Ingleses+Florianopolis",
     "waze": "https://waze.com/ul?ll=-27.4395346,-48.4034783&navigate=yes",
@@ -52,7 +53,7 @@
     "obs": "Do kartódromo até o Guacamole são 4 km, cerca de 5 min. Da área de Ingleses de volta à Centrinho da Lagoa pela SC-406 são cerca de 24 km, 26 min sem trânsito; às 21h–22h de uma terça, a estrada costuma estar livre."
   },
   "estacionamento": "Na rua, em Ingleses; à noite, fora de temporada, costuma ter vaga. Não confirmado para cada restaurante.",
-  "horarios": "Guacamole: terça das 18h à 0h no TripAdvisor e todos os dias das 18h à 1h no site da rede. Koniko: terça a domingo, das 19h à 0h; um guia antigo diz terça das 9h às 17h, o que parece desatualizado. Orlando: sem horário publicado.",
+  "horarios": "Terça: Arriba até 0h; Koniko 19h–0h; Seghetto até 23h; Cadiquim até 23h30 (Google, 17/11).",
   "precos": "Faixa média ($$). Sem cardápio com preço confirmado.",
   "melhor_horario": "Das 19h45 às 21h30, logo depois do kart.",
   "duracao": "1h a 1h30",
@@ -99,13 +100,11 @@
     }
   ],
   "dicas": [
-    "Para jantar rápido e barato perto da pista, vá ao Guacamole. Para um jantar mais caprichado no caminho de volta, Koniko ou Orlando, que ficam na SC-406",
-    "O telefone do Guacamole Ingleses no TripAdvisor é +55 47 98486-5224. O Koniko lista +55 48 99157-0076 e (48) 3365-5149",
-    "As fotos são da Praia dos Ingleses; os restaurantes não têm foto no Commons"
+    "Para jantar rápido perto da pista, Arriba. Para frutos do mar, Seghetto. No caminho de volta, Koniko na SC-406",
+    "O Koniko lista +55 48 99157-0076 e (48) 3365-5149"
   ],
   "fontes": [
     "https://www.tripadvisor.com/RestaurantsNear-g303576-d554436-Praia_Dos_Ingleses-Florianopolis_State_of_Santa_Catarina.html",
-    "https://www.tripadvisor.com/Restaurant_Review-g303576-d25239259-Reviews-Guacamole_Taqueria_Ingleses-Florianopolis_State_of_Santa_Catarina.html",
     "https://wanderboat.ai/restaurants/brazil/regi%C3%A3o-geogr%C3%A1fica-imediata-de-florian%C3%B3polis/restaurante-guacamole-taqueria/QSAmFQ7ITqCqblBoubml0g",
     "https://www.tripadvisor.com/Restaurant_Review-g303576-d7781404-Reviews-Koniko-Florianopolis_State_of_Santa_Catarina.html",
     "https://wanderboat.ai/restaurants/brazil/regiao-geografica-imediata-de-florianopolis/koniko-temakeria-e-sushi-bar/fbZF8N51Tqy9EgIL6_WJjw",
@@ -118,8 +117,6 @@
   "verificado_em": "2026-11-16",
   "confianca": "media",
   "pendencias": [
-    "Confirmar se Guacamole e Koniko abrem na terça 24/11 (fora da temporada)",
-    "Horário do Orlando",
-    "Reserva para 4 pessoas por volta das 20h"
+    "Confirmar se Arriba e Koniko abrem na terça 24/11 (fora da temporada)"
   ]
 }

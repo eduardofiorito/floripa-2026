@@ -1,0 +1,90 @@
+{
+  "id": "morro-das-aranhas",
+  "videos": [
+    {
+      "titulo": "Trilha Morro das Aranhas FLORIANÓPOLIS",
+      "canal": "Estrada, Doce Lar",
+      "url": "https://www.youtube.com/watch?v=ofC4gWbvZm0",
+      "plataforma": "youtube",
+      "publicado": "2022-02-20",
+      "duracao": "11:58",
+      "mostra": "Trilha do Morro das Aranhas",
+      "melhor_trecho": null
+    },
+    {
+      "titulo": "Trilha Santinho - Morro Das Aranhas - Moçambique",
+      "canal": "Júlio Gomes Filho",
+      "url": "https://www.youtube.com/watch?v=lz6xGopI7SA",
+      "plataforma": "youtube",
+      "publicado": "2021-07-17",
+      "duracao": "9:42",
+      "mostra": "Travessia Santinho → Morro das Aranhas → Moçambique",
+      "melhor_trecho": null
+    },
+    {
+      "titulo": "Trilha do Morro das Aranhas, como é chegar e qual o nível de dificuldade",
+      "canal": "Eliabe Bonifácio",
+      "url": "https://www.youtube.com/watch?v=eqzzWXv_oK8",
+      "plataforma": "youtube",
+      "publicado": "2021-12-09",
+      "duracao": "13:58",
+      "mostra": "Como chegar e dificuldade da trilha",
+      "melhor_trecho": null
+    }
+  ],
+  "instagram": [],
+  "fotos_commons_recentes": [
+    {
+      "pagina": "https://commons.wikimedia.org/wiki/File:Morro_das_Aranhas.jpg",
+      "arquivo_url": "https://upload.wikimedia.org/wikipedia/commons/c/cc/Morro_das_Aranhas.jpg",
+      "data": "2015-06-04",
+      "autor": "Adriana Cigognini",
+      "licenca": "CC BY-SA 4.0",
+      "mostra": "Da trilha do Morro das Aranhas (Santinho–Moçambique): mar azul e as ilhas em frente, com cactos no costão",
+      "arq": "img/recentes/morro-das-aranhas-1.jpg"
+    },
+    {
+      "pagina": "https://commons.wikimedia.org/wiki/File:Reserva_Particular_do_Patrim%C3%B4nio_Natural_Morro_das_Aranhas_(01).jpg",
+      "arquivo_url": "https://upload.wikimedia.org/wikipedia/commons/8/8d/Reserva_Particular_do_Patrim%C3%B4nio_Natural_Morro_das_Aranhas_%2801%29.jpg",
+      "data": "2022-07-25",
+      "autor": "DouglasSchifter",
+      "licenca": "CC BY-SA 4.0",
+      "mostra": "Trilha na mata da RPPN Morro das Aranhas: caminho de terra sob túnel de árvores",
+      "arq": "img/recentes/morro-das-aranhas-2.jpg"
+    },
+    {
+      "pagina": "https://commons.wikimedia.org/wiki/File:Cost%C3%A3o_do_Santinho_-_Florian%C3%B3polis.jpg",
+      "arquivo_url": "https://upload.wikimedia.org/wikipedia/commons/7/7a/Cost%C3%A3o_do_Santinho_-_Florian%C3%B3polis.jpg",
+      "data": "2017-05-13",
+      "autor": "João Thiago da Silva",
+      "licenca": "CC BY-SA 4.0",
+      "mostra": "Panorâmica do Costão do Santinho, onde começa a trilha",
+      "arq": "img/recentes/morro-das-aranhas-3.jpg"
+    },
+    {
+      "pagina": "https://commons.wikimedia.org/wiki/File:DanielVianna_PraiadoSantinho_Florianopolis_SC_(41528377962).jpg",
+      "arquivo_url": "https://upload.wikimedia.org/wikipedia/commons/2/22/DanielVianna_PraiadoSantinho_Florianopolis_SC_%2841528377962%29.jpg",
+      "data": "2018-04-08",
+      "autor": "MTur Destinos",
+      "licenca": "Public domain",
+      "mostra": "Praia do Santinho (foto do Ministério do Turismo, abr/2018)",
+      "arq": "img/recentes/morro-das-aranhas-4.jpg"
+    }
+  ],
+  "pontos_de_vista": [
+    "Topo (~246 m): Santinho, Ingleses e as dunas de um lado, Moçambique do outro",
+    "Costão do Santinho, no começo da trilha: as inscrições rupestres junto ao mar",
+    "Descida para o Moçambique: a praia vista de cima"
+  ],
+  "vibe": "Trilha curta e íngreme no norte, com vista de três praias. Sem água nem guarda-corpo; evitar com chuva.",
+  "fontes": [
+    "https://www.youtube.com/watch?v=ofC4gWbvZm0",
+    "https://www.youtube.com/watch?v=lz6xGopI7SA",
+    "https://www.youtube.com/watch?v=eqzzWXv_oK8",
+    "https://commons.wikimedia.org/wiki/File:Morro_das_Aranhas.jpg",
+    "https://commons.wikimedia.org/wiki/File:Reserva_Particular_do_Patrim%C3%B4nio_Natural_Morro_das_Aranhas_(01).jpg",
+    "https://commons.wikimedia.org/wiki/File:Cost%C3%A3o_do_Santinho_-_Florian%C3%B3polis.jpg",
+    "https://commons.wikimedia.org/wiki/File:DanielVianna_PraiadoSantinho_Florianopolis_SC_(41528377962).jpg"
+  ],
+  "verificado_em": "2026-11-17"
+}

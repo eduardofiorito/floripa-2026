@@ -1,0 +1,66 @@
+{
+  "id": "piscinas-naturais-barra-da-lagoa",
+  "videos": [
+    {
+      "titulo": "🌟🥾 Aventura e Beleza na Barra da Lagoa: Conheça a Trilha para as Piscinas Naturais🌿💦",
+      "canal": "Trips \\u0026 Flicks",
+      "url": "https://www.youtube.com/watch?v=PUQ1fc1NldQ",
+      "plataforma": "youtube",
+      "publicado": "2025-02-16",
+      "duracao": "20:44",
+      "mostra": "Trilha completa para as Piscinas Naturais saindo da Barra da Lagoa (fev/2025)",
+      "melhor_trecho": null
+    },
+    {
+      "titulo": "Trilha até a Piscina Natural da Barra da Lagoa - Floripa SC",
+      "canal": "Sonho Viajar",
+      "url": "https://www.youtube.com/watch?v=EmrfWOJOowg",
+      "plataforma": "youtube",
+      "publicado": "2023-12-17",
+      "duracao": "11:22",
+      "mostra": "Trilha até a piscina natural da Barra, com as piscinas no fim (dez/2023)",
+      "melhor_trecho": null
+    }
+  ],
+  "instagram": [
+    {
+      "tipo": "perfil",
+      "url": "https://www.instagram.com/piscinasnaturaisdabarradalagoa/",
+      "nota": "Perfil dedicado às Piscinas da Barra da Lagoa: dá para ver como fica a água conforme o mar"
+    }
+  ],
+  "fotos_commons_recentes": [
+    {
+      "pagina": "https://commons.wikimedia.org/wiki/File:Trilha_da_barra_da_lagoa_Douglas_Ricardo_Martins_(01).jpg",
+      "arquivo_url": "https://upload.wikimedia.org/wikipedia/commons/6/67/Trilha_da_barra_da_lagoa_Douglas_Ricardo_Martins_%2801%29.jpg",
+      "data": "2020-07-28",
+      "autor": "Douglas Ricardo Martins",
+      "licenca": "CC BY-SA 4.0",
+      "mostra": "Costão de pedras das piscinas naturais da Barra da Lagoa, com o mar brilhando e a costa ao fundo",
+      "arq": "img/recentes/piscinas-naturais-barra-da-lagoa-1.jpg"
+    },
+    {
+      "pagina": "https://commons.wikimedia.org/wiki/File:DSC0650_(24713591226).jpg",
+      "arquivo_url": "https://upload.wikimedia.org/wikipedia/commons/2/2c/DSC0650_%2824713591226%29.jpg",
+      "data": "2016-01-24",
+      "autor": "Papa Pic from Eldorado, Argentina",
+      "licenca": "CC0",
+      "mostra": "Prainha da Barra vista da trilha das piscinas: enseada verde-água entre costões, com o morro e as casas atrás",
+      "arq": "img/recentes/piscinas-naturais-barra-da-lagoa-2.jpg"
+    }
+  ],
+  "pontos_de_vista": [
+    "Ponte pênsil sobre o canal da Barra: o canal com os barcos de pesca e o morro da trilha à frente",
+    "Prainha da Barra (Prainha do Leste), no meio da trilha: enseada pequena entre costões",
+    "Borda das piscinas, nas pedras do costão: água verde e transparente com o mar aberto ao lado (só com maré baixa e mar calmo)"
+  ],
+  "vibe": "Programa curto (15–30 min de trilha) e gratuito, que combina com o almoço de camarão na Barra. Depende muito do mar: com ressaca não dá para entrar.",
+  "fontes": [
+    "https://www.youtube.com/watch?v=PUQ1fc1NldQ",
+    "https://www.youtube.com/watch?v=EmrfWOJOowg",
+    "https://www.instagram.com/piscinasnaturaisdabarradalagoa/",
+    "https://commons.wikimedia.org/wiki/File:Trilha_da_barra_da_lagoa_Douglas_Ricardo_Martins_(01).jpg",
+    "https://commons.wikimedia.org/wiki/File:DSC0650_(24713591226).jpg"
+  ],
+  "verificado_em": "2026-11-17"
+}

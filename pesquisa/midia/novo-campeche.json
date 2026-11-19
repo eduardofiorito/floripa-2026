@@ -1,0 +1,33 @@
+{
+  "id": "novo-campeche",
+  "videos": [
+    {
+      "titulo": "Why Foreigners Love Novo Campeche, Florianópolis",
+      "canal": "Rocks Investments",
+      "url": "https://www.youtube.com/watch?v=-jn-T-zmTuI",
+      "plataforma": "youtube",
+      "publicado": "2026-06-06",
+      "duracao": "18:48",
+      "mostra": "Tour pelo Novo Campeche: ruas, bares e praia (jun/2026, em inglês)",
+      "melhor_trecho": null
+    }
+  ],
+  "instagram": [
+    {
+      "tipo": "perfil",
+      "url": "https://www.instagram.com/novocampechefloripa/",
+      "nota": "Perfil do Novo Campeche: o clima do bairro, bares e a praia"
+    }
+  ],
+  "fotos_commons_recentes": [],
+  "pontos_de_vista": [
+    "Point do Riozinho, na areia: pôr do sol e movimento de surfistas",
+    "Trecho de praia do Novo Campeche: mais vazio e natural, com a Ilha do Campeche ao fundo"
+  ],
+  "vibe": "Bairro novo e jovem, de gente de 20–30 anos e estrangeiros, com bares de drinks e food parks. Bom para happy hour ou jantar sem frescura; não é polo de balada.",
+  "fontes": [
+    "https://www.youtube.com/watch?v=-jn-T-zmTuI",
+    "https://www.instagram.com/novocampechefloripa/"
+  ],
+  "verificado_em": "2026-11-17"
+}
