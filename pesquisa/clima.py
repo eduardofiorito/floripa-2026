@@ -2,6 +2,7 @@
 
 Uso: python3 -I pesquisa/clima.py            (atualiza clima.json e roteiro/dias.json)
      python3 -I pesquisa/clima.py --so-json  (só clima.json; usado pelo GitHub Actions)
+     python3 -I pesquisa/clima.py --db       (só pesquisa/clima_atual.json, para o banco do claude.ai)
 Gera:
   pesquisa/clima_atual.json   documento para o banco da página (coleção "clima", doc "atual")
   roteiro/dias.json           atualiza risco e previsao de cada dia (versão estática e repo)
@@ -87,6 +88,9 @@ def main():
         })
 
     (R / "pesquisa/clima_atual.json").write_text(json.dumps(out, ensure_ascii=False))
+    if "--db" in sys.argv:  # só o arquivo do banco do claude.ai (não mexe em arquivos versionados)
+        print("ok (só banco)", {d: v["risco"] for d, v in out["dias"].items()}, "alertas:", len(out["alertas"]))
+        return
     (R / "clima.json").write_text(json.dumps(out, ensure_ascii=False))
     if "--so-json" in sys.argv:
         print("ok (só clima.json)", {d: v["risco"] for d, v in out["dias"].items()}, "alertas:", len(out["alertas"]))
